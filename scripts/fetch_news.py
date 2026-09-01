@@ -2,27 +2,46 @@
 Daily AI News Brief
 --------------------
 Fetches real RSS feeds, scores items by relevance to approved company tools
-and AI policy topics, picks the top 5, and writes two files served by
-GitHub Pages:
+and AI policy topics, picks the top 5, fetches each article's full text and
+produces an extractive summary (via sumy's TextRank algorithm — no AI model,
+no API key, no external calls), and writes two files served by GitHub Pages:
   - docs/index.html : a human-readable page (the shareable link)
   - docs/feed.xml    : a one-item-per-day RSS feed that Power Automate
                         watches to trigger your personal Teams notification
                         and email, via its RSS connector
 
-No AI model is used here on purpose: every headline, link, and summary is
-taken verbatim from the source feed, so there is nothing to hallucinate.
+The summarizer only ever selects real sentences that already exist in the
+article — it never generates new text — so there is nothing to hallucinate.
+If full-text fetch fails for an article, the script falls back to the
+original RSS excerpt rather than failing the whole run.
 """
 
 import os
 import re
 import html
 import feedparser
+import trafilatura
+import nltk
+from sumy.parsers.plaintext import PlaintextParser
+from sumy.nlp.tokenizers import Tokenizer
+from sumy.summarizers.text_rank import TextRankSummarizer
 from datetime import datetime, timezone
 from time import mktime
+
+# Ensure the sentence-tokenizer data sumy needs is present. This downloads
+# once per Action run (GitHub's runners have full internet access); it's a
+# no-op if already cached.
+for pkg in ("punkt", "punkt_tab"):
+    try:
+        nltk.download(pkg, quiet=True)
+    except Exception as e:
+        print(f"WARNING: could not download NLTK data '{pkg}': {e}")
 
 # ---------------------------------------------------------------------------
 # CONFIG — edit this section to tune the app
 # ---------------------------------------------------------------------------
+
+SUMMARY_SENTENCE_COUNT = 3   # how many sentences the extractive summary keeps
 
 # Verify each of these loads real XML in a browser before trusting it.
 # I cannot check these live from here — some may need replacing.
@@ -39,10 +58,14 @@ TOOL_KEYWORDS = [
     "copilot", "work iq", "heygen", "claude", "anthropic", "google ai studio",
 ]
 
-# Keywords for general AI policy/regulation news relevant to a company using AI tools.
+# Keywords for AI policy/regulation news likely to affect a company using AI
+# tools. Deliberately narrower than generic terms like "policy" or "ban" —
+# those matched unrelated stories (e.g. an open-source project's internal
+# contribution policy) too often. These target actual government/legal action.
 POLICY_KEYWORDS = [
-    "regulation", "policy", "ai act", "executive order", "antitrust",
-    "lawsuit", "legislation", "compliance", "export control", "ban",
+    "ai act", "executive order", "antitrust", "lawsuit", "legislation",
+    "regulator", "regulation", "ftc", "eu commission", "data protection authority",
+    "gdpr enforcement", "export control", "congressional", "senate ai",
 ]
 
 MAX_ITEM_AGE_HOURS = 60   # how far back to look
@@ -67,10 +90,11 @@ def fetch_all_items():
             continue
 
         for entry in parsed.entries:
-            title = entry.get("title", "").strip()
+            title = html.unescape(entry.get("title", "").strip())
             link = entry.get("link", "").strip()
             summary_raw = entry.get("summary", entry.get("description", ""))
             summary = re.sub("<[^<]+?>", "", summary_raw).strip()  # strip HTML tags
+            summary = html.unescape(summary)  # decode entities like &#8217;
 
             published_dt = None
             if entry.get("published_parsed"):
@@ -155,6 +179,59 @@ def get_top_items():
 
 
 # ---------------------------------------------------------------------------
+# FULL-TEXT FETCH + SUMMARIZATION
+# ---------------------------------------------------------------------------
+
+def fetch_full_text(url):
+    """Downloads and extracts the main article text. Returns None on any failure —
+    callers must fall back gracefully rather than crash the run."""
+    try:
+        downloaded = trafilatura.fetch_url(url, timeout=15)
+        if not downloaded:
+            return None
+        text = trafilatura.extract(downloaded)
+        return text.strip() if text else None
+    except Exception as e:
+        print(f"  (full-text fetch failed for {url}: {e})")
+        return None
+
+
+def summarize_article(title, article_text):
+    """
+    Extractive summary via TextRank: picks the most central sentences that
+    already exist in the article — nothing is generated, so nothing can be
+    fabricated. Returns None if the text is too short to meaningfully
+    summarize (caller falls back to the RSS excerpt in that case).
+    """
+    if not article_text or len(article_text.split()) < 40:
+        return None  # too short to be worth summarizing beyond the excerpt
+
+    try:
+        parser = PlaintextParser.from_string(article_text, Tokenizer("english"))
+        summarizer = TextRankSummarizer()
+        sentences = summarizer(parser.document, SUMMARY_SENTENCE_COUNT)
+        summary = " ".join(str(s) for s in sentences).strip()
+        return summary if summary else None
+    except Exception as e:
+        print(f"  (summarization failed: {e})")
+        return None
+
+
+def add_summaries(top_items):
+    for item in top_items:
+        print(f"Summarizing: {item['title'][:70]}...")
+        full_text = fetch_full_text(item["link"])
+
+        summary = summarize_article(item["title"], full_text) if full_text else None
+        if summary:
+            item["summary"] = summary
+            item["summary_source"] = "full article"
+        else:
+            item["summary_source"] = "RSS excerpt only (full-text fetch or summarization was insufficient)"
+    return top_items
+
+
+# ---------------------------------------------------------------------------
 # BUILD STATIC SITE
 # ---------------------------------------------------------------------------
 
@@ -165,6 +242,9 @@ def build_html(top_items, generated_at):
             item["published"].strftime("%Y-%m-%d %H:%M UTC")
             if item["published"] else "Date unavailable"
         )
+        fallback_note = ""
+        if item.get("summary_source") and item["summary_source"] != "full article":
+            fallback_note = f'<div class="meta" style="color:#b45309;">Note: {html.escape(item["summary_source"])}</div>'
         rows += f"""
         <div class="item">
           <div class="rank">#{idx}</div>
@@ -173,6 +253,7 @@ def build_html(top_items, generated_at):
             <h2><a href="{html.escape(item['link'])}" target="_blank" rel="noopener">{html.escape(item['title'])}</a></h2>
             <p>{html.escape(item['summary'])}</p>
             <div class="meta">Source: {html.escape(item['source'])} — {published_str}</div>
+            {fallback_note}
           </div>
         </div>
         """
@@ -228,9 +309,11 @@ def build_rss(top_items, generated_at, pages_url):
             safe_title = html.escape(item["title"])
             safe_link = html.escape(item["link"], quote=True)
             safe_category = html.escape(item["category"])
+            safe_summary = html.escape(item.get("summary", ""))
             parts.append(
                 f"{idx}. [{safe_category}] "
-                f'<a href="{safe_link}">{safe_title}</a>'
+                f'<a href="{safe_link}"><b>{safe_title}</b></a><br/>'
+                f"{safe_summary}"
             )
         description_html = "<br/><br/>".join(parts)
         if link:
@@ -265,6 +348,7 @@ def build_rss(top_items, generated_at, pages_url):
 def main():
     now = datetime.now(timezone.utc)
     top_items = get_top_items()
+    top_items = add_summaries(top_items)
 
     repo = os.environ.get("GITHUB_REPOSITORY", "")  # format: owner/repo
     pages_url = ""

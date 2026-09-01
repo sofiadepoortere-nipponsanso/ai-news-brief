@@ -2,8 +2,12 @@
 Daily AI News Brief
 --------------------
 Fetches real RSS feeds, scores items by relevance to approved company tools
-and AI policy topics, picks the top 5, writes docs/index.html (served by
-GitHub Pages), and posts a summary to a Microsoft Teams channel webhook.
+and AI policy topics, picks the top 5, and writes two files served by
+GitHub Pages:
+  - docs/index.html : a human-readable page (the shareable link)
+  - docs/feed.xml    : a one-item-per-day RSS feed that Power Automate
+                        watches to trigger your personal Teams notification
+                        and email, via its RSS connector
 
 No AI model is used here on purpose: every headline, link, and summary is
 taken verbatim from the source feed, so there is nothing to hallucinate.
@@ -13,7 +17,6 @@ import os
 import re
 import html
 import feedparser
-import requests
 from datetime import datetime, timezone
 from time import mktime
 
@@ -204,35 +207,55 @@ def build_html(top_items, generated_at):
 
 
 # ---------------------------------------------------------------------------
-# TEAMS NOTIFICATION
+# BUILD RSS FEED (this is what Power Automate watches)
 # ---------------------------------------------------------------------------
 
-def post_to_teams(top_items, pages_url):
-    webhook_url = os.environ.get("TEAMS_WEBHOOK_URL")
-    if not webhook_url:
-        print("No TEAMS_WEBHOOK_URL set — skipping Teams notification.")
-        return
+def build_rss(top_items, generated_at, pages_url):
+    """
+    Produces a feed with exactly ONE item per run, dated/identified by the
+    current run time. The item's description contains all top-5 stories as
+    one HTML block, so Power Automate's RSS trigger fires once per day (not
+    once per story) and hands your flow one consolidated message to relay.
+    """
+    date_str = generated_at.strftime("%Y-%m-%d")
+    guid = f"ai-news-brief-{generated_at.strftime('%Y%m%dT%H%M%S')}"
+    pub_date_rfc822 = generated_at.strftime("%a, %d %b %Y %H:%M:%S +0000")
+    link = pages_url or ""
 
-    lines = [f"**{i+1}. [{item['title']}]({item['link']})** — {item['category']}"
-              for i, item in enumerate(top_items)]
-    if pages_url:
-        lines.append(f"\n[View full site]({pages_url})")
-    text_body = "\n\n".join(lines) if lines else "No qualifying news found today."
-
-    # Simple flat payload matching the "title" / "text" fields you bind in the
-    # Teams Workflows card designer (see README step 4) — this replaces the
-    # older MessageCard schema, which the newer Workflows-based webhook does
-    # not automatically render.
-    payload = {
-        "title": "📰 Daily AI News Brief — Top Stories",
-        "text": text_body,
-    }
-
-    resp = requests.post(webhook_url, json=payload, timeout=15)
-    if resp.status_code >= 300:
-        print(f"WARNING: Teams webhook returned {resp.status_code}: {resp.text}")
+    if top_items:
+        parts = []
+        for idx, item in enumerate(top_items, start=1):
+            safe_title = html.escape(item["title"])
+            safe_link = html.escape(item["link"], quote=True)
+            safe_category = html.escape(item["category"])
+            parts.append(
+                f"{idx}. [{safe_category}] "
+                f'<a href="{safe_link}">{safe_title}</a>'
+            )
+        description_html = "<br/><br/>".join(parts)
+        if link:
+            description_html += f'<br/><br/><a href="{html.escape(link, quote=True)}">View full site</a>'
     else:
-        print("Posted to Teams successfully.")
+        description_html = "No qualifying news found today."
+
+    title = f"Daily AI News Brief — {date_str}"
+
+    return f"""<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+<channel>
+  <title>Daily AI News Brief</title>
+  <link>{html.escape(link)}</link>
+  <description>Top 5 AI news stories, refreshed daily</description>
+  <item>
+    <title><![CDATA[{title}]]></title>
+    <link>{html.escape(link)}</link>
+    <guid isPermaLink="false">{guid}</guid>
+    <pubDate>{pub_date_rfc822}</pubDate>
+    <description><![CDATA[{description_html}]]></description>
+  </item>
+</channel>
+</rss>
+"""
 
 
 # ---------------------------------------------------------------------------
@@ -254,11 +277,13 @@ def main():
     with open("docs/index.html", "w", encoding="utf-8") as f:
         f.write(site_html)
 
-    print(f"Wrote docs/index.html with {len(top_items)} items.")
+    feed_xml = build_rss(top_items, now, pages_url)
+    with open("docs/feed.xml", "w", encoding="utf-8") as f:
+        f.write(feed_xml)
+
+    print(f"Wrote docs/index.html and docs/feed.xml with {len(top_items)} items.")
     for item in top_items:
         print(f" - [{item['category']}] {item['title']} ({item['source']})")
-
-    post_to_teams(top_items, pages_url)
 
 
 if __name__ == "__main__":

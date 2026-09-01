@@ -215,22 +215,17 @@ def post_to_teams(top_items, pages_url):
 
     lines = [f"**{i+1}. [{item['title']}]({item['link']})** — {item['category']}"
               for i, item in enumerate(top_items)]
+    if pages_url:
+        lines.append(f"\n[View full site]({pages_url})")
     text_body = "\n\n".join(lines) if lines else "No qualifying news found today."
 
+    # Simple flat payload matching the "title" / "text" fields you bind in the
+    # Teams Workflows card designer (see README step 4) — this replaces the
+    # older MessageCard schema, which the newer Workflows-based webhook does
+    # not automatically render.
     payload = {
-        "@type": "MessageCard",
-        "@context": "http://schema.org/extensions",
-        "summary": "Daily AI News Brief",
-        "themeColor": "0076D7",
         "title": "📰 Daily AI News Brief — Top Stories",
         "text": text_body,
-        "potentialAction": [
-            {
-                "@type": "OpenUri",
-                "name": "View full site",
-                "targets": [{"os": "default", "uri": pages_url}],
-            }
-        ] if pages_url else [],
     }
 
     resp = requests.post(webhook_url, json=payload, timeout=15)

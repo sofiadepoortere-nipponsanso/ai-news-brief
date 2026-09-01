@@ -21,6 +21,7 @@ import re
 import html
 import feedparser
 import trafilatura
+from trafilatura.settings import use_config
 import nltk
 from sumy.parsers.plaintext import PlaintextParser
 from sumy.nlp.tokenizers import Tokenizer
@@ -186,7 +187,9 @@ def fetch_full_text(url):
     """Downloads and extracts the main article text. Returns None on any failure —
     callers must fall back gracefully rather than crash the run."""
     try:
-        downloaded = trafilatura.fetch_url(url, timeout=15)
+        config = use_config()
+        config.set("DEFAULT", "DOWNLOAD_TIMEOUT", "15")
+        downloaded = trafilatura.fetch_url(url, config=config)
         if not downloaded:
             return None
         text = trafilatura.extract(downloaded)

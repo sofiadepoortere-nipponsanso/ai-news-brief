@@ -1,5 +1,1 @@
 feedparser==6.0.11
-trafilatura==2.2.0
-sumy==0.11.0
-nltk==3.9.1
-numpy==2.4.4

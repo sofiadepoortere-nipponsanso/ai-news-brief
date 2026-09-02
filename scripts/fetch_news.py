@@ -1,76 +1,135 @@
 """
-Daily AI News Brief
---------------------
-Fetches real RSS feeds, scores items by relevance to approved company tools
-and AI policy topics, picks the top 5, fetches each article's full text and
-produces an extractive summary (via sumy's TextRank algorithm — no AI model,
-no API key, no external calls), and writes two files served by GitHub Pages:
-  - docs/index.html : a human-readable page (the shareable link)
-  - docs/feed.xml    : a one-item-per-day RSS feed that Power Automate
-                        watches to trigger your personal Teams notification
-                        and email, via its RSS connector
+Digitalisation News Brief
+--------------------------
+Fetches real RSS feeds, scores every item against an approximation of the
+company's 8-criterion scoring rubric (see Digitalisation_Newspaper_Context
+doc) for each of 6 topics, maintains a rolling 31-day history so "today /
+this week / this month" views are all computable, and writes:
+  - docs/index.html : tabbed site (Main + 6 topics) x (Today/Week/Month)
+  - docs/feed.xml    : one-item-per-day RSS feed carrying the Main Feed's
+                        daily top items, watched by Power Automate for your
+                        personal Teams notification and email
+  - docs/data/history.json : the rolling raw data window (needed across runs)
 
-The summarizer only ever selects real sentences that already exist in the
-article — it never generates new text — so there is nothing to hallucinate.
-If full-text fetch fails for an article, the script falls back to the
-original RSS excerpt rather than failing the whole run.
+IMPORTANT — approximation, not the real rubric: several of the document's
+8 criteria (practical actionability, internal-initiative bridge, genuine
+novelty vs. a repeated announcement) require actually understanding what an
+article says. This script approximates them with keyword/source/recency
+heuristics. It will miss nuance a human reader (or an LLM) would catch —
+see the README for that tradeoff.
 """
 
 import os
 import re
+import json
 import html
 import feedparser
-import trafilatura
-from trafilatura.settings import use_config
-import nltk
-from sumy.parsers.plaintext import PlaintextParser
-from sumy.nlp.tokenizers import Tokenizer
-from sumy.summarizers.text_rank import TextRankSummarizer
-from datetime import datetime, timezone
+from datetime import datetime, timezone, timedelta
 from time import mktime
-
-# Ensure the sentence-tokenizer data sumy needs is present. This downloads
-# once per Action run (GitHub's runners have full internet access); it's a
-# no-op if already cached.
-for pkg in ("punkt", "punkt_tab"):
-    try:
-        nltk.download(pkg, quiet=True)
-    except Exception as e:
-        print(f"WARNING: could not download NLTK data '{pkg}': {e}")
 
 # ---------------------------------------------------------------------------
 # CONFIG — edit this section to tune the app
 # ---------------------------------------------------------------------------
 
-SUMMARY_SENTENCE_COUNT = 3   # how many sentences the extractive summary keeps
-
-# Verify each of these loads real XML in a browser before trusting it.
-# I cannot check these live from here — some may need replacing.
+# Verify each of these loads real XML in a browser before trusting it —
+# I cannot check these live from here.
 FEEDS = {
-    "Anthropic": "https://www.anthropic.com/news/rss.xml",
-    "Microsoft AI Blog": "https://blogs.microsoft.com/ai/feed/",
-    "TechCrunch AI": "https://techcrunch.com/category/artificial-intelligence/feed/",
-    "VentureBeat AI": "https://venturebeat.com/category/ai/feed/",
-    "The Verge AI": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
+    # Tier 1 — official / regulatory / vendor
+    "European Commission Digital Strategy": ("https://digital-strategy.ec.europa.eu/en/rss.xml", 1),
+    "Microsoft 365 Blog": ("https://www.microsoft.com/en-us/microsoft-365/blog/feed/", 1),
+    "Azure AI Blog": ("https://azure.microsoft.com/en-us/blog/tag/ai/feed/", 1),
+    "Power Automate Blog": ("https://www.microsoft.com/en-us/power-platform/blog/power-automate/feed/", 1),
+    "Power BI Blog": ("https://powerbi.microsoft.com/en-us/blog/feed/", 1),
+    "arXiv cs.AI": ("http://export.arxiv.org/rss/cs.AI", 1),
+    # Tier 2 — established industry publications
+    "MIT Technology Review": ("https://www.technologyreview.com/feed/", 2),
+    "ZDNet AI": ("https://www.zdnet.com/topic/artificial-intelligence/rss.xml", 2),
+    "TechCrunch AI": ("https://techcrunch.com/category/artificial-intelligence/feed/", 2),
+    "VentureBeat AI": ("https://venturebeat.com/category/ai/feed/", 2),
+    "The Verge AI": ("https://www.theverge.com/rss/ai-artificial-intelligence/index.xml", 2),
+    "IndustryWeek": ("https://www.industryweek.com/rss", 2),
+    # Tier 3 — specialist newsletters
+    "The Batch": ("https://www.deeplearning.ai/the-batch/feed/", 3),
+    "Import AI": ("https://importai.substack.com/feed", 3),
 }
 
-# Keywords for your approved tools — matches are case-insensitive.
-TOOL_KEYWORDS = [
-    "copilot", "work iq", "heygen", "claude", "anthropic", "google ai studio",
+# The 6 topic toggles, each with its keyword list drawn from the company
+# framework doc. These are editable — if a topic feels off, add/remove
+# keywords here rather than touching the scoring logic below.
+TOPIC_KEYWORDS = {
+    "Data": [
+        "data governance", "data quality", "data lineage", "data catalogue",
+        "lakehouse", "semantic model", "knowledge graph", "rag", "vector search",
+        "synthetic data", "mlops", "data products", "datalake",
+    ],
+    "Business Intelligence": [
+        "power bi", "dashboard", "business intelligence", "self-service analytics",
+        "reporting standard", "scorecard", "customer churn", "b2b analytics",
+        "pricing analytics", "sales intelligence",
+    ],
+    "Artificial Intelligence": [
+        "enterprise ai", "applied ai", "generative ai", "agentic ai", "ai agent",
+        "autonomous agent", "multimodal ai", "small language model", "foundation model",
+        "machine learning", "eu ai act", "responsible ai", "ai governance", "ai risk",
+        "model governance", "agent governance", "ai inventory", "human oversight",
+        "ai monitoring", "ai incident", "shadow ai", "dpia", "copilot studio",
+        "copilot chat", "azure ai", "ai builder", "ai literacy", "ai adoption",
+        "human-ai collaboration",
+    ],
+    "Digital Tools": [
+        "microsoft 365", "power platform", "power automate", "power apps",
+        "sharepoint", "intelligent automation", "document intelligence", "ocr",
+        "email classification", "workflow automation", "process mining",
+        "orchestration", "low-code governance", "citizen development",
+    ],
+    "Industry 4.0": [
+        "industrial ai", "manufacturing ai", "process industry", "computer vision",
+        "machine vision", "ppe detection", "visual inspection", "anomaly detection",
+        "edge ai", "predictive maintenance", "remote inspection", "industrial robotics",
+        "cobot", "inspection robot", "quadruped robot", "smart valve", "industrial iot",
+        "digital twin", "connected worker", "smart glasses",
+    ],
+    "Open Innovation": [
+        "industrial startup", "open innovation", "corporate innovation",
+        "technology scouting", "industrial pilot", "research partnership",
+        "climate risk ai",
+    ],
+}
+
+# Approximate proxies for the rubric criteria that aren't a direct topic match.
+INDUSTRIAL_KEYWORDS = [
+    "process industr", "manufactur", "engineering", "safety", "logistics",
+    "b2b", "industrial", "plant", "chemical",
+]
+ACTIONABILITY_KEYWORDS = [
+    "case study", "deployment", "pilot", "benchmark", "lesson", "tool update",
+    "release", "launch", "rollout", "implementation",
+]
+EUROPEAN_KEYWORDS = [
+    "eu ", "european union", "european commission", "gdpr", "eu ai act",
+    "brussels", "member state",
+]
+RISK_KEYWORDS = [
+    "lawsuit", "security", "privacy", "safety", "incident", "breach",
+    "vulnerability", "risk", "fine", "penalty",
+]
+# Named internal tools/initiatives, for the "internal bridge" criterion —
+# includes both the company's approved-tools list and the platforms named
+# in the framework doc.
+INTERNAL_TOOLS = [
+    "datalake", "power bi", "copilot", "sharepoint", "power automate",
+    "power apps", "power platform", "ai builder", "azure ai", "copilot studio",
+    "copilot chat", "work iq", "heygen", "google ai studio", "claude",
 ]
 
-# Keywords for AI policy/regulation news likely to affect a company using AI
-# tools. Deliberately narrower than generic terms like "policy" or "ban" —
-# those matched unrelated stories (e.g. an open-source project's internal
-# contribution policy) too often. These target actual government/legal action.
-POLICY_KEYWORDS = [
-    "ai act", "executive order", "antitrust", "lawsuit", "legislation",
-    "regulator", "regulation", "ftc", "eu commission", "data protection authority",
-    "gdpr enforcement", "export control", "congressional", "senate ai",
-]
+SCORE_THRESHOLD = 10          # out of 16, per the document
+MAIN_FEED_TOP_N = 10
+TOPIC_TOP_N = 5
+NOTIFICATION_TOP_N = 5        # how many items go into the Teams/email brief
+HISTORY_RETENTION_DAYS = 31
+HISTORY_PATH = "docs/data/history.json"
 
-MAX_ITEM_AGE_HOURS = 60   # how far back to look
-TOP_N = 5
+WINDOWS = {"today": 1, "week": 7, "month": 30}
 
 # ---------------------------------------------------------------------------
 # FETCH
@@ -78,7 +137,7 @@ TOP_N = 5
 
 def fetch_all_items():
     items = []
-    for source_name, url in FEEDS.items():
+    for source_name, (url, tier) in FEEDS.items():
         try:
             parsed = feedparser.parse(url)
         except Exception as e:
@@ -94,71 +153,31 @@ def fetch_all_items():
             title = html.unescape(entry.get("title", "").strip())
             link = entry.get("link", "").strip()
             summary_raw = entry.get("summary", entry.get("description", ""))
-            summary = re.sub("<[^<]+?>", "", summary_raw).strip()  # strip HTML tags
-            summary = html.unescape(summary)  # decode entities like &#8217;
+            summary = re.sub("<[^<]+?>", "", summary_raw).strip()
+            summary = html.unescape(summary)
 
             published_dt = None
             if entry.get("published_parsed"):
-                published_dt = datetime.fromtimestamp(
-                    mktime(entry.published_parsed), tz=timezone.utc
-                )
+                published_dt = datetime.fromtimestamp(mktime(entry.published_parsed), tz=timezone.utc)
             elif entry.get("updated_parsed"):
-                published_dt = datetime.fromtimestamp(
-                    mktime(entry.updated_parsed), tz=timezone.utc
-                )
+                published_dt = datetime.fromtimestamp(mktime(entry.updated_parsed), tz=timezone.utc)
 
             if not title or not link:
                 continue
 
             items.append({
                 "source": source_name,
+                "source_tier": tier,
                 "title": title,
                 "link": link,
                 "summary": summary[:280],
-                "published": published_dt,
+                "published": published_dt.isoformat() if published_dt else None,
             })
     return items
 
 
-# ---------------------------------------------------------------------------
-# SCORE + RANK
-# ---------------------------------------------------------------------------
-
-def score_item(item, now):
-    text = f"{item['title']} {item['summary']}".lower()
-
-    matched_tools = [k for k in TOOL_KEYWORDS if k in text]
-    matched_policy = [k for k in POLICY_KEYWORDS if k in text]
-
-    score = 0
-    category = "General AI News"
-
-    if matched_tools:
-        score += 100
-        category = "Approved Tool News"
-    elif matched_policy:
-        score += 50
-        category = "AI Policy/Regulation"
-
-    if item["published"]:
-        hours_ago = (now - item["published"]).total_seconds() / 3600
-        if hours_ago > MAX_ITEM_AGE_HOURS:
-            return None  # too old, drop entirely
-        score += max(0, MAX_ITEM_AGE_HOURS - hours_ago) * 0.5
-    else:
-        hours_ago = None
-        score += 5  # small neutral bonus for undated items so they aren't auto-excluded
-
-    item["score"] = score
-    item["category"] = category
-    item["hours_ago"] = hours_ago
-    return item
-
-
 def dedupe(items):
-    seen_links = set()
-    seen_titles = set()
-    unique = []
+    seen_links, seen_titles, unique = set(), set(), []
     for item in items:
         norm_title = re.sub(r"\W+", "", item["title"].lower())
         if item["link"] in seen_links or norm_title in seen_titles:
@@ -169,108 +188,179 @@ def dedupe(items):
     return unique
 
 
-def get_top_items():
-    now = datetime.now(timezone.utc)
-    raw_items = fetch_all_items()
-    scored = [score_item(i, now) for i in raw_items]
-    scored = [i for i in scored if i is not None]
-    scored = dedupe(scored)
+# ---------------------------------------------------------------------------
+# HISTORY (enables today / week / month views)
+# ---------------------------------------------------------------------------
+
+def load_history():
+    if os.path.exists(HISTORY_PATH):
+        try:
+            with open(HISTORY_PATH, "r", encoding="utf-8") as f:
+                return json.load(f)
+        except Exception as e:
+            print(f"WARNING: could not read existing history ({e}), starting fresh.")
+    return []
+
+
+def merge_into_history(existing_history, new_items, now):
+    by_link = {h["link"]: h for h in existing_history}
+    for item in new_items:
+        if item["link"] not in by_link:
+            by_link[item["link"]] = {**item, "first_seen": now.isoformat()}
+
+    cutoff = now - timedelta(days=HISTORY_RETENTION_DAYS)
+    pruned = []
+    for h in by_link.values():
+        reference_date = (
+            datetime.fromisoformat(h["published"]) if h.get("published")
+            else datetime.fromisoformat(h["first_seen"])
+        )
+        if reference_date >= cutoff:
+            pruned.append(h)
+    return pruned
+
+
+def save_history(history):
+    os.makedirs(os.path.dirname(HISTORY_PATH), exist_ok=True)
+    with open(HISTORY_PATH, "w", encoding="utf-8") as f:
+        json.dump(history, f, indent=2)
+
+
+# ---------------------------------------------------------------------------
+# SCORING (approximation of the document's 8-criterion / 16-point rubric)
+# ---------------------------------------------------------------------------
+
+def _count_hits(text, words):
+    return sum(1 for w in words if w in text)
+
+
+def score_item_for_topic(item, topic_name, now):
+    text = f"{item['title']} {item['summary']}".lower()
+
+    theme_score = min(3, _count_hits(text, TOPIC_KEYWORDS[topic_name]))
+    industrial_score = min(3, _count_hits(text, INDUSTRIAL_KEYWORDS))
+    action_score = min(2, _count_hits(text, ACTIONABILITY_KEYWORDS))
+    euro_score = min(2, _count_hits(text, EUROPEAN_KEYWORDS))
+    tier = item.get("source_tier", 3)
+    trust_score = {1: 2, 2: 1, 3: 0}.get(tier, 0)
+
+    published = datetime.fromisoformat(item["published"]) if item.get("published") else None
+    hours_ago = (now - published).total_seconds() / 3600 if published else None
+    novelty_score = 1 if (hours_ago is not None and hours_ago <= 24) else 0
+
+    risk_score = 1 if _count_hits(text, RISK_KEYWORDS) > 0 else 0
+    bridge_score = min(2, _count_hits(text, INTERNAL_TOOLS))
+
+    total = (theme_score + industrial_score + action_score + euro_score
+             + trust_score + novelty_score + risk_score + bridge_score)
+
+    breakdown = {
+        "theme": theme_score, "industrial": industrial_score, "action": action_score,
+        "european": euro_score, "trust": trust_score, "novelty": novelty_score,
+        "risk": risk_score, "bridge": bridge_score, "tier": tier,
+    }
+    return total, breakdown
+
+
+def is_included(total, topic_name, breakdown):
+    """Mirrors the document's stated exception: below-threshold items are
+    only kept if they represent a major regulatory change, or a material
+    Microsoft platform change relevant to current tools."""
+    if total >= SCORE_THRESHOLD:
+        return True
+    if breakdown["european"] >= 2:
+        return True  # major regulatory signal
+    if (topic_name in ("Digital Tools", "Artificial Intelligence")
+            and breakdown["tier"] == 1 and breakdown["theme"] >= 2 and breakdown["bridge"] >= 1):
+        return True  # material Microsoft platform change from an official source
+    return False
+
+
+def rank_for_topic(items, topic_name, now, top_n):
+    scored = []
+    for item in items:
+        total, breakdown = score_item_for_topic(item, topic_name, now)
+        if is_included(total, topic_name, breakdown):
+            scored.append({**item, "score": total, "score_breakdown": breakdown, "topic": topic_name})
     scored.sort(key=lambda i: i["score"], reverse=True)
-    return scored[:TOP_N]
+    return scored[:top_n]
 
 
-# ---------------------------------------------------------------------------
-# FULL-TEXT FETCH + SUMMARIZATION
-# ---------------------------------------------------------------------------
-
-def fetch_full_text(url):
-    """Downloads and extracts the main article text. Returns None on any failure —
-    callers must fall back gracefully rather than crash the run."""
-    try:
-        config = use_config()
-        config.set("DEFAULT", "DOWNLOAD_TIMEOUT", "15")
-        downloaded = trafilatura.fetch_url(url, config=config)
-        if not downloaded:
-            return None
-        text = trafilatura.extract(downloaded)
-        return text.strip() if text else None
-    except Exception as e:
-        print(f"  (full-text fetch failed for {url}: {e})")
-        return None
+def rank_for_main_feed(items, now, top_n):
+    """Each item's best-matching topic determines its badge and score."""
+    scored = []
+    for item in items:
+        best_total, best_breakdown, best_topic = -1, None, None
+        for topic_name in TOPIC_KEYWORDS:
+            total, breakdown = score_item_for_topic(item, topic_name, now)
+            if total > best_total:
+                best_total, best_breakdown, best_topic = total, breakdown, topic_name
+        if is_included(best_total, best_topic, best_breakdown):
+            scored.append({**item, "score": best_total, "score_breakdown": best_breakdown, "topic": best_topic})
+    scored.sort(key=lambda i: i["score"], reverse=True)
+    return scored[:top_n]
 
 
-def summarize_article(title, article_text):
-    """
-    Extractive summary via TextRank: picks the most central sentences that
-    already exist in the article — nothing is generated, so nothing can be
-    fabricated. Returns None if the text is too short to meaningfully
-    summarize (caller falls back to the RSS excerpt in that case).
-    """
-    if not article_text or len(article_text.split()) < 40:
-        return None  # too short to be worth summarizing beyond the excerpt
-
-    try:
-        parser = PlaintextParser.from_string(article_text, Tokenizer("english"))
-        summarizer = TextRankSummarizer()
-        sentences = summarizer(parser.document, SUMMARY_SENTENCE_COUNT)
-        summary = " ".join(str(s) for s in sentences).strip()
-        return summary if summary else None
-    except Exception as e:
-        print(f"  (summarization failed: {e})")
-        return None
-
-
-def add_summaries(top_items):
-    for item in top_items:
-        print(f"Summarizing: {item['title'][:70]}...")
-        full_text = fetch_full_text(item["link"])
-
-        summary = summarize_article(item["title"], full_text) if full_text else None
-        if summary:
-            item["summary"] = summary
-            item["summary_source"] = "full article"
-        else:
-            item["summary_source"] = "RSS excerpt only (full-text fetch or summarization was insufficient)"
-    return top_items
+def build_all_views(history, now):
+    """Returns { window: { 'Main': [...], topic_name: [...] } } for every
+    window/topic combination, computed fresh from the current history."""
+    views = {}
+    for window_name, days in WINDOWS.items():
+        cutoff = now - timedelta(days=days)
+        pool = [
+            h for h in history
+            if h.get("published") and datetime.fromisoformat(h["published"]) >= cutoff
+        ]
+        window_views = {"Main": rank_for_main_feed(pool, now, MAIN_FEED_TOP_N)}
+        for topic_name in TOPIC_KEYWORDS:
+            window_views[topic_name] = rank_for_topic(pool, topic_name, now, TOPIC_TOP_N)
+        views[window_name] = window_views
+    return views
 
 
 # ---------------------------------------------------------------------------
 # BUILD STATIC SITE
 # ---------------------------------------------------------------------------
 
-def build_html(top_items, generated_at):
-    rows = ""
-    for idx, item in enumerate(top_items, start=1):
-        published_str = (
-            item["published"].strftime("%Y-%m-%d %H:%M UTC")
-            if item["published"] else "Date unavailable"
-        )
-        fallback_note = ""
-        if item.get("summary_source") and item["summary_source"] != "full article":
-            fallback_note = f'<div class="meta" style="color:#b45309;">Note: {html.escape(item["summary_source"])}</div>'
-        rows += f"""
-        <div class="item">
-          <div class="rank">#{idx}</div>
-          <div class="content">
-            <span class="badge">{html.escape(item['category'])}</span>
-            <h2><a href="{html.escape(item['link'])}" target="_blank" rel="noopener">{html.escape(item['title'])}</a></h2>
-            <p>{html.escape(item['summary'])}</p>
-            <div class="meta">Source: {html.escape(item['source'])} — {published_str}</div>
-            {fallback_note}
-          </div>
-        </div>
-        """
+def _item_to_json(item):
+    published = datetime.fromisoformat(item["published"]) if item.get("published") else None
+    return {
+        "title": item["title"],
+        "link": item["link"],
+        "summary": item["summary"],
+        "source": item["source"],
+        "published_display": published.strftime("%Y-%m-%d %H:%M UTC") if published else "Date unavailable",
+        "topic": item["topic"],
+        "score": item["score"],
+    }
+
+
+def build_html(views, generated_at):
+    data_for_js = {
+        window_name: {topic: [_item_to_json(i) for i in items] for topic, items in topics.items()}
+        for window_name, topics in views.items()
+    }
+    data_json = json.dumps(data_for_js)
+    tab_names = ["Main"] + list(TOPIC_KEYWORDS.keys())
+    tab_buttons = "".join(
+        f'<button class="tab-btn{" active" if i == 0 else ""}" data-topic="{html.escape(t)}">{html.escape(t)}</button>'
+        for i, t in enumerate(tab_names)
+    )
 
     return f"""<!DOCTYPE html>
 <html lang="en">
 <head>
 <meta charset="UTF-8">
-<title>Daily AI News Brief</title>
+<title>Digitalisation News Brief</title>
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <style>
-  body {{ font-family: -apple-system, Segoe UI, Roboto, sans-serif; max-width: 720px; margin: 40px auto; padding: 0 16px; background:#fafafa; color:#1a1a1a; }}
-  h1 {{ font-size: 1.6rem; }}
-  .generated {{ color:#666; font-size:0.85rem; margin-bottom: 24px; }}
+  body {{ font-family: -apple-system, Segoe UI, Roboto, sans-serif; max-width: 780px; margin: 40px auto; padding: 0 16px; background:#fafafa; color:#1a1a1a; }}
+  h1 {{ font-size: 1.6rem; margin-bottom:4px; }}
+  .generated {{ color:#666; font-size:0.85rem; margin-bottom: 20px; }}
+  .controls {{ display:flex; flex-wrap:wrap; gap:8px; margin-bottom: 8px; }}
+  .tab-btn, .window-btn {{ border:1px solid #ddd; background:white; border-radius:999px; padding:6px 14px; font-size:0.85rem; cursor:pointer; color:#333; }}
+  .tab-btn.active, .window-btn.active {{ background:#3730a3; color:white; border-color:#3730a3; }}
+  .window-row {{ margin-bottom:20px; }}
   .item {{ display:flex; gap:16px; background:white; border-radius:10px; padding:16px 20px; margin-bottom:16px; box-shadow:0 1px 3px rgba(0,0,0,0.08); }}
   .rank {{ font-size:1.4rem; font-weight:700; color:#888; min-width:36px; }}
   .badge {{ display:inline-block; font-size:0.7rem; text-transform:uppercase; letter-spacing:0.03em; background:#eef2ff; color:#3730a3; padding:2px 8px; border-radius:999px; margin-bottom:6px; }}
@@ -279,42 +369,98 @@ def build_html(top_items, generated_at):
   h2 a:hover {{ text-decoration:underline; }}
   p {{ font-size:0.9rem; color:#444; margin:6px 0; }}
   .meta {{ font-size:0.78rem; color:#888; }}
+  .empty {{ color:#888; font-size:0.9rem; padding:20px; text-align:center; }}
 </style>
 </head>
 <body>
-  <h1>Daily AI News Brief</h1>
-  <div class="generated">Generated {generated_at.strftime('%Y-%m-%d %H:%M UTC')} — top {len(top_items)} stories, ranked by relevance and recency. Every item links to its original source.</div>
-  {rows if top_items else '<p>No qualifying news found in this run.</p>'}
+  <h1>Digitalisation News Brief</h1>
+  <div class="generated">Generated {generated_at.strftime('%Y-%m-%d %H:%M UTC')} — approximate scoring against the company relevance rubric; see README for what this heuristic can and can't judge.</div>
+
+  <div class="controls" id="topic-tabs">{tab_buttons}</div>
+  <div class="controls window-row" id="window-tabs">
+    <button class="window-btn active" data-window="today">Today</button>
+    <button class="window-btn" data-window="week">This Week</button>
+    <button class="window-btn" data-window="month">This Month</button>
+  </div>
+
+  <div id="news-list"></div>
+
+<script id="news-data" type="application/json">{data_json}</script>
+<script>
+  const newsData = JSON.parse(document.getElementById('news-data').textContent);
+  let currentTopic = 'Main';
+  let currentWindow = 'today';
+
+  function escapeHtml(s) {{
+    const d = document.createElement('div');
+    d.textContent = s;
+    return d.innerHTML;
+  }}
+
+  function render() {{
+    const items = (newsData[currentWindow] && newsData[currentWindow][currentTopic]) || [];
+    const container = document.getElementById('news-list');
+    if (items.length === 0) {{
+      container.innerHTML = '<div class="empty">No qualifying stories for this topic/window yet.</div>';
+      return;
+    }}
+    container.innerHTML = items.map((item, idx) => `
+      <div class="item">
+        <div class="rank">#${{idx + 1}}</div>
+        <div class="content">
+          <span class="badge">${{escapeHtml(item.topic)}}</span>
+          <h2><a href="${{item.link}}" target="_blank" rel="noopener">${{escapeHtml(item.title)}}</a></h2>
+          <p>${{escapeHtml(item.summary)}}</p>
+          <div class="meta">Source: ${{escapeHtml(item.source)}} — ${{item.published_display}} — score ${{item.score}}/16</div>
+        </div>
+      </div>
+    `).join('');
+  }}
+
+  document.getElementById('topic-tabs').addEventListener('click', (e) => {{
+    if (!e.target.classList.contains('tab-btn')) return;
+    document.querySelectorAll('.tab-btn').forEach(b => b.classList.remove('active'));
+    e.target.classList.add('active');
+    currentTopic = e.target.dataset.topic;
+    render();
+  }});
+
+  document.getElementById('window-tabs').addEventListener('click', (e) => {{
+    if (!e.target.classList.contains('window-btn')) return;
+    document.querySelectorAll('.window-btn').forEach(b => b.classList.remove('active'));
+    e.target.classList.add('active');
+    currentWindow = e.target.dataset.window;
+    render();
+  }});
+
+  render();
+</script>
 </body>
 </html>
 """
 
 
 # ---------------------------------------------------------------------------
-# BUILD RSS FEED (this is what Power Automate watches)
+# BUILD RSS FEED (Main Feed's "today" view — this is what Power Automate watches)
 # ---------------------------------------------------------------------------
 
-def build_rss(top_items, generated_at, pages_url):
-    """
-    Produces a feed with exactly ONE item per run, dated/identified by the
-    current run time. The item's description contains all top-5 stories as
-    one HTML block, so Power Automate's RSS trigger fires once per day (not
-    once per story) and hands your flow one consolidated message to relay.
-    """
+def build_rss(main_today_items, generated_at, pages_url):
     date_str = generated_at.strftime("%Y-%m-%d")
-    guid = f"ai-news-brief-{generated_at.strftime('%Y%m%dT%H%M%S')}"
+    guid = f"digitalisation-brief-{generated_at.strftime('%Y%m%dT%H%M%S')}"
     pub_date_rfc822 = generated_at.strftime("%a, %d %b %Y %H:%M:%S +0000")
     link = pages_url or ""
 
-    if top_items:
+    top_for_notification = main_today_items[:NOTIFICATION_TOP_N]
+
+    if top_for_notification:
         parts = []
-        for idx, item in enumerate(top_items, start=1):
+        for idx, item in enumerate(top_for_notification, start=1):
             safe_title = html.escape(item["title"])
             safe_link = html.escape(item["link"], quote=True)
-            safe_category = html.escape(item["category"])
-            safe_summary = html.escape(item.get("summary", ""))
+            safe_topic = html.escape(item["topic"])
+            safe_summary = html.escape(item["summary"])
             parts.append(
-                f"{idx}. [{safe_category}] "
+                f"{idx}. [{safe_topic}] "
                 f'<a href="{safe_link}"><b>{safe_title}</b></a><br/>'
                 f"{safe_summary}"
             )
@@ -324,14 +470,14 @@ def build_rss(top_items, generated_at, pages_url):
     else:
         description_html = "No qualifying news found today."
 
-    title = f"Daily AI News Brief — {date_str}"
+    title = f"Digitalisation News Brief — {date_str}"
 
     return f"""<?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0">
 <channel>
-  <title>Daily AI News Brief</title>
+  <title>Digitalisation News Brief</title>
   <link>{html.escape(link)}</link>
-  <description>Top 5 AI news stories, refreshed daily</description>
+  <description>Top digitalisation stories, refreshed daily</description>
   <item>
     <title><![CDATA[{title}]]></title>
     <link>{html.escape(link)}</link>
@@ -350,27 +496,36 @@ def build_rss(top_items, generated_at, pages_url):
 
 def main():
     now = datetime.now(timezone.utc)
-    top_items = get_top_items()
-    top_items = add_summaries(top_items)
 
-    repo = os.environ.get("GITHUB_REPOSITORY", "")  # format: owner/repo
+    raw_items = dedupe(fetch_all_items())
+    print(f"Fetched {len(raw_items)} unique items across {len(FEEDS)} feeds.")
+
+    history = load_history()
+    history = merge_into_history(history, raw_items, now)
+    save_history(history)
+    print(f"History now holds {len(history)} items (after 31-day pruning).")
+
+    views = build_all_views(history, now)
+
+    repo = os.environ.get("GITHUB_REPOSITORY", "")
     pages_url = ""
     if "/" in repo:
         owner, repo_name = repo.split("/", 1)
         pages_url = f"https://{owner}.github.io/{repo_name}/"
 
-    site_html = build_html(top_items, now)
     os.makedirs("docs", exist_ok=True)
+    site_html = build_html(views, now)
     with open("docs/index.html", "w", encoding="utf-8") as f:
         f.write(site_html)
 
-    feed_xml = build_rss(top_items, now, pages_url)
+    feed_xml = build_rss(views["today"]["Main"], now, pages_url)
     with open("docs/feed.xml", "w", encoding="utf-8") as f:
         f.write(feed_xml)
 
-    print(f"Wrote docs/index.html and docs/feed.xml with {len(top_items)} items.")
-    for item in top_items:
-        print(f" - [{item['category']}] {item['title']} ({item['source']})")
+    print("Wrote docs/index.html, docs/feed.xml, docs/data/history.json.")
+    print("\nToday's Main Feed:")
+    for item in views["today"]["Main"]:
+        print(f" - [{item['topic']}] {item['title']} (score {item['score']}/16, {item['source']})")
 
 
 if __name__ == "__main__":

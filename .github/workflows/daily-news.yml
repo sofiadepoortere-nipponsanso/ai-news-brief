@@ -1,4 +1,4 @@
-name: Daily AI News Brief
+name: Digitalisation News Brief
 
 on:
   schedule:
@@ -26,15 +26,15 @@ jobs:
       - name: Install dependencies
         run: pip install -r requirements.txt
 
-      - name: Fetch news, rank top 5, build site and RSS feed
+      - name: Fetch news, score against rubric, build site and RSS feed
         env:
           GITHUB_REPOSITORY: ${{ github.repository }}
         run: python scripts/fetch_news.py
 
-      - name: Commit updated site back to repo
+      - name: Commit updated site and history back to repo
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
-          git add docs/index.html docs/feed.xml
-          git commit -m "Update daily AI news brief" || echo "No changes to commit"
+          git add docs/index.html docs/feed.xml docs/data/history.json
+          git commit -m "Update digitalisation news brief" || echo "No changes to commit"
           git push

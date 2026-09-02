@@ -2,12 +2,16 @@
 <html lang="en">
 <head>
 <meta charset="UTF-8">
-<title>Daily AI News Brief</title>
+<title>Digitalisation News Brief</title>
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <style>
-  body { font-family: -apple-system, Segoe UI, Roboto, sans-serif; max-width: 720px; margin: 40px auto; padding: 0 16px; background:#fafafa; color:#1a1a1a; }
-  h1 { font-size: 1.6rem; }
-  .generated { color:#666; font-size:0.85rem; margin-bottom: 24px; }
+  body { font-family: -apple-system, Segoe UI, Roboto, sans-serif; max-width: 780px; margin: 40px auto; padding: 0 16px; background:#fafafa; color:#1a1a1a; }
+  h1 { font-size: 1.6rem; margin-bottom:4px; }
+  .generated { color:#666; font-size:0.85rem; margin-bottom: 20px; }
+  .controls { display:flex; flex-wrap:wrap; gap:8px; margin-bottom: 8px; }
+  .tab-btn, .window-btn { border:1px solid #ddd; background:white; border-radius:999px; padding:6px 14px; font-size:0.85rem; cursor:pointer; color:#333; }
+  .tab-btn.active, .window-btn.active { background:#3730a3; color:white; border-color:#3730a3; }
+  .window-row { margin-bottom:20px; }
   .item { display:flex; gap:16px; background:white; border-radius:10px; padding:16px 20px; margin-bottom:16px; box-shadow:0 1px 3px rgba(0,0,0,0.08); }
   .rank { font-size:1.4rem; font-weight:700; color:#888; min-width:36px; }
   .badge { display:inline-block; font-size:0.7rem; text-transform:uppercase; letter-spacing:0.03em; background:#eef2ff; color:#3730a3; padding:2px 8px; border-radius:999px; margin-bottom:6px; }
@@ -16,66 +20,71 @@
   h2 a:hover { text-decoration:underline; }
   p { font-size:0.9rem; color:#444; margin:6px 0; }
   .meta { font-size:0.78rem; color:#888; }
+  .empty { color:#888; font-size:0.9rem; padding:20px; text-align:center; }
 </style>
 </head>
 <body>
-  <h1>Daily AI News Brief</h1>
-  <div class="generated">Generated 2026-09-02 06:24 UTC — top 5 stories, ranked by relevance and recency. Every item links to its original source.</div>
-  
-        <div class="item">
-          <div class="rank">#1</div>
-          <div class="content">
-            <span class="badge">Approved Tool News</span>
-            <h2><a href="https://www.theverge.com/ai-artificial-intelligence/987830/anthropic-claude-fable-mythos-5-1" target="_blank" rel="noopener">Anthropic launches Claude Fable 5.1 and says it’s up to 45 percent cheaper for agentic work</a></h2>
-            <p>The company claims Claude Fable 5.1 offers stronger performance than Fable 5, but costs around 25 percent less typically and up to 45 percent less for complex agentic tasks, thanks to reduced pricing on cached data that was already processed and stored. Along with the announcement, a slew of early impressions popped up, including from Every CEO Dan Shipper, who claims, “It’s the strongest coding model we’ve used, but now it’s fast, token-efficient, and crucially actually speaks like a normal person.” Box CEO Aaron Levie is another early access believer, saying that his company’s agent with Fable 5.1 picked up on subtleties and ambiguities in data that Fable 5 missed in the same test. Anthropic says it’s “now allowing Fable 5.1 to be used for identifying software vulnerabilities,” but it will still redirect some cybersecurity tasks to Opus models, like “penetration testing, exploit generation, and binary-based vulnerability scanning.” Claude Fable 5.1 is now available on all platforms, while Mythos 5.1 is available to Project Glasswing participants only.</p>
-            <div class="meta">Source: The Verge AI — 2026-09-01 22:01 UTC</div>
-            
-          </div>
+  <h1>Digitalisation News Brief</h1>
+  <div class="generated">Generated 2026-09-02 11:16 UTC — approximate scoring against the company relevance rubric; see README for what this heuristic can and can't judge.</div>
+
+  <div class="controls" id="topic-tabs"><button class="tab-btn active" data-topic="Main">Main</button><button class="tab-btn" data-topic="Data">Data</button><button class="tab-btn" data-topic="Business Intelligence">Business Intelligence</button><button class="tab-btn" data-topic="Artificial Intelligence">Artificial Intelligence</button><button class="tab-btn" data-topic="Digital Tools">Digital Tools</button><button class="tab-btn" data-topic="Industry 4.0">Industry 4.0</button><button class="tab-btn" data-topic="Open Innovation">Open Innovation</button></div>
+  <div class="controls window-row" id="window-tabs">
+    <button class="window-btn active" data-window="today">Today</button>
+    <button class="window-btn" data-window="week">This Week</button>
+    <button class="window-btn" data-window="month">This Month</button>
+  </div>
+
+  <div id="news-list"></div>
+
+<script id="news-data" type="application/json">{"today": {"Main": [{"title": "Causal Evidentiary Governance for High-Risk Machine Learning Systems", "link": "https://arxiv.org/abs/2609.01040", "summary": "arXiv:2609.01040v1 Announce Type: cross \nAbstract: Machine learning systems deployed for credit, hiring, and resource distribution are increasingly subject to regulatory oversight from policies such as the EU AI Act and GDPR. Current fairness governance practices rely on observat", "source": "arXiv cs.AI", "published_display": "2026-09-02 04:00 UTC", "topic": "Artificial Intelligence", "score": 8}], "Data": [{"title": "Causal Evidentiary Governance for High-Risk Machine Learning Systems", "link": "https://arxiv.org/abs/2609.01040", "summary": "arXiv:2609.01040v1 Announce Type: cross \nAbstract: Machine learning systems deployed for credit, hiring, and resource distribution are increasingly subject to regulatory oversight from policies such as the EU AI Act and GDPR. Current fairness governance practices rely on observat", "source": "arXiv cs.AI", "published_display": "2026-09-02 04:00 UTC", "topic": "Data", "score": 6}], "Business Intelligence": [{"title": "Causal Evidentiary Governance for High-Risk Machine Learning Systems", "link": "https://arxiv.org/abs/2609.01040", "summary": "arXiv:2609.01040v1 Announce Type: cross \nAbstract: Machine learning systems deployed for credit, hiring, and resource distribution are increasingly subject to regulatory oversight from policies such as the EU AI Act and GDPR. Current fairness governance practices rely on observat", "source": "arXiv cs.AI", "published_display": "2026-09-02 04:00 UTC", "topic": "Business Intelligence", "score": 6}], "Artificial Intelligence": [{"title": "Causal Evidentiary Governance for High-Risk Machine Learning Systems", "link": "https://arxiv.org/abs/2609.01040", "summary": "arXiv:2609.01040v1 Announce Type: cross \nAbstract: Machine learning systems deployed for credit, hiring, and resource distribution are increasingly subject to regulatory oversight from policies such as the EU AI Act and GDPR. Current fairness governance practices rely on observat", "source": "arXiv cs.AI", "published_display": "2026-09-02 04:00 UTC", "topic": "Artificial Intelligence", "score": 8}], "Digital Tools": [{"title": "Causal Evidentiary Governance for High-Risk Machine Learning Systems", "link": "https://arxiv.org/abs/2609.01040", "summary": "arXiv:2609.01040v1 Announce Type: cross \nAbstract: Machine learning systems deployed for credit, hiring, and resource distribution are increasingly subject to regulatory oversight from policies such as the EU AI Act and GDPR. Current fairness governance practices rely on observat", "source": "arXiv cs.AI", "published_display": "2026-09-02 04:00 UTC", "topic": "Digital Tools", "score": 6}], "Industry 4.0": [{"title": "Causal Evidentiary Governance for High-Risk Machine Learning Systems", "link": "https://arxiv.org/abs/2609.01040", "summary": "arXiv:2609.01040v1 Announce Type: cross \nAbstract: Machine learning systems deployed for credit, hiring, and resource distribution are increasingly subject to regulatory oversight from policies such as the EU AI Act and GDPR. Current fairness governance practices rely on observat", "source": "arXiv cs.AI", "published_display": "2026-09-02 04:00 UTC", "topic": "Industry 4.0", "score": 6}], "Open Innovation": [{"title": "Causal Evidentiary Governance for High-Risk Machine Learning Systems", "link": "https://arxiv.org/abs/2609.01040", "summary": "arXiv:2609.01040v1 Announce Type: cross \nAbstract: Machine learning systems deployed for credit, hiring, and resource distribution are increasingly subject to regulatory oversight from policies such as the EU AI Act and GDPR. Current fairness governance practices rely on observat", "source": "arXiv cs.AI", "published_display": "2026-09-02 04:00 UTC", "topic": "Open Innovation", "score": 6}]}, "week": {"Main": [{"title": "Causal Evidentiary Governance for High-Risk Machine Learning Systems", "link": "https://arxiv.org/abs/2609.01040", "summary": "arXiv:2609.01040v1 Announce Type: cross \nAbstract: Machine learning systems deployed for credit, hiring, and resource distribution are increasingly subject to regulatory oversight from policies such as the EU AI Act and GDPR. Current fairness governance practices rely on observat", "source": "arXiv cs.AI", "published_display": "2026-09-02 04:00 UTC", "topic": "Artificial Intelligence", "score": 8}], "Data": [{"title": "Causal Evidentiary Governance for High-Risk Machine Learning Systems", "link": "https://arxiv.org/abs/2609.01040", "summary": "arXiv:2609.01040v1 Announce Type: cross \nAbstract: Machine learning systems deployed for credit, hiring, and resource distribution are increasingly subject to regulatory oversight from policies such as the EU AI Act and GDPR. Current fairness governance practices rely on observat", "source": "arXiv cs.AI", "published_display": "2026-09-02 04:00 UTC", "topic": "Data", "score": 6}], "Business Intelligence": [{"title": "Causal Evidentiary Governance for High-Risk Machine Learning Systems", "link": "https://arxiv.org/abs/2609.01040", "summary": "arXiv:2609.01040v1 Announce Type: cross \nAbstract: Machine learning systems deployed for credit, hiring, and resource distribution are increasingly subject to regulatory oversight from policies such as the EU AI Act and GDPR. Current fairness governance practices rely on observat", "source": "arXiv cs.AI", "published_display": "2026-09-02 04:00 UTC", "topic": "Business Intelligence", "score": 6}], "Artificial Intelligence": [{"title": "Causal Evidentiary Governance for High-Risk Machine Learning Systems", "link": "https://arxiv.org/abs/2609.01040", "summary": "arXiv:2609.01040v1 Announce Type: cross \nAbstract: Machine learning systems deployed for credit, hiring, and resource distribution are increasingly subject to regulatory oversight from policies such as the EU AI Act and GDPR. Current fairness governance practices rely on observat", "source": "arXiv cs.AI", "published_display": "2026-09-02 04:00 UTC", "topic": "Artificial Intelligence", "score": 8}], "Digital Tools": [{"title": "Causal Evidentiary Governance for High-Risk Machine Learning Systems", "link": "https://arxiv.org/abs/2609.01040", "summary": "arXiv:2609.01040v1 Announce Type: cross \nAbstract: Machine learning systems deployed for credit, hiring, and resource distribution are increasingly subject to regulatory oversight from policies such as the EU AI Act and GDPR. Current fairness governance practices rely on observat", "source": "arXiv cs.AI", "published_display": "2026-09-02 04:00 UTC", "topic": "Digital Tools", "score": 6}], "Industry 4.0": [{"title": "Causal Evidentiary Governance for High-Risk Machine Learning Systems", "link": "https://arxiv.org/abs/2609.01040", "summary": "arXiv:2609.01040v1 Announce Type: cross \nAbstract: Machine learning systems deployed for credit, hiring, and resource distribution are increasingly subject to regulatory oversight from policies such as the EU AI Act and GDPR. Current fairness governance practices rely on observat", "source": "arXiv cs.AI", "published_display": "2026-09-02 04:00 UTC", "topic": "Industry 4.0", "score": 6}], "Open Innovation": [{"title": "Causal Evidentiary Governance for High-Risk Machine Learning Systems", "link": "https://arxiv.org/abs/2609.01040", "summary": "arXiv:2609.01040v1 Announce Type: cross \nAbstract: Machine learning systems deployed for credit, hiring, and resource distribution are increasingly subject to regulatory oversight from policies such as the EU AI Act and GDPR. Current fairness governance practices rely on observat", "source": "arXiv cs.AI", "published_display": "2026-09-02 04:00 UTC", "topic": "Open Innovation", "score": 6}]}, "month": {"Main": [{"title": "Causal Evidentiary Governance for High-Risk Machine Learning Systems", "link": "https://arxiv.org/abs/2609.01040", "summary": "arXiv:2609.01040v1 Announce Type: cross \nAbstract: Machine learning systems deployed for credit, hiring, and resource distribution are increasingly subject to regulatory oversight from policies such as the EU AI Act and GDPR. Current fairness governance practices rely on observat", "source": "arXiv cs.AI", "published_display": "2026-09-02 04:00 UTC", "topic": "Artificial Intelligence", "score": 8}], "Data": [{"title": "Causal Evidentiary Governance for High-Risk Machine Learning Systems", "link": "https://arxiv.org/abs/2609.01040", "summary": "arXiv:2609.01040v1 Announce Type: cross \nAbstract: Machine learning systems deployed for credit, hiring, and resource distribution are increasingly subject to regulatory oversight from policies such as the EU AI Act and GDPR. Current fairness governance practices rely on observat", "source": "arXiv cs.AI", "published_display": "2026-09-02 04:00 UTC", "topic": "Data", "score": 6}], "Business Intelligence": [{"title": "Causal Evidentiary Governance for High-Risk Machine Learning Systems", "link": "https://arxiv.org/abs/2609.01040", "summary": "arXiv:2609.01040v1 Announce Type: cross \nAbstract: Machine learning systems deployed for credit, hiring, and resource distribution are increasingly subject to regulatory oversight from policies such as the EU AI Act and GDPR. Current fairness governance practices rely on observat", "source": "arXiv cs.AI", "published_display": "2026-09-02 04:00 UTC", "topic": "Business Intelligence", "score": 6}], "Artificial Intelligence": [{"title": "Causal Evidentiary Governance for High-Risk Machine Learning Systems", "link": "https://arxiv.org/abs/2609.01040", "summary": "arXiv:2609.01040v1 Announce Type: cross \nAbstract: Machine learning systems deployed for credit, hiring, and resource distribution are increasingly subject to regulatory oversight from policies such as the EU AI Act and GDPR. Current fairness governance practices rely on observat", "source": "arXiv cs.AI", "published_display": "2026-09-02 04:00 UTC", "topic": "Artificial Intelligence", "score": 8}], "Digital Tools": [{"title": "Causal Evidentiary Governance for High-Risk Machine Learning Systems", "link": "https://arxiv.org/abs/2609.01040", "summary": "arXiv:2609.01040v1 Announce Type: cross \nAbstract: Machine learning systems deployed for credit, hiring, and resource distribution are increasingly subject to regulatory oversight from policies such as the EU AI Act and GDPR. Current fairness governance practices rely on observat", "source": "arXiv cs.AI", "published_display": "2026-09-02 04:00 UTC", "topic": "Digital Tools", "score": 6}], "Industry 4.0": [{"title": "Causal Evidentiary Governance for High-Risk Machine Learning Systems", "link": "https://arxiv.org/abs/2609.01040", "summary": "arXiv:2609.01040v1 Announce Type: cross \nAbstract: Machine learning systems deployed for credit, hiring, and resource distribution are increasingly subject to regulatory oversight from policies such as the EU AI Act and GDPR. Current fairness governance practices rely on observat", "source": "arXiv cs.AI", "published_display": "2026-09-02 04:00 UTC", "topic": "Industry 4.0", "score": 6}], "Open Innovation": [{"title": "Causal Evidentiary Governance for High-Risk Machine Learning Systems", "link": "https://arxiv.org/abs/2609.01040", "summary": "arXiv:2609.01040v1 Announce Type: cross \nAbstract: Machine learning systems deployed for credit, hiring, and resource distribution are increasingly subject to regulatory oversight from policies such as the EU AI Act and GDPR. Current fairness governance practices rely on observat", "source": "arXiv cs.AI", "published_display": "2026-09-02 04:00 UTC", "topic": "Open Innovation", "score": 6}]}}</script>
+<script>
+  const newsData = JSON.parse(document.getElementById('news-data').textContent);
+  let currentTopic = 'Main';
+  let currentWindow = 'today';
+
+  function escapeHtml(s) {
+    const d = document.createElement('div');
+    d.textContent = s;
+    return d.innerHTML;
+  }
+
+  function render() {
+    const items = (newsData[currentWindow] && newsData[currentWindow][currentTopic]) || [];
+    const container = document.getElementById('news-list');
+    if (items.length === 0) {
+      container.innerHTML = '<div class="empty">No qualifying stories for this topic/window yet.</div>';
+      return;
+    }
+    container.innerHTML = items.map((item, idx) => `
+      <div class="item">
+        <div class="rank">#${idx + 1}</div>
+        <div class="content">
+          <span class="badge">${escapeHtml(item.topic)}</span>
+          <h2><a href="${item.link}" target="_blank" rel="noopener">${escapeHtml(item.title)}</a></h2>
+          <p>${escapeHtml(item.summary)}</p>
+          <div class="meta">Source: ${escapeHtml(item.source)} — ${item.published_display} — score ${item.score}/16</div>
         </div>
-        
-        <div class="item">
-          <div class="rank">#2</div>
-          <div class="content">
-            <span class="badge">Approved Tool News</span>
-            <h2><a href="https://techcrunch.com/2026/09/01/anthropics-new-fable-release-is-cheaper-less-restrictive/" target="_blank" rel="noopener">Anthropic’s new Fable release is cheaper, less restrictive</a></h2>
-            <p>As is common for an Anthropic release, the new models set records in a range of benchmarks, including Terminal-Bench 4.0 (for CLI-based coding) and Humanity’s Last Exam (for general reasoning). The system card rates Mythos as “low-risk” for concerns related to automated AI development — where the AI improves itself — which some see as a trigger for a loss of human control. It says “its ability to accelerate internal AI R&amp;D progress is in line with current trends.” In terms of general misbehavior, Mythos is slightly more prone to it than Opus, possibly as a result of its enhanced capabilities.</p>
-            <div class="meta">Source: TechCrunch AI — 2026-09-01 19:39 UTC</div>
-            
-          </div>
-        </div>
-        
-        <div class="item">
-          <div class="rank">#3</div>
-          <div class="content">
-            <span class="badge">General AI News</span>
-            <h2><a href="https://www.theverge.com/tech/987429/google-needs-hollywood-more-than-the-studios-need-ai" target="_blank" rel="noopener">Google needs Hollywood more than the studios need AI</a></h2>
-            <p>Discovery, or Universal to agree to anything officially, the company’s executives have been reaching out to multiple studio representatives with pitches focused on its AI technology, according to unnamed sources speaking to The Los Angeles Times. Once any one of the big legacy studios hop on to the AI bandwagon and manage to actually make something they can show the world, more production houses have a reason to follow suit. But it stands to reason that none of the studios is eager to be the first to learn what happens when they release a project that’s presented as being the product of Google’s AI tools.</p>
-            <div class="meta">Source: The Verge AI — 2026-09-01 22:50 UTC</div>
-            
-          </div>
-        </div>
-        
-        <div class="item">
-          <div class="rank">#4</div>
-          <div class="content">
-            <span class="badge">General AI News</span>
-            <h2><a href="https://techcrunch.com/2026/09/01/afterquery-reportedly-becomes-y-combinators-fastest-ever-unicorn-now-valued-at-3-2b/" target="_blank" rel="noopener">AfterQuery reportedly becomes Y Combinator’s fastest-ever unicorn, now valued at $3.2B</a></h2>
-            <p>That’s more than a 10x increase in less than half a year and, according to Y Combinator partner Gustaf Alströmer, the fastest that any startup has gone from launch to unicorn status in the accelerator’s history. AfterQuery is among the new crop of startups following in the footsteps of Mercor and Scale that employ knowledge professionals like doctors, lawyers, and other specialists to do model training. However, rather than ensuring that models answer questions accurately, AfterQuery trains models and agents on how to work like professionals would to complete tasks — what the company describes as “encoding the patterns, decisions, and reasoning of the world’s best practitioners.” Forbes first reported on the round.</p>
-            <div class="meta">Source: TechCrunch AI — 2026-09-01 22:08 UTC</div>
-            
-          </div>
-        </div>
-        
-        <div class="item">
-          <div class="rank">#5</div>
-          <div class="content">
-            <span class="badge">General AI News</span>
-            <h2><a href="https://techcrunch.com/2026/09/01/open-ais-astra-model-is-on-the-way-and-very-good-at-breaking-into-computer-systems/" target="_blank" rel="noopener">OpenAI’s Astra model is on the way — and very good at breaking into computer systems</a></h2>
-            <p>For Astra, OpenAI said it designed a test to tempt the new model to replicate the actions of the rogue agents in the Hugging Face incident, which collaborated to access the open internet despite safeguards applied by OpenAI researchers. Yona Shavit, a former OpenAI employee who now works on AI resilience at the OpenAI Foundation, wondered on social media whether Astra’s unwillingness to break the rules may have resulted from knowing what was expected of it or trying to fool researchers. The company said it expects to release more evaluations of the model and further safety information when it is launched widely to the public.</p>
-            <div class="meta">Source: TechCrunch AI — 2026-09-01 21:06 UTC</div>
-            
-          </div>
-        </div>
-        
+      </div>
+    `).join('');
+  }
+
+  document.getElementById('topic-tabs').addEventListener('click', (e) => {
+    if (!e.target.classList.contains('tab-btn')) return;
+    document.querySelectorAll('.tab-btn').forEach(b => b.classList.remove('active'));
+    e.target.classList.add('active');
+    currentTopic = e.target.dataset.topic;
+    render();
+  });
+
+  document.getElementById('window-tabs').addEventListener('click', (e) => {
+    if (!e.target.classList.contains('window-btn')) return;
+    document.querySelectorAll('.window-btn').forEach(b => b.classList.remove('active'));
+    e.target.classList.add('active');
+    currentWindow = e.target.dataset.window;
+    render();
+  });
+
+  render();
+</script>
 </body>
 </html>

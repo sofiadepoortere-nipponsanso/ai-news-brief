@@ -40,7 +40,7 @@ FEEDS = {
     "Azure AI Blog": ("https://azure.microsoft.com/en-us/blog/tag/ai/feed/", 1),
     "Power Automate Blog": ("https://www.microsoft.com/en-us/power-platform/blog/power-automate/feed/", 1),
     "Power BI Blog": ("https://powerbi.microsoft.com/en-us/blog/feed/", 1),
-    "arXiv cs.AI": ("http://export.arxiv.org/rss/cs.AI", 1),
+    "Microsoft AI Blog": ("https://blogs.microsoft.com/ai/feed/", 1),  # confirmed working in earlier testing
     # Tier 2 — established industry publications
     "MIT Technology Review": ("https://www.technologyreview.com/feed/", 2),
     "ZDNet AI": ("https://www.zdnet.com/topic/artificial-intelligence/rss.xml", 2),
@@ -52,6 +52,9 @@ FEEDS = {
     "The Batch": ("https://www.deeplearning.ai/the-batch/feed/", 3),
     "Import AI": ("https://importai.substack.com/feed", 3),
 }
+# NOTE: arXiv was deliberately removed — preprints are unreviewed academic
+# papers, not news, and read like opinionated essays rather than reporting.
+# Not a fit for a newspaper-style brief.
 
 # The 6 topic toggles, each with its keyword list drawn from the company
 # framework doc. These are editable — if a topic feels off, add/remove
@@ -262,32 +265,45 @@ def score_item_for_topic(item, topic_name, now):
     return total, breakdown
 
 
-def is_included(total, topic_name, breakdown):
-    """Mirrors the document's stated exception: below-threshold items are
-    only kept if they represent a major regulatory change, or a material
-    Microsoft platform change relevant to current tools."""
+def is_confident(total, topic_name, breakdown):
+    """This is now a DISPLAY signal, not an inclusion gate — see rank_for_topic
+    and rank_for_main_feed below. A 'confident' match meets the document's
+    original ≥10/16 threshold or its stated regulatory/Microsoft-platform
+    exception; anything else that still gets shown is the best available
+    genuinely on-topic story, just flagged as lower confidence."""
     if total >= SCORE_THRESHOLD:
         return True
     if breakdown["european"] >= 2:
-        return True  # major regulatory signal
+        return True
     if (topic_name in ("Digital Tools", "Artificial Intelligence")
             and breakdown["tier"] == 1 and breakdown["theme"] >= 2 and breakdown["bridge"] >= 1):
-        return True  # material Microsoft platform change from an official source
+        return True
     return False
 
 
 def rank_for_topic(items, topic_name, now, top_n):
+    """Ranks by rubric score, but never excludes purely on score — a
+    newspaper tab should stay populated. The one hard requirement is genuine
+    topical relevance (at least one real keyword hit for THIS topic), so an
+    unrelated high-trust story can't float into the wrong tab just because
+    it's well-sourced or recent."""
     scored = []
     for item in items:
         total, breakdown = score_item_for_topic(item, topic_name, now)
-        if is_included(total, topic_name, breakdown):
-            scored.append({**item, "score": total, "score_breakdown": breakdown, "topic": topic_name})
+        if breakdown["theme"] == 0:
+            continue  # no genuine relevance to this specific topic — skip
+        scored.append({
+            **item, "score": total, "score_breakdown": breakdown, "topic": topic_name,
+            "confident": is_confident(total, topic_name, breakdown),
+        })
     scored.sort(key=lambda i: i["score"], reverse=True)
     return scored[:top_n]
 
 
 def rank_for_main_feed(items, now, top_n):
-    """Each item's best-matching topic determines its badge and score."""
+    """Each item's best-matching topic determines its badge. Requires the
+    item's best topic to have at least one real keyword hit — otherwise it's
+    not genuinely digitalisation news at all, regardless of source trust."""
     scored = []
     for item in items:
         best_total, best_breakdown, best_topic = -1, None, None
@@ -295,8 +311,12 @@ def rank_for_main_feed(items, now, top_n):
             total, breakdown = score_item_for_topic(item, topic_name, now)
             if total > best_total:
                 best_total, best_breakdown, best_topic = total, breakdown, topic_name
-        if is_included(best_total, best_topic, best_breakdown):
-            scored.append({**item, "score": best_total, "score_breakdown": best_breakdown, "topic": best_topic})
+        if best_breakdown["theme"] == 0:
+            continue  # doesn't genuinely match any topic
+        scored.append({
+            **item, "score": best_total, "score_breakdown": best_breakdown, "topic": best_topic,
+            "confident": is_confident(best_total, best_topic, best_breakdown),
+        })
     scored.sort(key=lambda i: i["score"], reverse=True)
     return scored[:top_n]
 
@@ -332,6 +352,7 @@ def _item_to_json(item):
         "published_display": published.strftime("%Y-%m-%d %H:%M UTC") if published else "Date unavailable",
         "topic": item["topic"],
         "score": item["score"],
+        "confident": item.get("confident", False),
     }
 
 
@@ -412,9 +433,13 @@ def build_html(views, generated_at):
           <h2><a href="${{item.link}}" target="_blank" rel="noopener">${{escapeHtml(item.title)}}</a></h2>
           <p>${{escapeHtml(item.summary)}}</p>
           <div class="meta">Source: ${{escapeHtml(item.source)}} — ${{item.published_display}} — score ${{item.score}}/16</div>
+          ${{!item.confident ? '<div class="meta" style="color:#b45309;">Lower-confidence match — included to fill the list, weaker fit on the rubric</div>' : ''}}
         </div>
       </div>
     `).join('');
+    if (items.length < (currentTopic === 'Main' ? 10 : 5)) {{
+      container.innerHTML += `<div class="empty">Only ${{items.length}} qualifying ${{items.length === 1 ? 'story' : 'stories'}} found for this topic/window — not enough genuinely on-topic content yet, rather than a display error.</div>`;
+    }}
   }}
 
   document.getElementById('topic-tabs').addEventListener('click', (e) => {{

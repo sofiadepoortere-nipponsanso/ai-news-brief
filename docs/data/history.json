@@ -4534,5 +4534,212 @@
     "summary": "Today, I\u2019m talking with New York Governor Kathy Hochul, and I\u2019ll just warn you \u2014 this episode moves really fast. It\u2019s an election year, after all, with a shocking amount of tech policy at stake, and Governor Hochul has taken strong positions on almost every major tech issue there",
     "published": "2026-08-31T14:00:00+00:00",
     "first_seen": "2026-09-02T11:16:42.453040+00:00"
+  },
+  {
+    "source": "Power BI Blog",
+    "source_tier": 1,
+    "title": "Power BI sample reports, refreshed with modern visual defaults",
+    "link": "https://community.fabric.microsoft.com/t5/Power-BI-Updates-Blog/Power-BI-sample-reports-refreshed-with-modern-visual-defaults/ba-p/5363807",
+    "summary": "Microsoft has refreshed its Power BI sample reports with modern visual defaults, stronger semantic models, mobile-optimized layouts, and newer authoring features to help creators build clearer, more effective reports.",
+    "published": "2026-09-02T16:00:00+00:00",
+    "first_seen": "2026-09-03T06:21:05.806792+00:00"
+  },
+  {
+    "source": "MIT Technology Review",
+    "source_tier": 2,
+    "title": "Facilitating AI integration with simplicity at scale",
+    "link": "https://www.technologyreview.com/2026/09/02/1142879/facilitating-ai-integration-with-simplicity-at-scale/",
+    "summary": "As companies scale, the technology supporting operations can become a liability just as quickly as it becomes an asset. Disconnected systems, site-specific tools, spreadsheets, and manual workarounds can create data silos that make it harder to spot problems early, coordinate res",
+    "published": "2026-09-02T14:00:00+00:00",
+    "first_seen": "2026-09-03T06:21:05.806792+00:00"
+  },
+  {
+    "source": "MIT Technology Review",
+    "source_tier": 2,
+    "title": "The Download: AI puzzles and a path to our nearest star system",
+    "link": "https://www.technologyreview.com/2026/09/02/1143283/the-download-ai-puzzles-alpha-centauri-mission/",
+    "summary": "This is today\u2019s edition of The Download, our weekday newsletter that provides a daily dose of what\u2019s going on in the world of technology. AI models flub these intelligence tests. Can you fare any better? Puzzles and games have always been central to AI development. The term \u201cmach",
+    "published": "2026-09-02T12:10:00+00:00",
+    "first_seen": "2026-09-03T06:21:05.806792+00:00"
+  },
+  {
+    "source": "TechCrunch AI",
+    "source_tier": 2,
+    "title": "The Builders Stage brings practical strategies for scaling startups to TechCrunch Disrupt 2026",
+    "link": "https://techcrunch.com/2026/09/02/the-builders-stage-brings-practical-strategies-for-scaling-startups-to-techcrunch-disrupt-2026/",
+    "summary": "The Builders Stage is returning to TechCrunch Disrupt, bringing together founders, startup operators, and\u00a0investors for practical conversations on what it takes to build and scale.",
+    "published": "2026-09-02T23:01:00+00:00",
+    "first_seen": "2026-09-03T06:21:05.806792+00:00"
+  },
+  {
+    "source": "TechCrunch AI",
+    "source_tier": 2,
+    "title": "Palo Alto Networks paid $500M for Thrive-backed Console, sources say",
+    "link": "https://techcrunch.com/2026/09/02/palo-alto-networks-paid-500m-for-thrive-backed-console-sources-say/",
+    "summary": "The acquisition also leaves Sequoia-backed Serval as the de facto startup leader in AI IT service automation, industry watchers believe.",
+    "published": "2026-09-02T22:44:56+00:00",
+    "first_seen": "2026-09-03T06:21:05.806792+00:00"
+  },
+  {
+    "source": "TechCrunch AI",
+    "source_tier": 2,
+    "title": "TechCrunch Disrupt 2026\u2019s new Real World AI Stage features Nvidia, robots, and extinct animals",
+    "link": "https://techcrunch.com/2026/09/02/techcrunch-disrupt-2026s-new-real-world-ai-stage-features-nvidia-robots-and-extinct-animals/",
+    "summary": "On our new Real World AI stage, we\u2019ll be focusing on the intersection between the digital and physical, and all the ways we\u2019ll continue to see a blending of the two.",
+    "published": "2026-09-02T22:24:09+00:00",
+    "first_seen": "2026-09-03T06:21:05.806792+00:00"
+  },
+  {
+    "source": "TechCrunch AI",
+    "source_tier": 2,
+    "title": "OpenAI\u2019s new reasoning technique alarms AI safety experts",
+    "link": "https://techcrunch.com/2026/09/02/openais-new-reasoning-technique-alarms-ai-safety-experts/",
+    "summary": "OpenAI\u2019s new Astra model will use \u201crecurrent depth,\u201d a technique that allows the model to operate outside of the sequential thinking that characterizes most reasoning models.",
+    "published": "2026-09-02T20:19:14+00:00",
+    "first_seen": "2026-09-03T06:21:05.806792+00:00"
+  },
+  {
+    "source": "TechCrunch AI",
+    "source_tier": 2,
+    "title": "Pangram\u2019s Max Spero on why AI detection is harder than \u2018Real or Fake\u2019",
+    "link": "https://techcrunch.com/video/pangrams-max-spero-on-why-ai-detection-is-harder-than-real-or-fake/",
+    "summary": "The internet has a trust problem, and\u00a0it\u2019s\u00a0not just because social media feeds are filling up with AI\u00a0slop. AI-generated text and images are now making their way into job applications, product reviews,\u00a0and even insurance claims, leaving platforms and users alike scrambling to fig",
+    "published": "2026-09-02T17:18:13+00:00",
+    "first_seen": "2026-09-03T06:21:05.806792+00:00"
+  },
+  {
+    "source": "TechCrunch AI",
+    "source_tier": 2,
+    "title": "We\u2019re\u00a0\u2018dangerously close\u2019 to dead internet theory, says Pangram\u2019s CEO",
+    "link": "https://techcrunch.com/podcast/were-dangerously-close-to-dead-internet-theory-says-pangrams-ceo/",
+    "summary": "The internet has a trust problem, and\u00a0it\u2019s\u00a0not just because social media feeds are filling up with AI\u00a0slop. AI-generated text and images are now making their way into job applications, product reviews,\u00a0and even insurance claims, leaving platforms and users alike scrambling to fig",
+    "published": "2026-09-02T17:09:57+00:00",
+    "first_seen": "2026-09-03T06:21:05.806792+00:00"
+  },
+  {
+    "source": "TechCrunch AI",
+    "source_tier": 2,
+    "title": "US government sides with OpenAI on issue of training LLMs on copyrighted material",
+    "link": "https://techcrunch.com/2026/09/02/u-s-government-sides-with-openai-on-issue-of-training-llms-on-copyrighted-material/",
+    "summary": "\"The United States has a strong interest in continuing to develop a robust and competitive artificial intelligence industry that sets the standard for the practice and procedure of AI use\nglobally,\" the brief reads.",
+    "published": "2026-09-02T17:09:06+00:00",
+    "first_seen": "2026-09-03T06:21:05.806792+00:00"
+  },
+  {
+    "source": "TechCrunch AI",
+    "source_tier": 2,
+    "title": "Wonderful more than doubles its valuation to $5B in under 6 months",
+    "link": "https://techcrunch.com/2026/09/02/wonderful-more-than-doubles-its-valuation-to-5b-in-under-6-months/",
+    "summary": "Wonderful said it will use its $550 million Series C funding to develop products faster, expand its FDE teams, and meet demand for its products.",
+    "published": "2026-09-02T16:04:10+00:00",
+    "first_seen": "2026-09-03T06:21:05.806792+00:00"
+  },
+  {
+    "source": "TechCrunch AI",
+    "source_tier": 2,
+    "title": "India\u2019s richest man now wants to turn aging computers into AI-ready PCs",
+    "link": "https://techcrunch.com/2026/09/02/indias-richest-man-now-wants-to-turn-aging-computers-into-ai-ready-pcs/",
+    "summary": "Jio is betting it can turn an aging computer into an AI-ready PC for as little as about $11 for two months.",
+    "published": "2026-09-02T16:01:48+00:00",
+    "first_seen": "2026-09-03T06:21:05.806792+00:00"
+  },
+  {
+    "source": "TechCrunch AI",
+    "source_tier": 2,
+    "title": "HiddenLayer nabs $100M as enterprises rush to secure their AI deployments",
+    "link": "https://techcrunch.com/2026/09/02/hiddenlayer-nabs-100m-as-enterprises-rush-to-secure-their-ai-deployments/",
+    "summary": "Security companies are scrambling to build products that can monitor not just agents but also the tools and add-ons they use.",
+    "published": "2026-09-02T15:01:23+00:00",
+    "first_seen": "2026-09-03T06:21:05.806792+00:00"
+  },
+  {
+    "source": "TechCrunch AI",
+    "source_tier": 2,
+    "title": "PSA: Amazon\u2019s shopping AI can now tell you if that message is a scam",
+    "link": "https://techcrunch.com/2026/09/02/psa-amazons-shopping-ai-can-now-tell-you-if-that-message-is-a-scam/",
+    "summary": "Amazon is adding a scam-detection feature to Alexa for Shopping that can verify whether suspicious emails, texts, and other messages actually came from the retailer.",
+    "published": "2026-09-02T14:56:34+00:00",
+    "first_seen": "2026-09-03T06:21:05.806792+00:00"
+  },
+  {
+    "source": "TechCrunch AI",
+    "source_tier": 2,
+    "title": "Adobe acquires Indian market intelligence startup Rilo",
+    "link": "https://techcrunch.com/2026/09/02/adobe-acquires-indian-market-intelligence-startup-rilo/",
+    "summary": "This is Adobe's second acquisition out of India after Rephrase.ai in 2023",
+    "published": "2026-09-02T14:03:57+00:00",
+    "first_seen": "2026-09-03T06:21:05.806792+00:00"
+  },
+  {
+    "source": "TechCrunch AI",
+    "source_tier": 2,
+    "title": "OpenAI faces 30 more lawsuits tied to Tumbler Ridge shooting",
+    "link": "https://techcrunch.com/2026/09/02/openai-faces-30-more-lawsuits-tied-to-tumbler-ridge-shooting/",
+    "summary": "Edelson PC is filing 30 new lawsuits against OpenAI over the Tumbler Ridge shooting, escalating claims to aiding and abetting and naming Chris Lehane, though evidence remains unconfirmed.",
+    "published": "2026-09-02T12:09:42+00:00",
+    "first_seen": "2026-09-03T06:21:05.806792+00:00"
+  },
+  {
+    "source": "The Verge AI",
+    "source_tier": 2,
+    "title": "Google says its new Gemini 3.8 Flash model \u2018works harder\u2019 but might cost more",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/988742/google-gemini-3-8-flash",
+    "summary": "Google launched Gemini 3.8 Flash, arriving just a few weeks after its predecessor. The company claims the new model \"works harder\" than Gemini 3.7 Flash by performing more reasoning steps on complex tasks and \"calling tools iteratively.\" It has the same introductory pricing as 3.",
+    "published": "2026-09-02T20:11:40+00:00",
+    "first_seen": "2026-09-03T06:21:05.806792+00:00"
+  },
+  {
+    "source": "The Verge AI",
+    "source_tier": 2,
+    "title": "Amazon\u2019s AI assistant can now spot fake emails from the company",
+    "link": "https://www.theverge.com/tech/988518/amazon-alexa-for-shopping-verify-emails",
+    "summary": "Amazon is trying to combat impersonation scams with a new feature that allows you to use its AI assistant to determine whether an email, text message, or phone call actually came from the company. With the update, you can ask Alexa for Shopping about a message you received, and i",
+    "published": "2026-09-02T17:52:56+00:00",
+    "first_seen": "2026-09-03T06:21:05.806792+00:00"
+  },
+  {
+    "source": "The Verge AI",
+    "source_tier": 2,
+    "title": "Researchers fear safety disaster ahead of OpenAI\u2019s Astra release",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/988334/openai-astra-ai-monitoring-safety",
+    "summary": "OpenAI is on the cusp of releasing its most powerful AI model yet, Astra, following weeks of delays to shore up safety protocols after its agents attacked real targets during testing. As details about the model trickle out, researchers are warning it \"may be the single worst deve",
+    "published": "2026-09-02T16:40:50+00:00",
+    "first_seen": "2026-09-03T06:21:05.806792+00:00"
+  },
+  {
+    "source": "The Verge AI",
+    "source_tier": 2,
+    "title": "The Trump administration is supporting OpenAI in the NYT copyright lawsuit",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/988344/trump-administration-new-york-times-openai-lawsuit",
+    "summary": "The Trump administration has intervened in The New York Times' copyright lawsuit against OpenAI, making an argument in favor of the AI lab. The landmark lawsuit, filed in December 2023, alleging that OpenAI unlawfully trained its AI systems on articles from The New York Times and",
+    "published": "2026-09-02T16:12:25+00:00",
+    "first_seen": "2026-09-03T06:21:05.806792+00:00"
+  },
+  {
+    "source": "The Verge AI",
+    "source_tier": 2,
+    "title": "Google is sending MrBeast into the wilderness, armed with AI",
+    "link": "https://www.theverge.com/tech/988355/mrbeast-google-partnership-gemini-fitbit",
+    "summary": "MrBeast will feature Gemini, Google Health, and the Fitbit Air in upcoming videos as part of a multi-year partnership with Google. The deal will kick off with a video featuring Jimmy \"MrBeast\" Donaldson turning to Gemini for wilderness survival advice: First up on September 5 is ",
+    "published": "2026-09-02T15:47:03+00:00",
+    "first_seen": "2026-09-03T06:21:05.806792+00:00"
+  },
+  {
+    "source": "The Verge AI",
+    "source_tier": 2,
+    "title": "OpenAI accused of \u2018aiding and abetting\u2019 Tumbler Ridge mass shooting in dozens of new lawsuits",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/988261/openai-tumbler-ridge-shooting-lawsuit-aiding-abetting",
+    "summary": "OpenAI and its CEO Sam Altman are facing 30 new lawsuits that accuse them of providing \"substantial assistance and encouragement\" to the suspect in Canada's Tumbler Ridge school shooting, as reported earlier by TechCrunch. The new wave of lawsuits was filed in a California federa",
+    "published": "2026-09-02T14:35:03+00:00",
+    "first_seen": "2026-09-03T06:21:05.806792+00:00"
+  },
+  {
+    "source": "The Verge AI",
+    "source_tier": 2,
+    "title": "NYC bans AI use for students until they reach high school",
+    "link": "https://www.theverge.com/policy/988228/nyc-ai-restrictions-in-schools-chatbot-ban",
+    "summary": "New York City Mayor Zohran Mamdani has announced a new policy today that will ban younger schoolchildren from using AI in classrooms. The one-year moratorium, effective in the 2026-2027 school year, will impact about 600,000 public school students in 2-K through eighth grade and ",
+    "published": "2026-09-02T14:30:00+00:00",
+    "first_seen": "2026-09-03T06:21:05.806792+00:00"
   }
 ]

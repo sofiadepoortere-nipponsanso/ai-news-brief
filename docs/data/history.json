@@ -4741,5 +4741,176 @@
     "summary": "New York City Mayor Zohran Mamdani has announced a new policy today that will ban younger schoolchildren from using AI in classrooms. The one-year moratorium, effective in the 2026-2027 school year, will impact about 600,000 public school students in 2-K through eighth grade and ",
     "published": "2026-09-02T14:30:00+00:00",
     "first_seen": "2026-09-03T06:21:05.806792+00:00"
+  },
+  {
+    "source": "Power BI Blog",
+    "source_tier": 1,
+    "title": "Modern Power BI architecture choices for reporting on Azure Databricks: A performance benchmark for Power BI storage modes",
+    "link": "https://community.fabric.microsoft.com/t5/Power-BI-Updates-Blog/Modern-Power-BI-architecture-choices-for-reporting-on-Azure/ba-p/5364286",
+    "summary": "Many enterprise Power BI semantic models use Azure Databricks as a data source. When building these models, developers and architects face an early and consequential decision: which storage mode to use. Cost, security, and ease of development and tuning all factor in \u2014 but report",
+    "published": "2026-09-03T11:30:43+00:00",
+    "first_seen": "2026-09-04T06:19:05.793140+00:00"
+  },
+  {
+    "source": "MIT Technology Review",
+    "source_tier": 2,
+    "title": "The Download: rethinking child safety and fossil-fueled farming",
+    "link": "https://www.technologyreview.com/2026/09/03/1143385/the-download-rethinking-child-safety-online-fossil-fuels-farming/",
+    "summary": "This is today\u2019s edition of The Download, our weekday newsletter that provides a daily dose of what\u2019s going on in the world of technology. Child-monitoring apps might need a reboot Digital harms have become the defining fear of American parents. In response, they\u2019re increasingly t",
+    "published": "2026-09-03T12:10:00+00:00",
+    "first_seen": "2026-09-04T06:19:05.793140+00:00"
+  },
+  {
+    "source": "MIT Technology Review",
+    "source_tier": 2,
+    "title": "Agriculture relies on fossil fuels. It\u2019s costing us.",
+    "link": "https://www.technologyreview.com/2026/09/03/1143320/fertilizer-prices-fossil-fuels/",
+    "summary": "If you\u2019ve had to fill up your vehicle\u2019s gas tank or buy a plane ticket lately, you\u2019ve probably felt the effects of rising fossil-fuel prices. But farmers buying fertilizer for their crops are especially aware of just how far the ripple effects of the conflict in Iran have spread.",
+    "published": "2026-09-03T10:00:00+00:00",
+    "first_seen": "2026-09-04T06:19:05.793140+00:00"
+  },
+  {
+    "source": "MIT Technology Review",
+    "source_tier": 2,
+    "title": "Scaling agentic AI pilots across the enterprise",
+    "link": "https://www.technologyreview.com/2026/09/03/1142868/scaling-agentic-ai-pilots-across-the-enterprise/",
+    "summary": "As agentic AI moves from experimentation toward enterprise deployment, the challenge is figuring out how agents can work together, connect to the systems and data they need, and operate safely across the workflows that run a business. Although agentic AI has been adopted by some ",
+    "published": "2026-09-03T09:30:32+00:00",
+    "first_seen": "2026-09-04T06:19:05.793140+00:00"
+  },
+  {
+    "source": "TechCrunch AI",
+    "source_tier": 2,
+    "title": "The sameness problem behind those unappetizing AI-generated menus",
+    "link": "https://techcrunch.com/2026/09/03/the-sameness-problem-behind-those-unappetizing-ai-generated-menus/",
+    "summary": "While restaurant owners might look to generative AI as a shortcut to sprucing up their menu, customers can viscerally sense that something is wrong with the food.",
+    "published": "2026-09-04T04:21:03+00:00",
+    "first_seen": "2026-09-04T06:19:05.793140+00:00"
+  },
+  {
+    "source": "TechCrunch AI",
+    "source_tier": 2,
+    "title": "Crusoe reportedly raises $3B at a  $30B valuation",
+    "link": "https://techcrunch.com/2026/09/03/crusoe-reportedly-raises-3b-at-a-30b-valuation/",
+    "summary": "The round came together after the data center developer reportedly secured a $13 billion contract with Jane Street.",
+    "published": "2026-09-04T00:48:42+00:00",
+    "first_seen": "2026-09-04T06:19:05.793140+00:00"
+  },
+  {
+    "source": "TechCrunch AI",
+    "source_tier": 2,
+    "title": "Accel reportedly in talks to lead $1B round for Thinking Machines at $40B valuation",
+    "link": "https://techcrunch.com/2026/09/03/accel-reportedly-in-talks-to-lead-1b-round-for-thinking-machines-at-40b-valuation/",
+    "summary": "The high-profile startup's annual revenue run rate stands at over $100 million.",
+    "published": "2026-09-03T19:36:29+00:00",
+    "first_seen": "2026-09-04T06:19:05.793140+00:00"
+  },
+  {
+    "source": "TechCrunch AI",
+    "source_tier": 2,
+    "title": "Abliteration.ai is making a business out of removing AI guardrails",
+    "link": "https://techcrunch.com/2026/09/03/abliteration-ai-is-making-a-business-out-of-removing-ai-guardrails/",
+    "summary": "Abliteration.AI is making powerful AI models without guardrails easier to access, arguing that giving defenders the same tools as bad actors could ultimately improve cybersecurity.",
+    "published": "2026-09-03T18:37:57+00:00",
+    "first_seen": "2026-09-04T06:19:05.793140+00:00"
+  },
+  {
+    "source": "TechCrunch AI",
+    "source_tier": 2,
+    "title": "Meta is paying to peek at how you use their latest AI model",
+    "link": "https://techcrunch.com/2026/09/03/meta-is-paying-to-peek-at-how-you-use-their-latest-ai-model/",
+    "summary": "For its new Muse Spark model, intended for operating coding and other agents, Meta is offering an explicit discount averaging out to about 95% for users who \"contribute\" to the development of future models by sharing their prompts and model outputs.",
+    "published": "2026-09-03T18:19:56+00:00",
+    "first_seen": "2026-09-04T06:19:05.793140+00:00"
+  },
+  {
+    "source": "TechCrunch AI",
+    "source_tier": 2,
+    "title": "OpenAI launches Astra, its powerful (and controversial) new model",
+    "link": "https://techcrunch.com/2026/09/03/openai-launches-astra-its-powerful-and-controversial-new-model/",
+    "summary": "OpenAI claims that Astra represents \"a new frontier on computer and browser use,\" and that it handles tasks with unmatched \"speed, accuracy, and safety.\"",
+    "published": "2026-09-03T18:01:45+00:00",
+    "first_seen": "2026-09-04T06:19:05.793140+00:00"
+  },
+  {
+    "source": "TechCrunch AI",
+    "source_tier": 2,
+    "title": "Ollie is betting its focus on privacy can help it win the AI assistant race",
+    "link": "https://techcrunch.com/2026/09/03/ollie-is-betting-privacy-can-win-the-ai-assistant-race/",
+    "summary": "The family-focused AI assistant wants access to the details of your everyday life, but says it won\u2019t use that data to train AI models or share it with others.",
+    "published": "2026-09-03T16:09:01+00:00",
+    "first_seen": "2026-09-04T06:19:05.793140+00:00"
+  },
+  {
+    "source": "TechCrunch AI",
+    "source_tier": 2,
+    "title": "Google\u2019s latest AI weather model gives you no excuse to forget your umbrella",
+    "link": "https://techcrunch.com/2026/09/03/googles-latest-ai-weather-model-gives-you-no-excuse-to-forget-your-umbrella/",
+    "summary": "WeatherNext 3 is the latest wave of a sea change in meteorology brought out by deep learning techniques. Google says it will start feeding into weather information users see in search, Google Maps, and Gemini.",
+    "published": "2026-09-03T15:00:00+00:00",
+    "first_seen": "2026-09-04T06:19:05.793140+00:00"
+  },
+  {
+    "source": "TechCrunch AI",
+    "source_tier": 2,
+    "title": "Nvidia confirms it will buy Hugging Face for $12.9 billion",
+    "link": "https://techcrunch.com/2026/09/03/nvidia-confirms-it-will-buy-hugging-face-for-12-9-billion/",
+    "summary": "Nvidia said Hugging Face hosts over 3 million models and is used by over 18 million developers.",
+    "published": "2026-09-03T12:42:45+00:00",
+    "first_seen": "2026-09-04T06:19:05.793140+00:00"
+  },
+  {
+    "source": "The Verge AI",
+    "source_tier": 2,
+    "title": "OpenAI\u2019s next big AI model has \u2018entered the AGI era\u2019",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/989601/openai-gpt-6-astra-release",
+    "summary": "OpenAI's next big model is here: GPT-6 Astra. The company calls it a \"generational leap in capability\" for areas like cybersecurity, professional work, software engineering, science, and computer use. As OpenAI announced earlier this week, it's also the first model designated as ",
+    "published": "2026-09-03T18:00:00+00:00",
+    "first_seen": "2026-09-04T06:19:05.793140+00:00"
+  },
+  {
+    "source": "The Verge AI",
+    "source_tier": 2,
+    "title": "Nvidia launches free tool that links idle computers into a personal AI data center",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/989435/nvidia-pair-personal-ai-router-home-local-llm-compute-tool-rtx-macbook",
+    "summary": "Nvidia is announcing its new Personal AI Router (PAIR), a free tool that syncs up your home computers for tackling local AI inference tasks with tools like Ollama and LM Studio. Let's get the obvious thing out of the way, despite what its name might imply: PAIR is not a hardware ",
+    "published": "2026-09-03T16:00:00+00:00",
+    "first_seen": "2026-09-04T06:19:05.793140+00:00"
+  },
+  {
+    "source": "The Verge AI",
+    "source_tier": 2,
+    "title": "Google now lets you chat with Gmail, Docs, and Keep",
+    "link": "https://www.theverge.com/tech/989508/google-gmail-docs-keep-live-voice-modes-gemini",
+    "summary": "Google is rolling out AI-powered voice assistant modes for Gmail, Docs, and Keep that allow you to manage the apps by talking to them. The real time conversational capabilities are called Gmail Live, Docs Live, and Keep Live, and like the Gemini Live experience for Google's chatb",
+    "published": "2026-09-03T16:00:00+00:00",
+    "first_seen": "2026-09-04T06:19:05.793140+00:00"
+  },
+  {
+    "source": "The Verge AI",
+    "source_tier": 2,
+    "title": "ChatGPT, Grok, and Claude all went down at the same time",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/989503/chatgpt-grok-claude-outage-down",
+    "summary": "OpenAI's ChatGPT, xAI's Grok, and Anthropic's Claude are back online after they all began experiencing issues around the same time on Thursday. At about 11AM ET, ChatGPT started returning error messages for users trying to use the chatbot, with its status page saying there were \"",
+    "published": "2026-09-03T15:35:14+00:00",
+    "first_seen": "2026-09-04T06:19:05.793140+00:00"
+  },
+  {
+    "source": "The Verge AI",
+    "source_tier": 2,
+    "title": "Google says its AI weather model is getting better",
+    "link": "https://www.theverge.com/tech/988921/weather-forecast-ai-model-google-satellite-update",
+    "summary": "Google is rolling out an updated AI weather model that's supposed to be more accurate, especially when it comes to predicting rain and snowfall. In the announcement today, the company says it's now able to make forecasts with \"unprecedented resolution\" using its new WeatherNext 3",
+    "published": "2026-09-03T15:00:00+00:00",
+    "first_seen": "2026-09-04T06:19:05.793140+00:00"
+  },
+  {
+    "source": "The Verge AI",
+    "source_tier": 2,
+    "title": "Nvidia is buying Hugging Face for almost $13 billion",
+    "link": "https://www.theverge.com/tech/985474/nvidia-buying-hugging-face-deal",
+    "summary": "Nvidia has agreed to buy Hugging Face for $12.93 billion, bringing one of the most popular hosting platforms for open-source AI models, datasets, and tools under the ownership of the world's biggest AI chipmaker. Hugging Face is an online platform founded in 2016 that gives AI de",
+    "published": "2026-09-03T12:12:06+00:00",
+    "first_seen": "2026-09-04T06:19:05.793140+00:00"
   }
 ]

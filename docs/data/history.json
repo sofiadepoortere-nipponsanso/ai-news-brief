@@ -126,15 +126,6 @@
     "first_seen": "2026-09-02T11:16:42.453040+00:00"
   },
   {
-    "source": "Power BI Blog",
-    "source_tier": 1,
-    "title": "Deep dive into conditional formatting for lines and legends",
-    "link": "https://community.fabric.microsoft.com/t5/Power-BI-Updates-Blog/Deep-dive-into-conditional-formatting-for-lines-and-legends/ba-p/5331078",
-    "summary": "Bring your Power BI reports to life with dynamic conditional formatting for lines and legends that stays consistent and updates automatically as your data changes.",
-    "published": "2026-08-04T21:00:00+00:00",
-    "first_seen": "2026-09-02T11:16:42.453040+00:00"
-  },
-  {
     "source": "arXiv cs.AI",
     "source_tier": 1,
     "title": "HyperWorld: Hypergraph-Structured State Serialization Improves Learned Textual World Models",
@@ -4912,5 +4903,176 @@
     "summary": "Nvidia has agreed to buy Hugging Face for $12.93 billion, bringing one of the most popular hosting platforms for open-source AI models, datasets, and tools under the ownership of the world's biggest AI chipmaker. Hugging Face is an online platform founded in 2016 that gives AI de",
     "published": "2026-09-03T12:12:06+00:00",
     "first_seen": "2026-09-04T06:19:05.793140+00:00"
+  },
+  {
+    "source": "MIT Technology Review",
+    "source_tier": 2,
+    "title": "Architecting memory and storage in the AI era",
+    "link": "https://www.technologyreview.com/2026/09/04/1140872/architecting-memory-and-storage-in-the-ai-era/",
+    "summary": "The era of AI inference has arrived. Imagine a healthcare system analyzing millions of data points in real time to accelerate life-saving medical research, or an intelligent assistant instantly resolving thousands of complex customer needs at once. These real-world breakthroughs ",
+    "published": "2026-09-04T18:39:19+00:00",
+    "first_seen": "2026-09-05T06:17:58.681396+00:00"
+  },
+  {
+    "source": "MIT Technology Review",
+    "source_tier": 2,
+    "title": "The Download: selling battlefield drone data and AI reshaping language",
+    "link": "https://www.technologyreview.com/2026/09/04/1143457/the-download-ukraine-selling-drone-data-ai-reshaping-language/",
+    "summary": "This is today\u2019s edition of The Download, our weekday newsletter that provides a daily dose of what\u2019s going on in the world of technology. Data from drones in Ukraine is fueling a new Wild West marketplace \u2014Cory Alpert, a researcher at the University of Melbourne studying AI\u2019s imp",
+    "published": "2026-09-04T12:10:00+00:00",
+    "first_seen": "2026-09-05T06:17:58.681396+00:00"
+  },
+  {
+    "source": "MIT Technology Review",
+    "source_tier": 2,
+    "title": "Data from drones in Ukraine is fueling a new Wild West marketplace",
+    "link": "https://www.technologyreview.com/2026/09/04/1143452/drone-data-wild-west/",
+    "summary": "Battlefields in Ukraine are littered with the remnants of drones, which are now firmly established as a critical weapon of modern warfare. But behind all that wreckage, there\u2019s a new gold mine for the defense sector. The data drones generate will far outlast the wars in which the",
+    "published": "2026-09-04T09:25:19+00:00",
+    "first_seen": "2026-09-05T06:17:58.681396+00:00"
+  },
+  {
+    "source": "TechCrunch AI",
+    "source_tier": 2,
+    "title": "XDOF, just three months out of stealth, is in talks for a Series B at a $1.2B valuation",
+    "link": "https://techcrunch.com/2026/09/04/xdof-just-three-months-out-of-stealth-is-in-talks-for-a-series-b-at-a-1-2b-valuation/",
+    "summary": "The round is being raised just months after the robot data startup exited from stealth.",
+    "published": "2026-09-04T23:36:14+00:00",
+    "first_seen": "2026-09-05T06:17:58.681396+00:00"
+  },
+  {
+    "source": "TechCrunch AI",
+    "source_tier": 2,
+    "title": "OpenAI\u2019s rogue agents keep escaping, with no formal process to investigate them",
+    "link": "https://techcrunch.com/2026/09/04/openais-rogue-agents-keep-escaping-with-no-formal-process-to-investigate-them/",
+    "summary": "OpenAI\u2019s latest agent swarm incident adds urgency to calls for independent investigations as researchers and lawmakers question whether AI labs should control the scope of their own safety reviews.",
+    "published": "2026-09-04T23:15:11+00:00",
+    "first_seen": "2026-09-05T06:17:58.681396+00:00"
+  },
+  {
+    "source": "TechCrunch AI",
+    "source_tier": 2,
+    "title": "AI compute provider Nscale is looking for $3.5B in pre-IPO financing",
+    "link": "https://techcrunch.com/2026/09/04/ai-compute-provider-nscale-is-looking-for-3-5b-in-pre-ipo-financing/",
+    "summary": "Nscale, which recently struck a $45 billion deal with Anthropic, is in talks to raise additional funds in anticipation of an upcoming IPO.",
+    "published": "2026-09-04T21:12:11+00:00",
+    "first_seen": "2026-09-05T06:17:58.681396+00:00"
+  },
+  {
+    "source": "TechCrunch AI",
+    "source_tier": 2,
+    "title": "What will Apple\u2019s John Ternus era look like?",
+    "link": "https://techcrunch.com/video/what-will-apples-john-ternus-era-look-like/",
+    "summary": "It\u2019s\u00a0officially the Ternus era at Apple.\u00a0\u00a0 Tim Cook stepped down\u00a0as CEO this week, handing the company to former hardware chief John Ternus, whose first memo\u00a0promised a \u201chuge launch next week\u201d\u00a0\u2014 timing that puts Apple\u2019s next iPhone event on his desk before\u00a0he\u2019s\u00a0even settled in. C",
+    "published": "2026-09-04T17:18:00+00:00",
+    "first_seen": "2026-09-05T06:17:58.681396+00:00"
+  },
+  {
+    "source": "TechCrunch AI",
+    "source_tier": 2,
+    "title": "Another swarm of OpenAI agents reached the open internet without the frontier lab\u2019s knowledge",
+    "link": "https://techcrunch.com/2026/09/04/another-swarm-of-openai-agents-reached-the-open-internet-without-the-frontier-labs-knowledge/",
+    "summary": "It's the latest failure of OpenAI's internal monitoring and security systems.",
+    "published": "2026-09-04T16:21:11+00:00",
+    "first_seen": "2026-09-05T06:17:58.681396+00:00"
+  },
+  {
+    "source": "TechCrunch AI",
+    "source_tier": 2,
+    "title": "Apple\u2019s Ternus era begins as Nvidia bets on the whole AI stack",
+    "link": "https://techcrunch.com/podcast/apples-ternus-era-begins-as-nvidia-bets-on-the-whole-ai-stack/",
+    "summary": "It\u2019s\u00a0officially the Ternus era at Apple.\u00a0\u00a0 Tim Cook stepped down\u00a0as CEO this week, handing the company to former hardware chief John Ternus, whose first memo\u00a0promised a \u201chuge launch next week\u201d\u00a0\u2014 timing that puts Apple\u2019s next iPhone event on his desk before\u00a0he\u2019s\u00a0even settled in. C",
+    "published": "2026-09-04T16:04:08+00:00",
+    "first_seen": "2026-09-05T06:17:58.681396+00:00"
+  },
+  {
+    "source": "TechCrunch AI",
+    "source_tier": 2,
+    "title": "Google\u2019s Gemini Spark can now manage your Google Photos library",
+    "link": "https://techcrunch.com/2026/09/04/googles-gemini-spark-can-now-manage-your-google-photos-library/",
+    "summary": "Gemini Spark can edit and curate photo albums, create shared collections, turn photos into calendar events, and handle other Google Photos tasks for AI Pro and Ultra subscribers.",
+    "published": "2026-09-04T14:47:11+00:00",
+    "first_seen": "2026-09-05T06:17:58.681396+00:00"
+  },
+  {
+    "source": "TechCrunch AI",
+    "source_tier": 2,
+    "title": "Less than 24 hours to apply\u00a0for your TechCrunch Disrupt\u00a02026 Side Event",
+    "link": "https://techcrunch.com/2026/09/04/less-than-24-hours-to-apply-for-your-techcrunch-disrupt-2026-side-event/",
+    "summary": "Less than 24 hours left to apply to host a Side Event during TechCrunch Disrupt 2026 and make your mark in the Silicon Valley scene. Apply before the application closes tonight at midnight PT.",
+    "published": "2026-09-04T14:00:00+00:00",
+    "first_seen": "2026-09-05T06:17:58.681396+00:00"
+  },
+  {
+    "source": "The Verge AI",
+    "source_tier": 2,
+    "title": "Roland is getting into generative AI music with Melody Flip",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/990197/roland-ai-music-melody-flip",
+    "summary": "It's not quite the \"push button; get song\" of Suno, but Roland's new Melody Flip tool marks the company's foray into generative AI music. Available as a plug-in for your digital audio workstation (DAW), Melody Flip offers around 250 \"Palettes,\" which are essentially themed collec",
+    "published": "2026-09-04T17:51:35+00:00",
+    "first_seen": "2026-09-05T06:17:58.681396+00:00"
+  },
+  {
+    "source": "The Verge AI",
+    "source_tier": 2,
+    "title": "Microsoft says virtually nobody was grabbing NYT articles through its chatbot",
+    "link": "https://www.theverge.com/policy/990267/microsoft-openai-new-york-times-authors-lawsuit",
+    "summary": "Microsoft's Copilot rarely reproduces even full sentences from news articles and books, let alone substantive chunks that could substitute for the original, the company says in new legal filings as it fights copyright claims from publishers including The New York Times and book a",
+    "published": "2026-09-04T16:05:57+00:00",
+    "first_seen": "2026-09-05T06:17:58.681396+00:00"
+  },
+  {
+    "source": "The Verge AI",
+    "source_tier": 2,
+    "title": "Rogue OpenAI agents appear to have organized another attack using a German wiki",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/990149/openai-rogue-agents-german-wiki",
+    "summary": "A swarm of rogue AI agents from OpenAI reportedly commandeered a German website and transformed it into a messaging board for other agents, with officials staying quiet about the incident for weeks as the company prepared to launch its most advanced model yet, Astra. The finding ",
+    "published": "2026-09-04T13:34:12+00:00",
+    "first_seen": "2026-09-05T06:17:58.681396+00:00"
+  },
+  {
+    "source": "The Verge AI",
+    "source_tier": 2,
+    "title": "Instagram\u2019s AI detection is a mess (again)",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/989617/instagram-ai-content-label-confusion",
+    "summary": "Instagram's visible AI labels are supposed to help people quickly spot synthetically generated content at a glance. Over the last few weeks, however, users have been reporting that the system has gone haywire. They say Meta has been automatically applying an \"AI Content\" label to",
+    "published": "2026-09-04T12:00:00+00:00",
+    "first_seen": "2026-09-05T06:17:58.681396+00:00"
+  },
+  {
+    "source": "The Verge AI",
+    "source_tier": 2,
+    "title": "Why AI food looks like that",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/989376/ai-generated-food-why-does-it-look-like-that",
+    "summary": "There is a torrent of unappetizing slop coming from restaurants, cafes, and brands that are increasingly turning to AI to generate images promoting their food. The resulting horror show includes donut shrimp, Reubens from the deep, wormlike noodles, and noodle-like pastries and s",
+    "published": "2026-09-04T11:00:00+00:00",
+    "first_seen": "2026-09-05T06:17:58.681396+00:00"
+  },
+  {
+    "source": "The Verge AI",
+    "source_tier": 2,
+    "title": "Microsoft\u2019s Project Zenith is a \u2018distraction-free Windows experience\u2019 for developers",
+    "link": "https://www.theverge.com/news/990051/microsoft-project-zenith-windows-developers",
+    "summary": "Microsoft is giving its developer-optimized Windows experience a name: Project Zenith. While the software maker originally announced a similar developer-optimized Windows effort at Build earlier this year, Project Zenith is designed for new developer-focused devices with 64GB or ",
+    "published": "2026-09-04T10:44:15+00:00",
+    "first_seen": "2026-09-05T06:17:58.681396+00:00"
+  },
+  {
+    "source": "The Verge AI",
+    "source_tier": 2,
+    "title": "Sam Altman apologizes for \u2018messy\u2019 GPT-6 Astra rollout that\u2019s locked out paying users",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/990060/altman-apologizes-messy-astra-rollout",
+    "summary": "Just hours after OpenAI launched GPT-6 Astra, CEO Sam Altman was already apologizing for what he describes as a \"messy rollout\" after paying users expecting access to the new frontier model were left waiting. The company hailed the model as a \"generational leap in capability\" on ",
+    "published": "2026-09-04T10:41:48+00:00",
+    "first_seen": "2026-09-05T06:17:58.681396+00:00"
+  },
+  {
+    "source": "The Verge AI",
+    "source_tier": 2,
+    "title": "This NAS company wants to run your local smart home",
+    "link": "https://www.theverge.com/tech/990006/this-nas-company-wants-to-run-your-local-smart-home",
+    "summary": "Ugreen, known for its phone power banks, chargers, and NAS storage solutions, is moving into the smart home - in a big way. This week at the IFA tech show, the company launched its HomeAgent smart home platform that combines security camera storage, on-device AI, and smart home c",
+    "published": "2026-09-04T09:41:44+00:00",
+    "first_seen": "2026-09-05T06:17:58.681396+00:00"
   }
 ]

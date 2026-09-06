@@ -5074,5 +5074,50 @@
     "summary": "Ugreen, known for its phone power banks, chargers, and NAS storage solutions, is moving into the smart home - in a big way. This week at the IFA tech show, the company launched its HomeAgent smart home platform that combines security camera storage, on-device AI, and smart home c",
     "published": "2026-09-04T09:41:44+00:00",
     "first_seen": "2026-09-05T06:17:58.681396+00:00"
+  },
+  {
+    "source": "Microsoft 365 Blog",
+    "source_tier": 1,
+    "title": "PPCC 2026: Bringing AI and your business processes together",
+    "link": "https://www.microsoft.com/en-us/microsoft-365/blog/2026/09/03/ppcc-2026-bringing-ai-and-your-business-processes-together/",
+    "summary": "Every enterprise runs on business processes, but it's the people that provide judgment, manage exceptions, and often connect systems that were never designed to work together.\nThe post PPCC 2026: Bringing AI and your business processes together appeared first on Microsoft 365 Blo",
+    "published": "2026-09-03T15:00:00+00:00",
+    "first_seen": "2026-09-06T06:18:06.426454+00:00"
+  },
+  {
+    "source": "TechCrunch AI",
+    "source_tier": 2,
+    "title": "Seattle Times and Newsday are the latest publications to sue OpenAI and Microsoft",
+    "link": "https://techcrunch.com/2026/09/05/seattle-times-and-newsday-are-the-latest-publications-to-sue-openai-and-microsoft/",
+    "summary": "Two more news organizations are suing OpenAI and Microsoft over the supposed use of their journalism to train AI.",
+    "published": "2026-09-05T22:49:55+00:00",
+    "first_seen": "2026-09-06T06:18:06.426454+00:00"
+  },
+  {
+    "source": "TechCrunch AI",
+    "source_tier": 2,
+    "title": "Hikers rescued after using Google Gemini for planning",
+    "link": "https://techcrunch.com/2026/09/05/hikers-rescued-after-using-google-gemini-for-planning/",
+    "summary": "The sheriff\u2019s office said the hikers \u201cwere advised by Gemini to bring far less food and water than their group required.\"",
+    "published": "2026-09-05T19:35:24+00:00",
+    "first_seen": "2026-09-06T06:18:06.426454+00:00"
+  },
+  {
+    "source": "TechCrunch AI",
+    "source_tier": 2,
+    "title": "OpenAI confirms \u2018wiki incident,\u2019 says it\u2019s \u2018working on a framework\u2019 for more disclosure",
+    "link": "https://techcrunch.com/2026/09/05/openai-confirms-wiki-incident-says-its-working-on-a-framework-for-more-disclosure/",
+    "summary": "OpenAI acknowledged its role in a recently reported incident where AI agents took over a German wiki forum.",
+    "published": "2026-09-05T18:05:27+00:00",
+    "first_seen": "2026-09-06T06:18:06.426454+00:00"
+  },
+  {
+    "source": "The Verge AI",
+    "source_tier": 2,
+    "title": "OpenAI admits to German wiki \u2018incident\u2019",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/990773/openai-german-wiki-incident",
+    "summary": "OpenAI says it needs to overhaul how and when it reports instances of AI models attacking real-world targets. The acknowledgement comes as the company manages the fallout from reports that a swarm of its out-of-control agents hijacked a German wiki site. Regarding the \"'wiki inci",
+    "published": "2026-09-05T11:15:55+00:00",
+    "first_seen": "2026-09-06T06:18:06.426454+00:00"
   }
 ]

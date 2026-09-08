@@ -1,22 +1,26 @@
 """
 Digitalisation News Brief
 --------------------------
-Fetches real RSS feeds, scores every item against an approximation of the
-company's 8-criterion scoring rubric (see Digitalisation_Newspaper_Context
-doc) for each of 6 topics, maintains a rolling 31-day history so "today /
-this week / this month" views are all computable, and writes:
+Fetches real RSS feeds and scores them with a simple, purely additive system:
+  - Main feed: general "exciting AI/tech news" — any big story from a
+    reputable outlet qualifies, ranked by source prominence, recency, and
+    big-story language. No topic-match requirement, no penalties.
+  - Topic tabs (Data, Business Intelligence, Artificial Intelligence,
+    Digital Tools, Industry 4.0, Open Innovation): company-specific
+    relevance — requires an actual keyword match to that topic, ranked by
+    relevance + source authority + recency + big-story language.
+
+Maintains a rolling 31-day history so "today / this week / this month"
+views are all computable, and writes:
   - docs/index.html : tabbed site (Main + 6 topics) x (Today/Week/Month)
   - docs/feed.xml    : one-item-per-day RSS feed carrying the Main Feed's
                         daily top items, watched by Power Automate for your
                         personal Teams notification and email
   - docs/data/history.json : the rolling raw data window (needed across runs)
 
-IMPORTANT — approximation, not the real rubric: several of the document's
-8 criteria (practical actionability, internal-initiative bridge, genuine
-novelty vs. a repeated announcement) require actually understanding what an
-article says. This script approximates them with keyword/source/recency
-heuristics. It will miss nuance a human reader (or an LLM) would catch —
-see the README for that tradeoff.
+Every score is additive only — nothing is ever subtracted or excluded for
+being "not good enough," only for genuinely not matching a topic's keywords
+(which is a relevance check, not a quality judgment).
 """
 
 import os
@@ -99,33 +103,25 @@ TOPIC_KEYWORDS = {
     ],
 }
 
-# Approximate proxies for the rubric criteria that aren't a direct topic match.
-INDUSTRIAL_KEYWORDS = [
-    "process industr", "manufactur", "engineering", "safety", "logistics",
-    "b2b", "industrial", "plant", "chemical",
-]
-ACTIONABILITY_KEYWORDS = [
-    "case study", "deployment", "pilot", "benchmark", "lesson", "tool update",
-    "release", "launch", "rollout", "implementation",
-]
-EUROPEAN_KEYWORDS = [
-    "eu ", "european union", "european commission", "gdpr", "eu ai act",
-    "brussels", "member state",
-]
-RISK_KEYWORDS = [
-    "lawsuit", "security", "privacy", "safety", "incident", "breach",
-    "vulnerability", "risk", "fine", "penalty",
-]
-# Named internal tools/initiatives, for the "internal bridge" criterion —
-# includes both the company's approved-tools list and the platforms named
-# in the framework doc.
-INTERNAL_TOOLS = [
-    "datalake", "power bi", "copilot", "sharepoint", "power automate",
-    "power apps", "power platform", "ai builder", "azure ai", "copilot studio",
-    "copilot chat", "work iq", "heygen", "google ai studio", "claude",
+# "Big story" signal — purely additive. A story mentioning any of these gets
+# a bonus; absence costs nothing. No penalties anywhere in this system.
+MAGNITUDE_KEYWORDS = [
+    "launch", "launches", "unveils", "announces", "acquisition", "acquires",
+    "funding round", "raises", "billion", "merger", "antitrust", "lawsuit",
+    "regulation", "breach", "ban", "ipo", "general availability",
+    "public preview", "breakthrough", "record", "partnership", "valued at",
 ]
 
-SCORE_THRESHOLD = 10          # out of 16, per the document
+# Main feed: weights how prominent the outlet is for a general "exciting
+# AI/tech news" feed — major publications outrank vendor/official blogs,
+# which outrank smaller newsletters. Purely a prominence signal, not trust.
+MAIN_SOURCE_WEIGHT = {1: 2, 2: 3, 3: 1}
+
+# Topic tabs: weights source authority for company-specific relevance —
+# official/vendor sources (tier 1) matter most here, since they're the
+# ones actually documenting the tools you use.
+TOPIC_SOURCE_WEIGHT = {1: 2, 2: 1, 3: 0}
+
 MAIN_FEED_TOP_N = 10
 TOPIC_TOP_N = 5
 NOTIFICATION_TOP_N = 5        # how many items go into the Teams/email brief
@@ -213,13 +209,21 @@ def merge_into_history(existing_history, new_items, now):
 
     cutoff = now - timedelta(days=HISTORY_RETENTION_DAYS)
     pruned = []
+    dropped_stale_sources = 0
     for h in by_link.values():
+        if h.get("source") not in FEEDS:
+            # Source was removed from config (e.g. arXiv) — purge immediately
+            # rather than waiting up to 31 days for it to age out.
+            dropped_stale_sources += 1
+            continue
         reference_date = (
             datetime.fromisoformat(h["published"]) if h.get("published")
             else datetime.fromisoformat(h["first_seen"])
         )
         if reference_date >= cutoff:
             pruned.append(h)
+    if dropped_stale_sources:
+        print(f"Purged {dropped_stale_sources} history item(s) from sources no longer in FEEDS.")
     return pruned
 
 
@@ -234,89 +238,95 @@ def save_history(history):
 # ---------------------------------------------------------------------------
 
 def _count_hits(text, words):
-    return sum(1 for w in words if w in text)
+    """Whole-word/phrase matching via regex word boundaries — a naive
+    substring check let short keywords like 'rag' match inside unrelated
+    words (e.g. 'encouRAGement'), which was a real bug. This also handles
+    multi-word phrases correctly since \\b anchors both ends."""
+    count = 0
+    for w in words:
+        if re.search(r"\b" + re.escape(w.strip()) + r"\b", text):
+            count += 1
+    return count
 
 
-def score_item_for_topic(item, topic_name, now):
-    text = f"{item['title']} {item['summary']}".lower()
+def is_routine_update(text):
+    """Routine vendor housekeeping (visual tweaks, sample templates) unless
+    it's paired with a genuinely major-update signal."""
+    has_routine_signal = _count_hits(text, ROUTINE_UPDATE_KEYWORDS) > 0
+    has_major_signal = _count_hits(text, MAJOR_UPDATE_KEYWORDS) > 0
+    return has_routine_signal and not has_major_signal
 
-    theme_score = min(3, _count_hits(text, TOPIC_KEYWORDS[topic_name]))
-    industrial_score = min(3, _count_hits(text, INDUSTRIAL_KEYWORDS))
-    action_score = min(2, _count_hits(text, ACTIONABILITY_KEYWORDS))
-    euro_score = min(2, _count_hits(text, EUROPEAN_KEYWORDS))
-    tier = item.get("source_tier", 3)
-    trust_score = {1: 2, 2: 1, 3: 0}.get(tier, 0)
 
+def _recency_bonus(item, now):
+    """Purely additive: recent gets a bonus, older gets none — never a penalty."""
     published = datetime.fromisoformat(item["published"]) if item.get("published") else None
-    hours_ago = (now - published).total_seconds() / 3600 if published else None
-    novelty_score = 1 if (hours_ago is not None and hours_ago <= 24) else 0
-
-    risk_score = 1 if _count_hits(text, RISK_KEYWORDS) > 0 else 0
-    bridge_score = min(2, _count_hits(text, INTERNAL_TOOLS))
-
-    total = (theme_score + industrial_score + action_score + euro_score
-             + trust_score + novelty_score + risk_score + bridge_score)
-
-    breakdown = {
-        "theme": theme_score, "industrial": industrial_score, "action": action_score,
-        "european": euro_score, "trust": trust_score, "novelty": novelty_score,
-        "risk": risk_score, "bridge": bridge_score, "tier": tier,
-    }
-    return total, breakdown
+    if not published:
+        return 0
+    hours_ago = (now - published).total_seconds() / 3600
+    if hours_ago <= 6:
+        return 3
+    if hours_ago <= 24:
+        return 2
+    if hours_ago <= 48:
+        return 1
+    return 0
 
 
-def is_confident(total, topic_name, breakdown):
-    """This is now a DISPLAY signal, not an inclusion gate — see rank_for_topic
-    and rank_for_main_feed below. A 'confident' match meets the document's
-    original ≥10/16 threshold or its stated regulatory/Microsoft-platform
-    exception; anything else that still gets shown is the best available
-    genuinely on-topic story, just flagged as lower confidence."""
-    if total >= SCORE_THRESHOLD:
-        return True
-    if breakdown["european"] >= 2:
-        return True
-    if (topic_name in ("Digital Tools", "Artificial Intelligence")
-            and breakdown["tier"] == 1 and breakdown["theme"] >= 2 and breakdown["bridge"] >= 1):
-        return True
-    return False
+def _magnitude_bonus(text):
+    return min(3, _count_hits(text, MAGNITUDE_KEYWORDS))
+
+
+def score_for_main(item, now):
+    """General 'exciting AI/tech news' score — no topic-match requirement,
+    no penalties. Prominent publications + recency + big-story language."""
+    text = f"{item['title']} {item['summary']}".lower()
+    tier = item.get("source_tier", 3)
+    return MAIN_SOURCE_WEIGHT.get(tier, 1) + _recency_bonus(item, now) + (_magnitude_bonus(text) * 2)
+
+
+def score_for_topic(item, topic_name, now):
+    """Company-specific relevance score for one topic. Still purely additive."""
+    text = f"{item['title']} {item['summary']}".lower()
+    theme_score = min(3, _count_hits(text, TOPIC_KEYWORDS[topic_name]))
+    tier = item.get("source_tier", 3)
+    tier_score = TOPIC_SOURCE_WEIGHT.get(tier, 0)
+    return (theme_score * 2) + tier_score + _recency_bonus(item, now) + _magnitude_bonus(text), theme_score
+
+
+def best_topic_for_item(item, now):
+    """Which topic (if any) this item best matches — used only for the badge
+    shown on Main, never to exclude anything from Main."""
+    best_topic, best_theme = None, 0
+    for topic_name in TOPIC_KEYWORDS:
+        _, theme_score = score_for_topic(item, topic_name, now)
+        if theme_score > best_theme:
+            best_topic, best_theme = topic_name, theme_score
+    return best_topic or "Tech News"
 
 
 def rank_for_topic(items, topic_name, now, top_n):
-    """Ranks by rubric score, but never excludes purely on score — a
-    newspaper tab should stay populated. The one hard requirement is genuine
-    topical relevance (at least one real keyword hit for THIS topic), so an
-    unrelated high-trust story can't float into the wrong tab just because
-    it's well-sourced or recent."""
+    """Requires a genuine keyword match to this specific topic (so an
+    unrelated story can't get mislabeled) — this is a relevance check, not
+    a quality penalty. Otherwise purely rank-and-fill, no score cutoff."""
     scored = []
     for item in items:
-        total, breakdown = score_item_for_topic(item, topic_name, now)
-        if breakdown["theme"] == 0:
-            continue  # no genuine relevance to this specific topic — skip
-        scored.append({
-            **item, "score": total, "score_breakdown": breakdown, "topic": topic_name,
-            "confident": is_confident(total, topic_name, breakdown),
-        })
+        total, theme_score = score_for_topic(item, topic_name, now)
+        if theme_score == 0:
+            continue
+        scored.append({**item, "score": total, "topic": topic_name})
     scored.sort(key=lambda i: i["score"], reverse=True)
     return scored[:top_n]
 
 
 def rank_for_main_feed(items, now, top_n):
-    """Each item's best-matching topic determines its badge. Requires the
-    item's best topic to have at least one real keyword hit — otherwise it's
-    not genuinely digitalisation news at all, regardless of source trust."""
+    """The front page: any big AI/tech story from a reputable source
+    qualifies, regardless of whether it maps onto one of the 6 company
+    topics. Ranked purely on prominence + recency + big-story language."""
     scored = []
     for item in items:
-        best_total, best_breakdown, best_topic = -1, None, None
-        for topic_name in TOPIC_KEYWORDS:
-            total, breakdown = score_item_for_topic(item, topic_name, now)
-            if total > best_total:
-                best_total, best_breakdown, best_topic = total, breakdown, topic_name
-        if best_breakdown["theme"] == 0:
-            continue  # doesn't genuinely match any topic
-        scored.append({
-            **item, "score": best_total, "score_breakdown": best_breakdown, "topic": best_topic,
-            "confident": is_confident(best_total, best_topic, best_breakdown),
-        })
+        score = score_for_main(item, now)
+        topic_badge = best_topic_for_item(item, now)
+        scored.append({**item, "score": score, "topic": topic_badge})
     scored.sort(key=lambda i: i["score"], reverse=True)
     return scored[:top_n]
 
@@ -351,9 +361,8 @@ def _item_to_json(item):
         "source": item["source"],
         "published_display": published.strftime("%Y-%m-%d %H:%M UTC") if published else "Date unavailable",
         "topic": item["topic"],
-        "score": item["score"],
-        "confident": item.get("confident", False),
     }
+
 
 
 def build_html(views, generated_at):
@@ -395,7 +404,7 @@ def build_html(views, generated_at):
 </head>
 <body>
   <h1>Digitalisation News Brief</h1>
-  <div class="generated">Generated {generated_at.strftime('%Y-%m-%d %H:%M UTC')} — approximate scoring against the company relevance rubric; see README for what this heuristic can and can't judge.</div>
+  <div class="generated">Generated {generated_at.strftime('%Y-%m-%d %H:%M UTC')} — Main ranks by prominence and recency; topic tabs rank by relevance to your work.</div>
 
   <div class="controls" id="topic-tabs">{tab_buttons}</div>
   <div class="controls window-row" id="window-tabs">
@@ -422,7 +431,7 @@ def build_html(views, generated_at):
     const items = (newsData[currentWindow] && newsData[currentWindow][currentTopic]) || [];
     const container = document.getElementById('news-list');
     if (items.length === 0) {{
-      container.innerHTML = '<div class="empty">No qualifying stories for this topic/window yet.</div>';
+      container.innerHTML = '<div class="empty">No stories yet.</div>';
       return;
     }}
     container.innerHTML = items.map((item, idx) => `
@@ -432,14 +441,10 @@ def build_html(views, generated_at):
           <span class="badge">${{escapeHtml(item.topic)}}</span>
           <h2><a href="${{item.link}}" target="_blank" rel="noopener">${{escapeHtml(item.title)}}</a></h2>
           <p>${{escapeHtml(item.summary)}}</p>
-          <div class="meta">Source: ${{escapeHtml(item.source)}} — ${{item.published_display}} — score ${{item.score}}/16</div>
-          ${{!item.confident ? '<div class="meta" style="color:#b45309;">Lower-confidence match — included to fill the list, weaker fit on the rubric</div>' : ''}}
+          <div class="meta">Source: ${{escapeHtml(item.source)}} — ${{item.published_display}}</div>
         </div>
       </div>
     `).join('');
-    if (items.length < (currentTopic === 'Main' ? 10 : 5)) {{
-      container.innerHTML += `<div class="empty">Only ${{items.length}} qualifying ${{items.length === 1 ? 'story' : 'stories'}} found for this topic/window — not enough genuinely on-topic content yet, rather than a display error.</div>`;
-    }}
   }}
 
   document.getElementById('topic-tabs').addEventListener('click', (e) => {{
@@ -550,7 +555,7 @@ def main():
     print("Wrote docs/index.html, docs/feed.xml, docs/data/history.json.")
     print("\nToday's Main Feed:")
     for item in views["today"]["Main"]:
-        print(f" - [{item['topic']}] {item['title']} (score {item['score']}/16, {item['source']})")
+        print(f" - [{item['topic']}] {item['title']} ({item['source']})")
 
 
 if __name__ == "__main__":

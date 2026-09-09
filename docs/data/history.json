@@ -1168,5 +1168,176 @@
     "summary": "The rise of AI has brought an avalanche of new terms and slang. Here is a glossary with definitions of some of the most important words and phrases you might encounter.",
     "published": "2026-09-07T19:24:00+00:00",
     "first_seen": "2026-09-08T06:19:55.631730+00:00"
+  },
+  {
+    "source": "MIT Technology Review",
+    "source_tier": 2,
+    "title": "What OpenAI\u2019s latest controversy tells us about the future of math",
+    "link": "https://www.technologyreview.com/2026/09/08/1143747/what-openais-latest-controversy-tells-us-about-the-future-of-math/",
+    "summary": "OpenAI\u2019s latest mathematical milestone has quickly become mired in controversy. Today, the company announced that its agents have solved one of the Millennium Prize Problems, some of the most important open problems in mathematics. Under normal circumstances, that solution would ",
+    "published": "2026-09-09T03:10:08+00:00",
+    "first_seen": "2026-09-09T06:20:19.713763+00:00"
+  },
+  {
+    "source": "MIT Technology Review",
+    "source_tier": 2,
+    "title": "The Download: our 35 Innovators Under 35 this year",
+    "link": "https://www.technologyreview.com/2026/09/08/1143615/the-download-35-innovators-under-35-spiderwebs-measuring-nature/",
+    "summary": "This is today\u2019s edition of The Download, our weekday newsletter that provides a daily dose of what\u2019s going on in the world of technology. Introducing our 35 Innovators Under 35 list for 2026 What will the next generation of science and technology look like? Our latest Innovators ",
+    "published": "2026-09-08T12:10:00+00:00",
+    "first_seen": "2026-09-09T06:20:19.713763+00:00"
+  },
+  {
+    "source": "MIT Technology Review",
+    "source_tier": 2,
+    "title": "This founder is teaching chips how to recycle (their energy)",
+    "link": "https://www.technologyreview.com/2026/09/08/1142079/hannah-earley-computer-chips-recycle-energy/",
+    "summary": "Throughout the history of the computer chip, engineers have treated waste heat as an inevitable cost of a calculation. Hannah Earley, however, thinks it\u2019s a design choice. Earley, 31, is cofounder and chief technology officer of Vaire Computing, a startup building chips that recy",
+    "published": "2026-09-08T10:36:00+00:00",
+    "first_seen": "2026-09-09T06:20:19.713763+00:00"
+  },
+  {
+    "source": "MIT Technology Review",
+    "source_tier": 2,
+    "title": "This AI entrepreneur is developing agents that can plan ahead for the unexpected",
+    "link": "https://www.technologyreview.com/2026/09/08/1142088/danijar-hafner-developing-plan-ahead-agents/",
+    "summary": "Danijar Hafner\u2019s office in San Francisco\u2019s SoMa district sits mostly empty. His brand-new startup is still in stealth mode and doesn\u2019t even have its name on the door. On the day I visit, there\u2019s only one other person there, and little in the way of furniture. But what it lacks in",
+    "published": "2026-09-08T10:34:00+00:00",
+    "first_seen": "2026-09-09T06:20:19.713763+00:00"
+  },
+  {
+    "source": "MIT Technology Review",
+    "source_tier": 2,
+    "title": "This founder is making cheaper, cleaner steel",
+    "link": "https://www.technologyreview.com/2026/09/08/1142094/laureen-meroueh-makes-cheaper-cleaner-steel/",
+    "summary": "The steel industry isn\u2019t exactly known for innovation. Very little has changed about purifying iron ore since the process was invented and commercialized in the 1850s. The majority of steelmakers melt solid iron ore at dizzyingly high temperatures inside blast furnaces, where the",
+    "published": "2026-09-08T10:33:00+00:00",
+    "first_seen": "2026-09-09T06:20:19.713763+00:00"
+  },
+  {
+    "source": "MIT Technology Review",
+    "source_tier": 2,
+    "title": "This geneticist\u2019s age-reversal tech could help restore sight",
+    "link": "https://www.technologyreview.com/2026/09/08/1142074/yuancheng-ryan-lu-age-reversal-tech-restores-sight/",
+    "summary": "Yuancheng (Ryan) Lu is obsessed with aging. And with eyes. As he steps outside the Whitehead Institute in Cambridge, Massachusetts, his aviator glasses darken automatically in the sun. Age-related blindness runs in his family. A great-aunt in China, the story goes, was killed cro",
+    "published": "2026-09-08T10:32:00+00:00",
+    "first_seen": "2026-09-09T06:20:19.713763+00:00"
+  },
+  {
+    "source": "TechCrunch AI",
+    "source_tier": 2,
+    "title": "Hackers are stealing Claude tokens from subscribers",
+    "link": "https://techcrunch.com/2026/09/08/hackers-are-stealing-claude-tokens-from-subscribers/",
+    "summary": "Last month, a Claude user noticed his account was consuming tokens even though he wasn't working. Anthropic has since warned users about hackers.",
+    "published": "2026-09-08T21:10:27+00:00",
+    "first_seen": "2026-09-09T06:20:19.713763+00:00"
+  },
+  {
+    "source": "TechCrunch AI",
+    "source_tier": 2,
+    "title": "Cognition hits $48B valuation, signaling investors believe AI coding is far from a winner-take-all market",
+    "link": "https://techcrunch.com/2026/09/08/cognition-hits-48b-valuation-signaling-investors-believe-ai-coding-is-far-from-a-winner-take-all-market/",
+    "summary": "Cognition's valuation multiple is higher than Cursor's was before selling to SpaceX.",
+    "published": "2026-09-08T21:04:06+00:00",
+    "first_seen": "2026-09-09T06:20:19.713763+00:00"
+  },
+  {
+    "source": "TechCrunch AI",
+    "source_tier": 2,
+    "title": "Meta debuts its Muse AI agent. Will consumers trust it?",
+    "link": "https://techcrunch.com/2026/09/08/meta-debuts-its-muse-ai-agent-will-consumers-trust-it/",
+    "summary": "Meta's new personal AI agent Muse wants access to users' email, calendars, payments, health services, and more \u2014 making the company's biggest consumer AI bet yet a major test of whether people still trust Meta with their data.",
+    "published": "2026-09-08T19:00:00+00:00",
+    "first_seen": "2026-09-09T06:20:19.713763+00:00"
+  },
+  {
+    "source": "TechCrunch AI",
+    "source_tier": 2,
+    "title": "OpenAI fought dirty on career-making math problem, says NYU mathematician",
+    "link": "https://techcrunch.com/2026/09/08/openai-fought-dirty-on-career-making-math-problem-says-nyu-mathematician/",
+    "summary": "There is a $1 million bounty for the first person providing a solution to the Navier-Stokes existence and smoothness problem.",
+    "published": "2026-09-08T17:32:15+00:00",
+    "first_seen": "2026-09-09T06:20:19.713763+00:00"
+  },
+  {
+    "source": "TechCrunch AI",
+    "source_tier": 2,
+    "title": "Google Cloud races to catch up in the AI deployment wars with Accenture deal",
+    "link": "https://techcrunch.com/2026/09/08/google-cloud-races-to-catch-up-in-the-ai-deployment-wars-with-accenture-deal/",
+    "summary": "Google Cloud expands its enterprise AI push with Accenture, betting on forward-deployed engineers to drive adoption and overcome deployment bottlenecks.",
+    "published": "2026-09-08T16:20:31+00:00",
+    "first_seen": "2026-09-09T06:20:19.713763+00:00"
+  },
+  {
+    "source": "TechCrunch AI",
+    "source_tier": 2,
+    "title": "Chrome is now shipping updates every 2 weeks as AI changes the security landscape",
+    "link": "https://techcrunch.com/2026/09/08/chrome-is-now-shipping-updates-every-2-weeks-as-ai-changes-the-security-landscape/",
+    "summary": "Google is speeding up Chrome\u2019s release schedule to ship security patches and new features faster.",
+    "published": "2026-09-08T15:04:09+00:00",
+    "first_seen": "2026-09-09T06:20:19.713763+00:00"
+  },
+  {
+    "source": "TechCrunch AI",
+    "source_tier": 2,
+    "title": "Mistral raises \u20ac3B as sovereign AI becomes big business",
+    "link": "https://techcrunch.com/2026/09/08/mistral-raises-e3b-as-sovereign-ai-becomes-big-business/",
+    "summary": "The French AI lab has raised \u20ac3 billion at a \u20ac21 billion valuation in a Series D round led by Samsung, Scaleup Europe, and PSG Equity.",
+    "published": "2026-09-08T14:17:48+00:00",
+    "first_seen": "2026-09-09T06:20:19.713763+00:00"
+  },
+  {
+    "source": "The Verge AI",
+    "source_tier": 2,
+    "title": "Drama swirls around OpenAI\u2019s legendary mathematical milestone",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/991710/openai-navier-stokes-solution",
+    "summary": "OpenAI says it found a solution to a major math problem that has remained unsolved for around 90 years, as reported earlier by The New York Times and Wired. In a blog post on Tuesday, OpenAI announced that it discovered a solution to the Navier-Stokes problem - which relates to t",
+    "published": "2026-09-08T20:53:52+00:00",
+    "first_seen": "2026-09-09T06:20:19.713763+00:00"
+  },
+  {
+    "source": "The Verge AI",
+    "source_tier": 2,
+    "title": "ChatGPT Sketch turns your bad drawings into detailed AI images",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/991727/openai-chatgpt-images-2-5-sketch",
+    "summary": "OpenAI announced ChatGPT Images 2.5 on Tuesday and is adding a new way to tell ChatGPT what you want it to make an image of: by drawing a doodle. With a new feature called Sketch, you can just draw something right inside ChatGPT and then tell ChatGPT how you want it to make an im",
+    "published": "2026-09-08T20:16:09+00:00",
+    "first_seen": "2026-09-09T06:20:19.713763+00:00"
+  },
+  {
+    "source": "The Verge AI",
+    "source_tier": 2,
+    "title": "Meta bets on AI agent Muse to catch up in AI race",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/991216/meta-bets-on-ai-agent-muse-to-catch-up-in-ai-race",
+    "summary": "Meta is making another push to bring artificial intelligence to the masses with Muse, a personal assistant it says can put AI in the hands of virtually anyone. The product is the latest step in a multi-billion-dollar strategy overhaul designed to revitalize the company's ailing p",
+    "published": "2026-09-08T19:00:00+00:00",
+    "first_seen": "2026-09-09T06:20:19.713763+00:00"
+  },
+  {
+    "source": "The Verge AI",
+    "source_tier": 2,
+    "title": "AI power users claim Anthropic duped them with subscriptions, and they\u2019re taking it to court",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/990313/anthropic-class-action-lawsuit-pricing-subscription-plans",
+    "summary": "Anthropic says power users are key to its business - it's prioritized them even when it means cutting off other popular applications, like OpenClaw. But some of these same customers say Anthropic misled them into believing they'd get more out of a top-tier pricing subscription th",
+    "published": "2026-09-08T17:27:31+00:00",
+    "first_seen": "2026-09-09T06:20:19.713763+00:00"
+  },
+  {
+    "source": "The Verge AI",
+    "source_tier": 2,
+    "title": "Google\u2019s Atlas of the human genome could pave the way for new treatments",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/991180/google-launches-alpha-genome-atlas",
+    "summary": "Google DeepMind has unveiled an AI tool that its scientists claim could help unravel the mysteries of the human genome and transform our understanding of biology, accelerating scientific research and ultimately paving the way for new treatments for diseases. The platform, called ",
+    "published": "2026-09-08T14:00:00+00:00",
+    "first_seen": "2026-09-09T06:20:19.713763+00:00"
+  },
+  {
+    "source": "The Verge AI",
+    "source_tier": 2,
+    "title": "Adobe is trying to make its AI generators idiot-proof in Premiere",
+    "link": "https://www.theverge.com/tech/991133/adobe-is-trying-to-make-its-ai-generators-idiot-proof-in-premiere",
+    "summary": "Adobe is overhauling how editors interact with AI in its Premiere professional video editing software. Its new Generative Media tool makes it easier to generate video, sound effects, music, and soundscapes without ever leaving the project timeline. The generators themselves aren'",
+    "published": "2026-09-08T13:00:00+00:00",
+    "first_seen": "2026-09-09T06:20:19.713763+00:00"
   }
 ]

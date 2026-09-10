@@ -1339,5 +1339,275 @@
     "summary": "Adobe is overhauling how editors interact with AI in its Premiere professional video editing software. Its new Generative Media tool makes it easier to generate video, sound effects, music, and soundscapes without ever leaving the project timeline. The generators themselves aren'",
     "published": "2026-09-08T13:00:00+00:00",
     "first_seen": "2026-09-09T06:20:19.713763+00:00"
+  },
+  {
+    "source": "MIT Technology Review",
+    "source_tier": 2,
+    "title": "The Download: OpenAI\u2019s turning point for math and a battery record",
+    "link": "https://www.technologyreview.com/2026/09/09/1143767/the-download-openai-math-future-battery-record/",
+    "summary": "This is today\u2019s edition of The Download, our weekday newsletter that provides a daily dose of what\u2019s going on in the world of technology. What OpenAI\u2019s latest controversy tells us about the future of math OpenAI says its agents have solved one of the most important open problems ",
+    "published": "2026-09-09T12:10:00+00:00",
+    "first_seen": "2026-09-10T06:20:32.262104+00:00"
+  },
+  {
+    "source": "MIT Technology Review",
+    "source_tier": 2,
+    "title": "Batteries just broke another record in the US",
+    "link": "https://www.technologyreview.com/2026/09/09/1143680/batteries-us-record/",
+    "summary": "Battery installations hit a new record in the US in the second quarter of 2026. In total, 20.2 gigawatt-hours of new capacity came online, according to a new report. That\u2019s enough to supply the daily electricity needs of about 700,000 homes. The surge is putting the country on a ",
+    "published": "2026-09-09T09:00:00+00:00",
+    "first_seen": "2026-09-10T06:20:32.262104+00:00"
+  },
+  {
+    "source": "MIT Technology Review",
+    "source_tier": 2,
+    "title": "Understanding the thermal ceiling in portable power",
+    "link": "https://www.technologyreview.com/2026/09/09/1143279/understanding-the-thermal-ceiling-in-portable-power/",
+    "summary": "Plug a phone into a modern charger and the first 10 minutes are impressive. The next 20 are not. This is not a defect. It\u2019s the connected device protecting itself. As temperature rises during charging, a smartphone\u2019s battery management system reduces the current it will accept, b",
+    "published": "2026-09-09T08:18:13+00:00",
+    "first_seen": "2026-09-10T06:20:32.262104+00:00"
+  },
+  {
+    "source": "TechCrunch AI",
+    "source_tier": 2,
+    "title": "AI research startup Listen Labs scrubbed a $1.5B funding round for Salesforce talks",
+    "link": "https://techcrunch.com/2026/09/09/ai-research-startup-listen-labs-scrubbed-a-1-5b-funding-round-for-salesforce-talks/",
+    "summary": "Listen Labs walked away from a signed Series C term sheet from Menlo Ventures, sources say.",
+    "published": "2026-09-10T00:00:37+00:00",
+    "first_seen": "2026-09-10T06:20:32.262104+00:00"
+  },
+  {
+    "source": "TechCrunch AI",
+    "source_tier": 2,
+    "title": "OpenAI adds a prominent AI doomer to its board of directors",
+    "link": "https://techcrunch.com/2026/09/09/openai-adds-a-prominent-ai-doomer-to-its-board-of-directors/",
+    "summary": "Paul Christiano, an influential AI researcher focused on alignment, is joining the OpenAI Foundation as a member of its board.",
+    "published": "2026-09-09T22:25:22+00:00",
+    "first_seen": "2026-09-10T06:20:32.262104+00:00"
+  },
+  {
+    "source": "TechCrunch AI",
+    "source_tier": 2,
+    "title": "Massachusetts hits data centers with new clean power rules",
+    "link": "https://techcrunch.com/2026/09/09/massachusetts-hits-data-centers-with-new-clean-power-rules/",
+    "summary": "Massachusetts has become the third state in as many months to slap new restrictions on data center development.",
+    "published": "2026-09-09T21:43:34+00:00",
+    "first_seen": "2026-09-10T06:20:32.262104+00:00"
+  },
+  {
+    "source": "TechCrunch AI",
+    "source_tier": 2,
+    "title": "Apple Watch\u2019s new AI features are normalizing the idea that technology is always listening",
+    "link": "https://techcrunch.com/2026/09/09/apple-watchs-new-ai-features-are-normalizing-the-idea-that-technology-is-always-listening/",
+    "summary": "Apple says its new watches won\u2019t save raw audio, but features that can transcribe recent speech and summarize ambient conversations raise new questions about consent, privacy, and how people behave when they know they could always be recorded.",
+    "published": "2026-09-09T20:24:48+00:00",
+    "first_seen": "2026-09-10T06:20:32.262104+00:00"
+  },
+  {
+    "source": "TechCrunch AI",
+    "source_tier": 2,
+    "title": "Everything Apple announced at its fall iPhone event, from the foldable iPhone Duo to an always-listening Apple Watch",
+    "link": "https://techcrunch.com/2026/09/09/everything-apple-announced-at-its-fall-iphone-event-from-the-foldable-iphone-duo-to-an-always-listening-apple-watch/",
+    "summary": "The main event was the tech giant's highly anticipated first foldable phone, the iPhone Duo.",
+    "published": "2026-09-09T20:03:43+00:00",
+    "first_seen": "2026-09-10T06:20:32.262104+00:00"
+  },
+  {
+    "source": "TechCrunch AI",
+    "source_tier": 2,
+    "title": "The hinge for Apple\u2019s new foldable phone was built with AI",
+    "link": "https://techcrunch.com/2026/09/09/the-hinge-for-apples-new-foldable-phone-was-built-with-ai/",
+    "summary": "Apple says it used AI and 3D printing in the manufacturing process for its long-awaited foldable phone.",
+    "published": "2026-09-09T19:21:48+00:00",
+    "first_seen": "2026-09-10T06:20:32.262104+00:00"
+  },
+  {
+    "source": "TechCrunch AI",
+    "source_tier": 2,
+    "title": "Apple\u2019s revamped Health app will calculate your \u2018health age\u2019 and readiness score",
+    "link": "https://techcrunch.com/2026/09/09/apples-revamped-health-app-will-calculate-your-health-age-and-readiness-score/",
+    "summary": "The update uses Apple Intelligence to make better sense of your health data.",
+    "published": "2026-09-09T18:16:29+00:00",
+    "first_seen": "2026-09-10T06:20:32.262104+00:00"
+  },
+  {
+    "source": "TechCrunch AI",
+    "source_tier": 2,
+    "title": "Apple has a new way to prove your iPhone photos aren\u2019t AI slop",
+    "link": "https://techcrunch.com/2026/09/09/apple-has-a-new-way-prove-your-iphone-photos-arent-ai-slop/",
+    "summary": "Apple introduced Apple Reference Image to help users determine whether photos have been edited, including alterations made by AI.",
+    "published": "2026-09-09T18:08:35+00:00",
+    "first_seen": "2026-09-10T06:20:32.262104+00:00"
+  },
+  {
+    "source": "TechCrunch AI",
+    "source_tier": 2,
+    "title": "Apple CEO John Ternus says the best AI device is still the iPhone",
+    "link": "https://techcrunch.com/2026/09/09/apple-ceo-john-ternus-says-the-best-ai-device-is-still-the-iphone/",
+    "summary": "The company also argued that its on-device models offer consumers more privacy.",
+    "published": "2026-09-09T17:36:05+00:00",
+    "first_seen": "2026-09-10T06:20:32.262104+00:00"
+  },
+  {
+    "source": "TechCrunch AI",
+    "source_tier": 2,
+    "title": "Superintelligence is coming. Should we let it?",
+    "link": "https://techcrunch.com/video/superintelligence-is-coming-should-we-let-it/",
+    "summary": "AI companies have been talking about superintelligent AI like\u00a0it\u2019s\u00a0inevitable, but recent\u00a0safety incidents\u00a0like\u00a0OpenAI\u2019s\u00a0Hugging Face breach\u00a0are\u00a0demonstrating\u00a0the potential dangers of deploying AI systems that are more capable than\u00a0humans.\u00a0So\u00a0what happens when we\u00a0can\u2019t\u00a0reliably c",
+    "published": "2026-09-09T16:05:35+00:00",
+    "first_seen": "2026-09-10T06:20:32.262104+00:00"
+  },
+  {
+    "source": "TechCrunch AI",
+    "source_tier": 2,
+    "title": "ControlAI\u2019s\u00a0Connor Leahy on why superintelligence is \u2018not a weapon, it\u2019s an adversary\u2019",
+    "link": "https://techcrunch.com/podcast/controlais-connor-leahy-on-why-superintelligence-is-not-a-weapon-its-an-adversary/",
+    "summary": "AI companies have been talking about superintelligent AI like\u00a0it\u2019s\u00a0inevitable, but recent\u00a0safety incidents\u00a0like\u00a0OpenAI\u2019s\u00a0Hugging Face breach\u00a0are\u00a0demonstrating\u00a0the potential dangers of deploying AI systems that are more capable than\u00a0humans.\u00a0So\u00a0what happens when we\u00a0can\u2019t\u00a0reliably c",
+    "published": "2026-09-09T15:50:13+00:00",
+    "first_seen": "2026-09-10T06:20:32.262104+00:00"
+  },
+  {
+    "source": "TechCrunch AI",
+    "source_tier": 2,
+    "title": "Viral AI assistant Instinct now has its own email address",
+    "link": "https://techcrunch.com/2026/09/09/viral-ai-assistant-instinct-now-has-its-own-email-address/",
+    "summary": "Instinct\u2019s new email feature lets the AI agent create and manage accounts, contact businesses, handle support requests, and do more on users' behalf.",
+    "published": "2026-09-09T15:13:12+00:00",
+    "first_seen": "2026-09-10T06:20:32.262104+00:00"
+  },
+  {
+    "source": "TechCrunch AI",
+    "source_tier": 2,
+    "title": "\u2018Gambling with our lives\u2019: Anthropic researcher quits, warns against self-improving AI",
+    "link": "https://techcrunch.com/2026/09/09/gambling-with-our-lives-anthropic-researcher-quits-warns-against-self-improving-ai/",
+    "summary": "Anthropic researcher Jacob Coxon resigned over AI extinction fears, calling for pacing agreements between labs.",
+    "published": "2026-09-09T15:02:47+00:00",
+    "first_seen": "2026-09-10T06:20:32.262104+00:00"
+  },
+  {
+    "source": "TechCrunch AI",
+    "source_tier": 2,
+    "title": "Shipt becomes the latest delivery app with an AI shopping assistant",
+    "link": "https://techcrunch.com/2026/09/09/shipt-becomes-the-latest-delivery-app-with-an-ai-shopping-assistant/",
+    "summary": "Users can ask the assistant to do things like \"Create a cart for my Saturday tailgate for 25 people and include some brunch items,\"\u00a0or\u00a0\"Build a cart for easy school lunches and after-school snacks,\" Shipt says.",
+    "published": "2026-09-09T14:51:45+00:00",
+    "first_seen": "2026-09-10T06:20:32.262104+00:00"
+  },
+  {
+    "source": "TechCrunch AI",
+    "source_tier": 2,
+    "title": "AI spend per employee slumped at top firms in August \u2014 summer doldrums or a warning sign?",
+    "link": "https://techcrunch.com/2026/09/09/ai-spend-per-employee-slumped-at-top-firms-in-august-summer-doldrums-or-a-warning-sign/",
+    "summary": "Falling token costs, cheaper models, and less spend per employee \u2014 AI adoption isn't playing out the way hyperscalers hoped.",
+    "published": "2026-09-09T14:18:34+00:00",
+    "first_seen": "2026-09-10T06:20:32.262104+00:00"
+  },
+  {
+    "source": "TechCrunch AI",
+    "source_tier": 2,
+    "title": "Sequoia doubles down on Cymphony as AI agents create new enterprise security risks",
+    "link": "https://techcrunch.com/2026/09/09/sequoia-doubles-down-on-cymphony-as-ai-agents-create-new-enterprise-security-risks/",
+    "summary": "Cymphony gives security teams a single view of employees, AI agents, and other nonhuman identities, including the systems and sensitive data they can access.",
+    "published": "2026-09-09T13:00:00+00:00",
+    "first_seen": "2026-09-10T06:20:32.262104+00:00"
+  },
+  {
+    "source": "TechCrunch AI",
+    "source_tier": 2,
+    "title": "Instacart launches an AI grocery shopping assistant called Clementine",
+    "link": "https://techcrunch.com/2026/09/09/instacart-launches-an-ai-grocery-shopping-assistant-called-clementine/",
+    "summary": "Instacart is the latest app to bake a conversational AI assistant into its platform.",
+    "published": "2026-09-09T13:00:00+00:00",
+    "first_seen": "2026-09-10T06:20:32.262104+00:00"
+  },
+  {
+    "source": "TechCrunch AI",
+    "source_tier": 2,
+    "title": "Besxar is building an orbital semiconductor factory, one SpaceX rocket at a time",
+    "link": "https://techcrunch.com/2026/09/09/besxar-is-strapping-advanced-chip-fabs-onto-spacexs-falcon-9-rockets/",
+    "summary": "Besxar, a startup founded by former OpenAI staffer Ashley Pilipiszyn, wants to make the key precursors for advanced semiconductors by taking advantage of the vacuum of space.",
+    "published": "2026-09-09T12:30:00+00:00",
+    "first_seen": "2026-09-10T06:20:32.262104+00:00"
+  },
+  {
+    "source": "TechCrunch AI",
+    "source_tier": 2,
+    "title": "Suno replaces its AI models with a new one trained on licensed music as copyright suits pile up",
+    "link": "https://techcrunch.com/2026/09/09/suno-replaces-its-ai-models-with-a-new-one-trained-on-licensed-music-as-copyright-suits-pile-up/",
+    "summary": "As it grapples with a bevy of lawsuits, Suno said its new model, Suno v6, is not trained using music it used to train previous versions of the AI model.",
+    "published": "2026-09-09T12:05:34+00:00",
+    "first_seen": "2026-09-10T06:20:32.262104+00:00"
+  },
+  {
+    "source": "The Verge AI",
+    "source_tier": 2,
+    "title": "Suno releases its first AI music model made with record industry help",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/991977/suno-releases-its-first-ai-music-model-made-with-record-industry-help",
+    "summary": "Suno's new v6 AI music model is its first made with support from the record industry. Suno's Jack Brody told The Verge that v6 was \"trained from the ground up, with a new set of data that does not include the same data that our previous models were trained on.\" The data includes ",
+    "published": "2026-09-09T21:42:19+00:00",
+    "first_seen": "2026-09-10T06:20:32.262104+00:00"
+  },
+  {
+    "source": "The Verge AI",
+    "source_tier": 2,
+    "title": "OpenAI\u2019s sly mathematical breakthrough sends a chill through academia",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/992953/openai-math-millennium-prize-navier-stokes",
+    "summary": "OpenAI's announcement Tuesday that it has solved one of mathematics' legendary Millennium Prize problems should have been a moment of triumph. The result is both an undeniable achievement and a striking demonstration of just how rapidly AI is transforming mathematics. But before ",
+    "published": "2026-09-09T21:16:34+00:00",
+    "first_seen": "2026-09-10T06:20:32.262104+00:00"
+  },
+  {
+    "source": "The Verge AI",
+    "source_tier": 2,
+    "title": "Read the Apple document explaining how new listening features still protect your privacy",
+    "link": "https://www.theverge.com/tech/992919/apple-siri-ai-audio-intelligence-privacy",
+    "summary": "At Wednesday's iPhone Duo launch event, Apple announced a handful of new Siri AI Audio Intelligence features, including Siri Recap, Live Rewind, Sound Recognition, and Music Recognition. Alongside its announcement, Apple released a document laying out how it plans to balance AI \"",
+    "published": "2026-09-09T20:44:43+00:00",
+    "first_seen": "2026-09-10T06:20:32.262104+00:00"
+  },
+  {
+    "source": "The Verge AI",
+    "source_tier": 2,
+    "title": "Apple\u2019s new iPhone camera mode promises to prove your photo isn\u2019t AI",
+    "link": "https://www.theverge.com/tech/992766/apple-iphone-18-pro-reference-image",
+    "summary": "Apple is launching a new way to prove that the picture you took isn't manipulated by AI. A new feature, called \"Reference Image,\" will arrive with the iPhone 18 Pro lineup later this month and is supposed to use the device's new camera sensor to \"sign every pixel it sees.\" The iP",
+    "published": "2026-09-09T19:30:12+00:00",
+    "first_seen": "2026-09-10T06:20:32.262104+00:00"
+  },
+  {
+    "source": "The Verge AI",
+    "source_tier": 2,
+    "title": "Microsoft has new AI privacy rules for schools",
+    "link": "https://www.theverge.com/policy/992359/microsoft-aft-schools-ai-privacy",
+    "summary": "Microsoft agreed to a set of safety and privacy principles for AI in schools a week after two major school systems announced a ban on student-facing AI. In a new agreement with the American Federation of Teachers (AFT), the second-largest teachers union in the US, and its New Yor",
+    "published": "2026-09-09T17:07:48+00:00",
+    "first_seen": "2026-09-10T06:20:32.262104+00:00"
+  },
+  {
+    "source": "The Verge AI",
+    "source_tier": 2,
+    "title": "Amazon Prime Video\u2019s new AI tech matches lips to dubbed audio",
+    "link": "https://www.theverge.com/tech/991809/amazon-prime-video-ai-lip-sync-dubbing",
+    "summary": "Amazon's Prime Video is launching a new AI-powered feature that lines up an actor's mouth with \"human-dubbed\" audio. The feature is only available with the English dub of the German series Maxton Hall for now, but Prime Video plans to expand it to \"additional titles\" in the futur",
+    "published": "2026-09-09T13:00:00+00:00",
+    "first_seen": "2026-09-10T06:20:32.262104+00:00"
+  },
+  {
+    "source": "The Verge AI",
+    "source_tier": 2,
+    "title": "Students who use AI generally score worse at school",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/991956/student-ai-use-scores-oecd-pisa",
+    "summary": "Students who use AI to help them study tend to perform worse at school than those who don't, according to data from a global OECD educational report. The situation is more complex than it sounds though, with certain types of AI use giving learners a slight boost, especially among",
+    "published": "2026-09-09T12:05:01+00:00",
+    "first_seen": "2026-09-10T06:20:32.262104+00:00"
+  },
+  {
+    "source": "The Verge AI",
+    "source_tier": 2,
+    "title": "Worried Anthropic researchers warn that AI \u2018could kill all humans\u2019",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/991927/anthropic-ai-kill-all-humans",
+    "summary": "A senior Anthropic safety researcher has said there is more than a 10 percent chance artificial intelligence \"could kill all humans\" by the end of the decade, just hours after a colleague resigned over fears the AI lab and its rivals are carelessly racing to build \"superhuman sys",
+    "published": "2026-09-09T09:56:28+00:00",
+    "first_seen": "2026-09-10T06:20:32.262104+00:00"
   }
 ]

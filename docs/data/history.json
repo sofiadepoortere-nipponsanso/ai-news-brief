@@ -36,15 +36,6 @@
     "first_seen": "2026-09-02T11:16:42.453040+00:00"
   },
   {
-    "source": "European Commission Digital Strategy",
-    "source_tier": 1,
-    "title": "Join the Inaugural D-TECT Forum",
-    "link": "https://digital-strategy.ec.europa.eu/en/events/join-inaugural-d-tect-forum",
-    "summary": "Join the Inaugural D-TECT Forum\nlobacni\nMon, 08/10/2026 - 14:07\n\n\n\n  \n        \n              \n                              \n      \n      \u00a0\n      11 November 2026\n  \n  \n  \n\n                The Drone Tech for Countering Threats (D-TECT) Forum is the EU industrial coordination mech",
-    "published": "2026-08-10T12:07:00+00:00",
-    "first_seen": "2026-09-02T11:16:42.453040+00:00"
-  },
-  {
     "source": "Azure AI Blog",
     "source_tier": 1,
     "title": "The patch window is collapsing: Why security needs a new control plane",
@@ -114,15 +105,6 @@
     "link": "https://community.fabric.microsoft.com/t5/Power-BI-Updates-Blog/Direct-Lake-Calculated-Columns-Preview/ba-p/5357159",
     "summary": "Calculated columns are now available in preview for Direct Lake on OneLake semantic models. This has been one of the most requested capabilities since Direct Lake launched and closes a long-standing gap with Import and DirectQuery storage modes.You can define calculated columns d",
     "published": "2026-08-24T16:14:20+00:00",
-    "first_seen": "2026-09-02T11:16:42.453040+00:00"
-  },
-  {
-    "source": "Power BI Blog",
-    "source_tier": 1,
-    "title": "TMDL View on the web: Edit semantic models as code in your browser (Preview)",
-    "link": "https://community.fabric.microsoft.com/t5/Power-BI-Updates-Blog/TMDL-View-on-the-web-Edit-semantic-models-as-code-in-your/ba-p/5332653",
-    "summary": "TMDL View on the Web is a feature in Power BI that enables developers to view and edit semantic models as code directly in the browser using TMDL. It expands the Power BI web modelling experience by introducing a rich code editor for working with TMDL scripts\u2014giving pro developer",
-    "published": "2026-08-10T21:00:00+00:00",
     "first_seen": "2026-09-02T11:16:42.453040+00:00"
   },
   {
@@ -1609,5 +1591,203 @@
     "summary": "A senior Anthropic safety researcher has said there is more than a 10 percent chance artificial intelligence \"could kill all humans\" by the end of the decade, just hours after a colleague resigned over fears the AI lab and its rivals are carelessly racing to build \"superhuman sys",
     "published": "2026-09-09T09:56:28+00:00",
     "first_seen": "2026-09-10T06:20:32.262104+00:00"
+  },
+  {
+    "source": "Power BI Blog",
+    "source_tier": 1,
+    "title": "Power BI Q&A retirement reminder: February 2027 timeline update",
+    "link": "https://community.fabric.microsoft.com/t5/Power-BI-Updates-Blog/Power-BI-Q-A-retirement-reminder-February-2027-timeline-update/ba-p/5365841",
+    "summary": "In December, we announced the retirement of Power BI Q&A, our legacy natural-language querying experience, with retirement planned for December 2026. To give current Q&A user's additional time to assess their dependencies and transition to newer Copilot-powered solutions, we\u2019re e",
+    "published": "2026-09-10T16:00:00+00:00",
+    "first_seen": "2026-09-11T06:19:14.438364+00:00"
+  },
+  {
+    "source": "MIT Technology Review",
+    "source_tier": 2,
+    "title": "The Download: a \u201cGod-driven\u201d cryptocurrency and a solar engineering roadmap",
+    "link": "https://www.technologyreview.com/2026/09/10/1143828/the-download-christian-cryptocurrency-scandal-solar-engineering-roadmap/",
+    "summary": "This is today\u2019s edition of The Download, our weekday newsletter that provides a daily dose of what\u2019s going on in the world of technology. God told them to sell crypto. Their investors lost everything. When Eli Regalado first heard God speak to him, he wondered whether he was hall",
+    "published": "2026-09-10T12:10:00+00:00",
+    "first_seen": "2026-09-11T06:19:14.438364+00:00"
+  },
+  {
+    "source": "MIT Technology Review",
+    "source_tier": 2,
+    "title": "Powering AI is an architecture problem",
+    "link": "https://www.technologyreview.com/2026/09/10/1141649/powering-ai-is-an-architecture-problem/",
+    "summary": "On July 22, 2026, a transmission line fault in Ashburn, Virginia\u2014the heart of the world\u2019s largest data center cluster\u2014knocked more than 3 gigawatts of load off the grid in seconds. And it wasn\u2019t the first time. Two years earlier, a single failed surge arrester dropped roughly 60 ",
+    "published": "2026-09-10T11:00:00+00:00",
+    "first_seen": "2026-09-11T06:19:14.438364+00:00"
+  },
+  {
+    "source": "MIT Technology Review",
+    "source_tier": 2,
+    "title": "This road map could help us decide whether to deploy solar geoengineering",
+    "link": "https://www.technologyreview.com/2026/09/10/1143804/this-road-map-could-help-us-decide-whether-to-deploy-solar-geoengineering/",
+    "summary": "A San Francisco nonprofit has published a detailed road map of the experiments, studies, and infrastructure that it says would be needed to make informed decisions about the use of solar geoengineering, MIT Technology Review can reveal. Scientists have now spent half a century ex",
+    "published": "2026-09-10T11:00:00+00:00",
+    "first_seen": "2026-09-11T06:19:14.438364+00:00"
+  },
+  {
+    "source": "MIT Technology Review",
+    "source_tier": 2,
+    "title": "Can the US battery market untangle from China?",
+    "link": "https://www.technologyreview.com/2026/09/10/1143791/us-china-batteries/",
+    "summary": "The US is hitting records for the rapid growth of its energy storage market. That\u2019ll go a long way to shoring up the grid, increasing reliability and also cutting emissions, since batteries can help store energy from intermittent renewables like wind and solar. Crucially, this is",
+    "published": "2026-09-10T10:00:00+00:00",
+    "first_seen": "2026-09-11T06:19:14.438364+00:00"
+  },
+  {
+    "source": "MIT Technology Review",
+    "source_tier": 2,
+    "title": "God told them to sell crypto. Their investors lost everything.",
+    "link": "https://www.technologyreview.com/2026/09/10/1143588/indxcoin-god-regalados-sell-crypto-investors-lost-everything/",
+    "summary": "This article was produced in partnership with Type Investigations and with support from the Fund for Investigative Journalism. When Eli Regalado first heard God speak to him, he wondered whether he was hallucinating. Now he likens the experience to having \u201ca thought that is not m",
+    "published": "2026-09-10T09:00:00+00:00",
+    "first_seen": "2026-09-11T06:19:14.438364+00:00"
+  },
+  {
+    "source": "MIT Technology Review",
+    "source_tier": 2,
+    "title": "Healthcare AI\u2019s next test is integration",
+    "link": "https://www.technologyreview.com/2026/09/10/1141421/healthcare-ais-next-test-is-integration/",
+    "summary": "The entrance of major AI companies into healthcare is a meaningful and welcome development, accelerating the technical foundation available to the industry. Their models are increasingly capable of processing long clinical records, interpreting complex terminology, comparing docu",
+    "published": "2026-09-10T08:58:01+00:00",
+    "first_seen": "2026-09-11T06:19:14.438364+00:00"
+  },
+  {
+    "source": "TechCrunch AI",
+    "source_tier": 2,
+    "title": "Jensen Huang explains why Nvidia will grow an astounding 70% next year",
+    "link": "https://techcrunch.com/2026/09/10/jensen-huang-explains-why-nvidia-will-grow-an-astounding-70-next-year/",
+    "summary": "Nvidia has its finger in every pie, and sees another year of plenty in its future, Jensen Huang says. But, he insists, its deals are not circular.",
+    "published": "2026-09-10T21:51:59+00:00",
+    "first_seen": "2026-09-11T06:19:14.438364+00:00"
+  },
+  {
+    "source": "TechCrunch AI",
+    "source_tier": 2,
+    "title": "Mark Wahlberg is coming to TechCrunch Disrupt 2026, and he wants to talk about your work, not his",
+    "link": "https://techcrunch.com/2026/09/10/mark-wahlberg-is-coming-to-techcrunch-disrupt-2026/",
+    "summary": "Mark Wahlberg joins Bruce K. Lee at Disrupt to discuss investing, entrepreneurship, healthcare, wellness and building businesses.",
+    "published": "2026-09-10T21:35:00+00:00",
+    "first_seen": "2026-09-11T06:19:14.438364+00:00"
+  },
+  {
+    "source": "TechCrunch AI",
+    "source_tier": 2,
+    "title": "OpenAI puts Pro subscriptions on hold due to Astra demand",
+    "link": "https://techcrunch.com/2026/09/10/openai-puts-pro-subscriptions-on-hold-due-to-astra-demand/",
+    "summary": "The company said Pro subscriptions put the most strain on its systems, so it's pausing sign-ups while adding more capacity.",
+    "published": "2026-09-10T20:59:51+00:00",
+    "first_seen": "2026-09-11T06:19:14.438364+00:00"
+  },
+  {
+    "source": "TechCrunch AI",
+    "source_tier": 2,
+    "title": "Anthropic details distillation campaigns from Alibaba, Moonshot AI, and DeepSeek",
+    "link": "https://techcrunch.com/2026/09/10/anthropic-details-distillation-campaigns-from-alibaba-moonshot-ai-and-deepseek/",
+    "summary": "A new report released Thursday by Anthropic alleges persistent distillation attacks by China-based AI companies, which have escalated in recent months as competition in the space has intensified.",
+    "published": "2026-09-10T20:57:30+00:00",
+    "first_seen": "2026-09-11T06:19:14.438364+00:00"
+  },
+  {
+    "source": "TechCrunch AI",
+    "source_tier": 2,
+    "title": "Meta\u2019s AI agent Muse is now the No. 2 app in the US",
+    "link": "https://techcrunch.com/2026/09/10/metas-ai-agent-muse-is-now-the-no-2-app-in-the-us/",
+    "summary": "Meta's newest app Muse is off to a slower start than the company's other apps, like Meta AI or Threads.",
+    "published": "2026-09-10T19:50:04+00:00",
+    "first_seen": "2026-09-11T06:19:14.438364+00:00"
+  },
+  {
+    "source": "TechCrunch AI",
+    "source_tier": 2,
+    "title": "Anthropic reveals rogue AI agents hate CAPTCHAs, just like you",
+    "link": "https://techcrunch.com/2026/09/10/anthropic-reveals-rogue-ai-agents-hate-captchas-just-like-you/",
+    "summary": "Come inside the mind of a bot trying to convince the internet it's human.",
+    "published": "2026-09-10T17:54:44+00:00",
+    "first_seen": "2026-09-11T06:19:14.438364+00:00"
+  },
+  {
+    "source": "TechCrunch AI",
+    "source_tier": 2,
+    "title": "India\u2019s Pocket FM doubles revenue run rate to $500M as AI powers 93% of audio content",
+    "link": "https://techcrunch.com/2026/09/10/indias-pocket-fm-doubles-revenue-run-rate-to-500m-as-ai-powers-93-of-audio-content/",
+    "summary": "Pocket FM uses AI to produce 99% of its new content, helping make content production about 80 times cheaper.",
+    "published": "2026-09-10T17:45:00+00:00",
+    "first_seen": "2026-09-11T06:19:14.438364+00:00"
+  },
+  {
+    "source": "TechCrunch AI",
+    "source_tier": 2,
+    "title": "AI agents are flooding public services with new requests",
+    "link": "https://techcrunch.com/2026/09/10/ai-agents-are-flooding-public-services-with-new-requests/",
+    "summary": "\u201cThe vast majority of cases we find are people who are entitled to claim for something, claiming for that thing,\u201d the researcher told TechCrunch.",
+    "published": "2026-09-10T14:53:50+00:00",
+    "first_seen": "2026-09-11T06:19:14.438364+00:00"
+  },
+  {
+    "source": "TechCrunch AI",
+    "source_tier": 2,
+    "title": "Maven Robotics wants to steal your robot deployment deal",
+    "link": "https://techcrunch.com/2026/09/10/maven-robotics-wants-to-steal-your-robot-deployment-deal/",
+    "summary": "Maven Robotics emerged from stealth today with a $100 million Series A and active deployments.",
+    "published": "2026-09-10T14:17:37+00:00",
+    "first_seen": "2026-09-11T06:19:14.438364+00:00"
+  },
+  {
+    "source": "The Verge AI",
+    "source_tier": 2,
+    "title": "Slack can now vibe-code interactive charts and reports inside chats",
+    "link": "https://www.theverge.com/tech/989853/slackforce-surfaces-launch",
+    "summary": "A new feature coming to Slack will allow you to build interactive reports, polls, dashboards, presentations, microsites, and other tools directly inside a chat. With Slackforce Surfaces, you can describe to Slackbot what you need, and it will use AI to gather information from rel",
+    "published": "2026-09-10T21:25:21+00:00",
+    "first_seen": "2026-09-11T06:19:14.438364+00:00"
+  },
+  {
+    "source": "The Verge AI",
+    "source_tier": 2,
+    "title": "Schools are catching on to Big Tech\u2019s playbook",
+    "link": "https://www.theverge.com/policy/993308/computer-science-ai-education-coding-kids",
+    "summary": "It's the hot new thing in tech, and it's where all the jobs are. Students who don't learn to use it fall behind. And to help them catch up in time, its creators are graciously providing the resources and curriculum for learning it, often pro bono. That's the narrative AI companie",
+    "published": "2026-09-10T19:44:20+00:00",
+    "first_seen": "2026-09-11T06:19:14.438364+00:00"
+  },
+  {
+    "source": "The Verge AI",
+    "source_tier": 2,
+    "title": "Universal Music is launching an AI music platform with ElevenLabs",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/993465/universal-music-elevenlabs-ai",
+    "summary": "Universal Music Group is launching a new AI-powered platform that will allow users to draw from its catalog of licensed music to create song remixes, mashups, and new takes on tracks, according to an announcement on Thursday. The record label is developing the platform through a ",
+    "published": "2026-09-10T15:38:19+00:00",
+    "first_seen": "2026-09-11T06:19:14.438364+00:00"
+  },
+  {
+    "source": "The Verge AI",
+    "source_tier": 2,
+    "title": "Meta\u2019s Muse AI works and creeps me out",
+    "link": "https://www.theverge.com/tech/993391/meta-muse-ai-hands-on",
+    "summary": "Meta has launched its new Muse assistant, marking the company's first real foray into AI-powered productivity tools. The company says its AI agent can \"take the busywork off your plate\" by helping you with online shopping, emails, trip-planning, and more. I decided to try out the",
+    "published": "2026-09-10T15:00:00+00:00",
+    "first_seen": "2026-09-11T06:19:14.438364+00:00"
+  },
+  {
+    "source": "The Verge AI",
+    "source_tier": 2,
+    "title": "Why the current tech backlash feels different",
+    "link": "https://www.theverge.com/podcast/992141/decoder-mailbag-ai-backlash-surveillance-midterms-data-centers",
+    "summary": "This interview has been lightly edited for length and clarity.\u00a0 Nick Statt: Hello and welcome to Decoder, Nilay\u2019s show about big ideas and other problems. This is Nick Statt, senior producer. And I\u2019m joined by our brand-new supervising producer, Greg Ott. Greg Ott: Good day, ever",
+    "published": "2026-09-10T14:00:00+00:00",
+    "first_seen": "2026-09-11T06:19:14.438364+00:00"
+  },
+  {
+    "source": "The Verge AI",
+    "source_tier": 2,
+    "title": "Mathematicians want proof OpenAI didn\u2019t use their work",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/993263/where-does-openai-get-mathematics-training-data",
+    "summary": "Another researcher is challenging OpenAI about the data driving its increasingly impressive array of mathematical discoveries. Just days after a bitter row erupted over whether the company's models benefited from unpublished work, a second mathematician has come forward accusing ",
+    "published": "2026-09-10T11:00:57+00:00",
+    "first_seen": "2026-09-11T06:19:14.438364+00:00"
   }
 ]

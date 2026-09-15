@@ -2005,5 +2005,401 @@
     "summary": "Yesterday, Anthropic CEO Dario Amodei published a lengthy open letter saying it was time to \"pace the frontier\" and slow down AI development. OpenAI's Sam Altman and Elon Musk both agreed, publicly voicing their support on X. Even Alphabet's Demis Hassabis offered tentative suppo",
     "published": "2026-09-13T19:41:48+00:00",
     "first_seen": "2026-09-14T06:22:12.288413+00:00"
+  },
+  {
+    "source": "Microsoft 365 Blog",
+    "source_tier": 1,
+    "title": "ESPC 2026 is coming to Amsterdam: Bringing Microsoft and the community together",
+    "link": "https://www.microsoft.com/en-us/microsoft-365/blog/2026/09/10/espc-2026-is-coming-to-amsterdam-bringing-microsoft-and-the-community-together/",
+    "summary": "Join Microsoft at ESPC 2026 in Amsterdam to explore the latest innovations in Microsoft 365, Copilot, agents, and AI.\nThe post ESPC 2026 is coming to Amsterdam: Bringing Microsoft and the community together appeared first on Microsoft 365 Blog.",
+    "published": "2026-09-10T16:00:00+00:00",
+    "first_seen": "2026-09-15T06:21:09.674316+00:00"
+  },
+  {
+    "source": "Microsoft 365 Blog",
+    "source_tier": 1,
+    "title": "Build apps in Copilot Cowork and Copilot Studio",
+    "link": "https://www.microsoft.com/en-us/microsoft-copilot/blog/copilot-studio/build-apps-in-copilot-cowork-and-copilot-studio/",
+    "summary": "Create full-stack business apps through conversation, grounded in your data with app building in Copilot Cowork and Copilot Studio.\nThe post Build apps in Copilot Cowork and Copilot Studio appeared first on Microsoft 365 Blog.",
+    "published": "2026-09-10T15:00:00+00:00",
+    "first_seen": "2026-09-15T06:21:09.674316+00:00"
+  },
+  {
+    "source": "MIT Technology Review",
+    "source_tier": 2,
+    "title": "The AI industry has taken a doomer turn. What now?",
+    "link": "https://www.technologyreview.com/2026/09/14/1144048/the-ai-industry-has-taken-a-doomer-turn-what-now/",
+    "summary": "This story appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first,\u00a0sign up here. This weekend, Dario Amodei, CEO of Anthropic, posted an essay calling for a brake on the pace of development of LLMs. Amodei cites the looming dangers he",
+    "published": "2026-09-14T17:54:22+00:00",
+    "first_seen": "2026-09-15T06:21:09.674316+00:00"
+  },
+  {
+    "source": "MIT Technology Review",
+    "source_tier": 2,
+    "title": "Donated livers can be made biologically younger",
+    "link": "https://www.technologyreview.com/2026/09/14/1144010/donated-livers-can-be-made-biologically-younger/",
+    "summary": "Once an organ is removed from a donor\u2019s body, the clock starts ticking. Surgeons usually flush the organ with a preservative solution, bag it, and put it on ice\u2014where it immediately starts to degrade. The team has a matter of hours to get it into a recipient\u2019s body. There\u2019s anoth",
+    "published": "2026-09-14T16:11:42+00:00",
+    "first_seen": "2026-09-15T06:21:09.674316+00:00"
+  },
+  {
+    "source": "MIT Technology Review",
+    "source_tier": 2,
+    "title": "AI agents blew the whistle on their cheating colleagues",
+    "link": "https://www.technologyreview.com/2026/09/14/1144037/ai-agents-blew-whistle-o-cheating-colleagues/",
+    "summary": "A group of AI agents asked to solve a series of math problems split into rival factions\u2014when some cheated, others tried to stop them. That whistleblowing behavior, seen for the first time in a recent experiment run by Google DeepMind, could have implications for alignment researc",
+    "published": "2026-09-14T16:00:00+00:00",
+    "first_seen": "2026-09-15T06:21:09.674316+00:00"
+  },
+  {
+    "source": "MIT Technology Review",
+    "source_tier": 2,
+    "title": "The Download: AI\u2019s real extinction threat and age-reversal tech for eyes",
+    "link": "https://www.technologyreview.com/2026/09/14/1144012/the-download-ai-extinction-threat-age-reversal-vision/",
+    "summary": "This is today\u2019s edition of The Download, our weekday newsletter that provides a daily dose of what\u2019s going on in the world of technology. Roundtables: could AI really kill us all? Employees at the world\u2019s leading AI labs are saying there\u2019s a real possibility that advanced AI coul",
+    "published": "2026-09-14T12:10:00+00:00",
+    "first_seen": "2026-09-15T06:21:09.674316+00:00"
+  },
+  {
+    "source": "ZDNet AI",
+    "source_tier": 2,
+    "title": "The latest Windows 11 update may mess with your device\u2019s audio \u2013 here\u2019s the workaround",
+    "link": "https://www.zdnet.com/business/windows-11-sept-update-audio-glitch-fix-2/",
+    "summary": "The September Patch Tuesday update is causing audio problems with certain USB devices, but you may be able to resolve it yourself.",
+    "published": "2026-09-14T17:27:48+00:00",
+    "first_seen": "2026-09-15T06:21:09.674316+00:00"
+  },
+  {
+    "source": "ZDNet AI",
+    "source_tier": 2,
+    "title": "Switzerland takes a Swiss Army knife to Microsoft 365",
+    "link": "https://www.zdnet.com/business/switzerland-replaces-microsoft-365-open-source-opendesk/",
+    "summary": "Two divisions of Switzerland\u2019s government are shifting from Microsoft 365 to open-source openDesk. Here\u2019s why.",
+    "published": "2026-09-11T18:57:47+00:00",
+    "first_seen": "2026-09-15T06:21:09.674316+00:00"
+  },
+  {
+    "source": "ZDNet AI",
+    "source_tier": 2,
+    "title": "Your older iPhone just got free satellite service for another year \u2013 here\u2019s why",
+    "link": "https://www.zdnet.com/business/apple-extends-free-satellite-service-to-older-iphones/",
+    "summary": "This isn\u2019t the first time that Apple has extended the free two-year trial.",
+    "published": "2026-09-11T16:35:00+00:00",
+    "first_seen": "2026-09-15T06:21:09.674316+00:00"
+  },
+  {
+    "source": "ZDNet AI",
+    "source_tier": 2,
+    "title": "This CIO doesn\u2019t \u2018hire engineers to write code\u2019: 3 AI fundamentals he prioritizes instead",
+    "link": "https://www.zdnet.com/innovation/chase-cio-ai-fundamentals/",
+    "summary": "Gill Haus explains Chase\u2019s approach to AI \u2013 and getting the core fundamentals right.",
+    "published": "2026-09-11T12:20:31+00:00",
+    "first_seen": "2026-09-15T06:21:09.674316+00:00"
+  },
+  {
+    "source": "ZDNet AI",
+    "source_tier": 2,
+    "title": "I\u2019ve been an Android user all my life, but I\u2019m jealous of 3 things Apple just announced",
+    "link": "https://www.zdnet.com/tech/apple-event-features-android-users-want/",
+    "summary": "I hate to admit it, but I wish Android would do what Apple just did.",
+    "published": "2026-09-11T12:06:19+00:00",
+    "first_seen": "2026-09-15T06:21:09.674316+00:00"
+  },
+  {
+    "source": "ZDNet AI",
+    "source_tier": 2,
+    "title": "Eager to try iOS 27\u2019s cool AI features and upgraded Siri? Get ready for usage limits",
+    "link": "https://www.zdnet.com/innovation/how-apple-will-limit-your-ai-use/",
+    "summary": "A new Apple support page explains how Siri AI and other AI-powered tools in the new OS will be controlled.",
+    "published": "2026-09-10T18:00:46+00:00",
+    "first_seen": "2026-09-15T06:21:09.674316+00:00"
+  },
+  {
+    "source": "ZDNet AI",
+    "source_tier": 2,
+    "title": "Your friend with \u2018nothing to hide\u2019 is more likely to spy on you, study shows",
+    "link": "https://www.zdnet.com/tech/partner-has-nothing-to-hide-theyre-more-likely-to-spy-on-you/",
+    "summary": "New research explores behavioral trends behind that \u2018nothing to hide\u2019 phrase. Plus: 6 ways to improve your phone privacy.",
+    "published": "2026-09-10T14:31:03+00:00",
+    "first_seen": "2026-09-15T06:21:09.674316+00:00"
+  },
+  {
+    "source": "ZDNet AI",
+    "source_tier": 2,
+    "title": "T-Mobile will give you the iPhone 18 Pro for free \u2013 here\u2019s how to preorder",
+    "link": "https://www.zdnet.com/business/tmobile-iphone-18-deal/",
+    "summary": "The iPhone 18 Pro and Pro Max offer an impressive battery and professional-quality camera system \u2013 and you can get one on T-Mobile.",
+    "published": "2026-09-09T18:39:00+00:00",
+    "first_seen": "2026-09-15T06:21:09.674316+00:00"
+  },
+  {
+    "source": "ZDNet AI",
+    "source_tier": 2,
+    "title": "The iPhone 17 and other older models just got a surprise $100 price hike",
+    "link": "https://www.zdnet.com/business/iphone-17-older-models-100-price-hike/",
+    "summary": "Apple quietly increased prices across its existing lineup after revealing its latest devices. Here\u2019s why.",
+    "published": "2026-09-09T22:22:42+00:00",
+    "first_seen": "2026-09-15T06:21:09.674316+00:00"
+  },
+  {
+    "source": "ZDNet AI",
+    "source_tier": 2,
+    "title": "5 biggest Apple announcements from the iPhone Duo event",
+    "link": "https://www.zdnet.com/business/everything-apple-announced-at-its-iphone-18-event-duo/",
+    "summary": "Apple announced a new foldable called the iPhone Duo, the iPhone 18 Pro, AirPods 5, and new Apple Watches at its Surprise and Shine event in Cupertino. Here\u2019s the rundown.",
+    "published": "2026-09-09T20:54:09+00:00",
+    "first_seen": "2026-09-15T06:21:09.674316+00:00"
+  },
+  {
+    "source": "ZDNet AI",
+    "source_tier": 2,
+    "title": "This LG TV jailbreak turns smart devices into spies, say researchers",
+    "link": "https://www.zdnet.com/uncategorized/lg-tv-can-spy-on-you-say-researchers-how-to-prevent-it/",
+    "summary": "Researchers say LG TV\u2019s behavior \u2018parallels malware\u2019 \u2013 with user data logged even when TVs are on standby.",
+    "published": "2026-09-09T18:59:45+00:00",
+    "first_seen": "2026-09-15T06:21:09.674316+00:00"
+  },
+  {
+    "source": "ZDNet AI",
+    "source_tier": 2,
+    "title": "iOS 27 release date confirmed: 9 things your iPhone can do once you update",
+    "link": "https://www.zdnet.com/business/ios-27-release-date-new-iphone-features/",
+    "summary": "The Apple event revealed much more than a new lineup of iPhones. iOS 27 has a release date now.",
+    "published": "2026-09-09T18:33:23+00:00",
+    "first_seen": "2026-09-15T06:21:09.674316+00:00"
+  },
+  {
+    "source": "ZDNet AI",
+    "source_tier": 2,
+    "title": "You can doodle in ChatGPT now, and it\u2019ll transform your drawings into polished images \u2013 how to try it",
+    "link": "https://www.zdnet.com/innovation/chatgpt-sketch-ai-image-generator-tutorial/",
+    "summary": "With ChatGPT\u2019s new Sketch tool, you can draw directly in the chat window and then watch as your drawing is transformed into a final image.",
+    "published": "2026-09-09T16:17:35+00:00",
+    "first_seen": "2026-09-15T06:21:09.674316+00:00"
+  },
+  {
+    "source": "ZDNet AI",
+    "source_tier": 2,
+    "title": "Want iOS 27 on day one? Don\u2019t skip this last-minute iPhone update",
+    "link": "https://www.zdnet.com/business/iphone-update-fixes-cellular-download-bug-before-ios-27-releases/",
+    "summary": "iOS 26.6.2 squashes a bug that could prevent users without Wi-Fi from downloading software updates, including iOS 27.",
+    "published": "2026-09-09T14:53:03+00:00",
+    "first_seen": "2026-09-15T06:21:09.674316+00:00"
+  },
+  {
+    "source": "ZDNet AI",
+    "source_tier": 2,
+    "title": "Apple event 2026 live updates: The first foldable iPhone and more in real time",
+    "link": "https://www.zdnet.com/business/apple-september-event-live-blog-2026/",
+    "summary": "ZDNET editors are on the ground in Cupertino to cover the \u2018Surprise and shine\u2019 event live.",
+    "published": "2026-09-09T13:00:30+00:00",
+    "first_seen": "2026-09-15T06:21:09.674316+00:00"
+  },
+  {
+    "source": "ZDNet AI",
+    "source_tier": 2,
+    "title": "Latest Windows 11 update restores your taskbar control, patches 995 security flaws",
+    "link": "https://www.zdnet.com/uncategorized/windows-11-september-2026-update/",
+    "summary": "The September Windows 11 update set a new patching record with almost 1,000 security flaws fixed.",
+    "published": "2026-09-08T20:48:06+00:00",
+    "first_seen": "2026-09-15T06:21:09.674316+00:00"
+  },
+  {
+    "source": "ZDNet AI",
+    "source_tier": 2,
+    "title": "I demoed Sony\u2019s new 2026 budget over-ear headphones \u2013 including a WH-1000XM4 refresh",
+    "link": "https://www.zdnet.com/tech/sony-budget-over-ear-headphones-2026-demo/",
+    "summary": "Sony\u2019s budget headphone lineup starts at $70 and includes the WH-1000XM4, WH-CH730N, and WH-CH530 models.",
+    "published": "2026-09-08T12:27:18+00:00",
+    "first_seen": "2026-09-15T06:21:09.674316+00:00"
+  },
+  {
+    "source": "ZDNet AI",
+    "source_tier": 2,
+    "title": "Apple will announce the iPhone 18 this week \u2013 here\u2019s how ZDNET readers think it\u2019ll go down",
+    "link": "https://www.zdnet.com/business/apple-guessing-game-round-3-answers/",
+    "summary": "In the final round of our Big Guessing Game, you shared your predictions on the iPhone event to win a new Apple Watch. Here are the final results.",
+    "published": "2026-09-06T18:46:41+00:00",
+    "first_seen": "2026-09-15T06:21:09.674316+00:00"
+  },
+  {
+    "source": "ZDNet AI",
+    "source_tier": 2,
+    "title": "The 5 coolest phones I saw at IFA 2026 \u2013 including a new foldable",
+    "link": "https://www.zdnet.com/tech/the-5-coolest-phones-i-saw-at-ifa-2026/",
+    "summary": "There are many amazing devices at IFA 2026, but these five phones were the perfect combination of practical and fun design.",
+    "published": "2026-09-06T06:52:05+00:00",
+    "first_seen": "2026-09-15T06:21:09.674316+00:00"
+  },
+  {
+    "source": "ZDNet AI",
+    "source_tier": 2,
+    "title": "Save almost 50% on this 85-inch Hisense TV at Amazon for Labor Day",
+    "link": "https://www.zdnet.com/home-and-office/save-almost-50-on-this-85-inch-hisense-tv-at-amazon-for-labor-day/",
+    "summary": "The Hisense U7 is a solid Mini LED TV for streaming, gaming, and more \u2013 especially at this price.",
+    "published": "2026-09-05T23:16:53+00:00",
+    "first_seen": "2026-09-15T06:21:09.674316+00:00"
+  },
+  {
+    "source": "ZDNet AI",
+    "source_tier": 2,
+    "title": "This AI tool found 6 Curl vulnerabilities Mythos and Codex missed \u2013 even Greg KH is impressed",
+    "link": "https://www.zdnet.com/innovation/aisle-ai-vulnerability-management-curl-bugs/",
+    "summary": "Aisle found six Curl flaws after Mythos and Codex reported none.",
+    "published": "2026-09-04T12:23:47+00:00",
+    "first_seen": "2026-09-15T06:21:09.674316+00:00"
+  },
+  {
+    "source": "ZDNet AI",
+    "source_tier": 2,
+    "title": "OpenAI\u2019s new Astra model is finally here \u2013 why safety experts are worried",
+    "link": "https://www.zdnet.com/innovation/openai-astra-finally-here-experts-worried/",
+    "summary": "The frontier model is now live for a select group. Here\u2019s what Astra can do, when to expect broader availability, and why it\u2019s setting off alarms.",
+    "published": "2026-09-03T18:00:17+00:00",
+    "first_seen": "2026-09-15T06:21:09.674316+00:00"
+  },
+  {
+    "source": "ZDNet AI",
+    "source_tier": 2,
+    "title": "I went hands-on with Lenovo\u2019s latest rollable laptop \u2013 is it finally practical?",
+    "link": "https://www.zdnet.com/tech/lenovo-rollable-display-laptop-ifa-2026/",
+    "summary": "Unveiled at IFA, the 17-inch rollable horizontal display hits a middle ground that is more usable than its predecessors.",
+    "published": "2026-09-03T16:00:00+00:00",
+    "first_seen": "2026-09-15T06:21:09.674316+00:00"
+  },
+  {
+    "source": "TechCrunch AI",
+    "source_tier": 2,
+    "title": "Jensen Huang took a call from Trump, and showed off something else, too",
+    "link": "https://techcrunch.com/2026/09/14/jensen-huang-took-a-call-from-trump-and-showed-off-something-else-too/",
+    "summary": "When Jensen Huang took a live call from Trump, some of us were more focused the phone he used to take it.",
+    "published": "2026-09-15T01:50:48+00:00",
+    "first_seen": "2026-09-15T06:21:09.674316+00:00"
+  },
+  {
+    "source": "TechCrunch AI",
+    "source_tier": 2,
+    "title": "Nvidia CEO Jensen Huang tells Trump \u2018we\u2019re not going to let [an AI slowdown] happen\u2019",
+    "link": "https://techcrunch.com/2026/09/14/nvidia-ceo-jensen-huang-tells-trump-were-not-going-to-let-an-ai-slowdown-happen/",
+    "summary": "Though Elon Musk and Sam Altman have supported Dario Amodei's calls to slow the pace of AI development, Jensen Huang seems to feel differently.",
+    "published": "2026-09-14T21:51:02+00:00",
+    "first_seen": "2026-09-15T06:21:09.674316+00:00"
+  },
+  {
+    "source": "TechCrunch AI",
+    "source_tier": 2,
+    "title": "OpenAI buys smartphone camera maker Glass Imaging for $300 million, report says",
+    "link": "https://techcrunch.com/2026/09/14/openai-buys-smartphone-camera-maker-glass-imaging-for-300-million-report-says/",
+    "summary": "Glass Imaging was founded by a pair of former Apple engineers who previously led the team that developed Apple's Portrait Mode.",
+    "published": "2026-09-14T20:44:14+00:00",
+    "first_seen": "2026-09-15T06:21:09.674316+00:00"
+  },
+  {
+    "source": "TechCrunch AI",
+    "source_tier": 2,
+    "title": "With iOS 27, I\u2019m actually using Siri again",
+    "link": "https://techcrunch.com/2026/09/14/with-ios-27-im-actually-using-siri-again/",
+    "summary": "Apple\u2019s long-delayed Siri overhaul is finally here with iOS 27, and it changes how useful the assistant feels day to day.",
+    "published": "2026-09-14T17:10:30+00:00",
+    "first_seen": "2026-09-15T06:21:09.674316+00:00"
+  },
+  {
+    "source": "TechCrunch AI",
+    "source_tier": 2,
+    "title": "Fashion app Daydream uses Apple Intelligence to help you shop the outfits in your camera roll",
+    "link": "https://techcrunch.com/2026/09/14/fashion-discovery-app-daydream-uses-apple-intelligence-to-help-you-shop-the-outfits-saved-in-your-camera-roll/",
+    "summary": "Thanks to the launch of iOS 27, Daydream's app now includes features that can turn saved outfit photos into shoppable results and search for products through Siri without opening the app.",
+    "published": "2026-09-14T17:00:00+00:00",
+    "first_seen": "2026-09-15T06:21:09.674316+00:00"
+  },
+  {
+    "source": "TechCrunch AI",
+    "source_tier": 2,
+    "title": "Microsoft\u2019s new AI \u2018code of conduct\u2019 tells models not to hack systems or trick humans",
+    "link": "https://techcrunch.com/2026/09/14/microsofts-new-ai-code-of-conduct-tells-models-not-to-hack-systems-or-trick-humans/",
+    "summary": "The code of conduct lays out general principles that Microsoft AI models should uphold \u2014 supporting humans rather than replacing them, for instance, and accelerating human flourishing \u2014 as well as specific safety constraints meant to implement those principles.",
+    "published": "2026-09-14T16:27:53+00:00",
+    "first_seen": "2026-09-15T06:21:09.674316+00:00"
+  },
+  {
+    "source": "TechCrunch AI",
+    "source_tier": 2,
+    "title": "Only at TechCrunch Disrupt 2026: What happens when OpenAI ships your roadmap?",
+    "link": "https://techcrunch.com/2026/09/14/only-at-techcrunch-disrupt-2026-what-happens-when-openai-ships-your-roadmap/",
+    "summary": "If you're building an AI company, the question isn't whether foundation models will continue to evolve. It's whether your company will continue creating value as they do. Don't miss this interactive session on the Builders Stage at TechCrunch Disrupt 2026.",
+    "published": "2026-09-14T15:00:00+00:00",
+    "first_seen": "2026-09-15T06:21:09.674316+00:00"
+  },
+  {
+    "source": "TechCrunch AI",
+    "source_tier": 2,
+    "title": "Superhuman acquires YC-backed notetaker Fathom as productivity platforms push for agentic work",
+    "link": "https://techcrunch.com/2026/09/14/superhuman-acquires-yc-backed-notetaker-fathom-as-productivity-platforms-push-for-agentic-work/",
+    "summary": "The notetaker offers a generous free plan, and that has resulted in over 400,000 monthly active users. The company said that over 1 million people have recorded meetings until now.",
+    "published": "2026-09-14T14:45:44+00:00",
+    "first_seen": "2026-09-15T06:21:09.674316+00:00"
+  },
+  {
+    "source": "TechCrunch AI",
+    "source_tier": 2,
+    "title": "Hear how AI can engineer nature\u2019s comeback at TechCrunch Disrupt 2026",
+    "link": "https://techcrunch.com/2026/09/14/hear-how-ai-can-engineer-natures-comeback-at-techcrunch-disrupt-2026/",
+    "summary": "Not long ago, bringing an extinct species back to life belonged to science fiction. Today, it's the mission of a billion-dollar startup. Join the conversation with one of tech's most unconventional founders. Secure your Disrupt pass today.",
+    "published": "2026-09-14T14:30:00+00:00",
+    "first_seen": "2026-09-15T06:21:09.674316+00:00"
+  },
+  {
+    "source": "TechCrunch AI",
+    "source_tier": 2,
+    "title": "5 days left to exhibit at TechCrunch Disrupt 2026",
+    "link": "https://techcrunch.com/2026/09/14/techcrunch-disrupt-2026-exhibit-table-deadline-5-days/",
+    "summary": "The last day to apply for an exhibit table at TechCrunch Disrupt 2026 on Sept 18. Just 5 days left. Secure your spot on the Expo Hall floor and put your business in front of 10,000+ founders, investors, and tech leaders.",
+    "published": "2026-09-14T14:00:00+00:00",
+    "first_seen": "2026-09-15T06:21:09.674316+00:00"
+  },
+  {
+    "source": "TechCrunch AI",
+    "source_tier": 2,
+    "title": "A Vinyl Bar in Shibuya is a startup from a former Spotify leader for making music apps",
+    "link": "https://techcrunch.com/2026/09/14/a-vinyl-bar-in-shibuya-is-a-startup-offering-fun-music-apps/",
+    "summary": "Former Spotify exec's company releases experimental \"singles\" that involves users in music making.",
+    "published": "2026-09-14T13:55:00+00:00",
+    "first_seen": "2026-09-15T06:21:09.674316+00:00"
+  },
+  {
+    "source": "The Verge AI",
+    "source_tier": 2,
+    "title": "Is Big Tech\u2019s AI slowdown a safety pact or a cartel?",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/995186/is-big-techs-ai-slowdown-a-safety-pact-or-a-cartel",
+    "summary": "When OpenAI CEO Sam Altman, Anthropic CEO Dario Amodei, Google DeepMind cofounder Demis Hassabis, and SpaceX head Elon Musk loosely agreed over the weekend to slow down AI development, skeptics spotted an ulterior motive immediately. The AI titans had declared that their aim was ",
+    "published": "2026-09-14T22:59:41+00:00",
+    "first_seen": "2026-09-15T06:21:09.674316+00:00"
+  },
+  {
+    "source": "The Verge AI",
+    "source_tier": 2,
+    "title": "What execs and politicians are saying about slowing down AI development",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/995141/ai-executives-politicians-safety-regulation-anthropic-dario-amodei",
+    "summary": "Dario Amodei kicked off a flood of statements over the past few days about AI safety by publishing a long essay titled \"We Must Pace the Frontier\" detailing why AI development should be slowed down. Other AI leaders and politicians are speaking out in favor of or opposing his poi",
+    "published": "2026-09-14T21:21:42+00:00",
+    "first_seen": "2026-09-15T06:21:09.674316+00:00"
+  },
+  {
+    "source": "The Verge AI",
+    "source_tier": 2,
+    "title": "Jensen Huang puts Trump on speakerphone onstage to announce robots won\u2019t take over the world",
+    "link": "https://www.theverge.com/tech/995079/president-donald-trump-calls-nvidia-ceo-jensen-huang-all-in-summit",
+    "summary": "Nvidia CEO Jensen Huang took a call from President Trump on Monday while onstage at the All-In Podcast's All-In Summit. It's not the first time Huang has taken a call from the president during work, but this time he put Trump on speakerphone before a big crowd. During the call, t",
+    "published": "2026-09-14T20:03:37+00:00",
+    "first_seen": "2026-09-15T06:21:09.674316+00:00"
+  },
+  {
+    "source": "The Verge AI",
+    "source_tier": 2,
+    "title": "Microsoft says \u2018people matter more than AI\u2019 following safety concerns",
+    "link": "https://www.theverge.com/news/994566/microsoft-humanist-ai-code-of-conduct",
+    "summary": "Microsoft is publishing a 37-page \"humanist AI code of conduct\" today, amid growing safety concerns over AI model progress. Anthropic CEO Dario Amodei called for a coordinated slow down of AI development over the weekend, after researchers warned recently that AI model progress c",
+    "published": "2026-09-14T13:00:00+00:00",
+    "first_seen": "2026-09-15T06:21:09.674316+00:00"
   }
 ]

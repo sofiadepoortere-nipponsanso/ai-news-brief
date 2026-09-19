@@ -65,15 +65,6 @@
   {
     "source": "Power BI Blog",
     "source_tier": 1,
-    "title": "Edit your Power BI projects anywhere and reload them instantly in Power BI Desktop (Preview)",
-    "link": "https://community.fabric.microsoft.com/t5/Power-BI-Updates-Blog/Edit-your-Power-BI-projects-anywhere-and-reload-them-instantly/ba-p/5359136",
-    "summary": "Power BI Projects (PBIP) make reports and semantic models file-based, enabling source control, automation, and other developer workflows. You can edit those files directly in a code editor or through external tools. Until now, changes made outside of Power BI Desktop wouldn't app",
-    "published": "2026-08-18T17:00:00+00:00",
-    "first_seen": "2026-09-02T11:16:42.453040+00:00"
-  },
-  {
-    "source": "Power BI Blog",
-    "source_tier": 1,
     "title": "Direct Lake Calculated Columns (Preview)",
     "link": "https://community.fabric.microsoft.com/t5/Power-BI-Updates-Blog/Direct-Lake-Calculated-Columns-Preview/ba-p/5357159",
     "summary": "Calculated columns are now available in preview for Direct Lake on OneLake semantic models. This has been one of the most requested capabilities since Direct Lake launched and closes a long-standing gap with Import and DirectQuery storage modes.You can define calculated columns d",
@@ -3184,5 +3175,266 @@
     "summary": "On a sunny July day in Berkeley, California, the country's top AI safety researchers gathered on an unmarked floor of an unmarked building. They had come together for a \"war room\" to dissect the high-profile cybersecurity incident that had rocked the AI industry hours earlier. An",
     "published": "2026-09-17T11:30:00+00:00",
     "first_seen": "2026-09-18T10:56:09.103218+00:00"
+  },
+  {
+    "source": "European Commission Digital Strategy",
+    "source_tier": 1,
+    "title": "Data Union Conference",
+    "link": "https://digital-strategy.ec.europa.eu/en/events/data-union-conference",
+    "summary": "Data Union Conference\nAnonymous (not verified)\nFri, 09/18/2026 - 09:43\n\n\n\n  \n        \n              \n                              \n      \n      \u00a0\n      12 January 2027\n  \n  \n    \n    \u00a0\n        Charlemagne building, Brussels, Belgium\n      \n  \n\n                Bringing policymake",
+    "published": "2026-09-18T07:43:00+00:00",
+    "first_seen": "2026-09-19T10:39:11.431206+00:00"
+  },
+  {
+    "source": "MIT Technology Review",
+    "source_tier": 2,
+    "title": "The Download: AI\u2019s extinction risk and bioweapons threat",
+    "link": "https://www.technologyreview.com/2026/09/18/1142577/the-download-ai-extinction-threat-bioweapons/",
+    "summary": "This is today\u2019s edition of The Download, our weekday newsletter that provides a daily dose of what\u2019s going on in the world of technology. Could AI really kill us all? Your questions, answered On Wednesday, MIT Technology Review hosted a live Roundtables event that asked the quest",
+    "published": "2026-09-18T12:10:00+00:00",
+    "first_seen": "2026-09-19T10:39:11.431206+00:00"
+  },
+  {
+    "source": "MIT Technology Review",
+    "source_tier": 2,
+    "title": "Could AI really kill us all? Your questions, answered.",
+    "link": "https://www.technologyreview.com/2026/09/18/1144435/could-ai-really-kill-us-all-your-questions-answered/",
+    "summary": "On Wednesday, MIT Technology Review hosted a live Roundtables event for subscribers that asked the question everyone\u2019s asking right now: Could AI really kill us all? But attendees had so many more questions than we had time to answer in the 30 minute session. So we asked our seni",
+    "published": "2026-09-18T11:29:22+00:00",
+    "first_seen": "2026-09-19T10:39:11.431206+00:00"
+  },
+  {
+    "source": "ZDNet AI",
+    "source_tier": 2,
+    "title": "Businesses finally seeing AI ROI, but 62% can\u2019t handle the storage demands",
+    "link": "https://www.zdnet.com/business/ai-storage-demand-seagate-study/",
+    "summary": "A Seagate study finds that 99% of IT leaders expect AI to drive increased data storage needs, but only 38% are prepared to meet them, revealing a significant readiness gap.",
+    "published": "2026-09-18T15:09:13+00:00",
+    "first_seen": "2026-09-19T10:39:11.431206+00:00"
+  },
+  {
+    "source": "ZDNet AI",
+    "source_tier": 2,
+    "title": "Fake calendar invites can infect your system, and they\u2019re surging \u2013 how to protect yourself",
+    "link": "https://www.zdnet.com/tech/fake-calendar-invites-malware/",
+    "summary": "These invites sneak past your security software to embed themselves in your calendar. But you can thwart them before they do any damage.",
+    "published": "2026-09-18T14:57:25+00:00",
+    "first_seen": "2026-09-19T10:39:11.431206+00:00"
+  },
+  {
+    "source": "TechCrunch AI",
+    "source_tier": 2,
+    "title": "India forces caller-ID apps to feed spam reports to telcos",
+    "link": "https://techcrunch.com/2026/09/18/india-forces-caller-id-apps-to-feed-spam-reports-to-telcos/",
+    "summary": "Truecaller says the one-way sharing requirement would hand a commercially valuable proprietary asset to telecom operators.",
+    "published": "2026-09-19T01:00:00+00:00",
+    "first_seen": "2026-09-19T10:39:11.431206+00:00"
+  },
+  {
+    "source": "TechCrunch AI",
+    "source_tier": 2,
+    "title": "Tilly Norwood\u2019s press tour is going about as well as you\u2019d expect for an AI",
+    "link": "https://techcrunch.com/2026/09/18/tilly-norwoods-press-tour-is-going-about-as-well-as-youd-expect-for-an-ai/",
+    "summary": "In one particularly odd interview, Norwood seems to malfunction and begin speaking Chinese.",
+    "published": "2026-09-19T00:12:07+00:00",
+    "first_seen": "2026-09-19T10:39:11.431206+00:00"
+  },
+  {
+    "source": "TechCrunch AI",
+    "source_tier": 2,
+    "title": "A startup that builds other startups raised $100M and is all-in on physical AI",
+    "link": "https://techcrunch.com/2026/09/18/a-startup-that-builds-other-startups-raised-100m-and-is-all-in-on-physical-ai/",
+    "summary": "UP.Labs, now doing business under the name Vantora, is building startups for industrial corporations.",
+    "published": "2026-09-18T23:25:01+00:00",
+    "first_seen": "2026-09-19T10:39:11.431206+00:00"
+  },
+  {
+    "source": "TechCrunch AI",
+    "source_tier": 2,
+    "title": "Anthropic is operating a lab that conducts biology experiments",
+    "link": "https://techcrunch.com/2026/09/18/anthropic-is-operating-a-lab-that-conducts-biology-experiments/",
+    "summary": "AI leaders have been promising that AI is the key to curing human disease. Anthropic researchers have also been warning that AI might kill us all.",
+    "published": "2026-09-18T23:13:31+00:00",
+    "first_seen": "2026-09-19T10:39:11.431206+00:00"
+  },
+  {
+    "source": "TechCrunch AI",
+    "source_tier": 2,
+    "title": "AI hallucination nearly triggers US military operation",
+    "link": "https://techcrunch.com/2026/09/18/ai-hallucination-nearly-triggers-us-military-operation/",
+    "summary": "\u201cIt\u2019s important for service members to understand the uncertainty inherent to LLMs,\" a GovAI research scholar warns.",
+    "published": "2026-09-18T23:12:32+00:00",
+    "first_seen": "2026-09-19T10:39:11.431206+00:00"
+  },
+  {
+    "source": "TechCrunch AI",
+    "source_tier": 2,
+    "title": "Anthropic\u2019s first embedded evaluator is\u00a0\u2026 Accenture?",
+    "link": "https://techcrunch.com/2026/09/18/anthropics-first-embedded-evaluator-is-accenture/",
+    "summary": "Accenture is about to take on its most high-risk consulting engagement ever.",
+    "published": "2026-09-18T21:44:33+00:00",
+    "first_seen": "2026-09-19T10:39:11.431206+00:00"
+  },
+  {
+    "source": "TechCrunch AI",
+    "source_tier": 2,
+    "title": "World model companies are keeping a lot of secrets",
+    "link": "https://techcrunch.com/2026/09/18/world-model-companies-are-keeping-a-lot-of-secrets/",
+    "summary": "Everyone in the world-models space is sitting on a pile of cash and a ton of buzz, but good luck getting anyone \u2014 from the founders to their own data suppliers \u2014 to tell you what they're actually building.",
+    "published": "2026-09-18T20:18:14+00:00",
+    "first_seen": "2026-09-19T10:39:11.431206+00:00"
+  },
+  {
+    "source": "TechCrunch AI",
+    "source_tier": 2,
+    "title": "A new kind of AI model from a ChatGPT inventor is thrilling developers",
+    "link": "https://techcrunch.com/2026/09/18/a-new-kind-of-ai-model-from-a-chatgpt-inventor-is-thrilling-developers/",
+    "summary": "Jev, a new kind of AI model, is showing developers a cheaper and faster path to software intelligence.",
+    "published": "2026-09-18T18:49:30+00:00",
+    "first_seen": "2026-09-19T10:39:11.431206+00:00"
+  },
+  {
+    "source": "TechCrunch AI",
+    "source_tier": 2,
+    "title": "Disney\u2019s first CTO led an AI startup it once accused of copying its characters",
+    "link": "https://techcrunch.com/2026/09/18/disneys-first-cto-led-an-ai-startup-it-once-accused-of-copying-its-characters/",
+    "summary": "The former CEO of Character.AI, which Disney previously sent a cease-and-desist letter to, will serve as the company's first-ever chief technology officer.",
+    "published": "2026-09-18T17:59:53+00:00",
+    "first_seen": "2026-09-19T10:39:11.431206+00:00"
+  },
+  {
+    "source": "TechCrunch AI",
+    "source_tier": 2,
+    "title": "Google\u2019s new \u2018CC\u2019 is an AI agent that helps families run their households",
+    "link": "https://techcrunch.com/2026/09/18/googles-new-cc-is-an-ai-agent-that-helps-families-run-their-households/",
+    "summary": "Google is refocusing its CC AI agent on household coordination, letting families share emails, schedules, and tasks so the AI can manage calendars, fill out forms, make shopping lists, plan meals, and more.",
+    "published": "2026-09-18T17:33:50+00:00",
+    "first_seen": "2026-09-19T10:39:11.431206+00:00"
+  },
+  {
+    "source": "TechCrunch AI",
+    "source_tier": 2,
+    "title": "Dario Amodei and other AI leaders want to \u2018Pace the Frontier\u2019 but\u2026how?",
+    "link": "https://techcrunch.com/video/dario-amodei-and-other-ai-leaders-want-to-pace-the-frontier-buthow/",
+    "summary": "A week after an Anthropic researcher\u2019s doomsday warning rattled the AI world, the company\u2019s CEO Dario Amodei has\u00a0outlined his plan to \u201cpace the frontier\u201d\u00a0of AI development. The proposal leans on independent safety evaluators and coordination between AI labs in democratic countrie",
+    "published": "2026-09-18T17:09:56+00:00",
+    "first_seen": "2026-09-19T10:39:11.431206+00:00"
+  },
+  {
+    "source": "TechCrunch AI",
+    "source_tier": 2,
+    "title": "Automattic\u2019s 33-Hour Coup, and can AI labs police themselves?",
+    "link": "https://techcrunch.com/podcast/automattics-33-hour-coup-and-can-ai-labs-police-themselves/",
+    "summary": "A week after an Anthropic researcher\u2019s doomsday warning rattled the AI world, the company\u2019s CEO Dario Amodei has\u00a0outlined his plan to \u201cpace the frontier\u201d\u00a0of AI development. The proposal leans on independent safety evaluators and coordination between AI labs in democratic countrie",
+    "published": "2026-09-18T17:06:32+00:00",
+    "first_seen": "2026-09-19T10:39:11.431206+00:00"
+  },
+  {
+    "source": "TechCrunch AI",
+    "source_tier": 2,
+    "title": "Manus seeks $4B valuation in new $500M fundraise as it resumes independent ops",
+    "link": "https://techcrunch.com/2026/09/18/manus-seeks-4b-valuation-in-new-500m-fundraise-as-it-resumes-independent-ops/",
+    "summary": "Manus, which earlier this year had to break off a merger with Meta, is in discussions to raise $500M at a $4B valuation.",
+    "published": "2026-09-18T16:35:49+00:00",
+    "first_seen": "2026-09-19T10:39:11.431206+00:00"
+  },
+  {
+    "source": "TechCrunch AI",
+    "source_tier": 2,
+    "title": "Open or closed AI? Nvidia\u2019s Nader Khalil and Sydney Sykes take on one of the decisions shaping next-gen startups at TechCrunch Disrupt 2026",
+    "link": "https://techcrunch.com/2026/09/18/open-or-closed-ai-nvidias-nader-khalil-and-sydney-sykes-take-on-one-of-the-decisions-shaping-next-gen-startups-at-techcrunch-disrupt-2026/",
+    "summary": "Nvidia's Nader Khalil and Sydney Sykes discuss one of the decisions shaping next-gen startups on the Builders Stage at TechCrunch Disrupt 2026.",
+    "published": "2026-09-18T15:30:00+00:00",
+    "first_seen": "2026-09-19T10:39:11.431206+00:00"
+  },
+  {
+    "source": "TechCrunch AI",
+    "source_tier": 2,
+    "title": "Meta\u2019s Muse hits Mac, letting the AI take actions on your computer",
+    "link": "https://techcrunch.com/2026/09/18/metas-muse-hits-mac-letting-the-ai-take-actions-on-your-computer/",
+    "summary": "Muse is now available on the Mac, where it can work with your files and apps to take action on your behalf.",
+    "published": "2026-09-18T15:22:48+00:00",
+    "first_seen": "2026-09-19T10:39:11.431206+00:00"
+  },
+  {
+    "source": "TechCrunch AI",
+    "source_tier": 2,
+    "title": "Robinhood\u2019s Abhishek Fatehpuria on winning the modern financial consumer at TechCrunch Disrupt 2026",
+    "link": "https://techcrunch.com/2026/09/18/robinhoods-abhishek-fatehpuria-on-winning-the-modern-financial-consumer-at-techcrunch-disrupt-2026/",
+    "summary": "Robinhood\u2019s Abhishek Fatehpuria on winning the modern financial consumer at TechCrunch Disrupt 2026. Register now to save up to $200 before September 25 at 11:59 p.m. PT.",
+    "published": "2026-09-18T15:00:00+00:00",
+    "first_seen": "2026-09-19T10:39:11.431206+00:00"
+  },
+  {
+    "source": "TechCrunch AI",
+    "source_tier": 2,
+    "title": "Researchers used Anthropic\u2019s Claude to hack into OpenAI",
+    "link": "https://techcrunch.com/2026/09/18/researchers-used-anthropics-claude-to-hack-into-openai/",
+    "summary": "Security researchers used Anthropic\u2019s Claude to exploit vulnerabilities in OpenAI\u2019s systems, taking over employee accounts and gaining access to an internal code repository before reporting the flaws.",
+    "published": "2026-09-18T14:00:14+00:00",
+    "first_seen": "2026-09-19T10:39:11.431206+00:00"
+  },
+  {
+    "source": "TechCrunch AI",
+    "source_tier": 2,
+    "title": "The clock is ticking: Final 24 hours to exhibit at TechCrunch Disrupt 2026",
+    "link": "https://techcrunch.com/2026/09/18/final-24-hours-to-exhibit-at-techcrunch-disrupt-2026/",
+    "summary": "Last day to book your exhibit table at Disrupt is today, September 18. Get your startup in front of 10,000+ founders, investors, operators, and tech leaders on October 13\u201315.",
+    "published": "2026-09-18T14:00:00+00:00",
+    "first_seen": "2026-09-19T10:39:11.431206+00:00"
+  },
+  {
+    "source": "The Verge AI",
+    "source_tier": 2,
+    "title": "OpenAI and Microsoft knew they were starting a \u2018doom loop\u2019 for the web",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/997633/openai-microsoft-chatgpt-ai-new-york-times-doom-loop-theft-google-zero",
+    "summary": "Recently unsealed court documents in the New York Times' case against OpenAI and Microsoft are pretty damning. The companies' own documentation warned that it was starting a \"doom loop\" that would damage the web, characterized its scraping of data to train its models as the \"larg",
+    "published": "2026-09-18T21:07:24+00:00",
+    "first_seen": "2026-09-19T10:39:11.431206+00:00"
+  },
+  {
+    "source": "The Verge AI",
+    "source_tier": 2,
+    "title": "Virginia governor creates an AI task force and moves to restrain data centers",
+    "link": "https://www.theverge.com/policy/997573/virginia-governor-spanberger-data-center-ai-task-force",
+    "summary": "Virginia Gov. Abigail Spanberger ordered the state government to take steps that could empower local communities to have a larger say in data center development and slow down approvals in a state that is already home to the data center capital of the world. Executive Order 22 ban",
+    "published": "2026-09-18T18:29:17+00:00",
+    "first_seen": "2026-09-19T10:39:11.431206+00:00"
+  },
+  {
+    "source": "The Verge AI",
+    "source_tier": 2,
+    "title": "Gavin Newsom is pushing for an AI kill switch",
+    "link": "https://www.theverge.com/policy/997516/california-governor-newsom-ai-kill-switch",
+    "summary": "California Gov. Gavin Newsom (D) is positioning the state to take the lead on AI oversight, including the potential to mandate a \"kill switch\" for frontier models, with a new executive order issued Friday. Newsom's order directs the state to convene a group of experts that will d",
+    "published": "2026-09-18T17:04:51+00:00",
+    "first_seen": "2026-09-19T10:39:11.431206+00:00"
+  },
+  {
+    "source": "The Verge AI",
+    "source_tier": 2,
+    "title": "What Hollywood thinks about existential AI warnings",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/997358/what-hollywood-thinks-about-existential-ai-warnings",
+    "summary": "As the tech sector sounds alarms about AI's potential to destroy humanity, entertainment labor groups are urging the public to stay focused on what's already happening. The Verge reached out to Disney, Netflix, Amazon, Lionsgate, and other studios who have started using AI, as we",
+    "published": "2026-09-18T16:35:19+00:00",
+    "first_seen": "2026-09-19T10:39:11.431206+00:00"
+  },
+  {
+    "source": "The Verge AI",
+    "source_tier": 2,
+    "title": "Security researchers used Claude to help them hack into OpenAI",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/997444/openai-hack-claude-heif-heist",
+    "summary": "A team of three independent security researchers at Hacktron says it took less than 72 hours for them to hack into OpenAI employee accounts using Anthropic's Claude Opus 4.8 and 5, The Wall Street Journal reports. They were able to access OpenAI's GitHub repository, called \"Monor",
+    "published": "2026-09-18T15:30:16+00:00",
+    "first_seen": "2026-09-19T10:39:11.431206+00:00"
+  },
+  {
+    "source": "The Verge AI",
+    "source_tier": 2,
+    "title": "Flash floods can strike without warning \u2014 this new technology could change that",
+    "link": "https://www.theverge.com/science/997083/flash-flood-warning-tacls-satellite-machine-learning",
+    "summary": "On the morning of June 9th, Laura Lin was working from her home in Lanesville, a rural southern Indiana town about 15 miles from the Kentucky border. She was on a Zoom call, unaware that the heavy rain outside was beginning to flood her yard. \"I look over to where the barn is ove",
+    "published": "2026-09-18T11:00:00+00:00",
+    "first_seen": "2026-09-19T10:39:11.431206+00:00"
   }
 ]

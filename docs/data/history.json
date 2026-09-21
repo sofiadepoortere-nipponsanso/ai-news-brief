@@ -47,15 +47,6 @@
   {
     "source": "Power BI Blog",
     "source_tier": 1,
-    "title": "The AI Semantic Layer You Probably Already Have",
-    "link": "https://community.fabric.microsoft.com/t5/Power-BI-Updates-Blog/The-AI-Semantic-Layer-You-Probably-Already-Have/ba-p/5360197",
-    "summary": "If your organization uses Power BI, you own something most companies chasing AI are desperately trying to build. You just may not know it by name.Let me explain.The invisible thing behind every reportEvery Power BI report you have ever opened sits on top of a semantic model. Ever",
-    "published": "2026-08-20T19:00:00+00:00",
-    "first_seen": "2026-09-02T11:16:42.453040+00:00"
-  },
-  {
-    "source": "Power BI Blog",
-    "source_tier": 1,
     "title": "Power BI August 2026 Feature Summary",
     "link": "https://community.fabric.microsoft.com/t5/Power-BI-Updates-Blog/Power-BI-August-2026-Feature-Summary/ba-p/5348434",
     "summary": "Welcome to the August 2026 Power BI Feature Summary! This month includes updates across reporting, modeling, data connectivity, mobile, embedded analytics, and developer experiences, with a mix of generally available enhancements and new preview capabilities. Let's take a look at",
@@ -3526,5 +3517,149 @@
     "summary": "At the start of this week, the who's-who of AI seemed - at least tentatively - on the side of AI regulation. Over the weekend, Anthropic CEO Dario Amodei had proposed a three-step plan for slowing AI development, including by embedding third-party evaluators in labs, coordinating",
     "published": "2026-09-19T13:00:00+00:00",
     "first_seen": "2026-09-20T11:02:10.884024+00:00"
+  },
+  {
+    "source": "Power Automate Blog",
+    "source_tier": 1,
+    "title": "What\u2019s new in Power Platform: September 2026 feature update",
+    "link": "https://www.microsoft.com/en-us/power-platform/blog/power-apps/whats-new-in-power-platform-september-2026-feature-update/",
+    "summary": "Power Platform Build hands-on Power Platform and AI expertise with Power Series Developed by the Power CAT team, Power Series is now available with 20 hands-on labs that help customers, partners, and field teams build practical Power Platform and AI skills at their own pace.\nThe ",
+    "published": "2026-09-17T15:00:00+00:00",
+    "first_seen": "2026-09-21T12:29:05.683303+00:00"
+  },
+  {
+    "source": "MIT Technology Review",
+    "source_tier": 2,
+    "title": "How we made the first comprehensive map of deaths along the US border\u2019s \u201cvirtual wall\u201d",
+    "link": "https://www.technologyreview.com/2026/09/21/1144161/border-towers-surveillance-methodology/",
+    "summary": "Our 15-month investigation into death and surveillance along the US-Mexico border began with a simple question: Why did so many people die near government surveillance towers meant to help track and apprehend them? This story is part of\u00a0Dying on Camera, a collaboration between\u00a0MI",
+    "published": "2026-09-21T12:00:00+00:00",
+    "first_seen": "2026-09-21T12:29:05.683303+00:00"
+  },
+  {
+    "source": "MIT Technology Review",
+    "source_tier": 2,
+    "title": "4 ways to address the failures we found along the US border\u2019s \u201cvirtual wall\u201d",
+    "link": "https://www.technologyreview.com/2026/09/21/1144164/border-towers-surveillance-policy-recommendations/",
+    "summary": "MIT Technology Review today published our investigation into how many people have died near the \u201cvirtual wall\u201d of surveillance towers that the US government has installed along the US-Mexico border. We found cases of people who walked undetected through areas surveilled by advanc",
+    "published": "2026-09-21T12:00:00+00:00",
+    "first_seen": "2026-09-21T12:29:05.683303+00:00"
+  },
+  {
+    "source": "MIT Technology Review",
+    "source_tier": 2,
+    "title": "The US spent billions on border surveillance. Why can\u2019t it catch people before they die?",
+    "link": "https://www.technologyreview.com/2026/09/21/1144166/border-towers-surveillance-investigation/",
+    "summary": "When Jos\u00e9 Morales Bernal crossed the border into the United States on April 8, 2024, the day before his 32nd birthday, it should have triggered a chain of technological alerts and human responses.\u00a0 As he walked through the desert in southern New Mexico that morning, he was within",
+    "published": "2026-09-21T12:00:00+00:00",
+    "first_seen": "2026-09-21T12:29:05.683303+00:00"
+  },
+  {
+    "source": "MIT Technology Review",
+    "source_tier": 2,
+    "title": "She died at the San Diego border. A surveillance camera was in plain sight",
+    "link": "https://www.technologyreview.com/2026/09/21/1144170/border-towers-surveillance-feature/",
+    "summary": "She had only walked for a couple of hours, and already she was lost.\u00a0 It was early afternoon on Sept. 14, 2025, when 30-year-old Graciela G\u00f3mez Hern\u00e1ndez crossed the border from the eastern edge of Tijuana into Southern California, sending voice messages to her mother and sister ",
+    "published": "2026-09-21T12:00:00+00:00",
+    "first_seen": "2026-09-21T12:29:05.683303+00:00"
+  },
+  {
+    "source": "ZDNet AI",
+    "source_tier": 2,
+    "title": "The AI models that cheat the most, according to new CAIS benchmark",
+    "link": "https://www.zdnet.com/innovation/ai-model-cheating-benchmark-cheatbench/",
+    "summary": "We know models cheat. A new benchmark measures how much, and on what tasks.",
+    "published": "2026-09-21T11:53:04+00:00",
+    "first_seen": "2026-09-21T12:29:05.683303+00:00"
+  },
+  {
+    "source": "TechCrunch AI",
+    "source_tier": 2,
+    "title": "6 days left to save up to $200 to TechCrunch Disrupt 2026",
+    "link": "https://techcrunch.com/2026/09/20/6-days-left-to-get-ahead-at-techcrunch-disrupt-2026/",
+    "summary": "Current ticket pricing ends in 6 days on Sept. 25 at 11:59 p.m. PT. Join 10,000+ founders, investors and tech leaders at Disrupt and save up to $200 on your ticket until then.",
+    "published": "2026-09-20T21:41:08+00:00",
+    "first_seen": "2026-09-21T12:29:05.683303+00:00"
+  },
+  {
+    "source": "TechCrunch AI",
+    "source_tier": 2,
+    "title": "World model companies are keeping a lot of secrets",
+    "link": "https://techcrunch.com/2026/09/20/world-model-companies-are-keeping-a-lot-of-secrets/",
+    "summary": "Everyone in the world-models space is sitting on a pile of cash and a ton of buzz, but good luck getting anyone \u2014 from the founders to their own data suppliers \u2014 to tell you what they're actually building.",
+    "published": "2026-09-20T20:29:07+00:00",
+    "first_seen": "2026-09-21T12:29:05.683303+00:00"
+  },
+  {
+    "source": "TechCrunch AI",
+    "source_tier": 2,
+    "title": "Is the AI industry really ready to slow down?",
+    "link": "https://techcrunch.com/2026/09/20/is-the-ai-industry-really-ready-to-slow-down/",
+    "summary": "On Equity, we debated whether Ai executives are serious about wanting to slow down.",
+    "published": "2026-09-20T18:56:04+00:00",
+    "first_seen": "2026-09-21T12:29:05.683303+00:00"
+  },
+  {
+    "source": "TechCrunch AI",
+    "source_tier": 2,
+    "title": "Vocci\u2019s ring adds a new form factor to meeting note-taking",
+    "link": "https://techcrunch.com/2026/09/20/voccis-ring-adds-a-new-form-factor-to-meeting-note-taking/",
+    "summary": "Vocci's lightweight ring costs $249, and might pose some privacy questions",
+    "published": "2026-09-20T18:32:52+00:00",
+    "first_seen": "2026-09-21T12:29:05.683303+00:00"
+  },
+  {
+    "source": "TechCrunch AI",
+    "source_tier": 2,
+    "title": "ScrollEd wants to turn textbooks into TikTok",
+    "link": "https://techcrunch.com/2026/09/20/scrolled-wants-to-turn-textbooks-into-tiktok/",
+    "summary": "ScrollEd turns textbooks into a scrollable, Instagram-like feed with video, audio, and quizzes. The Palo Alto startup, founded by student co-founders (and spouses) Utsav Gupta and Rebecca Neff, pitches at TechCrunch Disrupt.",
+    "published": "2026-09-20T18:00:00+00:00",
+    "first_seen": "2026-09-21T12:29:05.683303+00:00"
+  },
+  {
+    "source": "The Verge AI",
+    "source_tier": 2,
+    "title": "UN says AI safeguards can\u2019t wait for certainty",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/998090/un-ai-panel-hugging-face-hack-precautionary-principle",
+    "summary": "Governments need to rein in increasingly capable AI agents before their risks are fully understood, a United Nations scientific panel warned in the global organization's first major assessment of OpenAI's hack of Hugging Face earlier this year. The report cements AI's place on th",
+    "published": "2026-09-21T10:18:06+00:00",
+    "first_seen": "2026-09-21T12:29:05.683303+00:00"
+  },
+  {
+    "source": "The Verge AI",
+    "source_tier": 2,
+    "title": "Amazon doesn\u2019t trust Meta\u2019s Muse AI agent",
+    "link": "https://www.theverge.com/tech/998078/amazon-blocks-meta-muse-ai-agent-shopping",
+    "summary": "Meta's Muse AI agent has been blocked from shopping Amazon on behalf of its users, GeekWire reports. A popup message started appearing on Sunday for Muse users saying that \"continued access by an unauthorized AI agent violates Amazon's Conditions of Use, to which our customers ha",
+    "published": "2026-09-21T09:21:47+00:00",
+    "first_seen": "2026-09-21T12:29:05.683303+00:00"
+  },
+  {
+    "source": "The Verge AI",
+    "source_tier": 2,
+    "title": "No one is surprised that Nvidia\u2019s Jensen Huang thinks AI fears are overblown",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/997936/nvidia-jensen-huang-ai-fears-overblown",
+    "summary": "The man who may stand to make the most money from the AI boom seems to think he knows better than anyone else, including researchers who have studied and worked on AI for decades. In an interview with CBS Sunday Morning, he claimed there was a \"0% chance\" of AI being the end of t",
+    "published": "2026-09-20T18:50:18+00:00",
+    "first_seen": "2026-09-21T12:29:05.683303+00:00"
+  },
+  {
+    "source": "The Verge AI",
+    "source_tier": 2,
+    "title": "Trump now says he wants to form an \u2018AI Force\u2019",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/997867/trump-ai-force-ai-czar",
+    "summary": "The president posted on Truth Social that he wanted to appoint an \"AI czar\" to lead a new \"AI force.\" He made the announcement amid growing calls from across the political spectrum and even within the industry to pump the brakes on AI development. He posted that his administratio",
+    "published": "2026-09-20T15:39:22+00:00",
+    "first_seen": "2026-09-21T12:29:05.683303+00:00"
+  },
+  {
+    "source": "The Verge AI",
+    "source_tier": 2,
+    "title": "Humans, not rogue AI, are still the biggest cybersecurity risk to energy systems",
+    "link": "https://www.theverge.com/science/997834/ai-cyberattack-energy-critical-infrastructure",
+    "summary": "Before recent high-profile hacks raised the specter of AI possibly \"killing all humans,\" our energy systems were already disturbingly vulnerable to cyberattack - and the risk is growing. \"We were always prey. We were just kind of surviving at the appetite of our predators,\" Joshu",
+    "published": "2026-09-20T12:00:00+00:00",
+    "first_seen": "2026-09-21T12:29:05.683303+00:00"
   }
 ]

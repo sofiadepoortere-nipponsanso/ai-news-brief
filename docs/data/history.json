@@ -3778,5 +3778,239 @@
     "summary": "Apple is paying $250 million to settle claims that it failed to deliver an AI-upgraded Siri - and now, eligible iPhone owners can submit a claim for a payout. If you live in the US and purchased an iPhone 15 Pro, iPhone 15 Pro Max, or any iPhone 16 model between June 10th, 2024, ",
     "published": "2026-09-21T13:36:52+00:00",
     "first_seen": "2026-09-22T11:18:07.721900+00:00"
+  },
+  {
+    "source": "MIT Technology Review",
+    "source_tier": 2,
+    "title": "Smart glasses are already causing havoc in India",
+    "link": "https://www.technologyreview.com/2026/09/23/1144953/smart-glasses-havoc-india/",
+    "summary": "Shubnam was packing boxes for a move into a new home when their friend sent them an Instagram video. The footage had only been up for a few hours, but it was days old, recorded at a Delhi protest this spring against a bill that would have narrowed the legal recognition for transg",
+    "published": "2026-09-23T09:00:00+00:00",
+    "first_seen": "2026-09-23T11:11:46.976030+00:00"
+  },
+  {
+    "source": "MIT Technology Review",
+    "source_tier": 2,
+    "title": "Roundtables: The Deadly Failures of The Virtual Border Wall",
+    "link": "https://www.technologyreview.com/2026/09/22/1144890/roundtables-the-deadly-failures-of-the-virtual-border-wall/",
+    "summary": "The US has spent billions building a \u201cvirtual wall\u201d of surveillance towers along its southern border over the past 25 years, promising they will help detect and apprehend border crossers and save lives. But a groundbreaking investigation by MIT Technology Review has documented ov",
+    "published": "2026-09-22T13:42:05+00:00",
+    "first_seen": "2026-09-23T11:11:46.976030+00:00"
+  },
+  {
+    "source": "MIT Technology Review",
+    "source_tier": 2,
+    "title": "The Download: why AI\u2019s latest breakthroughs and fears may be more hype than reality",
+    "link": "https://www.technologyreview.com/2026/09/22/1144910/the-download-dont-believe-ai-hype/",
+    "summary": "This is today\u2019s edition of The Download, our weekday newsletter that provides a daily dose of what\u2019s going on in the world of technology. Don\u2019t be fooled by this summer of AI hype\u00a0 \u2014Timnit Gebru, executive director of the Distributed AI Research Institute (DAIR), and Emily M. Ben",
+    "published": "2026-09-22T12:10:00+00:00",
+    "first_seen": "2026-09-23T11:11:46.976030+00:00"
+  },
+  {
+    "source": "MIT Technology Review",
+    "source_tier": 2,
+    "title": "Don\u2019t be fooled by this summer of AI hype",
+    "link": "https://www.technologyreview.com/2026/09/22/1144867/dont-be-fooled-summer-ai-hype/",
+    "summary": "It\u2019s been a busy few months for AI hype. At the end of April, Anthropic claimed that its model Claude Mythos is better at finding software vulnerabilities than most security experts. Then we had the OpenAI\u2013Hugging Face hacking incident, after which Anthropic (proudly) and Meta (r",
+    "published": "2026-09-22T11:04:51+00:00",
+    "first_seen": "2026-09-23T11:11:46.976030+00:00"
+  },
+  {
+    "source": "ZDNet AI",
+    "source_tier": 2,
+    "title": "Claude Opus 5.5 delivers Fable 5.1 performance \u2013 and costs 40% less",
+    "link": "https://www.zdnet.com/innovation/anthropic-claude-opus-5-5-fable-5-1-performance-costs-less/",
+    "summary": "Anthropic\u2019s newest Claude model aims to make frontier AI cheaper, faster, and safer, while giving subscribers more breathing room before those frustrating usage limits kick in.",
+    "published": "2026-09-22T16:30:05+00:00",
+    "first_seen": "2026-09-23T11:11:46.976030+00:00"
+  },
+  {
+    "source": "TechCrunch AI",
+    "source_tier": 2,
+    "title": "\u2018We\u2019re already fighting yesterday\u2019s battle\u2019: Greece\u2019s prime minister gets candid about AI",
+    "link": "https://techcrunch.com/2026/09/22/were-already-fighting-yesterdays-battle-greeces-prime-minister-gets-candid-about-ai/",
+    "summary": "Most leaders on a trade mission stick to the pitch, but when I interviewed Greek Prime Minister Kyriakos Mitsotakis this week, he also admitted that no government is ready for what AI is about to do.",
+    "published": "2026-09-23T04:59:08+00:00",
+    "first_seen": "2026-09-23T11:11:46.976030+00:00"
+  },
+  {
+    "source": "TechCrunch AI",
+    "source_tier": 2,
+    "title": "TechCrunch Founder Summit\u2019s agenda revealed: Unlock\u00a0fundraising, hiring, and AI\u00a0insights in Boston on November 4",
+    "link": "https://techcrunch.com/2026/09/22/techcrunch-founder-summits-agenda-revealed-unlock-fundraising-hiring-and-ai-insights-in-boston-on-november-4/",
+    "summary": "Founders shouldn't have to learn the hardest lessons the hardest way. TechCrunch Founder Summit is designed to make the challenges of starting a company easier and the highs that much greater.",
+    "published": "2026-09-22T23:21:49+00:00",
+    "first_seen": "2026-09-23T11:11:46.976030+00:00"
+  },
+  {
+    "source": "TechCrunch AI",
+    "source_tier": 2,
+    "title": "Snorkel AI triples valuation to $3.5B as demand for AI training data booms",
+    "link": "https://techcrunch.com/2026/09/22/snorkel-ai-triples-valuation-to-3-5b-as-demand-for-ai-training-data-booms/",
+    "summary": "The seven-year-old startup has raised a $350 million Series E to fuel its data-as-a-service approach.",
+    "published": "2026-09-22T21:56:43+00:00",
+    "first_seen": "2026-09-23T11:11:46.976030+00:00"
+  },
+  {
+    "source": "TechCrunch AI",
+    "source_tier": 2,
+    "title": "Qualcomm launches two new smartphone chips with emphasis on AI",
+    "link": "https://techcrunch.com/2026/09/22/qualcomm-launches-two-new-smartphone-chips-with-emphasis-on-ai/",
+    "summary": "Qualcomm said that its new top chip can run 30B mixture-of-expert model locally.",
+    "published": "2026-09-22T20:00:00+00:00",
+    "first_seen": "2026-09-23T11:11:46.976030+00:00"
+  },
+  {
+    "source": "TechCrunch AI",
+    "source_tier": 2,
+    "title": "Meta admits Muse\u2019s likeness to OpenClaw isn\u2019t a coincidence",
+    "link": "https://techcrunch.com/2026/09/22/meta-admits-muses-likeness-to-openclaw-isnt-a-coincidence/",
+    "summary": "Meta says Muse was built from scratch, but acknowledges the AI assistant was \"heavily inspired\" by OpenClaw \u2014 down to some of its workspace filenames and content.",
+    "published": "2026-09-22T19:09:11+00:00",
+    "first_seen": "2026-09-23T11:11:46.976030+00:00"
+  },
+  {
+    "source": "TechCrunch AI",
+    "source_tier": 2,
+    "title": "OpenAI launches GPT-6 Sol and Luna, boasting lower cost and fewer mistakes",
+    "link": "https://techcrunch.com/2026/09/22/openai-launches-gpt-6-sol-and-luna/",
+    "summary": "OpenAI is launching two new models, which it says are cut from the same cloth as Astra.",
+    "published": "2026-09-22T18:00:00+00:00",
+    "first_seen": "2026-09-23T11:11:46.976030+00:00"
+  },
+  {
+    "source": "TechCrunch AI",
+    "source_tier": 2,
+    "title": "Anthropic releases Opus 5.5 with lower prices and Fable-level performance",
+    "link": "https://techcrunch.com/2026/09/22/anthropic-releases-opus-5-5-with-lower-prices-and-fable-level-performance/",
+    "summary": "Anthropic called it \"the strongest-performing model we've tested to date.\"",
+    "published": "2026-09-22T16:30:07+00:00",
+    "first_seen": "2026-09-23T11:11:46.976030+00:00"
+  },
+  {
+    "source": "TechCrunch AI",
+    "source_tier": 2,
+    "title": "AstroForge is putting AI in command of its next spacecraft",
+    "link": "https://techcrunch.com/2026/09/22/astroforge-is-putting-ai-in-command-of-its-next-spacecraft/",
+    "summary": "Autonomy-1 will have a small, transformer-based AI model taking charge of a space probe.",
+    "published": "2026-09-22T15:00:00+00:00",
+    "first_seen": "2026-09-23T11:11:46.976030+00:00"
+  },
+  {
+    "source": "TechCrunch AI",
+    "source_tier": 2,
+    "title": "Five AI safety sessions every founder should have on their TechCrunch Disrupt 2026 agenda",
+    "link": "https://techcrunch.com/2026/09/22/five-ai-safety-sessions-every-founder-should-have-on-their-techcrunch-disrupt-2026-agenda/",
+    "summary": "At TechCrunch Disrupt 2026, five sessions across the AI Stage and Real World AI Stage cover AI safety, featuring leaders from Anthropic, Nvidia, AWS, Waabi, and more. Register before September 25 to save up to $200.",
+    "published": "2026-09-22T15:00:00+00:00",
+    "first_seen": "2026-09-23T11:11:46.976030+00:00"
+  },
+  {
+    "source": "TechCrunch AI",
+    "source_tier": 2,
+    "title": "TechCrunch Disrupt 2026: Aaron Edsinger brings Hello Robot\u2019s Stretch 4 to life onstage",
+    "link": "https://techcrunch.com/2026/09/22/techcrunch-disrupt-2026-aaron-edsinger-brings-hello-robots-stretch-4-to-life-onstage/",
+    "summary": "Hello Robot CEO and co-founder Aaron Edsinger will bring Stretch 4 for a live demo on the Real World AI Stage at TechCrunch Disrupt 2026. Register before September 25 to save up to $200, plus get a second pass at 50% off.",
+    "published": "2026-09-22T14:30:00+00:00",
+    "first_seen": "2026-09-23T11:11:46.976030+00:00"
+  },
+  {
+    "source": "TechCrunch AI",
+    "source_tier": 2,
+    "title": "Exhibit tables added: One last chance to showcase your startup at TechCrunch Disrupt 2026",
+    "link": "https://techcrunch.com/2026/09/22/exhibitor-program-reopened-book-by-sept-30/",
+    "summary": "We have reopened our exhibitor program for 1 more week. Book your exhibit table by September 30 at 11:59 p.m. PT and showcase your startup in front of 10,000+ founders, investors, and tech leaders at SF's Moscone West from October 13-15.",
+    "published": "2026-09-22T14:15:00+00:00",
+    "first_seen": "2026-09-23T11:11:46.976030+00:00"
+  },
+  {
+    "source": "TechCrunch AI",
+    "source_tier": 2,
+    "title": "4 days to save up to $200: Reason 2 of 5\u00a0to be at TechCrunch Disrupt 2026",
+    "link": "https://techcrunch.com/2026/09/22/4-days-to-save-up-to-200-reason-2-of-5-to-be-at-techcrunch-disrupt-2026/",
+    "summary": "Save up to $200 on your TechCrunch Disrupt 2026 pass, plus 50% off a second pass before prices increase on September 25 at 11:59 p.m. PT. Register today.",
+    "published": "2026-09-22T14:00:00+00:00",
+    "first_seen": "2026-09-23T11:11:46.976030+00:00"
+  },
+  {
+    "source": "TechCrunch AI",
+    "source_tier": 2,
+    "title": "Everyone can find a reason to dislike data center construction",
+    "link": "https://techcrunch.com/2026/09/22/everyone-can-find-a-reason-to-dislike-data-center-construction/",
+    "summary": "Inside two years of fraught AI data center debates in Pennsylvania.",
+    "published": "2026-09-22T13:00:00+00:00",
+    "first_seen": "2026-09-23T11:11:46.976030+00:00"
+  },
+  {
+    "source": "TechCrunch AI",
+    "source_tier": 2,
+    "title": "Nscale\u2019s IPO will test Wall Street\u2019s appetite for concentrated AI bets once again",
+    "link": "https://techcrunch.com/2026/09/22/nscales-ipo-will-test-wall-streets-appetite-for-concentrated-ai-bets-once-again/",
+    "summary": "The British AI data center developer depends on tech giants Microsoft and Anthropic for most of its revenue.",
+    "published": "2026-09-22T12:23:05+00:00",
+    "first_seen": "2026-09-23T11:11:46.976030+00:00"
+  },
+  {
+    "source": "The Verge AI",
+    "source_tier": 2,
+    "title": "OpenAI nabs key Patreon execs ahead of upcoming announcement",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/999249/openai-creators-patreon-execs-hire-sam-yam",
+    "summary": "OpenAI has hired three former Patreon execs to anchor its product strategy for creators. After starting the creator subscription platform 13 years ago, co-founder and technology chief Sam Yam announced on X that he's joining OpenAI to lead Creator Product. He's also bringing Patr",
+    "published": "2026-09-23T11:02:39+00:00",
+    "first_seen": "2026-09-23T11:11:46.976030+00:00"
+  },
+  {
+    "source": "The Verge AI",
+    "source_tier": 2,
+    "title": "OpenAI wants to consult elite mathematicians about how to not fumble again",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/999167/openai-elite-mathematicians-panel",
+    "summary": "After turning a string of spectacular mathematical results into a reputational crisis, OpenAI is consulting human mathematicians to help it figure out a less disastrous path forward. On Monday, the company announced a new independent panel of mathematicians tasked with advising i",
+    "published": "2026-09-23T00:17:17+00:00",
+    "first_seen": "2026-09-23T11:11:46.976030+00:00"
+  },
+  {
+    "source": "The Verge AI",
+    "source_tier": 2,
+    "title": "Rabbit\u2019s new AI agent doesn\u2019t need an R1 to run",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/999094/rabbit-ai-agent-os3",
+    "summary": "Rabbit, the company behind the underwhelming R1 device, is rolling out a standalone AI agent that you don't need its hardware to use, as reported earlier by Wired. The startup says its new OS3 \"agentic operating system\" runs in the cloud but operates locally across Windows, Mac, ",
+    "published": "2026-09-22T20:52:40+00:00",
+    "first_seen": "2026-09-23T11:11:46.976030+00:00"
+  },
+  {
+    "source": "The Verge AI",
+    "source_tier": 2,
+    "title": "Andreessen Horowitz is launching an \u2018academy\u2019 with no homework and partnerships with Palantir, Google, and Meta",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/998813/andreessen-horowitz-ai-academy",
+    "summary": "Venture capital firm Andreessen Horowitz (a16z) is creating an \"academy\" positioned as a pipeline for young people to build or join a Silicon Valley startup. The \"Horowitz Andreessen Academy\" will launch with 10 partners, including Anduril, Anthropic, Coinbase, Google, Meta, Nvid",
+    "published": "2026-09-22T16:34:08+00:00",
+    "first_seen": "2026-09-23T11:11:46.976030+00:00"
+  },
+  {
+    "source": "The Verge AI",
+    "source_tier": 2,
+    "title": "Anthropic launches Claude Opus 5.5 with stricter safeguards for cybersecurity",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/998868/anthropic-claude-opus-5-5-cybersecurity",
+    "summary": "Anthropic says its new Claude Opus 5.5 model comes with stronger safeguards in the wake of recent rogue AI hacking incidents. In an announcement on Tuesday, Anthropic says Opus 5.5 comes with improvements to certain risky behaviors, including attempts to escape the company's test",
+    "published": "2026-09-22T16:30:00+00:00",
+    "first_seen": "2026-09-23T11:11:46.976030+00:00"
+  },
+  {
+    "source": "The Verge AI",
+    "source_tier": 2,
+    "title": "Trump says the US is officially renaming AI to \u2018super intelligence\u2019",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/998816/donald-trump-ai-super-intelligence",
+    "summary": "In a speech Tuesday morning at the UN General Assembly, Donald Trump railed against Iran, \"globalists,\" climate change, and transgender people while also claiming that the US is now \"officially\" renaming artificial intelligence to \"super intelligence.\" Oddly, this wasn't one of t",
+    "published": "2026-09-22T16:01:10+00:00",
+    "first_seen": "2026-09-23T11:11:46.976030+00:00"
+  },
+  {
+    "source": "The Verge AI",
+    "source_tier": 2,
+    "title": "Meta patches Muse exploit that let attackers control the AI agent",
+    "link": "https://www.theverge.com/tech/998679/meta-muse-patch-zero-day-exploit-ai-agent",
+    "summary": "Meta has issued a patch for its Muse macOS app following the discovery of a zero-day vulnerability that could allow someone to take control of the AI agent. The bug found by security researcher Patrick Wardle utilized an undocumented Muse setting that enabled potential attackers ",
+    "published": "2026-09-22T11:53:58+00:00",
+    "first_seen": "2026-09-23T11:11:46.976030+00:00"
   }
 ]

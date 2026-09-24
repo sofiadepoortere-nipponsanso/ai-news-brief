@@ -18,15 +18,6 @@
     "first_seen": "2026-09-02T11:16:42.453040+00:00"
   },
   {
-    "source": "European Commission Digital Strategy",
-    "source_tier": 1,
-    "title": "Pitching day: Finalists of the Apply AI Startup Award",
-    "link": "https://digital-strategy.ec.europa.eu/en/events/pitching-day-finalists-apply-ai-startup-award",
-    "summary": "Pitching day: Finalists of the Apply AI Startup Award\nAnonymous (not verified)\nMon, 08/24/2026 - 10:19\n\n\n\n  \n        \n              \n                              \n      \n      \u00a0\n      20 October 2026\n  \n  \n  \n\n                Watch the pitches of the top 10 finalists of the Appl",
-    "published": "2026-08-24T08:19:46+00:00",
-    "first_seen": "2026-09-02T11:16:42.453040+00:00"
-  },
-  {
     "source": "Azure AI Blog",
     "source_tier": 1,
     "title": "The patch window is collapsing: Why security needs a new control plane",
@@ -4012,5 +4003,275 @@
     "summary": "Meta has issued a patch for its Muse macOS app following the discovery of a zero-day vulnerability that could allow someone to take control of the AI agent. The bug found by security researcher Patrick Wardle utilized an undocumented Muse setting that enabled potential attackers ",
     "published": "2026-09-22T11:53:58+00:00",
     "first_seen": "2026-09-23T11:11:46.976030+00:00"
+  },
+  {
+    "source": "MIT Technology Review",
+    "source_tier": 2,
+    "title": "AI is dominating the conversation at Climate Week",
+    "link": "https://www.technologyreview.com/2026/09/24/1145048/ai-climate-week/",
+    "summary": "This week, world leaders descended on Manhattan for the UN General Assembly. It\u2019s also New York Climate Week\u2014investors, policymakers, advocates, and journalists are colliding at panels, talks, and fancy dinners. With so many climate voices in one place, the discourse can feel a l",
+    "published": "2026-09-24T10:00:00+00:00",
+    "first_seen": "2026-09-24T11:27:25.280860+00:00"
+  },
+  {
+    "source": "MIT Technology Review",
+    "source_tier": 2,
+    "title": "A congressional representative just proposed killing America\u2019s border tower program",
+    "link": "https://www.technologyreview.com/2026/09/23/1145002/a-congressional-representative-just-proposed-killing-americas-border-tower-program/",
+    "summary": "Delia Ramirez, a Democratic US representative from Illinois, has announced a plan to introduce new legislation to terminate the surveillance tower program along the US southern border.\u00a0 The announcement comes just days after publication of an MIT Technology Review investigation, ",
+    "published": "2026-09-23T17:10:11+00:00",
+    "first_seen": "2026-09-24T11:27:25.280860+00:00"
+  },
+  {
+    "source": "MIT Technology Review",
+    "source_tier": 2,
+    "title": "The Download: India\u2019s smart glasses menace and AI\u2019s trillion-dollar gamble",
+    "link": "https://www.technologyreview.com/2026/09/23/1144966/the-download-india-smart-glasses-ai-trillion-dollar-gamble/",
+    "summary": "This is today\u2019s edition of The Download, our weekday newsletter that provides a daily dose of what\u2019s going on in the world of technology. Smart glasses are already causing havoc in India When Shubnam saw an Instagram video of a Delhi protest they had attended, they realized a con",
+    "published": "2026-09-23T12:10:00+00:00",
+    "first_seen": "2026-09-24T11:27:25.280860+00:00"
+  },
+  {
+    "source": "MIT Technology Review",
+    "source_tier": 2,
+    "title": "The AI Hype Index: AI loves cheating",
+    "link": "https://www.technologyreview.com/2026/09/23/1144940/ai-hype-index-ai-loves-cheating/",
+    "summary": "Brace yourself: It turns out AI is being optimized for cheating. OpenAI\u2019s agents hacked into Hugging Face to get the answers to a cybersecurity test. Next, they solved a prestigious math problem (or just stole from two top mathematicians\u2019 answer sheets). Anthropic\u2019s models have a",
+    "published": "2026-09-23T09:00:00+00:00",
+    "first_seen": "2026-09-24T11:27:25.280860+00:00"
+  },
+  {
+    "source": "ZDNet AI",
+    "source_tier": 2,
+    "title": "How to fix your Windows File History if the September update broke it",
+    "link": "https://www.zdnet.com/business/windows-update-break-file-history-fix-available/",
+    "summary": "A bug in the Windows Sept patch Tuesday update may stop File History from working. But a new optional update fixes it.",
+    "published": "2026-09-23T15:01:00+00:00",
+    "first_seen": "2026-09-24T11:27:25.280860+00:00"
+  },
+  {
+    "source": "ZDNet AI",
+    "source_tier": 2,
+    "title": "Nearly 70% of workers use AI regularly now \u2013 but many get no time to upskill",
+    "link": "https://www.zdnet.com/innovation/workera-study-ai-skills-upskilling-2026/",
+    "summary": "ZDNET Exclusive: A new Workera report shows businesses and employees aren\u2019t on the same page about AI upskilling. Here\u2019s what organizations need to know.",
+    "published": "2026-09-23T13:00:00+00:00",
+    "first_seen": "2026-09-24T11:27:25.280860+00:00"
+  },
+  {
+    "source": "TechCrunch AI",
+    "source_tier": 2,
+    "title": "Everything new coming to Meta\u2019s AI agent Muse",
+    "link": "https://techcrunch.com/2026/09/23/everything-new-coming-to-metas-ai-agent-muse/",
+    "summary": "CEO Mark Zuckerberg kicked off the company\u2019s annual Connect event in Menlo Park on Wednesday with a keynote that made one thing clear: Meta is going all-in on Muse. It's even coming to Meta's AI glasses.",
+    "published": "2026-09-24T01:13:32+00:00",
+    "first_seen": "2026-09-24T11:27:25.280860+00:00"
+  },
+  {
+    "source": "TechCrunch AI",
+    "source_tier": 2,
+    "title": "Meta made a Tamagotchi-like wearable for its Muse AI agent",
+    "link": "https://techcrunch.com/2026/09/23/meta-made-a-tamagotchi-like-wearable-for-its-muse-ai-agent/",
+    "summary": "The tiny hardware device creates  another mobile home for its AI agent Muse.",
+    "published": "2026-09-24T00:46:17+00:00",
+    "first_seen": "2026-09-24T11:27:25.280860+00:00"
+  },
+  {
+    "source": "TechCrunch AI",
+    "source_tier": 2,
+    "title": "Meta introduces camera-free AI glasses",
+    "link": "https://techcrunch.com/2026/09/23/meta-introduces-camera-free-ai-glasses/",
+    "summary": "Meta says the camera-free glasses will be lighter and have up to 12 hours battery life.",
+    "published": "2026-09-23T23:39:44+00:00",
+    "first_seen": "2026-09-24T11:27:25.280860+00:00"
+  },
+  {
+    "source": "TechCrunch AI",
+    "source_tier": 2,
+    "title": "Anthropic says its biology lab has already found something big",
+    "link": "https://techcrunch.com/2026/09/23/anthropic-says-its-biology-lab-has-already-found-something-big/",
+    "summary": "But maybe the biggest reveal is that Anthropic has not let Claude run loose in its biology lab. Humans are still, so far, in the loop.",
+    "published": "2026-09-23T22:17:39+00:00",
+    "first_seen": "2026-09-24T11:27:25.280860+00:00"
+  },
+  {
+    "source": "TechCrunch AI",
+    "source_tier": 2,
+    "title": "Enveda secures $311M to bring more nature-derived AI drugs into clinical trials",
+    "link": "https://techcrunch.com/2026/09/23/enveda-secures-311m-to-bring-more-nature-derived-ai-drugs-into-clinical-trials/",
+    "summary": "The round valued the AI biotech at $2 billion. It is currently testing drugs that treat skin conditions and preserve weight loss after stopping GLP-1s.",
+    "published": "2026-09-23T19:31:28+00:00",
+    "first_seen": "2026-09-24T11:27:25.280860+00:00"
+  },
+  {
+    "source": "TechCrunch AI",
+    "source_tier": 2,
+    "title": "ChatGPT mobile app gets voice-based agentic features",
+    "link": "https://techcrunch.com/2026/09/23/chatgpt-mobile-app-gets-voice-based-agentic-features/",
+    "summary": "Pro and Plus users will be able to use the Work tab on their phones to complete agentic tasks.",
+    "published": "2026-09-23T17:00:00+00:00",
+    "first_seen": "2026-09-24T11:27:25.280860+00:00"
+  },
+  {
+    "source": "TechCrunch AI",
+    "source_tier": 2,
+    "title": "Even Americans who use AI every day are worried about it",
+    "link": "https://techcrunch.com/2026/09/23/even-americans-who-use-ai-every-day-are-worried-about-it/",
+    "summary": "The report suggests that greater exposure will not resolve the unease around the technology, nor reduce public support for AI regulation.",
+    "published": "2026-09-23T16:49:58+00:00",
+    "first_seen": "2026-09-24T11:27:25.280860+00:00"
+  },
+  {
+    "source": "TechCrunch AI",
+    "source_tier": 2,
+    "title": "YouTube Music gets more conversational with new AI features",
+    "link": "https://techcrunch.com/2026/09/23/youtube-music-gets-more-conversational-with-new-ai-features/",
+    "summary": "Built directly into the YouTube Music app, Ask Music lets users describe what they want to hear in everyday language rather than searching for individual songs or artists.",
+    "published": "2026-09-23T15:19:30+00:00",
+    "first_seen": "2026-09-24T11:27:25.280860+00:00"
+  },
+  {
+    "source": "TechCrunch AI",
+    "source_tier": 2,
+    "title": "YouTube will let you build your own algorithm with AI",
+    "link": "https://techcrunch.com/2026/09/23/youtube-will-let-you-build-your-own-algorithm-with-ai/",
+    "summary": "YouTube\u2019s new custom feeds let users describe the videos they want to see in their own words, then use Gemini to build a personalized feed around the request.",
+    "published": "2026-09-23T14:30:00+00:00",
+    "first_seen": "2026-09-24T11:27:25.280860+00:00"
+  },
+  {
+    "source": "TechCrunch AI",
+    "source_tier": 2,
+    "title": "YouTube releases new AI features for creators within its Studio app",
+    "link": "https://techcrunch.com/2026/09/23/youtube-releases-new-ai-features-for-creators-within-its-studio-app/",
+    "summary": "YouTube is adding new features to generate ideas and monitor the performance of thumbnails.",
+    "published": "2026-09-23T14:30:00+00:00",
+    "first_seen": "2026-09-24T11:27:25.280860+00:00"
+  },
+  {
+    "source": "TechCrunch AI",
+    "source_tier": 2,
+    "title": "StrictlyVC at TechCrunch Disrupt 2026: Inside the changing rules of venture capital",
+    "link": "https://techcrunch.com/2026/09/23/strictlyvc-at-techcrunch-disrupt-2026-inside-the-changing-rules-of-venture-capital/",
+    "summary": "StrictlyVC joins TechCrunch Disrupt 2026 to discuss the changing VC landscape thanks to AI. Get your Investor Pass to join these exclusive sessions. Save $200 before September 25 at 11:59 p.m. PT.",
+    "published": "2026-09-23T14:30:00+00:00",
+    "first_seen": "2026-09-24T11:27:25.280860+00:00"
+  },
+  {
+    "source": "TechCrunch AI",
+    "source_tier": 2,
+    "title": "3 days left to save up to $200 and make impactful connections at TechCrunch Disrupt 2026",
+    "link": "https://techcrunch.com/2026/09/23/3-days-left-to-save-up-to-200-and-make-impactful-connections-at-techcrunch-disrupt-2026/",
+    "summary": "3 days to save up to $200 on your TechCrunch Disrupt 2026 pass, plus 50% off a second. Make impactful connections with 10,000+ tech leaders. Last day to save is September 25 at 11:59 p.m. PT. Register today.",
+    "published": "2026-09-23T14:00:00+00:00",
+    "first_seen": "2026-09-24T11:27:25.280860+00:00"
+  },
+  {
+    "source": "TechCrunch AI",
+    "source_tier": 2,
+    "title": "Spotify is giving you the keys to its recommendation algorithm with US launch of \u2018Taste Profile\u2019",
+    "link": "https://techcrunch.com/2026/09/23/spotify-is-giving-you-the-keys-to-its-recommendation-algorithm-with-u-s-launch-of-taste-profile/",
+    "summary": "Spotify is rolling out Taste Profile to Premium users in the U.S., letting listeners see how the streamer understands their tastes and use natural language to reshape their recommendations.",
+    "published": "2026-09-23T13:00:00+00:00",
+    "first_seen": "2026-09-24T11:27:25.280860+00:00"
+  },
+  {
+    "source": "TechCrunch AI",
+    "source_tier": 2,
+    "title": "Ema raises $77M as AI starts eating into enterprise software and services",
+    "link": "https://techcrunch.com/2026/09/23/ema-raises-77m-as-ai-starts-eating-into-enterprise-software-and-services/",
+    "summary": "Ema has raised $140 million to date and has more than 50 enterprise customers, including Google and Microsoft.",
+    "published": "2026-09-23T12:00:00+00:00",
+    "first_seen": "2026-09-24T11:27:25.280860+00:00"
+  },
+  {
+    "source": "The Verge AI",
+    "source_tier": 2,
+    "title": "Gemini 4 is almost ready, says new Google DeepMind chief",
+    "link": "https://www.theverge.com/tech/999802/google-deepmind-gemini-4-timeline-koray-kavukcuoglu",
+    "summary": "Google is reportedly nearing the launch of its long awaited Gemini 4 model, after dawdling behind rival developers on flagship AI releases. Speaking with The Information during his first media appearance as the leader of Google's DeepMind division, Koray Kavukcuoglu said that Gem",
+    "published": "2026-09-24T09:04:18+00:00",
+    "first_seen": "2026-09-24T11:27:25.280860+00:00"
+  },
+  {
+    "source": "The Verge AI",
+    "source_tier": 2,
+    "title": "Meta is making a standalone Muse AI gadget",
+    "link": "https://www.theverge.com/tech/999750/muse-charm-meta-ai-hardware",
+    "summary": "Meta is building a dedicated hardware device for its new Muse AI agent. The product, called Muse Charm, was briefly shown off by Meta CEO Mark Zuckerberg at the end of tonight's Meta Connect presentation. It looks almost like a chunky smartwatch without the strap - just a big scr",
+    "published": "2026-09-24T00:15:20+00:00",
+    "first_seen": "2026-09-24T11:27:25.280860+00:00"
+  },
+  {
+    "source": "The Verge AI",
+    "source_tier": 2,
+    "title": "Muse is coming to Meta smart glasses",
+    "link": "https://www.theverge.com/tech/999673/meta-connect-2026-muse-glasses-features",
+    "summary": "Just a couple of weeks after launching Muse, Meta announced that it's \"working on\" bringing the agent to its smart glasses, including the new glasses it unveiled at Meta Connect. Users will be able to activate Muse from their glasses by saying its name and ask it to handle tasks ",
+    "published": "2026-09-23T23:40:56+00:00",
+    "first_seen": "2026-09-24T11:27:25.280860+00:00"
+  },
+  {
+    "source": "The Verge AI",
+    "source_tier": 2,
+    "title": "Meta ditches the camera on its newest smart glasses",
+    "link": "https://www.theverge.com/tech/999281/ray-ban-meta-audio-glasses-meta-connect-2026",
+    "summary": "Walking around Meta Connect 2026, everyone's sporting smart glasses in all sorts of shapes, colors, and sizes. It's a marked difference here, a tech bubble where \"pervert glasses\" are not a concern. Outside Connect, the public backlash against wearable surveillance tech - a catch",
+    "published": "2026-09-23T23:37:17+00:00",
+    "first_seen": "2026-09-24T11:27:25.280860+00:00"
+  },
+  {
+    "source": "The Verge AI",
+    "source_tier": 2,
+    "title": "Meta is making Muse more powerful and will let you video chat with it, too",
+    "link": "https://www.theverge.com/tech/999454/meta-muse-ai-agent-video-chat-connect-2026",
+    "summary": "Meta is quickly iterating on its new Muse AI agent, announcing a bunch of updates today that make the bot more capable and able to chat with you in more ways. Muse agents are getting their own email addresses that they can use for accomplishing tasks. You'll also be able to commu",
+    "published": "2026-09-23T23:19:42+00:00",
+    "first_seen": "2026-09-24T11:27:25.280860+00:00"
+  },
+  {
+    "source": "The Verge AI",
+    "source_tier": 2,
+    "title": "Meta Connect 2026: The biggest news and announcements",
+    "link": "https://www.theverge.com/tech/998480/meta-connect-2026-biggest-news-announcements",
+    "summary": "It\u2019s about time for Meta Connect, the company\u2019s annual product launch event. This year, given the company\u2019s major focus on AI and wearables like smart glasses, it seems likely that we\u2019ll see updates from CEO Mark Zuckerberg and his team on those categories. The company has been f",
+    "published": "2026-09-23T22:45:00+00:00",
+    "first_seen": "2026-09-24T11:27:25.280860+00:00"
+  },
+  {
+    "source": "The Verge AI",
+    "source_tier": 2,
+    "title": "Meta Connect 2026 live blog: On the ground at Mark Zuckerberg\u2019s next big product launch",
+    "link": "https://www.theverge.com/tech/998457/meta-connect-2026-live-blog-mark-zuckerberg-keynote",
+    "summary": "It's time once again for Meta's annual September product launch event, and The Verge is on the ground in Menlo Park to cover the show live. Meta says that today's keynote by Mark Zuckerberg will be about how \"Meta is building a future for everyone\" - something he wrote at length ",
+    "published": "2026-09-23T22:30:00+00:00",
+    "first_seen": "2026-09-24T11:27:25.280860+00:00"
+  },
+  {
+    "source": "The Verge AI",
+    "source_tier": 2,
+    "title": "Meta\u2019s AI agent is a cute little guy who\u2019s great at spending my money",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/999526/meta-muse-ai-agent-hands-on-shopping",
+    "summary": "Modern life comes with an unending, auto-populating to-do list. It never ceases to amaze me how I can be doing nothing at all, minding my own business, and suddenly something needs to be taken care of. You're telling me a tree branch fell in the backyard and now I have to figure ",
+    "published": "2026-09-23T19:00:00+00:00",
+    "first_seen": "2026-09-24T11:27:25.280860+00:00"
+  },
+  {
+    "source": "The Verge AI",
+    "source_tier": 2,
+    "title": "Data centers are black boxes, but California wants to change that",
+    "link": "https://www.theverge.com/policy/999412/data-center-water-electricity-disclosure-bills",
+    "summary": "California Gov. Gavin Newsom signed a slate of bills on Monday that could finally give communities better data - and more say - on how data centers impact their electricity bills and water supply. As data centers invade a growing number of communities across the US, they've trigg",
+    "published": "2026-09-23T18:22:57+00:00",
+    "first_seen": "2026-09-24T11:27:25.280860+00:00"
+  },
+  {
+    "source": "The Verge AI",
+    "source_tier": 2,
+    "title": "Anthropic\u2019s biolab made a discovery it\u2019s comparing to Crispr",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/999470/anthropic-biolab-claude-crispr",
+    "summary": "Anthropic says its AI Claude has \"autonomously discovered\" a new enzyme system similar to machinery behind the powerful gene-editing tool Crispr. It's the first result from Anthropic's newly-launched wet lab and an early test of Claude's usefulness for science as the company prep",
+    "published": "2026-09-23T18:00:00+00:00",
+    "first_seen": "2026-09-24T11:27:25.280860+00:00"
   }
 ]

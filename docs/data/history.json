@@ -63,42 +63,6 @@
     "first_seen": "2026-09-02T11:16:42.453040+00:00"
   },
   {
-    "source": "MIT Technology Review",
-    "source_tier": 2,
-    "title": "The Download: a secretive antiaging drug and joining virtual power plants",
-    "link": "https://www.technologyreview.com/2026/08/28/1143113/the-download-antiaging-drug-joining-virtual-power-plants/",
-    "summary": "This is today\u2019s edition of The Download, our weekday newsletter that provides a daily dose of what\u2019s going on in the world of technology. A startup claims it\u2019s found a drug to make your blood young \u2014Antonio Regalado I knew I\u2019d officially become a \u201clongevity influencer\u201d when a com",
-    "published": "2026-08-28T12:35:27+00:00",
-    "first_seen": "2026-09-02T11:16:42.453040+00:00"
-  },
-  {
-    "source": "MIT Technology Review",
-    "source_tier": 2,
-    "title": "How to sign up for a virtual power plant\u2014and decide whether you should",
-    "link": "https://www.technologyreview.com/2026/08/28/1142956/how-to-sign-up-for-a-virtual-power-plant-and-decide-whether-you-should/",
-    "summary": "MIT Technology Review\u2019s How To series helps you get things done.\u00a0 Your thermostat may not look like a power plant. Neither does your electric vehicle, home battery, or HVAC system. But utility and energy companies increasingly want to treat them like one. A virtual power plant, o",
-    "published": "2026-08-28T09:00:00+00:00",
-    "first_seen": "2026-09-02T11:16:42.453040+00:00"
-  },
-  {
-    "source": "MIT Technology Review",
-    "source_tier": 2,
-    "title": "A startup claims it\u2019s found a drug to make your blood young",
-    "link": "https://www.technologyreview.com/2026/08/27/1143037/startup-claims-its-found-a-drug-to-make-your-blood-young/",
-    "summary": "I knew I\u2019d officially become a \u201clongevity influencer\u201d this month when a company called Generation Lab reached out to offer me the chance to write about\u2014and even receive\u2014their new rejuvenation treatment,\u00a0an injectable combination of two existing drugs which they call 1 Generation.",
-    "published": "2026-08-27T19:48:13+00:00",
-    "first_seen": "2026-09-02T11:16:42.453040+00:00"
-  },
-  {
-    "source": "MIT Technology Review",
-    "source_tier": 2,
-    "title": "The Download: inside OpenAI\u2019s Hugging Face hack, and a new EV takes on the US",
-    "link": "https://www.technologyreview.com/2026/08/27/1143033/the-download-openai-hugging-face-hack-slate-truck-ev/",
-    "summary": "This is today\u2019s edition of The Download, our weekday newsletter that provides a daily dose of what\u2019s going on in the world of technology. The inside story on why OpenAI agents hacked Hugging Face The models responsible for last month\u2019s agent hack of Hugging Face had been inadvert",
-    "published": "2026-08-27T12:10:00+00:00",
-    "first_seen": "2026-09-02T11:16:42.453040+00:00"
-  },
-  {
     "source": "TechCrunch AI",
     "source_tier": 2,
     "title": "AfterQuery reportedly becomes Y Combinator\u2019s fastest-ever unicorn, now valued at $3.2B",
@@ -276,24 +240,6 @@
     "link": "https://techcrunch.com/2026/08/30/caterpillar-is-bringing-to-ai-deployment-what-it-learned-from-automating-mining/",
     "summary": "Caterpillar has spent decades putting autonomous machines to work at remote mining sites. It's now bringing that experience to AI deployment.",
     "published": "2026-08-30T15:00:00+00:00",
-    "first_seen": "2026-09-02T11:16:42.453040+00:00"
-  },
-  {
-    "source": "VentureBeat AI",
-    "source_tier": 2,
-    "title": "Enterprise AI's real risk isn't autonomous agents. It's the complexity between them.",
-    "link": "https://venturebeat.com/ai/enterprise-ais-real-risk-isnt-autonomous-agents-its-the-complexity-between-them",
-    "summary": "Presented by Gravitee Agent complexity is the insidious shadow lurking inside enterprises right now that needs a light shone on it.That\u2019s because enterprises don't deploy a single agent and watch it run, they deploy fleets, each one calling APIs, calling other agents, reaching in",
-    "published": "2026-08-27T14:01:00+00:00",
-    "first_seen": "2026-09-02T11:16:42.453040+00:00"
-  },
-  {
-    "source": "VentureBeat AI",
-    "source_tier": 2,
-    "title": "When agents act on their own, governance has to live in the data layer",
-    "link": "https://venturebeat.com/security/when-agents-act-on-their-own-governance-has-to-live-in-the-data-layer",
-    "summary": "Presented by EDB As enterprises give AI agents more autonomy \u2014 the ability to plan, decide, and act across systems without a human approving each step \u2014 a hard question moves to the center of every architecture review: When an agent tries to complete an action that it was never a",
-    "published": "2026-08-27T12:01:00+00:00",
     "first_seen": "2026-09-02T11:16:42.453040+00:00"
   },
   {
@@ -4813,5 +4759,77 @@
     "summary": "Today, I\u2019m talking with Matthew Prince, who is CEO of Cloudflare. This episode is part of a two-part series on the future of business. Matthew last joined us on the show about two and a half years ago, at what we thought then was a wild pivot point for the internet \u2014 and now it [",
     "published": "2026-09-26T14:00:00+00:00",
     "first_seen": "2026-09-27T11:46:33.277416+00:00"
+  },
+  {
+    "source": "Microsoft 365 Blog",
+    "source_tier": 1,
+    "title": "Introducing the new Copilot with Home, Code and Autopilot",
+    "link": "https://blogs.microsoft.com/blog/2026/09/25/introducing-the-new-copilot-with-home-code-and-autopilot/",
+    "summary": "We\u2019re reimagining Microsoft Copilot to enable work as it evolves and to help expand what every individual and every organization can accomplish in the flow of human ambition.\nThe post Introducing the new Copilot with Home, Code and Autopilot appeared first on AI at Work Blog.",
+    "published": "2026-09-25T12:07:25+00:00",
+    "first_seen": "2026-09-28T13:27:18.163272+00:00"
+  },
+  {
+    "source": "MIT Technology Review",
+    "source_tier": 2,
+    "title": "The Download: rogue agent liability and the AI Hype Index",
+    "link": "https://www.technologyreview.com/2026/09/28/1145202/the-download-rogue-agent-liability-and-the-ai-hype-index/",
+    "summary": "This is today\u2019s edition of\u00a0The Download,\u00a0our weekday newsletter that provides a daily dose of what\u2019s going on in the world of technology. Who\u2019s liable when AI agents go rogue? Over the past few months, a cascade of cyberattacks by AI agents has stunned the world. In July, OpenAI ",
+    "published": "2026-09-28T12:10:00+00:00",
+    "first_seen": "2026-09-28T13:27:18.163272+00:00"
+  },
+  {
+    "source": "MIT Technology Review",
+    "source_tier": 2,
+    "title": "Who\u2019s liable when AI agents go rogue?",
+    "link": "https://www.technologyreview.com/2026/09/28/1145197/whos-liable-when-ai-agents-go-rogue/",
+    "summary": "MIT Technology Review Explains: Let our writers untangle the complex, messy world of technology to help you understand what\u2019s coming next. You can read more from the series here. Over the past few months, a cascade of cyberattacks by AI agents has stunned the world. In July, Open",
+    "published": "2026-09-28T08:06:22+00:00",
+    "first_seen": "2026-09-28T13:27:18.163272+00:00"
+  },
+  {
+    "source": "TechCrunch AI",
+    "source_tier": 2,
+    "title": "Anthropic\u2019s CEO is about to have dinner with President Trump",
+    "link": "https://techcrunch.com/2026/09/27/anthropics-ceo-is-about-to-have-dinner-with-president-trump/",
+    "summary": "This will be the first one-on-one meeting between Dario Amodei and Donald Trump",
+    "published": "2026-09-27T20:34:28+00:00",
+    "first_seen": "2026-09-28T13:27:18.163272+00:00"
+  },
+  {
+    "source": "TechCrunch AI",
+    "source_tier": 2,
+    "title": "Can Muse overcome Meta\u2019s trust issues?",
+    "link": "https://techcrunch.com/2026/09/27/can-muse-overcome-metas-trust-issues/",
+    "summary": "On Equity, we discussed how Meta's AI announcement managed to steal the spotlight from OpenAI and Anthropic.",
+    "published": "2026-09-27T19:57:30+00:00",
+    "first_seen": "2026-09-28T13:27:18.163272+00:00"
+  },
+  {
+    "source": "TechCrunch AI",
+    "source_tier": 2,
+    "title": "Anthropic\u2019s Dario Amodei gets the SNL treatment",
+    "link": "https://techcrunch.com/2026/09/27/anthropics-dario-amodei-gets-the-snl-treatment/",
+    "summary": "\"AI is the devil and I its maker.\"",
+    "published": "2026-09-27T16:30:00+00:00",
+    "first_seen": "2026-09-28T13:27:18.163272+00:00"
+  },
+  {
+    "source": "The Verge AI",
+    "source_tier": 2,
+    "title": "Engram is a sampler that turns broken AI hallucinations into music",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/1001193/engram-sampler-ai-hallucinations-music",
+    "summary": "Music startup Thoughtful Things has just launched the Kickstarter campaign for its first instrument, Engram. It's a sampler and groovebox that uses AI to mangle incoming audio and even hallucinate completely new sounds. This isn't Suno in a box, though. This isn't a \"push-button,",
+    "published": "2026-09-27T20:46:36+00:00",
+    "first_seen": "2026-09-28T13:27:18.163272+00:00"
+  },
+  {
+    "source": "The Verge AI",
+    "source_tier": 2,
+    "title": "OpenAI agents tried to \u2018bruteforce\u2019 a UN website",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/1001178/openai-agents-bruteforce-un-website",
+    "summary": "Security researcher Rowan Howard-Jones says that OpenAI agents scanned the UN Conference on Trade and Development's (UNCTAD) statistics site over 16,000 times between April and June. While the incident doesn't quite rise to the level of the Hugging Face hack, or the recent attack",
+    "published": "2026-09-27T17:21:07+00:00",
+    "first_seen": "2026-09-28T13:27:18.163272+00:00"
   }
 ]

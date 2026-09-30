@@ -5182,5 +5182,311 @@
     "summary": "Nvidia is launching a new safety platform designed to contain and monitor AI agents, a move that comes in response to a wave of rogue hacking incidents, as reported earlier by Reuters. In an announcement on Monday, Nvidia says its new Open Agent Safety Platform can quarantine age",
     "published": "2026-09-28T13:36:06+00:00",
     "first_seen": "2026-09-29T12:30:37.433906+00:00"
+  },
+  {
+    "source": "European Commission Digital Strategy",
+    "source_tier": 1,
+    "title": "Targeted consultation to support a better copyright environment for creativity and innovation",
+    "link": "https://digital-strategy.ec.europa.eu/en/consultations/targeted-consultation-support-better-copyright-environment-creativity-and-innovation",
+    "summary": "Targeted consultation to support a better copyright environment for creativity and innovation\nAnonymous (not verified)\nTue, 09/29/2026 - 10:15\n\n\n\n  \n        \n              \n                              \n      \n      \u00a0\n      Opening: 29 September 2026\n    \n    \n      \u00a0\n      Clos",
+    "published": "2026-09-29T08:15:00+00:00",
+    "first_seen": "2026-09-30T12:15:56.636803+00:00"
+  },
+  {
+    "source": "Power BI Blog",
+    "source_tier": 1,
+    "title": "Microsoft & Snowflake\u2019s Commitment to Apache Ossie",
+    "link": "https://community.fabric.microsoft.com/t5/Power-BI-Updates-Blog/Microsoft-Snowflake-s-Commitment-to-Apache-Ossie/ba-p/5369534",
+    "summary": "If you haven't already, check out FabCon and SQLCon 2026 in Barcelona: Building the data foundation for Microsoft Copilot and Agents for a complete look at all of our FabCon Europe announcements across Fabric and Microsoft Databases.\n\nAdvancing an open, interoperable semantic fou",
+    "published": "2026-09-30T06:30:00+00:00",
+    "first_seen": "2026-09-30T12:15:56.636803+00:00"
+  },
+  {
+    "source": "MIT Technology Review",
+    "source_tier": 2,
+    "title": "The Download: OpenAI\u2019s chief research officer explains its hacking response",
+    "link": "https://www.technologyreview.com/2026/09/30/1145350/the-download-openai-chief-research-officer-hacking-response/",
+    "summary": "This is today\u2019s edition of The Download, our weekday newsletter that provides a daily dose of what\u2019s going on in the world of technology. \u201cWe\u2019re not going to shoot ourselves in the foot\u201d over hack fallout, says OpenAI\u2019s chief research officer Two months after OpenAI\u2019s agents hack",
+    "published": "2026-09-30T12:10:00+00:00",
+    "first_seen": "2026-09-30T12:15:56.636803+00:00"
+  },
+  {
+    "source": "MIT Technology Review",
+    "source_tier": 2,
+    "title": "\u201cWe\u2019re not going to shoot ourselves in the foot\u201d over hack fallout, says OpenAI\u2019s chief research officer",
+    "link": "https://www.technologyreview.com/2026/09/30/1145339/were-not-going-to-shoot-ourselves-in-the-foot-over-hugging-face-says-openais-chief-research-officer/",
+    "summary": "Two months after the bombshell news that a swarm of its agents had broken their containment and hacked into the computers of the AI company Hugging Face, OpenAI is still putting out fires. A steady drip of disclosures about other hacks in the weeks since has kept OpenAI in the sp",
+    "published": "2026-09-30T10:40:30+00:00",
+    "first_seen": "2026-09-30T12:15:56.636803+00:00"
+  },
+  {
+    "source": "MIT Technology Review",
+    "source_tier": 2,
+    "title": "The Download: climate tech companies to watch and AI\u2019s discovery problem",
+    "link": "https://www.technologyreview.com/2026/09/29/1145249/the-download-climate-tech-ai-scientific-discovery/",
+    "summary": "This is today\u2019s edition of The Download, our weekday newsletter that provides a daily dose of what\u2019s going on in the world of technology. Coming soon: our 2026 list of Climate Tech Companies to Watch With the planet nearing 1.5 \u00b0C of warming, climate policies being unraveled, and",
+    "published": "2026-09-29T12:10:00+00:00",
+    "first_seen": "2026-09-30T12:15:56.636803+00:00"
+  },
+  {
+    "source": "ZDNet AI",
+    "source_tier": 2,
+    "title": "LLMjacking can run up your business\u2019 AI bill fast \u2013 how to stop it",
+    "link": "https://www.zdnet.com/innovation/llmjacking-business-ai-bill-cost-how-to-stop/",
+    "summary": "Google analysts warn that stolen AI credentials are being sold underground, and businesses are footing the bill.",
+    "published": "2026-09-29T19:09:53+00:00",
+    "first_seen": "2026-09-30T12:15:56.636803+00:00"
+  },
+  {
+    "source": "ZDNet AI",
+    "source_tier": 2,
+    "title": "Is ChatGPT your new Google Workspace alternative? Meet Space, Pages, and slides",
+    "link": "https://www.zdnet.com/innovation/chatgpt-space-pages-slides-google-workspace-alternative/",
+    "summary": "OpenAI now lets teams create documents, build presentations, and work with AI agents inside ChatGPT",
+    "published": "2026-09-29T17:58:37+00:00",
+    "first_seen": "2026-09-30T12:15:56.636803+00:00"
+  },
+  {
+    "source": "ZDNet AI",
+    "source_tier": 2,
+    "title": "Get Kindle Unlimited free for 3 months with this early Prime Day deal",
+    "link": "https://www.zdnet.com/uncategorized/kindle-unlimited-amazon-october-prime-day-deal-2026/",
+    "summary": "Amazon\u2019s free Kindle Unlimited deal only comes around a couple times a year \u2013 and I highly recommend it.",
+    "published": "2026-09-29T17:32:40+00:00",
+    "first_seen": "2026-09-30T12:15:56.636803+00:00"
+  },
+  {
+    "source": "TechCrunch AI",
+    "source_tier": 2,
+    "title": "Airbnb adds AI search, more social features",
+    "link": "https://techcrunch.com/2026/09/30/airbnb-adds-ai-search-more-social-features/",
+    "summary": "Airbnb is also launching new services such as meal delivery and laundry in select locations",
+    "published": "2026-09-30T12:00:00+00:00",
+    "first_seen": "2026-09-30T12:15:56.636803+00:00"
+  },
+  {
+    "source": "TechCrunch AI",
+    "source_tier": 2,
+    "title": "America.gov gets really weird when you ask it about Minecraft, but it\u2019s not a glitch",
+    "link": "https://techcrunch.com/2026/09/29/america-gov-gets-really-weird-when-you-ask-it-about-minecraft-but-its-not-a-glitch/",
+    "summary": "For the sake of national security, it's a relief to learn that America.gov is not hallucinating to the point that it's penning lengthy poetry.",
+    "published": "2026-09-29T23:30:55+00:00",
+    "first_seen": "2026-09-30T12:15:56.636803+00:00"
+  },
+  {
+    "source": "TechCrunch AI",
+    "source_tier": 2,
+    "title": "The internet is convinced Elon Musk\u2019s xAI trolled OpenAI\u2019s \u2018Dots\u2019 launch",
+    "link": "https://techcrunch.com/2026/09/29/the-internet-is-convinced-elon-musks-xai-trolled-openais-dots-launch/",
+    "summary": "Before OpenAI launched its new AI agent, Dots, on Tuesday, Elon Musk's xAI had already acquired the domain name \"dot.com,\" which now redirects to the Grok chatbot download page.",
+    "published": "2026-09-29T22:20:59+00:00",
+    "first_seen": "2026-09-30T12:15:56.636803+00:00"
+  },
+  {
+    "source": "TechCrunch AI",
+    "source_tier": 2,
+    "title": "OpenAI\u2019s latest features take direct aim at the app store model",
+    "link": "https://techcrunch.com/2026/09/29/openais-latest-features-take-direct-aim-at-the-app-store-model/",
+    "summary": "OpenAI is building out the pieces of an alternative to the traditional app store model, turning ChatGPT into a place where software can be discovered and used by people and AI agents alike.",
+    "published": "2026-09-29T20:15:47+00:00",
+    "first_seen": "2026-09-30T12:15:56.636803+00:00"
+  },
+  {
+    "source": "TechCrunch AI",
+    "source_tier": 2,
+    "title": "OpenAI reportedly in talks to raise $30B round at $1.4T valuation",
+    "link": "https://techcrunch.com/2026/09/29/openai-reportedly-in-talks-to-raise-30b-round-at-1-4t-valuation/",
+    "summary": "The new round is anticipated to be the company's last before its delayed 2027 public debut.",
+    "published": "2026-09-29T19:52:37+00:00",
+    "first_seen": "2026-09-30T12:15:56.636803+00:00"
+  },
+  {
+    "source": "TechCrunch AI",
+    "source_tier": 2,
+    "title": "Here\u2019s why OpenAI is absent from Nvidia\u2019s industry-wide effort to end rogue AI agents",
+    "link": "https://techcrunch.com/2026/09/29/heres-why-openai-is-absent-from-nvidias-industry-wide-effort-to-end-rogue-ai-agents/",
+    "summary": "OpenAI isn't a public supporter of Nvidia's Open Agent Safety Platform, but it is privately working with Nvidia, TechCrunch has learned.",
+    "published": "2026-09-29T18:35:00+00:00",
+    "first_seen": "2026-09-30T12:15:56.636803+00:00"
+  },
+  {
+    "source": "TechCrunch AI",
+    "source_tier": 2,
+    "title": "OpenAI takes on Microsoft with the launch of what feels a whole lot like ChatGPT\u2019s own office suite",
+    "link": "https://techcrunch.com/2026/09/29/openai-takes-on-microsoft-with-the-launch-of-what-feels-a-whole-lot-like-chatgpts-own-office-suite/",
+    "summary": "OpenAI's newly announced suite of office features puts it into more direct competition with more traditional software companies.",
+    "published": "2026-09-29T17:45:51+00:00",
+    "first_seen": "2026-09-30T12:15:56.636803+00:00"
+  },
+  {
+    "source": "TechCrunch AI",
+    "source_tier": 2,
+    "title": "AI-powered app maker Wabi pivots to a messaging experience",
+    "link": "https://techcrunch.com/2026/09/29/ai-powered-app-maker-wabi-pivots-to-a-messaging-experience/",
+    "summary": "Wabi is repositioning its prompt-based app builder as a personal AI agent that can create interfaces on demand, combining chat, apps, and ongoing tasks.",
+    "published": "2026-09-29T17:20:00+00:00",
+    "first_seen": "2026-09-30T12:15:56.636803+00:00"
+  },
+  {
+    "source": "TechCrunch AI",
+    "source_tier": 2,
+    "title": "OpenAI launches Dots, its bubbly agentic avatar",
+    "link": "https://techcrunch.com/2026/09/29/openai-launches-dots-its-bubbly-agentic-avatar/",
+    "summary": "Dots are meant to operate independent of any specific hardware or interface, pursuing user-defined goals continuously in the background with minimal oversight.",
+    "published": "2026-09-29T17:17:15+00:00",
+    "first_seen": "2026-09-30T12:15:56.636803+00:00"
+  },
+  {
+    "source": "TechCrunch AI",
+    "source_tier": 2,
+    "title": "OpenAI gives Codex reusable cloud environments that work across devices",
+    "link": "https://techcrunch.com/2026/09/29/openai-gives-codex-reusable-cloud-environments-that-work-across-devices/",
+    "summary": "OpenAI is expanding Codex with reusable cloud development environments, a revamped CLI with voice controls, new code review tools, and a security-focused product for scanning repositories and preparing fixes.",
+    "published": "2026-09-29T17:15:00+00:00",
+    "first_seen": "2026-09-30T12:15:56.636803+00:00"
+  },
+  {
+    "source": "TechCrunch AI",
+    "source_tier": 2,
+    "title": "OpenAI expands ChatGPT\u2019s plug-ins with app-like interfaces and automations",
+    "link": "https://techcrunch.com/2026/09/29/openai-expands-chatgpts-plugins-with-app-like-interfaces-and-automations/",
+    "summary": "OpenAI is expanding ChatGPT plug-ins with dedicated sidebar homes, interactive panels, file viewers, improved discovery, and support for automations.",
+    "published": "2026-09-29T17:15:00+00:00",
+    "first_seen": "2026-09-30T12:15:56.636803+00:00"
+  },
+  {
+    "source": "TechCrunch AI",
+    "source_tier": 2,
+    "title": "OpenAI launches GPT-6.1 Sol, says it nearly matches GPT-6 Astra and costs less",
+    "link": "https://techcrunch.com/2026/09/29/openai-launches-gpt-6-1-sol-says-it-nearly-matches-gpt-6-astra-and-costs-less/",
+    "summary": "OpenAI says GPT-6.1 Sol delivers significant improvements over GPT-6 Sol across complex professional tasks, including code writing and debugging, document understanding, and executing multistep business workflows.",
+    "published": "2026-09-29T17:15:00+00:00",
+    "first_seen": "2026-09-30T12:15:56.636803+00:00"
+  },
+  {
+    "source": "TechCrunch AI",
+    "source_tier": 2,
+    "title": "Can a chatbot fix the government maze? The White House is about to find out",
+    "link": "https://techcrunch.com/2026/09/29/can-a-chatbot-fix-the-government-maze-the-white-house-is-about-to-find-out/",
+    "summary": "America.gov is intended to simplify the process of navigating government bureaucracy, but large language models are imperfect and remain prone to hallucinations, which could cause new issues.",
+    "published": "2026-09-29T16:55:56+00:00",
+    "first_seen": "2026-09-30T12:15:56.636803+00:00"
+  },
+  {
+    "source": "TechCrunch AI",
+    "source_tier": 2,
+    "title": "Instinct founder said more than 50% of transactions on the platform are travel-related",
+    "link": "https://techcrunch.com/2026/09/29/instinct-founder-said-more-than-50-of-transactions-on-the-platform-are-travel-related/",
+    "summary": "Instinct founder said the platform is growing 10% day by day, with transaction volume increasing at a similar rate.",
+    "published": "2026-09-29T15:12:07+00:00",
+    "first_seen": "2026-09-30T12:15:56.636803+00:00"
+  },
+  {
+    "source": "TechCrunch AI",
+    "source_tier": 2,
+    "title": "With Dazzle, Marissa Mayer bets your camera roll has more info on your life than your inbox",
+    "link": "https://techcrunch.com/2026/09/29/with-dazzle-marissa-mayer-bets-your-camera-roll-has-more-info-on-your-life-than-your-inbox/",
+    "summary": "Mayer argues that if a photo is worth a thousand words, your camera roll is worth millions. By analyzing all the photos stored on your phone, Dazzle claims to understand your hobbies, interests, food, and style preferences, how you like to spend their time, and with whom.",
+    "published": "2026-09-29T13:53:01+00:00",
+    "first_seen": "2026-09-30T12:15:56.636803+00:00"
+  },
+  {
+    "source": "TechCrunch AI",
+    "source_tier": 2,
+    "title": "Meta is expanding its AI agent Muse to small businesses",
+    "link": "https://techcrunch.com/2026/09/29/meta-is-expanding-its-ai-agent-muse-to-small-businesses/",
+    "summary": "The tech giant says the agent can help owners run their business and find new customers.",
+    "published": "2026-09-29T13:47:30+00:00",
+    "first_seen": "2026-09-30T12:15:56.636803+00:00"
+  },
+  {
+    "source": "TechCrunch AI",
+    "source_tier": 2,
+    "title": "OpenAI apologizes to Australia after its AI agents breached government sites",
+    "link": "https://techcrunch.com/2026/09/29/openai-apologizes-to-australia-after-its-ai-agents-breached-government-sites/",
+    "summary": "The company also detailed how some of those breaches had happened, and outlined additional measures it is taking to assess the impact of the events.",
+    "published": "2026-09-29T12:45:05+00:00",
+    "first_seen": "2026-09-30T12:15:56.636803+00:00"
+  },
+  {
+    "source": "TechCrunch AI",
+    "source_tier": 2,
+    "title": "Reco raises $55M as AI agent security startups crowd the market",
+    "link": "https://techcrunch.com/2026/09/29/reco-raises-55m-as-ai-agent-security-startups-crowd-the-market/",
+    "summary": "The round builds on a $30 million fundraise in February, taking the company's total funding to $140 million.",
+    "published": "2026-09-29T12:30:00+00:00",
+    "first_seen": "2026-09-30T12:15:56.636803+00:00"
+  },
+  {
+    "source": "The Verge AI",
+    "source_tier": 2,
+    "title": "Sam Altman says OpenAI won\u2019t go public until its models are safe",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/1002505/sam-altman-openai-ipo-devday-ai-safety",
+    "summary": "For months, people have wondered when OpenAI will go public. CEO Sam Altman says it won't happen until the company can make better promises about model safety, with no firm timeline in sight. \"We intend to continue with AI progress \u2026 but as the models have had this surge forward ",
+    "published": "2026-09-30T00:19:13+00:00",
+    "first_seen": "2026-09-30T12:15:56.636803+00:00"
+  },
+  {
+    "source": "The Verge AI",
+    "source_tier": 2,
+    "title": "Trump orders US government to call AI \u2018Super Intelligence\u2019",
+    "link": "https://www.theverge.com/policy/1002468/trump-ai-superintelligence-executive-order-ai",
+    "summary": "The US executive branch is no longer acknowledging the existence of \"artificial intelligence.\" Going forward, official policy websites, policy documents, and press releases will refer only to \"Super Intelligence,\" thanks to a new executive order signed by President Donald Trump. ",
+    "published": "2026-09-29T22:25:45+00:00",
+    "first_seen": "2026-09-30T12:15:56.636803+00:00"
+  },
+  {
+    "source": "The Verge AI",
+    "source_tier": 2,
+    "title": "Elon Musk\u2019s AI-powered Grokipedia is updating again",
+    "link": "https://www.theverge.com/tech/1002448/elon-musk-grokipedia-ai-updating-again",
+    "summary": "Grokipedia, the AI-powered online encyclopedia from SpaceXAI, appears to be updating articles once again after a months-long pause. In August, Lawfare reported that articles on Grokipedia hadn't reviewed edits since April, but the platform's live updates site is now showing vario",
+    "published": "2026-09-29T21:49:09+00:00",
+    "first_seen": "2026-09-30T12:15:56.636803+00:00"
+  },
+  {
+    "source": "The Verge AI",
+    "source_tier": 2,
+    "title": "AI researchers put out videos saying superintelligence is \u2018exactly as dangerous as it sounds\u2019",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/1002238/openai-google-anthropic-ai-researchers-safety-interviews",
+    "summary": "\"The chance of human extinction is about a coin flip, in my view,\" Geoffrey Irving, a former OpenAI and Google DeepMind employee, said in a new interview. It's one of a dozen interviews with AI researchers, including current and former employees at OpenAI, Google, and Anthropic. ",
+    "published": "2026-09-29T17:35:03+00:00",
+    "first_seen": "2026-09-30T12:15:56.636803+00:00"
+  },
+  {
+    "source": "The Verge AI",
+    "source_tier": 2,
+    "title": "OpenAI launches Dots, its Muse competitor",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/1002033/openai-dots-launch-muse-competitor",
+    "summary": "OpenAI is responding to Meta's buzzy Muse AI with agentic helpers of its own: Dots. During its DevDay keynote on Tuesday, OpenAI announced that Dots will serve as always-on AI assistants that can \"do nearly anything\" across connected apps in the background while learning your pre",
+    "published": "2026-09-29T17:15:00+00:00",
+    "first_seen": "2026-09-30T12:15:56.636803+00:00"
+  },
+  {
+    "source": "The Verge AI",
+    "source_tier": 2,
+    "title": "Protesters gather at OpenAI\u2019s DevDay",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/1002201/openai-sam-altman-openai-devday-protests-ice-data-centers",
+    "summary": "On Tuesday, OpenAI's annual DevDay event began with protests, flyers, and chants. \"Sam Altman, get off it, put people over profit,\" said a group of protesters marching in a circle in front of a series of signs that spelled out \"PEOPLE OVER PROFIT.\" More than a dozen organizations",
+    "published": "2026-09-29T17:12:27+00:00",
+    "first_seen": "2026-09-30T12:15:56.636803+00:00"
+  },
+  {
+    "source": "The Verge AI",
+    "source_tier": 2,
+    "title": "OpenAI DevDay 2026: The biggest news and announcements",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/1001681/openai-devday-2026-biggest-news-announcements",
+    "summary": "It\u2019s OpenAI\u2019s turn in the fall tech events calendar. The company is hosting its annual DevDay on September 29th in San Francisco, and during a live keynote featuring CEO Sam Altman, it revealed several notable updates, including Dots, its AI agent product that rivals Meta\u2019s recen",
+    "published": "2026-09-29T16:00:00+00:00",
+    "first_seen": "2026-09-30T12:15:56.636803+00:00"
+  },
+  {
+    "source": "The Verge AI",
+    "source_tier": 2,
+    "title": "Meta\u2019s Muse AI sent a YouTuber\u2019s address to a stranger",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/1001886/meta-muse-ai-facebook-marketplace-security-concerns",
+    "summary": "Tech YouTuber Matt Robb says that Muse gave out his home address to a total stranger this weekend, after authorizing the bot to handle his Facebook Marketplace account. That's despite Meta placing great emphasis on the security features of Muse when it launched the personal AI ag",
+    "published": "2026-09-29T14:08:21+00:00",
+    "first_seen": "2026-09-30T12:15:56.636803+00:00"
   }
 ]

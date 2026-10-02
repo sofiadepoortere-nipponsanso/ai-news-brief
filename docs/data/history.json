@@ -1,14 +1,5 @@
 [
   {
-    "source": "European Commission Digital Strategy",
-    "source_tier": 1,
-    "title": "State of the Union 2026",
-    "link": "https://digital-strategy.ec.europa.eu/en/events/state-union-2026",
-    "summary": "State of the Union 2026\nAnonymous (not verified)\nMon, 08/31/2026 - 16:11\n\n\n\n  \n        \n              \n                              \n      \n      \u00a0\n      16 September 2026\n  \n  \n  \n\n                The State of the Union (SOTEU) address is an annual speech by the President of th",
-    "published": "2026-08-31T14:11:00+00:00",
-    "first_seen": "2026-09-02T11:16:42.453040+00:00"
-  },
-  {
     "source": "MIT Technology Review",
     "source_tier": 2,
     "title": "How AI plotted an interstellar journey to Alpha Centauri",
@@ -24,33 +15,6 @@
     "link": "https://www.technologyreview.com/2026/09/01/1142180/making-the-ai-powered-case-for-legacy-modernization/",
     "summary": "For years, legacy technology has been a problem companies knew they needed to solve, but one they often struggled to tackle. The cost, complexity, and risk of replacing business-critical systems could make modernization feel like a disruption to manage instead of an opportunity t",
     "published": "2026-09-01T14:00:00+00:00",
-    "first_seen": "2026-09-02T11:16:42.453040+00:00"
-  },
-  {
-    "source": "MIT Technology Review",
-    "source_tier": 2,
-    "title": "The Download: engineered microbes for crops, and OpenAI\u2019s culture problem",
-    "link": "https://www.technologyreview.com/2026/09/01/1143199/the-download-engineered-microbes-openai-safety-culture/",
-    "summary": "This is today\u2019s edition of The Download, our weekday newsletter that provides a daily dose of what\u2019s going on in the world of technology. How engineered microbes could help feed the world\u2019s crops Fertilizer is crucial for the global food supply, but making it uses a lot of energy",
-    "published": "2026-09-01T12:10:00+00:00",
-    "first_seen": "2026-09-02T11:16:42.453040+00:00"
-  },
-  {
-    "source": "MIT Technology Review",
-    "source_tier": 2,
-    "title": "How engineered microbes could help feed the world\u2019s crops",
-    "link": "https://www.technologyreview.com/2026/09/01/1143195/microbe-fertilizer-switch-bioworks/",
-    "summary": "Fertilizer is crucial for the global food supply, but making it uses a lot of energy and produces a lot of emissions. Some companies hope microbes can help. A growing body of research shows that seeding the soil around a crop\u2019s roots with beneficial microbes can help feed the pla",
-    "published": "2026-09-01T09:00:00+00:00",
-    "first_seen": "2026-09-02T11:16:42.453040+00:00"
-  },
-  {
-    "source": "MIT Technology Review",
-    "source_tier": 2,
-    "title": "The Hugging Face hack could indicate cultural issues at OpenAI",
-    "link": "https://www.technologyreview.com/2026/08/31/1143180/hugging-face-hack-could-indicate-cultural-issues-at-openai/",
-    "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first,\u00a0sign up here. By now you\u2019ve probably heard about last month\u2019s major AI security incident, in which OpenAI agents escaped their sandbox and hacked into the A",
-    "published": "2026-08-31T18:00:00+00:00",
     "first_seen": "2026-09-02T11:16:42.453040+00:00"
   },
   {
@@ -144,69 +108,6 @@
     "first_seen": "2026-09-02T11:16:42.453040+00:00"
   },
   {
-    "source": "TechCrunch AI",
-    "source_tier": 2,
-    "title": "Apple shares \u2018shocking evidence\u2019 against former employee accused of stealing company data for OpenAI",
-    "link": "https://techcrunch.com/2026/08/31/apple-shares-shocking-evidence-against-former-employee-accused-of-stealing-company-data-for-openai/",
-    "summary": "Apple says it has evidence that a former employee destroyed evidence of data theft after learning he was under investigation.",
-    "published": "2026-09-01T00:13:00+00:00",
-    "first_seen": "2026-09-02T11:16:42.453040+00:00"
-  },
-  {
-    "source": "TechCrunch AI",
-    "source_tier": 2,
-    "title": "The Pentagon now has its own version of ChatGPT and Grok",
-    "link": "https://techcrunch.com/2026/08/31/the-pentagon-now-has-its-own-version-of-chatgpt-and-grok/",
-    "summary": "Versions of OpenAI's ChatGPT and SpaceXAI's Grok will join Google's Gemini on the Pentagon's central portal for AI tools.",
-    "published": "2026-08-31T20:13:45+00:00",
-    "first_seen": "2026-09-02T11:16:42.453040+00:00"
-  },
-  {
-    "source": "TechCrunch AI",
-    "source_tier": 2,
-    "title": "Instagram puts new limits on undisclosed AI profiles",
-    "link": "https://techcrunch.com/2026/08/31/instagram-puts-new-limits-on-undisclosed-ai-profiles/",
-    "summary": "As frustration over AI influencers has been growing, Instagram is limiting the reach of undisclosed AI profiles.",
-    "published": "2026-08-31T19:16:59+00:00",
-    "first_seen": "2026-09-02T11:16:42.453040+00:00"
-  },
-  {
-    "source": "TechCrunch AI",
-    "source_tier": 2,
-    "title": "Harvard Law dropout raises $6M for Blue Voice to build a \u2018Harvey for police officers\u2019",
-    "link": "https://techcrunch.com/2026/08/31/harvard-law-dropout-raises-6m-for-blue-voice-to-build-a-harvey-for-police-officers/",
-    "summary": "Blue Voice is trained on department-specific laws, local ordinances, protocols, and guidelines that general-purpose AI tools can't access on the public internet.",
-    "published": "2026-08-31T18:35:11+00:00",
-    "first_seen": "2026-09-02T11:16:42.453040+00:00"
-  },
-  {
-    "source": "TechCrunch AI",
-    "source_tier": 2,
-    "title": "Clipto uses AI to search terabytes of video and is now valued at $250M",
-    "link": "https://techcrunch.com/2026/08/31/three-year-old-ai-media-search-startup-clipto-hits-a-250m-valuation/",
-    "summary": "The three-year-old startup says it reached $15 million in ARR and profitability before raising its latest $15 million round.",
-    "published": "2026-08-31T16:00:00+00:00",
-    "first_seen": "2026-09-02T11:16:42.453040+00:00"
-  },
-  {
-    "source": "TechCrunch AI",
-    "source_tier": 2,
-    "title": "Nvidia\u2019s $3.5B MediaTek bet reveals its plan for tackling Big Tech\u2019s AI chip buildout",
-    "link": "https://techcrunch.com/2026/08/31/nvidias-3-5b-mediatek-bet-reveals-its-plan-for-tackling-big-techs-ai-chip-buildout/",
-    "summary": "Nvidia invests $3.5 billion into Taiwanese chipmaker MediaTek. The deal shows how Nvidia plans to stay essential to AI infrastructure as Big Tech begins to build its own AI chips.",
-    "published": "2026-08-31T15:15:25+00:00",
-    "first_seen": "2026-09-02T11:16:42.453040+00:00"
-  },
-  {
-    "source": "TechCrunch AI",
-    "source_tier": 2,
-    "title": "Meeting note-taker Circleback adds a free tier to attract more customers",
-    "link": "https://techcrunch.com/2026/08/31/meeting-notetaker-circleback-adds-a-free-tier-to-attract-more-customers/",
-    "summary": "Circleback is also introducing new pricing plans starting from $14 per month.",
-    "published": "2026-08-31T12:56:46+00:00",
-    "first_seen": "2026-09-02T11:16:42.453040+00:00"
-  },
-  {
     "source": "The Verge AI",
     "source_tier": 2,
     "title": "Google needs Hollywood more than the studios need AI",
@@ -276,24 +177,6 @@
     "link": "https://www.theverge.com/tech/986378/nvidia-dlss-5-launch-nba-2k27",
     "summary": "Nvidia is officially launching DLSS 5 this week, following a divisive announcement in March where we likened the AI upscaling tech to a \"real-time generative AI filter for video games\" and \"motion smoothing for video games, but worse.\" DLSS 5 will officially be available on RTX 5",
     "published": "2026-09-01T13:00:00+00:00",
-    "first_seen": "2026-09-02T11:16:42.453040+00:00"
-  },
-  {
-    "source": "The Verge AI",
-    "source_tier": 2,
-    "title": "Debian won\u2019t ban AI code from its Linux distribution",
-    "link": "https://www.theverge.com/tech/986789/linux-debian-generative-ai-policy",
-    "summary": "Debian voted to allow developers to use AI tools in their contributions to the Linux distribution's \"development, maintenance, [and] documentation.\" The new policy on AI acknowledges that \"responsible\" use of AI can improve developers' productivity, and goes on to say, \"generativ",
-    "published": "2026-08-31T15:34:58+00:00",
-    "first_seen": "2026-09-02T11:16:42.453040+00:00"
-  },
-  {
-    "source": "The Verge AI",
-    "source_tier": 2,
-    "title": "New York Governor Kathy Hochul thinks AI should be \u2018less evil\u2019",
-    "link": "https://www.theverge.com/podcast/986661/ny-gov-kathy-hochul-ai-data-centers-ban-3d-printed-guns-flock-cameras",
-    "summary": "Today, I\u2019m talking with New York Governor Kathy Hochul, and I\u2019ll just warn you \u2014 this episode moves really fast. It\u2019s an election year, after all, with a shocking amount of tech policy at stake, and Governor Hochul has taken strong positions on almost every major tech issue there",
-    "published": "2026-08-31T14:00:00+00:00",
     "first_seen": "2026-09-02T11:16:42.453040+00:00"
   },
   {
@@ -5713,5 +5596,194 @@
     "summary": "We now have the full details of the \"morally binding\" AI safety deal announced by President Trump yesterday, in which top executives agreed to self-regulate their artificial intelligence technology. The accord, officially titled the Joint Commitment on Frontier Responsibilities, ",
     "published": "2026-09-30T12:24:32+00:00",
     "first_seen": "2026-10-01T12:50:24.062017+00:00"
+  },
+  {
+    "source": "Azure AI Blog",
+    "source_tier": 1,
+    "title": "Responsible infrastructure at hyperscale: Managing the full lifecycle of Azure hardware",
+    "link": "https://azure.microsoft.com/en-us/blog/responsible-infrastructure-at-hyperscale-managing-the-full-lifecycle-of-azure-hardware/",
+    "summary": "Microsoft is advancing Azure cloud infrastructure with more efficient systems and Circular Centers that extend the useful life of datacenter hardware.\nThe post Responsible infrastructure at hyperscale: Managing the full lifecycle of Azure hardware appeared first on Microsoft Azur",
+    "published": "2026-09-30T15:00:00+00:00",
+    "first_seen": "2026-10-02T12:13:50.588740+00:00"
+  },
+  {
+    "source": "MIT Technology Review",
+    "source_tier": 2,
+    "title": "A new contest pits competitors against each other in a race to biological youth",
+    "link": "https://www.technologyreview.com/2026/10/02/1145610/younger-contest-race-to-biological-youth/",
+    "summary": "This week, I officially signed up for an unusual competition. One that rewards competitors for getting younger. I recently turned 40, and I don\u2019t need reminding that both time and my chronological age only tick forward. But this game is focused on competitors\u2019 biological ages\u2014fig",
+    "published": "2026-10-02T09:00:00+00:00",
+    "first_seen": "2026-10-02T12:13:50.588740+00:00"
+  },
+  {
+    "source": "MIT Technology Review",
+    "source_tier": 2,
+    "title": "Don\u2019t be fooled\u2014LLMs don\u2019t reason",
+    "link": "https://www.technologyreview.com/2026/10/02/1145639/dont-be-fooled-llms-dont-reason/",
+    "summary": "On an afternoon in Seoul in March 2016, I watched a program I helped build put a stone on the fifth line of a Go board in what looked like a gift to its human opponent. Move 37 in game two of the five-game match looked so absurd that some commentators thought it was a\u2026",
+    "published": "2026-10-02T08:00:00+00:00",
+    "first_seen": "2026-10-02T12:13:50.588740+00:00"
+  },
+  {
+    "source": "TechCrunch AI",
+    "source_tier": 2,
+    "title": "Musk\u2019s AI chatbot Grok reportedly encouraged Trump to capture  Venezuela\u2019s president",
+    "link": "https://techcrunch.com/2026/10/01/musks-ai-chatbot-grok-reportedly-encouraged-trump-to-capture-venezuelas-president/",
+    "summary": "President Trump reportedly asked for Grok's opinion before invading Venezuela and capturing Nicol\u00e1s Maduro.",
+    "published": "2026-10-01T21:08:11+00:00",
+    "first_seen": "2026-10-02T12:13:50.588740+00:00"
+  },
+  {
+    "source": "TechCrunch AI",
+    "source_tier": 2,
+    "title": "ChatGPT can now virtually try on clothes for you",
+    "link": "https://techcrunch.com/2026/10/01/chatgpt-can-now-virtually-try-on-clothes-for-you/",
+    "summary": "OpenAI is rolling out new shopping features for ChatGPT that let users virtually try on clothing and accessories using their own photos and save products they like to a Favorites library.",
+    "published": "2026-10-01T19:21:53+00:00",
+    "first_seen": "2026-10-02T12:13:50.588740+00:00"
+  },
+  {
+    "source": "TechCrunch AI",
+    "source_tier": 2,
+    "title": "Google thinks SpaceX\u2019s Starship has to launch 1,800 times before space data centers get off the ground",
+    "link": "https://techcrunch.com/2026/10/01/google-thinks-spacexs-starship-has-to-launch-1600-times-before-space-data-centers-get-off-the-ground/",
+    "summary": "Google launched its first advanced chip into orbit to pave the way for space data centers.",
+    "published": "2026-10-01T19:18:03+00:00",
+    "first_seen": "2026-10-02T12:13:50.588740+00:00"
+  },
+  {
+    "source": "TechCrunch AI",
+    "source_tier": 2,
+    "title": "OpenAI cuts ties with 3 safety researchers, WSJ reports",
+    "link": "https://techcrunch.com/2026/10/01/openai-cuts-ties-with-three-safety-researchers-wsj-reports/",
+    "summary": "OpenAI has parted ways with three safety researchers after an internal investigation found they mishandled sensitive company information, report says.",
+    "published": "2026-10-01T18:14:42+00:00",
+    "first_seen": "2026-10-02T12:13:50.588740+00:00"
+  },
+  {
+    "source": "TechCrunch AI",
+    "source_tier": 2,
+    "title": "Opus 5.5 loves to tell you \u2018this matters\u2019 (and other AI writing tells)",
+    "link": "https://techcrunch.com/2026/10/01/opus-5-5-loves-to-tell-you-this-matters-and-other-ai-writing-tells/",
+    "summary": "Opus 5.5\u2019s biggest tell is the word \u201cdependable,\u201d which pops up 23 times more often than in human samples.",
+    "published": "2026-10-01T17:50:19+00:00",
+    "first_seen": "2026-10-02T12:13:50.588740+00:00"
+  },
+  {
+    "source": "TechCrunch AI",
+    "source_tier": 2,
+    "title": "Amazon releases its own Jev clone as decision models flood the web",
+    "link": "https://techcrunch.com/2026/10/01/amazon-releases-its-own-jev-clone-as-decision-models-flood-the-web/",
+    "summary": "Amazon Web Services' Strand Labs has released the latest Jevalike decision model, Strands Decider 2B.",
+    "published": "2026-10-01T16:49:22+00:00",
+    "first_seen": "2026-10-02T12:13:50.588740+00:00"
+  },
+  {
+    "source": "TechCrunch AI",
+    "source_tier": 2,
+    "title": "Shopify debuts Canvas, a way to build online stores by chatting with AI",
+    "link": "https://techcrunch.com/2026/10/01/shopify-debuts-canvas-a-way-to-build-online-stores-by-chatting-with-ai/",
+    "summary": "Shopify\u2019s new Canvas site builder lets merchants create and customize their online stores by chatting with its AI agent Sidekick, while watching the changes happen in real time.",
+    "published": "2026-10-01T16:44:35+00:00",
+    "first_seen": "2026-10-02T12:13:50.588740+00:00"
+  },
+  {
+    "source": "TechCrunch AI",
+    "source_tier": 2,
+    "title": "Brian Chesky interview: AI agents need their own operating system",
+    "link": "https://techcrunch.com/2026/10/01/brian-chesky-interview-ai-agents-need-their-own-operating-system/",
+    "summary": "Brian Chesky on making Airbnb agent-friendly, the state of consumer AI, and why the world needs an AI-native operating system.",
+    "published": "2026-10-01T15:12:00+00:00",
+    "first_seen": "2026-10-02T12:13:50.588740+00:00"
+  },
+  {
+    "source": "TechCrunch AI",
+    "source_tier": 2,
+    "title": "Photon held a funeral for mobile apps. Now it has $4.5M to help replace them with agents.",
+    "link": "https://techcrunch.com/2026/10/01/photon-held-a-funeral-for-mobile-apps-now-it-has-4-5m-to-help-replace-them-with-agents/",
+    "summary": "The startup helps developers build AI agents that work over iMessage, SMS/RCS, email, and other messaging platforms. It's a bet that consumers will increasingly use agents instead of downloading apps.",
+    "published": "2026-10-01T14:00:00+00:00",
+    "first_seen": "2026-10-02T12:13:50.588740+00:00"
+  },
+  {
+    "source": "TechCrunch AI",
+    "source_tier": 2,
+    "title": "Hearing tech startup Legato launches its AI hearing glasses",
+    "link": "https://techcrunch.com/2026/10/01/hearing-tech-startup-legato-launches-its-ai-hearing-glasses/",
+    "summary": "The glasses stem from the startup\u2019s goal of making hearing care more accessible by addressing the cost, comfort, and stigma associated with traditional hearing aids.",
+    "published": "2026-10-01T13:00:00+00:00",
+    "first_seen": "2026-10-02T12:13:50.588740+00:00"
+  },
+  {
+    "source": "The Verge AI",
+    "source_tier": 2,
+    "title": "AI hallucinations are making entitled customers even worse",
+    "link": "https://www.theverge.com/report/1002963/ai-hallucinations-customer-service-jobs-agents",
+    "summary": "Madison, a server in New York City, greets every table by asking about each diner's allergies. Lately, there have been some close calls. \"Sometimes people will tell me they have a shellfish allergy, and I'll come back, and they won't ask me any questions,\" says Madison, who asked",
+    "published": "2026-10-02T12:00:00+00:00",
+    "first_seen": "2026-10-02T12:13:50.588740+00:00"
+  },
+  {
+    "source": "The Verge AI",
+    "source_tier": 2,
+    "title": "If a data center is camouflaged in the woods, will anyone hate it?",
+    "link": "https://www.theverge.com/tech/1003681/microsoft-data-centers-ai-environment-biomimicry",
+    "summary": "San Antonio City Councilmember Ric Galvan remembers when data centers first arrived in his city in the 2000s, looking like relatively unassuming office buildings. But that's changed in recent years, as data centers have grown into massive \"hyperscale\" facilities spanning millions",
+    "published": "2026-10-02T12:00:00+00:00",
+    "first_seen": "2026-10-02T12:13:50.588740+00:00"
+  },
+  {
+    "source": "The Verge AI",
+    "source_tier": 2,
+    "title": "Amazon writes scary blog warning communities not to block data centers",
+    "link": "https://www.theverge.com/tech/1003929/amazon-ai-data-center-blog-warning",
+    "summary": "Amazon is calling for people to support AI data center projects, or risk irreparable harm to the US economy and national security. In a more than 3,000 word blog posted today, Amazon web services CEO Matt Garman pushed back on public concerns around the impact that data centers m",
+    "published": "2026-10-02T11:52:20+00:00",
+    "first_seen": "2026-10-02T12:13:50.588740+00:00"
+  },
+  {
+    "source": "The Verge AI",
+    "source_tier": 2,
+    "title": "AI music maker Suno now generates spoken words",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/1003925/suno-speech-ai-voice-feature-beta-availability",
+    "summary": "Suno is branching out from the world of AI music, launching a new feature that generates spoken voices based on scripts or prompted descriptions. Speech is now available in public beta across Suno's web and mobile platforms, and allows you to simultaneously generate voiceovers an",
+    "published": "2026-10-02T09:42:19+00:00",
+    "first_seen": "2026-10-02T12:13:50.588740+00:00"
+  },
+  {
+    "source": "The Verge AI",
+    "source_tier": 2,
+    "title": "Google\u2019s new Guided Vision feature can help you read the fine print",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/1003756/google-gemini-live-guided-vision",
+    "summary": "Guided Vision is launching in Gemini Live on compatible Android devices today to use AI to give real-time audio descriptions of anything you point your phone's camera at. By sharing your camera in Gemini Live, you can have Google's AI help with things like reading small text, des",
+    "published": "2026-10-01T19:47:51+00:00",
+    "first_seen": "2026-10-02T12:13:50.588740+00:00"
+  },
+  {
+    "source": "The Verge AI",
+    "source_tier": 2,
+    "title": "Judge dismisses antitrust lawsuits over Google\u2019s AI Overviews",
+    "link": "https://www.theverge.com/tech/1003589/google-ai-overviews-chegg-penske-lawsuits-dismissed",
+    "summary": "A federal judge has dismissed a pair of antitrust lawsuits filed by Chegg and Rolling Stone parent company Penske Media Corporation, which accused Google of driving away web traffic with its AI-powered search features, as reported earlier by Reuters. US District Judge Amit Mehta ",
+    "published": "2026-10-01T17:12:21+00:00",
+    "first_seen": "2026-10-02T12:13:50.588740+00:00"
+  },
+  {
+    "source": "The Verge AI",
+    "source_tier": 2,
+    "title": "OpenAI\u2019s new agent is a shot at Meta \u2014 but can it compete with free?",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/1003399/meta-openai-ai-agents-muse-dots-battle",
+    "summary": "At OpenAI's annual DevDay conference, the company pulled out all the stops to compete with its rivals - primarily Meta, whose Muse AI agent platform has seen early runaway success. CEO Sam Altman walked onstage to cheers and announced Dots, a \"real-deal AI\" agent powered by GPT-6",
+    "published": "2026-10-01T14:36:50+00:00",
+    "first_seen": "2026-10-02T12:13:50.588740+00:00"
+  },
+  {
+    "source": "The Verge AI",
+    "source_tier": 2,
+    "title": "Inside our months-long investigation into Kevin O\u2019Leary\u2019s Utah data center debacle",
+    "link": "https://www.theverge.com/podcast/1002851/utah-ai-data-center-stratos-kevin-oleary-investigation-backlash",
+    "summary": "Today I\u2019m talking with Josh Dzieza, a longtime features writer here at The Verge, about Kevin O\u2019Leary\u2019s plans to build a massive data center in Utah.\u00a0 The idea was to build the world\u2019s biggest data center \u2014 a 40,000-acre AI campus with nine gigawatts of power, or more than double",
+    "published": "2026-10-01T14:00:00+00:00",
+    "first_seen": "2026-10-02T12:13:50.588740+00:00"
   }
 ]

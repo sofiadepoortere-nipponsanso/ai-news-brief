@@ -1,185 +1,5 @@
 [
   {
-    "source": "MIT Technology Review",
-    "source_tier": 2,
-    "title": "How AI plotted an interstellar journey to Alpha Centauri",
-    "link": "https://www.technologyreview.com/2026/09/01/1143247/ai-interstellar-journey-alpha-centauri/",
-    "summary": "A nonprofit organization called the Fermi Explorer Mission announced today that it intends to launch a spacecraft to our nearest star system by the end of 2029.\u00a0 It\u2019s a hugely ambitious mission\u2014if all goes well, the spacecraft could take up to 80,000 years to arrive at Alpha Cent",
-    "published": "2026-09-01T19:10:36+00:00",
-    "first_seen": "2026-09-02T11:16:42.453040+00:00"
-  },
-  {
-    "source": "MIT Technology Review",
-    "source_tier": 2,
-    "title": "Making the AI-powered case for legacy modernization",
-    "link": "https://www.technologyreview.com/2026/09/01/1142180/making-the-ai-powered-case-for-legacy-modernization/",
-    "summary": "For years, legacy technology has been a problem companies knew they needed to solve, but one they often struggled to tackle. The cost, complexity, and risk of replacing business-critical systems could make modernization feel like a disruption to manage instead of an opportunity t",
-    "published": "2026-09-01T14:00:00+00:00",
-    "first_seen": "2026-09-02T11:16:42.453040+00:00"
-  },
-  {
-    "source": "TechCrunch AI",
-    "source_tier": 2,
-    "title": "AfterQuery reportedly becomes Y Combinator\u2019s fastest-ever unicorn, now valued at $3.2B",
-    "link": "https://techcrunch.com/2026/09/01/afterquery-reportedly-becomes-y-combinators-fastest-ever-unicorn-now-valued-at-3-2b/",
-    "summary": "AI model-training startup AfterQuery has reportedly raised a round that valued it at $3.2 billion, just five months after announcing its $30 million Series A at a $300 million valuation in April.",
-    "published": "2026-09-01T22:08:24+00:00",
-    "first_seen": "2026-09-02T11:16:42.453040+00:00"
-  },
-  {
-    "source": "TechCrunch AI",
-    "source_tier": 2,
-    "title": "OpenAI\u2019s Astra model is on the way \u2014 and very good at breaking into computer systems",
-    "link": "https://techcrunch.com/2026/09/01/open-ais-astra-model-is-on-the-way-and-very-good-at-breaking-into-computer-systems/",
-    "summary": "OpenAI previewed the precautions it is taking as it prepares to release Astra, its newest, cyber-critical LLM.",
-    "published": "2026-09-01T21:06:24+00:00",
-    "first_seen": "2026-09-02T11:16:42.453040+00:00"
-  },
-  {
-    "source": "TechCrunch AI",
-    "source_tier": 2,
-    "title": "Google\u2019s Android update tackles motion sickness, accessibility, and more",
-    "link": "https://techcrunch.com/2026/09/01/googles-android-update-tackles-motion-sickness-accessibility-and-more/",
-    "summary": "While some of the features see Google playing catch-up to Apple, which already offers similar features for iPhone users, others specifically leverage Gemini to provide various improvements.",
-    "published": "2026-09-01T20:53:05+00:00",
-    "first_seen": "2026-09-02T11:16:42.453040+00:00"
-  },
-  {
-    "source": "TechCrunch AI",
-    "source_tier": 2,
-    "title": "Anthropic\u2019s new Fable release is cheaper, less restrictive",
-    "link": "https://techcrunch.com/2026/09/01/anthropics-new-fable-release-is-cheaper-less-restrictive/",
-    "summary": "Fable 5.1 includes changes meant to reduce token cost and false-positive restrictions from the model's safeguards.",
-    "published": "2026-09-01T19:39:22+00:00",
-    "first_seen": "2026-09-02T11:16:42.453040+00:00"
-  },
-  {
-    "source": "TechCrunch AI",
-    "source_tier": 2,
-    "title": "Google\u2019s answer to Canva is an AI tool where you prompt instead of design",
-    "link": "https://techcrunch.com/2026/09/01/googles-answer-to-canva-is-an-ai-tool-where-you-prompt-instead-of-design/",
-    "summary": "With Google Pics, Google is pushing deeper into the creative software market dominated by Canva and Adobe, but with a distinctly AI-first approach.",
-    "published": "2026-09-01T17:35:37+00:00",
-    "first_seen": "2026-09-02T11:16:42.453040+00:00"
-  },
-  {
-    "source": "TechCrunch AI",
-    "source_tier": 2,
-    "title": "ChatGPT Health adds Epic integration for clinicians to import patient data",
-    "link": "https://techcrunch.com/2026/09/01/chatgpt-health-adds-epic-integration-for-clinicians-to-import-patient-data/",
-    "summary": "OpenAI said that the integration provides read-only access to health records for clinicians.",
-    "published": "2026-09-01T17:00:00+00:00",
-    "first_seen": "2026-09-02T11:16:42.453040+00:00"
-  },
-  {
-    "source": "TechCrunch AI",
-    "source_tier": 2,
-    "title": "Sequoia-incubated Empirik launches with $21M to predict outages before they happen",
-    "link": "https://techcrunch.com/2026/09/01/sequoia-incubated-empirik-launches-with-21m-to-predict-outages-before-they-happen/",
-    "summary": "The startup wants to do for IT infrastructure what Cursor did for software engineering.",
-    "published": "2026-09-01T16:31:04+00:00",
-    "first_seen": "2026-09-02T11:16:42.453040+00:00"
-  },
-  {
-    "source": "TechCrunch AI",
-    "source_tier": 2,
-    "title": "Amazon Alexa can now alert you when something new might tempt you to shop",
-    "link": "https://techcrunch.com/2026/09/01/amazon-alexa-can-now-alert-you-when-something-new-might-tempt-you-to-shop/",
-    "summary": "Amazon is adding a new Alexa-powered feature called \u201cUpdate Me When\u201d that can send personalized alerts about product launches, tours, books, shows, and other events that could trigger a purchase.",
-    "published": "2026-09-01T15:51:55+00:00",
-    "first_seen": "2026-09-02T11:16:42.453040+00:00"
-  },
-  {
-    "source": "TechCrunch AI",
-    "source_tier": 2,
-    "title": "AIR raises $50M to help companies vet the skills and add-ons AI agents use",
-    "link": "https://techcrunch.com/2026/09/01/air-raises-50m-to-help-companies-vet-the-skills-and-add-ons-ai-agents-use/",
-    "summary": "AIR's platform can discover agents running at a company, continuously vets any skills and add-ons they use, and blocks any unwanted behavior.",
-    "published": "2026-09-01T15:45:51+00:00",
-    "first_seen": "2026-09-02T11:16:42.453040+00:00"
-  },
-  {
-    "source": "TechCrunch AI",
-    "source_tier": 2,
-    "title": "Fambot introduces an \u2018AI chief of staff\u2019 for families",
-    "link": "https://techcrunch.com/2026/09/01/fambot-introduces-an-ai-chief-of-staff-for-families/",
-    "summary": "Fambot is building an AI \u201cchief of staff\u201d to help families manage the emails, calendars, school updates, sports schedules, and other logistics of raising kids.",
-    "published": "2026-09-01T15:10:58+00:00",
-    "first_seen": "2026-09-02T11:16:42.453040+00:00"
-  },
-  {
-    "source": "The Verge AI",
-    "source_tier": 2,
-    "title": "Google needs Hollywood more than the studios need AI",
-    "link": "https://www.theverge.com/tech/987429/google-needs-hollywood-more-than-the-studios-need-ai",
-    "summary": "Google has reportedly been reaching out to a number of Hollywood's biggest studios, hoping to strike licensing agreements that would allow it to train its AI models on copyrighted material in exchange for massive piles of cash. In theory, these deals would be a win-win: a huge fi",
-    "published": "2026-09-01T22:50:29+00:00",
-    "first_seen": "2026-09-02T11:16:42.453040+00:00"
-  },
-  {
-    "source": "The Verge AI",
-    "source_tier": 2,
-    "title": "Anthropic launches Claude Fable 5.1 and says it\u2019s up to 45 percent cheaper for agentic work",
-    "link": "https://www.theverge.com/ai-artificial-intelligence/987830/anthropic-claude-fable-mythos-5-1",
-    "summary": "Anthropic says its newest AI models, Fable 5.1 and Mythos 5.1, address criticisms from customers about price, data retention, and overzealous safeguards. The company claims Claude Fable 5.1 offers stronger performance than Fable 5, but costs around 25 percent less typically and u",
-    "published": "2026-09-01T22:01:36+00:00",
-    "first_seen": "2026-09-02T11:16:42.453040+00:00"
-  },
-  {
-    "source": "The Verge AI",
-    "source_tier": 2,
-    "title": "OpenAI delayed its new model\u2019s development after the Hugging Face hack",
-    "link": "https://www.theverge.com/ai-artificial-intelligence/987695/openai-astra-unreleased-model-cybersecurity-delay",
-    "summary": "After an unreleased OpenAI model wreaked enough havoc to make international headlines, OpenAI delayed the development of a different unreleased model suite, Astra, in order to shore up its safety work, the company wrote Tuesday in a blog post. In July, an unreleased OpenAI model ",
-    "published": "2026-09-01T20:45:49+00:00",
-    "first_seen": "2026-09-02T11:16:42.453040+00:00"
-  },
-  {
-    "source": "The Verge AI",
-    "source_tier": 2,
-    "title": "The rise of AI \u2018civilizations\u2019 and the fall of corporate responsibility",
-    "link": "https://www.theverge.com/ai-artificial-intelligence/987566/ai-civilizations-opeai-hugging-face-hack",
-    "summary": "Depending on who you ask, developer platform Hugging Face was recently attacked by OpenAI - after it lost control of its own AI tools - or by a succession of AI \"civilizations.\" Welcome to the linguistic battlefield of AI safety, where word choices can shift responsibility for a ",
-    "published": "2026-09-01T19:02:54+00:00",
-    "first_seen": "2026-09-02T11:16:42.453040+00:00"
-  },
-  {
-    "source": "The Verge AI",
-    "source_tier": 2,
-    "title": "Apple accuses OpenAI of destroying evidence",
-    "link": "https://www.theverge.com/tech/987575/apple-openai-destroying-evidence-trade-secrets-lawsuit",
-    "summary": "Apple is pushing for \"expedited discovery\" in its legal battle against OpenAI over concerns the company is actively destroying evidence, as reported earlier by Bloomberg. In a filing on Monday, Apple alleges OpenAI only just handed over a MacBook used by a former employee at the ",
-    "published": "2026-09-01T18:19:26+00:00",
-    "first_seen": "2026-09-02T11:16:42.453040+00:00"
-  },
-  {
-    "source": "The Verge AI",
-    "source_tier": 2,
-    "title": "John Deere launched an AI chatbot for farmers",
-    "link": "https://www.theverge.com/ai-artificial-intelligence/987486/john-deere-jd-ai-chatbot",
-    "summary": "John Deere is testing a new \"JD\" AI assistant that it says can help farmers make more money, with answers about best practices and historical trends that are based on their own data. It uses their \"field, machine and operational data\" to answer questions on topics like equipment ",
-    "published": "2026-09-01T16:00:52+00:00",
-    "first_seen": "2026-09-02T11:16:42.453040+00:00"
-  },
-  {
-    "source": "The Verge AI",
-    "source_tier": 2,
-    "title": "Google Pics is like Canva, but with even more AI",
-    "link": "https://www.theverge.com/tech/987423/google-pics-ai-image-editor-generator",
-    "summary": "Google has a new suite of creative design tools for Workspace users called Google Pics, which aims to make editing and generating \"professional-grade\" AI images less cumbersome for businesses. Built around Gemini and the Nano Banana generative AI model, Google Pics is designed to",
-    "published": "2026-09-01T16:00:00+00:00",
-    "first_seen": "2026-09-02T11:16:42.453040+00:00"
-  },
-  {
-    "source": "The Verge AI",
-    "source_tier": 2,
-    "title": "Nvidia\u2019s controversial DLSS 5 arrives September 3rd and requires serious GPU horsepower",
-    "link": "https://www.theverge.com/tech/986378/nvidia-dlss-5-launch-nba-2k27",
-    "summary": "Nvidia is officially launching DLSS 5 this week, following a divisive announcement in March where we likened the AI upscaling tech to a \"real-time generative AI filter for video games\" and \"motion smoothing for video games, but worse.\" DLSS 5 will officially be available on RTX 5",
-    "published": "2026-09-01T13:00:00+00:00",
-    "first_seen": "2026-09-02T11:16:42.453040+00:00"
-  },
-  {
     "source": "Power BI Blog",
     "source_tier": 1,
     "title": "Power BI sample reports, refreshed with modern visual defaults",
@@ -5785,5 +5605,185 @@
     "summary": "Today I\u2019m talking with Josh Dzieza, a longtime features writer here at The Verge, about Kevin O\u2019Leary\u2019s plans to build a massive data center in Utah.\u00a0 The idea was to build the world\u2019s biggest data center \u2014 a 40,000-acre AI campus with nine gigawatts of power, or more than double",
     "published": "2026-10-01T14:00:00+00:00",
     "first_seen": "2026-10-02T12:13:50.588740+00:00"
+  },
+  {
+    "source": "MIT Technology Review",
+    "source_tier": 2,
+    "title": "Redefining enterprise intelligence with autonomous AI",
+    "link": "https://www.technologyreview.com/2026/10/02/1143774/redefining-enterprise-intelligence-with-autonomous-ai/",
+    "summary": "Enterprise AI is no longer a future ambition. It is in full operational flight. Model capabilities are advancing faster than most organizations can absorb, while the cost of performance continues to fall. Globally, AI investment is set to reach $2.5 trillion in 2026, up 44% from ",
+    "published": "2026-10-02T15:49:04+00:00",
+    "first_seen": "2026-10-03T11:24:43.613692+00:00"
+  },
+  {
+    "source": "MIT Technology Review",
+    "source_tier": 2,
+    "title": "The Download: a biological de-aging contest and why LLMs don\u2019t reason",
+    "link": "https://www.technologyreview.com/2026/10/02/1145666/the-download-biological-de-aging-ai-reasoning/",
+    "summary": "This is today\u2019s edition of The Download, our weekday newsletter that provides a daily dose of what\u2019s going on in the world of technology. A new contest pits competitors against each other in a race to biological youth \u2014Jessica Hamzelou This week, I officially signed up for an unu",
+    "published": "2026-10-02T12:10:00+00:00",
+    "first_seen": "2026-10-03T11:24:43.613692+00:00"
+  },
+  {
+    "source": "ZDNet AI",
+    "source_tier": 2,
+    "title": "iPhone 18 Pro Max can\u2019t call or text on AT&T? Apple will replace it for free",
+    "link": "https://www.zdnet.com/tech/iphone-18-pro-max-att-no-service-free-replacement/",
+    "summary": "Some iPhone 18 Pro Max phones on AT&T are stuck in SOS mode. Two updates can prevent it, but affected phones need replacing.",
+    "published": "2026-10-03T01:43:56+00:00",
+    "first_seen": "2026-10-03T11:24:43.613692+00:00"
+  },
+  {
+    "source": "ZDNet AI",
+    "source_tier": 2,
+    "title": "This new ChatGPT scam tricks you into installing malware \u2013 how to spot the trap",
+    "link": "https://www.zdnet.com/innovation/chatgpt-scam-malware-trap/",
+    "summary": "This authentic-looking scam starts with a sponsored Google link \u2013 and it\u2019s catching people off-guard.",
+    "published": "2026-10-02T18:18:57+00:00",
+    "first_seen": "2026-10-03T11:24:43.613692+00:00"
+  },
+  {
+    "source": "ZDNet AI",
+    "source_tier": 2,
+    "title": "Google Wallet not working on your Pixel? 4 ways to fix tap-to-pay",
+    "link": "https://www.zdnet.com/tech/tap-to-pay-trouble-pixel-phones-google-wallet-nfc/",
+    "summary": "Some Pixel users are having tap-to-pay problems,  and there\u2019s no fix from  Google  yet. But here a few things that helped others.",
+    "published": "2026-10-02T15:16:21+00:00",
+    "first_seen": "2026-10-03T11:24:43.613692+00:00"
+  },
+  {
+    "source": "TechCrunch AI",
+    "source_tier": 2,
+    "title": "Meta wants your next gadget to be Muse-infused",
+    "link": "https://techcrunch.com/2026/10/02/meta-wants-you-to-build-your-own-muse-gadget/",
+    "summary": "Meta wants Muse in your TV and your toaster, so it's giving the code away for free.",
+    "published": "2026-10-03T00:45:39+00:00",
+    "first_seen": "2026-10-03T11:24:43.613692+00:00"
+  },
+  {
+    "source": "TechCrunch AI",
+    "source_tier": 2,
+    "title": "Sean Parker is rebuilding Stability AI around music",
+    "link": "https://techcrunch.com/2026/10/02/sean-parker-is-rebuilding-stability-ai-around-music/",
+    "summary": "Sean Parker, who once taught the music industry what asking for forgiveness looks like, is now back with the labels' blessing and money.",
+    "published": "2026-10-02T21:09:14+00:00",
+    "first_seen": "2026-10-03T11:24:43.613692+00:00"
+  },
+  {
+    "source": "TechCrunch AI",
+    "source_tier": 2,
+    "title": "Affected by layoffs? Don\u2019t miss this $75 deal for your TechCrunch Disrupt 2026 Expo+ Pass",
+    "link": "https://techcrunch.com/2026/10/02/disrupt-2026-layoff-expo-plus-passes-available-for-75-dollars/",
+    "summary": "Your next opportunity could be one conversation away. Get your Expo+ Pass for just $75. Limited to the first 100 qualifying people.",
+    "published": "2026-10-02T19:15:51+00:00",
+    "first_seen": "2026-10-03T11:24:43.613692+00:00"
+  },
+  {
+    "source": "TechCrunch AI",
+    "source_tier": 2,
+    "title": "Apple says it\u2019s tightening macOS \u2018Full Disk Access\u2019 controls due to new risks from AI agents",
+    "link": "https://techcrunch.com/2026/10/02/apple-says-its-tightening-macos-full-disk-access-controls-due-to-new-risks-from-ai-agents/",
+    "summary": "Apple says it will add new controls around macOS\u2019s Full Disk Access permission, warning that increasingly capable AI agents make broad access to users\u2019 files, messages, mail, and browsing history riskier.",
+    "published": "2026-10-02T18:11:27+00:00",
+    "first_seen": "2026-10-03T11:24:43.613692+00:00"
+  },
+  {
+    "source": "TechCrunch AI",
+    "source_tier": 2,
+    "title": "Call it AI, call it Super Intelligence, only 2% of consumers are buying it",
+    "link": "https://techcrunch.com/podcast/call-it-ai-call-it-super-intelligence-only-2-of-consumers-are-buying-it/",
+    "summary": "This week, the White House got\u00a0nearly every\u00a0major tech CEO in one room \u2014 Zuckerberg, Bezos, Musk, and Anthropic\u2019s Dario Amodei among them \u2014\u00a0to sign an AI safety pledge\u00a0that President\u00a0Donald\u00a0Trump called \u201cmorally binding.\u201d\u00a0Trump\u00a0also\u00a0signed an\u00a0executive order\u00a0officially rebranding",
+    "published": "2026-10-02T17:56:00+00:00",
+    "first_seen": "2026-10-03T11:24:43.613692+00:00"
+  },
+  {
+    "source": "TechCrunch AI",
+    "source_tier": 2,
+    "title": "It\u2019s\u00a0not AI anymore,\u00a0it\u2019s\u00a0\u2018super intelligence\u2019 (according to the White House)",
+    "link": "https://techcrunch.com/video/its-not-ai-anymore-its-super-intelligence-according-to-the-white-house/",
+    "summary": "This week, the White House got\u00a0nearly every\u00a0major tech CEO in one room \u2014 Zuckerberg, Bezos, Musk, and Anthropic\u2019s Dario Amodei among them \u2014\u00a0to sign an AI safety pledge\u00a0that President\u00a0Donald\u00a0Trump called \u201cmorally binding.\u201d\u00a0Trump\u00a0also\u00a0signed an\u00a0executive order\u00a0officially rebranding",
+    "published": "2026-10-02T17:48:16+00:00",
+    "first_seen": "2026-10-03T11:24:43.613692+00:00"
+  },
+  {
+    "source": "TechCrunch AI",
+    "source_tier": 2,
+    "title": "TechCrunch Disrupt 2026: Blackstone\u2019s Jas Khaira on building the next generation of AI giants",
+    "link": "https://techcrunch.com/2026/10/02/techcrunch-disrupt-2026-blackstones-jas-khaira-on-building-the-next-generation-of-ai-giants/",
+    "summary": "Blackstone's Jas Khaira will take the Builders Stage at TechCrunch Disrupt 2026 on building next-gen AI. Register for your pass and get 50% off a second.",
+    "published": "2026-10-02T17:32:05+00:00",
+    "first_seen": "2026-10-03T11:24:43.613692+00:00"
+  },
+  {
+    "source": "TechCrunch AI",
+    "source_tier": 2,
+    "title": "Circuit Breaker Labs hopes to make AI safer for your kids (and you)",
+    "link": "https://techcrunch.com/2026/10/02/circuit-breaker-labs-hopes-to-make-ai-safer-for-your-kids-and-you/",
+    "summary": "With all the talk about how AI might one day kill us all, it's easy to forget that AI has already harmed some people psychologically. Circuit Breaker Labs has created \"crash-test  dummies\" to solve that.",
+    "published": "2026-10-02T17:00:00+00:00",
+    "first_seen": "2026-10-03T11:24:43.613692+00:00"
+  },
+  {
+    "source": "TechCrunch AI",
+    "source_tier": 2,
+    "title": "Pope Leo XIV is not a fan of AI-generated art",
+    "link": "https://techcrunch.com/2026/10/02/pope-leo-xiv-is-not-a-fan-of-ai-generated-art/",
+    "summary": "\"There is an ontological difference, even before an aesthetic one, between art and what a machine can generate through statistical calculation based on millions of images created by others,\" the pope wrote. \"Algorithms lack the spark of humanity.\"",
+    "published": "2026-10-02T15:39:41+00:00",
+    "first_seen": "2026-10-03T11:24:43.613692+00:00"
+  },
+  {
+    "source": "TechCrunch AI",
+    "source_tier": 2,
+    "title": "TechCrunch Disrupt 2026: Clay\u2019s Kareem Amin on the rise of the GTM engineer",
+    "link": "https://techcrunch.com/2026/10/02/techcrunch-disrupt-2026-clays-kareem-amin-on-the-rise-of-the-gtm-engineer/",
+    "summary": "Clay Co-founder and CEO Kareem Amin joins the AI Stage to discuss the rise of GTM engineer at TechCrunch Disrupt 2026. Register for your ticket and get a second pass at 50% off.",
+    "published": "2026-10-02T14:30:00+00:00",
+    "first_seen": "2026-10-03T11:24:43.613692+00:00"
+  },
+  {
+    "source": "TechCrunch AI",
+    "source_tier": 2,
+    "title": "Last 24 hours: Exhibit at TechCrunch Disrupt 2026 and reach 10,000+ tech leaders",
+    "link": "https://techcrunch.com/2026/10/02/last-24-hours-exhibit-at-techcrunch-disrupt-2026-and-reach-10000-tech-leaders/",
+    "summary": "Today is the last day to book your exhibit table at TechCrunch Disrupt 2026. From October 13\u201315, 10,000+ founders, investors, operators, and tech leaders will arrive at San Francisco\u2019s Moscone West looking for companies, products, ideas, and people worth knowing. The question is:",
+    "published": "2026-10-02T14:00:00+00:00",
+    "first_seen": "2026-10-03T11:24:43.613692+00:00"
+  },
+  {
+    "source": "The Verge AI",
+    "source_tier": 2,
+    "title": "Meta open sources code to let you make Muse AI gadgets",
+    "link": "https://www.theverge.com/tech/1004330/meta-muse-ai-gadgets-home-link",
+    "summary": "Meta now lets you make your own Muse gadgets that feature the company's new AI agent with code that the company open sourced. The company suggests projects like loading Muse on a color E Ink display to show reminders, adding it to an HDMI stick so you can display Muse on a big sc",
+    "published": "2026-10-02T21:08:37+00:00",
+    "first_seen": "2026-10-03T11:24:43.613692+00:00"
+  },
+  {
+    "source": "The Verge AI",
+    "source_tier": 2,
+    "title": "Apple will limit Mac disk access as AI agents \u2018substantially\u2019 increase risk",
+    "link": "https://www.theverge.com/tech/1004295/apple-limit-mac-disk-access-ai-agents",
+    "summary": "Apple will add new limits for \"full disk access\" on Mac in response to risks posed by AI agents, as reported earlier by TechCrunch. In an update on Friday, Apple says it's rolling out new controls to \"ensure that users who genuinely wish to grant an app this extraordinary level o",
+    "published": "2026-10-02T20:08:40+00:00",
+    "first_seen": "2026-10-03T11:24:43.613692+00:00"
+  },
+  {
+    "source": "The Verge AI",
+    "source_tier": 2,
+    "title": "OpenAI\u2019s Dot agent is enterprise software that can also order your dinner",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/1004096/openai-chatgpt-dots-hands-on-agent",
+    "summary": "It's a tale as old as last week: OpenAI's new agent platform, called Dots, is full of cute little guys who can do your bidding. But unlike the ultra-approachable Meta Muse, Dots feel very much like using workplace software that happens to be able to order you a burrito - emphasis",
+    "published": "2026-10-02T18:00:00+00:00",
+    "first_seen": "2026-10-03T11:24:43.613692+00:00"
+  },
+  {
+    "source": "The Verge AI",
+    "source_tier": 2,
+    "title": "Breaking up (with Elon Musk) is hard to do",
+    "link": "https://www.theverge.com/tech/1004177/elon-musk-unfollows-shivon-zilis",
+    "summary": "In a throwback to MySpace-style internet drama, Shivon Zilis announced that she and the father of her four children, Elon Musk, had broken up on X. To do so, she quote-tweeted a post from \"Big Tech Alert,\" an account that, among other things, monitors what accounts are following ",
+    "published": "2026-10-02T17:37:36+00:00",
+    "first_seen": "2026-10-03T11:24:43.613692+00:00"
   }
 ]

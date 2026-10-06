@@ -1,95 +1,5 @@
 [
   {
-    "source": "MIT Technology Review",
-    "source_tier": 2,
-    "title": "Architecting memory and storage in the AI era",
-    "link": "https://www.technologyreview.com/2026/09/04/1140872/architecting-memory-and-storage-in-the-ai-era/",
-    "summary": "The era of AI inference has arrived. Imagine a healthcare system analyzing millions of data points in real time to accelerate life-saving medical research, or an intelligent assistant instantly resolving thousands of complex customer needs at once. These real-world breakthroughs ",
-    "published": "2026-09-04T18:39:19+00:00",
-    "first_seen": "2026-09-05T06:17:58.681396+00:00"
-  },
-  {
-    "source": "TechCrunch AI",
-    "source_tier": 2,
-    "title": "XDOF, just three months out of stealth, is in talks for a Series B at a $1.2B valuation",
-    "link": "https://techcrunch.com/2026/09/04/xdof-just-three-months-out-of-stealth-is-in-talks-for-a-series-b-at-a-1-2b-valuation/",
-    "summary": "The round is being raised just months after the robot data startup exited from stealth.",
-    "published": "2026-09-04T23:36:14+00:00",
-    "first_seen": "2026-09-05T06:17:58.681396+00:00"
-  },
-  {
-    "source": "TechCrunch AI",
-    "source_tier": 2,
-    "title": "OpenAI\u2019s rogue agents keep escaping, with no formal process to investigate them",
-    "link": "https://techcrunch.com/2026/09/04/openais-rogue-agents-keep-escaping-with-no-formal-process-to-investigate-them/",
-    "summary": "OpenAI\u2019s latest agent swarm incident adds urgency to calls for independent investigations as researchers and lawmakers question whether AI labs should control the scope of their own safety reviews.",
-    "published": "2026-09-04T23:15:11+00:00",
-    "first_seen": "2026-09-05T06:17:58.681396+00:00"
-  },
-  {
-    "source": "TechCrunch AI",
-    "source_tier": 2,
-    "title": "AI compute provider Nscale is looking for $3.5B in pre-IPO financing",
-    "link": "https://techcrunch.com/2026/09/04/ai-compute-provider-nscale-is-looking-for-3-5b-in-pre-ipo-financing/",
-    "summary": "Nscale, which recently struck a $45 billion deal with Anthropic, is in talks to raise additional funds in anticipation of an upcoming IPO.",
-    "published": "2026-09-04T21:12:11+00:00",
-    "first_seen": "2026-09-05T06:17:58.681396+00:00"
-  },
-  {
-    "source": "TechCrunch AI",
-    "source_tier": 2,
-    "title": "What will Apple\u2019s John Ternus era look like?",
-    "link": "https://techcrunch.com/video/what-will-apples-john-ternus-era-look-like/",
-    "summary": "It\u2019s\u00a0officially the Ternus era at Apple.\u00a0\u00a0 Tim Cook stepped down\u00a0as CEO this week, handing the company to former hardware chief John Ternus, whose first memo\u00a0promised a \u201chuge launch next week\u201d\u00a0\u2014 timing that puts Apple\u2019s next iPhone event on his desk before\u00a0he\u2019s\u00a0even settled in. C",
-    "published": "2026-09-04T17:18:00+00:00",
-    "first_seen": "2026-09-05T06:17:58.681396+00:00"
-  },
-  {
-    "source": "TechCrunch AI",
-    "source_tier": 2,
-    "title": "Another swarm of OpenAI agents reached the open internet without the frontier lab\u2019s knowledge",
-    "link": "https://techcrunch.com/2026/09/04/another-swarm-of-openai-agents-reached-the-open-internet-without-the-frontier-labs-knowledge/",
-    "summary": "It's the latest failure of OpenAI's internal monitoring and security systems.",
-    "published": "2026-09-04T16:21:11+00:00",
-    "first_seen": "2026-09-05T06:17:58.681396+00:00"
-  },
-  {
-    "source": "TechCrunch AI",
-    "source_tier": 2,
-    "title": "Apple\u2019s Ternus era begins as Nvidia bets on the whole AI stack",
-    "link": "https://techcrunch.com/podcast/apples-ternus-era-begins-as-nvidia-bets-on-the-whole-ai-stack/",
-    "summary": "It\u2019s\u00a0officially the Ternus era at Apple.\u00a0\u00a0 Tim Cook stepped down\u00a0as CEO this week, handing the company to former hardware chief John Ternus, whose first memo\u00a0promised a \u201chuge launch next week\u201d\u00a0\u2014 timing that puts Apple\u2019s next iPhone event on his desk before\u00a0he\u2019s\u00a0even settled in. C",
-    "published": "2026-09-04T16:04:08+00:00",
-    "first_seen": "2026-09-05T06:17:58.681396+00:00"
-  },
-  {
-    "source": "TechCrunch AI",
-    "source_tier": 2,
-    "title": "Google\u2019s Gemini Spark can now manage your Google Photos library",
-    "link": "https://techcrunch.com/2026/09/04/googles-gemini-spark-can-now-manage-your-google-photos-library/",
-    "summary": "Gemini Spark can edit and curate photo albums, create shared collections, turn photos into calendar events, and handle other Google Photos tasks for AI Pro and Ultra subscribers.",
-    "published": "2026-09-04T14:47:11+00:00",
-    "first_seen": "2026-09-05T06:17:58.681396+00:00"
-  },
-  {
-    "source": "The Verge AI",
-    "source_tier": 2,
-    "title": "Roland is getting into generative AI music with Melody Flip",
-    "link": "https://www.theverge.com/ai-artificial-intelligence/990197/roland-ai-music-melody-flip",
-    "summary": "It's not quite the \"push button; get song\" of Suno, but Roland's new Melody Flip tool marks the company's foray into generative AI music. Available as a plug-in for your digital audio workstation (DAW), Melody Flip offers around 250 \"Palettes,\" which are essentially themed collec",
-    "published": "2026-09-04T17:51:35+00:00",
-    "first_seen": "2026-09-05T06:17:58.681396+00:00"
-  },
-  {
-    "source": "The Verge AI",
-    "source_tier": 2,
-    "title": "Microsoft says virtually nobody was grabbing NYT articles through its chatbot",
-    "link": "https://www.theverge.com/policy/990267/microsoft-openai-new-york-times-authors-lawsuit",
-    "summary": "Microsoft's Copilot rarely reproduces even full sentences from news articles and books, let alone substantive chunks that could substitute for the original, the company says in new legal filings as it fights copyright claims from publishers including The New York Times and book a",
-    "published": "2026-09-04T16:05:57+00:00",
-    "first_seen": "2026-09-05T06:17:58.681396+00:00"
-  },
-  {
     "source": "TechCrunch AI",
     "source_tier": 2,
     "title": "Seattle Times and Newsday are the latest publications to sue OpenAI and Microsoft",
@@ -114,15 +24,6 @@
     "link": "https://techcrunch.com/2026/09/05/openai-confirms-wiki-incident-says-its-working-on-a-framework-for-more-disclosure/",
     "summary": "OpenAI acknowledged its role in a recently reported incident where AI agents took over a German wiki forum.",
     "published": "2026-09-05T18:05:27+00:00",
-    "first_seen": "2026-09-06T06:18:06.426454+00:00"
-  },
-  {
-    "source": "The Verge AI",
-    "source_tier": 2,
-    "title": "OpenAI admits to German wiki \u2018incident\u2019",
-    "link": "https://www.theverge.com/ai-artificial-intelligence/990773/openai-german-wiki-incident",
-    "summary": "OpenAI says it needs to overhaul how and when it reports instances of AI models attacking real-world targets. The acknowledgement comes as the company manages the fallout from reports that a swarm of its out-of-control agents hijacked a German wiki site. Regarding the \"'wiki inci",
-    "published": "2026-09-05T11:15:55+00:00",
     "first_seen": "2026-09-06T06:18:06.426454+00:00"
   },
   {
@@ -5461,5 +5362,275 @@
     "summary": "StarSkirmish pits AI-made StarCraft-playing bots against one another, as well as against human-made bots. OpenAI's GPT-6 Astra and Claude Opus 5.5 were essentially tied as the best-performing AI-made bots, but they couldn't top Stardust, the top-rated human-made bot. On Friday, G",
     "published": "2026-10-04T15:21:59+00:00",
     "first_seen": "2026-10-05T14:10:18.834646+00:00"
+  },
+  {
+    "source": "MIT Technology Review",
+    "source_tier": 2,
+    "title": "The Download: 10 climate tech companies to watch",
+    "link": "https://www.technologyreview.com/2026/10/06/1145796/the-download-10-climate-tech-companies-to-watch/",
+    "summary": "This is today\u2019s edition of The Download, our weekday newsletter that provides a daily dose of what\u2019s going on in the world of technology. 10 climate tech companies to watch Each year, MIT Technology Review puts together a list of the most promising climate tech companies in the w",
+    "published": "2026-10-06T12:10:00+00:00",
+    "first_seen": "2026-10-06T13:07:06.536306+00:00"
+  },
+  {
+    "source": "MIT Technology Review",
+    "source_tier": 2,
+    "title": "2026 Climate Tech Companies to Watch",
+    "link": "https://www.technologyreview.com/2026/10/06/1143800/2026-climate-tech-companies-to-watch/",
+    "summary": "",
+    "published": "2026-10-06T10:35:00+00:00",
+    "first_seen": "2026-10-06T13:07:06.536306+00:00"
+  },
+  {
+    "source": "MIT Technology Review",
+    "source_tier": 2,
+    "title": "Here\u2019s how our climate team picked 10 promising companies to watch",
+    "link": "https://www.technologyreview.com/2026/10/06/1144978/2026-climate-tech-companies-to-watch-how-we-chose/",
+    "summary": "As the team at MIT Technology Review set out to choose companies for this year\u2019s edition of our annual list of Climate Tech Companies to Watch, the challenge felt more daunting than any year since we started compiling the list in 2023.\u00a0 This year is shaping up to be one of the ho",
+    "published": "2026-10-06T10:35:00+00:00",
+    "first_seen": "2026-10-06T13:07:06.536306+00:00"
+  },
+  {
+    "source": "MIT Technology Review",
+    "source_tier": 2,
+    "title": "WeLion New Energy and its semi-solid-state batteries",
+    "link": "https://www.technologyreview.com/2026/10/06/1144987/2026-climate-tech-companies-to-watch-welion-semi-solid-state-batteries/",
+    "summary": "WeLion New Energy is on a quest to make safer, better batteries. The company\u2019s semi-solid-state cells could improve safety and offer greater energy density than lithium-ion batteries to power electric cars, boats, and drones. From the EVs that carry commuters home to the ships th",
+    "published": "2026-10-06T10:35:00+00:00",
+    "first_seen": "2026-10-06T13:07:06.536306+00:00"
+  },
+  {
+    "source": "MIT Technology Review",
+    "source_tier": 2,
+    "title": "Form Energy and its iron batteries",
+    "link": "https://www.technologyreview.com/2026/10/06/1145020/2026-climate-tech-companies-to-watch-form-energy-iron-batteries/",
+    "summary": "Form Energy is building iron-based batteries that can store energy for multiple days. The company is ramping up supply at its factory and signing deals for commercial projects. New solar and wind installations produce electricity more affordably than fossil fuels in most places, ",
+    "published": "2026-10-06T10:35:00+00:00",
+    "first_seen": "2026-10-06T13:07:06.536306+00:00"
+  },
+  {
+    "source": "MIT Technology Review",
+    "source_tier": 2,
+    "title": "X-energy and its helium-cooled nuclear reactors",
+    "link": "https://www.technologyreview.com/2026/10/06/1145025/2026-climate-tech-companies-to-watch-x-energy-helium-cooled-nuclear-reactors/",
+    "summary": "X-energy is developing small modular reactors to satisfy some of the planet\u2019s most power-hungry users: industrial manufacturers that need high temperatures to produce billions of tons of concrete, plastics, fibers, and chemicals. Solar panels and wind turbines are great at produc",
+    "published": "2026-10-06T10:35:00+00:00",
+    "first_seen": "2026-10-06T13:07:06.536306+00:00"
+  },
+  {
+    "source": "MIT Technology Review",
+    "source_tier": 2,
+    "title": "Energy Dome and its carbon dioxide batteries",
+    "link": "https://www.technologyreview.com/2026/10/06/1145032/2026-climate-tech-companies-to-watch-energy-dome-carbon-dioxide-batteries/",
+    "summary": "There\u2019s a growing need for long-duration storage to meet energy demand and balance out renewables on the grid. Energy Dome uses compressed carbon dioxide gas in its massive grid batteries, which can deliver power for up to 24 hours.\u00a0 As the world races to meet growing electricity",
+    "published": "2026-10-06T10:35:00+00:00",
+    "first_seen": "2026-10-06T13:07:06.536306+00:00"
+  },
+  {
+    "source": "MIT Technology Review",
+    "source_tier": 2,
+    "title": "Brimstone and its one-stop process for making cleaner cement and critical minerals",
+    "link": "https://www.technologyreview.com/2026/10/06/1145172/2026-climate-tech-companies-to-watch-brimstone-one-stop-process-making-cleaner-cement-critical-minerals/",
+    "summary": "Brimstone is making strides on two industrial problems, reducing the emissions from cement and providing a way to produce more critical minerals within the US. If the company can do both, with the same rocks in the same plant, it would unlock a cleaner and more efficient process ",
+    "published": "2026-10-06T10:35:00+00:00",
+    "first_seen": "2026-10-06T13:07:06.536306+00:00"
+  },
+  {
+    "source": "MIT Technology Review",
+    "source_tier": 2,
+    "title": "WaveSave and its portable rubber dam",
+    "link": "https://www.technologyreview.com/2026/10/06/1145208/2026-climate-tech-companies-to-watch-wavesave-portable-rubber-dam/",
+    "summary": "As sea levels rise and flood risks worsen due to global warming, WaveSave\u2019s easy-to-erect portable dam offers a quick-response tool. People can use the dam to protect themselves and their property, and it can also store freshwater for later use. Communities in Europe, Africa, and",
+    "published": "2026-10-06T10:35:00+00:00",
+    "first_seen": "2026-10-06T13:07:06.536306+00:00"
+  },
+  {
+    "source": "MIT Technology Review",
+    "source_tier": 2,
+    "title": "BasiGo and its fleet of electric buses",
+    "link": "https://www.technologyreview.com/2026/10/06/1145216/2026-climate-tech-companies-to-watch-basigo-fleet-electric-buses/",
+    "summary": "BasiGo aims to replace the tens of thousands of diesel-powered buses on sub-Saharan African roads with electric ones that generate far fewer emissions. The company\u2019s pay-as-you-drive business model has helped make EVs more attainable and is changing the way public transport opera",
+    "published": "2026-10-06T10:35:00+00:00",
+    "first_seen": "2026-10-06T13:07:06.536306+00:00"
+  },
+  {
+    "source": "TechCrunch AI",
+    "source_tier": 2,
+    "title": "OpenAI will start watermarking ChatGPT\u2019s text in the EU",
+    "link": "https://techcrunch.com/2026/10/05/openai-will-start-watermarking-chatgpts-text-in-the-eu/",
+    "summary": "OpenAI will watermark ChatGPT and Codex text in the EU to comply with the AI Act. Editing can make the invisible marks harder to detect, it says.",
+    "published": "2026-10-05T20:36:48+00:00",
+    "first_seen": "2026-10-06T13:07:06.536306+00:00"
+  },
+  {
+    "source": "TechCrunch AI",
+    "source_tier": 2,
+    "title": "Reflection debuts Beam, an open-weight AI model to rival Chinese models at lower compute cost",
+    "link": "https://techcrunch.com/2026/10/05/reflection-debuts-beam-a-open-weight-ai-model-to-rival-chinese-models-at-lower-compute-cost/",
+    "summary": "Reflection is aiming Beam and future models at enterprises and sovereign nations. The pitch is to build \u201cAI factories,\u201d a product that would let institutions build their own customized, local AI system by training Reflection\u2019s AI models on their own proprietary data.",
+    "published": "2026-10-05T19:33:53+00:00",
+    "first_seen": "2026-10-06T13:07:06.536306+00:00"
+  },
+  {
+    "source": "TechCrunch AI",
+    "source_tier": 2,
+    "title": "Instinct brings its AI agent to group chats, even for friends without an account",
+    "link": "https://techcrunch.com/2026/10/05/instinct-brings-its-ai-agent-to-group-chats-even-for-friends-without-an-account/",
+    "summary": "Instinct is launching group chats that let friends use its AI agent together for tasks like planning trips, organizing carpools, and coordinating events. The company says personal accounts remain separate, with permission required before personal agents share information or take ",
+    "published": "2026-10-05T18:54:30+00:00",
+    "first_seen": "2026-10-06T13:07:06.536306+00:00"
+  },
+  {
+    "source": "TechCrunch AI",
+    "source_tier": 2,
+    "title": "TikTok rolls out an AI shopping assistant and one-click checkout",
+    "link": "https://techcrunch.com/2026/10/05/tiktok-rolls-out-an-ai-shopping-assistant-and-one-click-checkout/",
+    "summary": "TikTok describes its new Shopping Assistant as a conversational AI agent designed to help users discover and purchase products.",
+    "published": "2026-10-05T18:29:00+00:00",
+    "first_seen": "2026-10-06T13:07:06.536306+00:00"
+  },
+  {
+    "source": "TechCrunch AI",
+    "source_tier": 2,
+    "title": "Hot Girl Hotline is like \u2018Dear Abby\u2019 for the AI era",
+    "link": "https://techcrunch.com/2026/10/05/hot-girl-hotline-is-like-dear-abby-for-the-ai-era/",
+    "summary": "Founded by two sisters, Hot Girl Hotline uses AI to give young women personalized dating and relationship advice, with an emphasis on safety and avoiding emotional dependency.",
+    "published": "2026-10-05T17:29:22+00:00",
+    "first_seen": "2026-10-06T13:07:06.536306+00:00"
+  },
+  {
+    "source": "TechCrunch AI",
+    "source_tier": 2,
+    "title": "HackerRank\u2019s AI interviewer offers a glimpse into what job interviews could become",
+    "link": "https://techcrunch.com/2026/10/05/hackerranks-ai-interviewer-offers-a-glimpse-into-what-job-interviews-could-become/",
+    "summary": "HackerRank\u2019s AI interviewer has already conducted more than 500,000 interviews, with Snowflake, Snorkel, and Capgemini among its early testers.",
+    "published": "2026-10-05T16:43:35+00:00",
+    "first_seen": "2026-10-06T13:07:06.536306+00:00"
+  },
+  {
+    "source": "TechCrunch AI",
+    "source_tier": 2,
+    "title": "OpenAI launches visual ads that appear alongside image generation results",
+    "link": "https://techcrunch.com/2026/10/05/openai-launches-visual-ads-that-appear-alongside-image-generation-results/",
+    "summary": "The new ads will begin to appear later this month in the U.S. only for now, and will feature products and services from an initial test group of advertisers.",
+    "published": "2026-10-05T15:14:24+00:00",
+    "first_seen": "2026-10-06T13:07:06.536306+00:00"
+  },
+  {
+    "source": "TechCrunch AI",
+    "source_tier": 2,
+    "title": "Open or closed AI? How founders are choosing what to build on at TechCrunch Disrupt 2026",
+    "link": "https://techcrunch.com/2026/10/05/open-or-closed-ai-how-founders-are-choosing-what-to-build-on-at-techcrunch-disrupt-2026/",
+    "summary": "Learn how founders are choosing between building on open or closed AI at TechCrunch Disrupt 2026. Register now to save up to $100 and get a second pass at 50% off.",
+    "published": "2026-10-05T15:00:00+00:00",
+    "first_seen": "2026-10-06T13:07:06.536306+00:00"
+  },
+  {
+    "source": "TechCrunch AI",
+    "source_tier": 2,
+    "title": "Researchers are tracking a Chinese AI \u2018agent fleet\u2019",
+    "link": "https://techcrunch.com/2026/10/05/researchers-are-tracking-a-chinese-ai-agent-fleet/",
+    "summary": "Independent researchers discovered an agent swarm that seems to be running on Tencent's infrastructure and targeting Alibaba's map service, Amap.",
+    "published": "2026-10-05T14:35:09+00:00",
+    "first_seen": "2026-10-06T13:07:06.536306+00:00"
+  },
+  {
+    "source": "TechCrunch AI",
+    "source_tier": 2,
+    "title": "Meet the Startup Battlefield 200 judges who\u2019ll decide the winner at TechCrunch Disrupt 2026",
+    "link": "https://techcrunch.com/2026/10/05/meet-the-startup-battlefield-200-judges-wholl-decide-the-winner-at-techcrunch-disrupt-2026/",
+    "summary": "Meet the final five Startup Battlefield judges who'll decide who wins the pitch competition at TechCrunch Disrupt 2026. Get your pass now to save up to $100, and get a second at 50% off.",
+    "published": "2026-10-05T14:30:00+00:00",
+    "first_seen": "2026-10-06T13:07:06.536306+00:00"
+  },
+  {
+    "source": "The Verge AI",
+    "source_tier": 2,
+    "title": "Amazon Alexa Plus keeps creepily singing \u2018lalala\u2019 for minutes on end",
+    "link": "https://www.theverge.com/tech/1005342/amazon-alexa-plus-keeps-creepily-singing-lalala-for-minutes-on-end",
+    "summary": "An unsettling Alexa Plus bug has seen some Amazon Echo smart home speakers reduced to saying - and sometimes singing - nothing but \"lalala\" on repeat for minutes at a time, often in the middle of conversations with users. When quizzed about the behavior, Alexa is apparently entir",
+    "published": "2026-10-06T10:53:11+00:00",
+    "first_seen": "2026-10-06T13:07:06.536306+00:00"
+  },
+  {
+    "source": "The Verge AI",
+    "source_tier": 2,
+    "title": "Gemini Call for Me might tell your mom you\u2019re running late",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/1005177/google-gemini-call-for-me-expansion-rumors",
+    "summary": "Google may be expanding its \"Call for Me\" AI feature beyond business calls so you can use it to send messages to friends and family. Android Authority reports finding a \"Gemini Calling\" introductory screen in an APK teardown with examples that include \"Call Mom and tell her I wil",
+    "published": "2026-10-05T23:09:55+00:00",
+    "first_seen": "2026-10-06T13:07:06.536306+00:00"
+  },
+  {
+    "source": "The Verge AI",
+    "source_tier": 2,
+    "title": "This startup is issuing AI-generated acne prescriptions",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/1005075/nolla-health-acne-ai-prescriptions",
+    "summary": "People in Utah can now use AI to get a prescription for acne treatment. On Monday, healthcare startup Nolla Health announced that users in the state can scan their faces using its app, allowing its AI system to analyze acne severity and autonomously write a prescription, as repor",
+    "published": "2026-10-05T20:14:57+00:00",
+    "first_seen": "2026-10-06T13:07:06.536306+00:00"
+  },
+  {
+    "source": "The Verge AI",
+    "source_tier": 2,
+    "title": "All the drama around AI\u2019s takeover of mathematics",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/1004933/ai-math-openai-breakthrough-solution",
+    "summary": "This past year, OpenAI, Anthropic, and other labs have announced breakthroughs on numerous long-standing mathematical problems, in some cases pushing well beyond what researchers expected current systems to be capable of \u2014 including resolving one of the famous Millennium Prize pr",
+    "published": "2026-10-05T19:28:59+00:00",
+    "first_seen": "2026-10-06T13:07:06.536306+00:00"
+  },
+  {
+    "source": "The Verge AI",
+    "source_tier": 2,
+    "title": "Wikipedia operator says OpenAI\u2019s \u2018rogue\u2019 bots may be linked to a May outage",
+    "link": "https://www.theverge.com/news/1004929/wikipedia-openai-rogue-bots-wikimedia-foundation-outage",
+    "summary": "Following many recent disclosures about AI agents accessing third-party websites and services, the Wikimedia Foundation, which hosts Wikipedia, says that it \"can confirm that we have discovered some activity\" by \"rogue\" OpenAI agents on Wikimedia platforms. The activity includes ",
+    "published": "2026-10-05T19:05:19+00:00",
+    "first_seen": "2026-10-06T13:07:06.536306+00:00"
+  },
+  {
+    "source": "The Verge AI",
+    "source_tier": 2,
+    "title": "OpenAI is adding text watermarking in ChatGPT and Codex",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/1004880/openai-chatgpt-text-watermarks-eu-ai-act",
+    "summary": "An invisible, machine-readable watermark in text output is rolling out to ChatGPT and Codex, but only for users in the European Union at first. OpenAI says its textGrain watermarking \"matched or exceeded\" other approaches like Google DeepMind's SynthID for text, which is also the",
+    "published": "2026-10-05T18:08:39+00:00",
+    "first_seen": "2026-10-06T13:07:06.536306+00:00"
+  },
+  {
+    "source": "The Verge AI",
+    "source_tier": 2,
+    "title": "OpenAI PR tells journalist to \u2018move on\u2019 while asking Sam Altman about a ChatGPT user\u2019s suicide",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/1004827/openai-sam-altman-vanity-fair-interview-pr",
+    "summary": "An OpenAI publicist tried to change the topic of CEO Sam Altman's interview with Vanity Fair's Mark Guiducci after the editor brought up a ChatGPT user's suicide. When Guiducci confronted Altman about the incident, the publicist warned Guiducci about running out of time, saying s",
+    "published": "2026-10-05T16:55:42+00:00",
+    "first_seen": "2026-10-06T13:07:06.536306+00:00"
+  },
+  {
+    "source": "The Verge AI",
+    "source_tier": 2,
+    "title": "Sam Altman says \u2018some bad things\u2019 will happen, but AI is totally worth it",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/1004811/openai-altman-bad-things-ai-tradeoff",
+    "summary": "Sam Altman thinks that the benefits of AI will be so great that \"the world should accept some bad things happening\" along the way. The OpenAI CEO pointed to hacks, scams, and \"other bad things\" as costs society should expect to tolerate because \"people will do tremendously orders",
+    "published": "2026-10-05T16:44:21+00:00",
+    "first_seen": "2026-10-06T13:07:06.536306+00:00"
+  },
+  {
+    "source": "The Verge AI",
+    "source_tier": 2,
+    "title": "Sen. Adam Schiff on AI regulation, free speech, and impeaching Trump one more time",
+    "link": "https://www.theverge.com/podcast/1004286/senator-adam-schiff-ai-trump-regulation-corruption",
+    "summary": "Today, I\u2019m talking with Sen. Adam Schiff, a Democrat from California. Schiff sits on a number of committees with oversight into tech and AI: intellectual property, antitrust, privacy and technology \u2014 it\u2019s all there. I really wanted to ask him about how we might regulate anything ",
+    "published": "2026-10-05T14:30:00+00:00",
+    "first_seen": "2026-10-06T13:07:06.536306+00:00"
+  },
+  {
+    "source": "The Verge AI",
+    "source_tier": 2,
+    "title": "An open-source tool lets you delete 12GB of Apple Intelligence data on macOS",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/1004672/mac-delete-apple-intelligence-ai-tool",
+    "summary": "Getting some extra storage space on your Mac could be as easy as deleting Apple's AI features with a new open-source command line tool called RemoveMacAI. There used to be a single Settings toggle for disabling Apple Intelligence, but that was removed in macOS 27. Now, the models",
+    "published": "2026-10-05T13:47:14+00:00",
+    "first_seen": "2026-10-06T13:07:06.536306+00:00"
   }
 ]

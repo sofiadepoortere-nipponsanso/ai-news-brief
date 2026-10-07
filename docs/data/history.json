@@ -2,33 +2,6 @@
   {
     "source": "TechCrunch AI",
     "source_tier": 2,
-    "title": "Seattle Times and Newsday are the latest publications to sue OpenAI and Microsoft",
-    "link": "https://techcrunch.com/2026/09/05/seattle-times-and-newsday-are-the-latest-publications-to-sue-openai-and-microsoft/",
-    "summary": "Two more news organizations are suing OpenAI and Microsoft over the supposed use of their journalism to train AI.",
-    "published": "2026-09-05T22:49:55+00:00",
-    "first_seen": "2026-09-06T06:18:06.426454+00:00"
-  },
-  {
-    "source": "TechCrunch AI",
-    "source_tier": 2,
-    "title": "Hikers rescued after using Google Gemini for planning",
-    "link": "https://techcrunch.com/2026/09/05/hikers-rescued-after-using-google-gemini-for-planning/",
-    "summary": "The sheriff\u2019s office said the hikers \u201cwere advised by Gemini to bring far less food and water than their group required.\"",
-    "published": "2026-09-05T19:35:24+00:00",
-    "first_seen": "2026-09-06T06:18:06.426454+00:00"
-  },
-  {
-    "source": "TechCrunch AI",
-    "source_tier": 2,
-    "title": "OpenAI confirms \u2018wiki incident,\u2019 says it\u2019s \u2018working on a framework\u2019 for more disclosure",
-    "link": "https://techcrunch.com/2026/09/05/openai-confirms-wiki-incident-says-its-working-on-a-framework-for-more-disclosure/",
-    "summary": "OpenAI acknowledged its role in a recently reported incident where AI agents took over a German wiki forum.",
-    "published": "2026-09-05T18:05:27+00:00",
-    "first_seen": "2026-09-06T06:18:06.426454+00:00"
-  },
-  {
-    "source": "TechCrunch AI",
-    "source_tier": 2,
     "title": "Authors push back as publishers and agents make claims on Anthropic settlement",
     "link": "https://techcrunch.com/2026/09/06/authors-push-back-as-publishers-and-agents-seek-share-of-anthropic-settlement/",
     "summary": "Authors say publishers seem to be claiming more than their fair share of settlement payments.",
@@ -1158,24 +1131,6 @@
     "link": "https://www.zdnet.com/business/apple-guessing-game-round-3-answers/",
     "summary": "In the final round of our Big Guessing Game, you shared your predictions on the iPhone event to win a new Apple Watch. Here are the final results.",
     "published": "2026-09-06T18:46:41+00:00",
-    "first_seen": "2026-09-15T06:21:09.674316+00:00"
-  },
-  {
-    "source": "ZDNet AI",
-    "source_tier": 2,
-    "title": "The 5 coolest phones I saw at IFA 2026 \u2013 including a new foldable",
-    "link": "https://www.zdnet.com/tech/the-5-coolest-phones-i-saw-at-ifa-2026/",
-    "summary": "There are many amazing devices at IFA 2026, but these five phones were the perfect combination of practical and fun design.",
-    "published": "2026-09-06T06:52:05+00:00",
-    "first_seen": "2026-09-15T06:21:09.674316+00:00"
-  },
-  {
-    "source": "ZDNet AI",
-    "source_tier": 2,
-    "title": "Save almost 50% on this 85-inch Hisense TV at Amazon for Labor Day",
-    "link": "https://www.zdnet.com/home-and-office/save-almost-50-on-this-85-inch-hisense-tv-at-amazon-for-labor-day/",
-    "summary": "The Hisense U7 is a solid Mini LED TV for streaming, gaming, and more \u2013 especially at this price.",
-    "published": "2026-09-05T23:16:53+00:00",
     "first_seen": "2026-09-15T06:21:09.674316+00:00"
   },
   {
@@ -5632,5 +5587,203 @@
     "summary": "Getting some extra storage space on your Mac could be as easy as deleting Apple's AI features with a new open-source command line tool called RemoveMacAI. There used to be a single Settings toggle for disabling Apple Intelligence, but that was removed in macOS 27. Now, the models",
     "published": "2026-10-05T13:47:14+00:00",
     "first_seen": "2026-10-06T13:07:06.536306+00:00"
+  },
+  {
+    "source": "European Commission Digital Strategy",
+    "source_tier": 1,
+    "title": "Establishing the European AI Observatory: Call for tenders",
+    "link": "https://digital-strategy.ec.europa.eu/en/funding/establishing-european-ai-observatory-call-tenders",
+    "summary": "Establishing the European AI Observatory: Call for tenders\nAnonymous (not verified)\nMon, 10/05/2026 - 09:22\n\n\n\n  \n        \n              \n                              \n      \n      \u00a0\n      Opening: 05 October 2026\n    \n    \n      \u00a0\n      Closing: 03 November 2026\n    \n  \n  \n\n   ",
+    "published": "2026-10-05T07:22:00+00:00",
+    "first_seen": "2026-10-07T13:02:12.214794+00:00"
+  },
+  {
+    "source": "MIT Technology Review",
+    "source_tier": 2,
+    "title": "The Download: weight-loss drugs slowing aging and carbon dioxide batteries",
+    "link": "https://www.technologyreview.com/2026/10/07/1145895/the-download-weight-loss-drugs-slow-aging-carbon-dioxide-batteries/",
+    "summary": "This is today\u2019s edition of The Download, our weekday newsletter that provides a daily dose of what\u2019s going on in the world of technology. Weight-loss drugs show signs of slowing biological aging, say drugmakers Popular weight-loss drugs may do more than help people shed pounds. T",
+    "published": "2026-10-07T12:10:00+00:00",
+    "first_seen": "2026-10-07T13:02:12.214794+00:00"
+  },
+  {
+    "source": "MIT Technology Review",
+    "source_tier": 2,
+    "title": "Weight-loss drugs show signs of slowing biological aging, say drugmakers",
+    "link": "https://www.technologyreview.com/2026/10/06/1145836/weight-loss-drugs-glp1-lilly-novo-aging-clocks/",
+    "summary": "Popular weight-loss drugs may do more than help people shed pounds. They might also melt away the years. Drug giants Eli Lilly and Novo Nordisk say patients taking their drugs age less quickly, according to readouts from molecular \u201caging clocks.\u201d Such clocks assess a person\u2019s bio",
+    "published": "2026-10-06T16:40:36+00:00",
+    "first_seen": "2026-10-07T13:02:12.214794+00:00"
+  },
+  {
+    "source": "ZDNet AI",
+    "source_tier": 2,
+    "title": "Use Gemini for free? You\u2019ll soon be limited to its weakest AI model",
+    "link": "https://www.zdnet.com/innovation/google-ai-free-model-access-limited/",
+    "summary": "Google is cutting off free users from the Flash and Pro models. AI Plus subscribers are losing out too",
+    "published": "2026-10-06T18:00:57+00:00",
+    "first_seen": "2026-10-07T13:02:12.214794+00:00"
+  },
+  {
+    "source": "ZDNet AI",
+    "source_tier": 2,
+    "title": "Office 2021 support ends this month \u2013 you have 5 options",
+    "link": "https://www.zdnet.com/tech/microsoft-office-2021-support-ends-your-options/",
+    "summary": "Microsoft is ending support and updates for Office 2021 on October 13. What does that mean, and what are your alternatives?",
+    "published": "2026-10-06T16:40:40+00:00",
+    "first_seen": "2026-10-07T13:02:12.214794+00:00"
+  },
+  {
+    "source": "ZDNet AI",
+    "source_tier": 2,
+    "title": "Mistral\u2019s new Le Chonk model brings AI cybersecurity to your business \u2013 and you control it",
+    "link": "https://www.zdnet.com/innovation/mistral-le-chonk-ai-cybersecurity-business/",
+    "summary": "Open models are vying to become the everyman defense solution for a growing swarm of agent breaches.",
+    "published": "2026-10-06T13:00:04+00:00",
+    "first_seen": "2026-10-07T13:02:12.214794+00:00"
+  },
+  {
+    "source": "TechCrunch AI",
+    "source_tier": 2,
+    "title": "Ex-Ramp engineers raise $20M for platform Melius after scrapping their first product",
+    "link": "https://techcrunch.com/2026/10/06/ex-ramp-engineers-raise-20m-for-platform-melius-after-scrapping-their-first-product/",
+    "summary": "Instead of helping marketers manage and optimize ad spend, the company is focusing on building the tools that generate the creative assets and campaigns.",
+    "published": "2026-10-06T22:34:03+00:00",
+    "first_seen": "2026-10-07T13:02:12.214794+00:00"
+  },
+  {
+    "source": "TechCrunch AI",
+    "source_tier": 2,
+    "title": "How AI decision models could change content moderation",
+    "link": "https://techcrunch.com/2026/10/06/how-ai-decision-models-could-change-content-moderation/",
+    "summary": "On Tuesday, Musubi announced a lightweight decision model made for real-time moderation called PolicyLM-1.7B, released with open weights.",
+    "published": "2026-10-06T20:35:20+00:00",
+    "first_seen": "2026-10-07T13:02:12.214794+00:00"
+  },
+  {
+    "source": "TechCrunch AI",
+    "source_tier": 2,
+    "title": "AI computing startup Lambda to raise $4B ahead of planned IPO",
+    "link": "https://techcrunch.com/2026/10/06/ai-computing-startup-lambda-to-raise-4b-ahead-of-planned-ipo/",
+    "summary": "Nvidia-backed Lambda is raising up to $4 billion at a $14.5 billion pre-money valuation ahead of a planned 2027 IPO, led by Coatue and Blackstone.",
+    "published": "2026-10-06T20:00:30+00:00",
+    "first_seen": "2026-10-07T13:02:12.214794+00:00"
+  },
+  {
+    "source": "TechCrunch AI",
+    "source_tier": 2,
+    "title": "The next hurdle for AI agents: getting websites to let them in",
+    "link": "https://techcrunch.com/2026/10/06/the-next-hurdle-for-ai-agents-getting-websites-to-let-them-in/",
+    "summary": "Personal AI agents promise to shop, book flights, and make reservations for you. But deliberate blocks and anti-bot defenses are getting in the way, leaving consumers caught in the middle. A new standard aims to help.",
+    "published": "2026-10-06T19:56:50+00:00",
+    "first_seen": "2026-10-07T13:02:12.214794+00:00"
+  },
+  {
+    "source": "TechCrunch AI",
+    "source_tier": 2,
+    "title": "Hark releases an AI personal assistant with a focus on privacy",
+    "link": "https://techcrunch.com/2026/10/06/hark-releases-an-ai-personal-assistant-with-a-focus-on-privacy/",
+    "summary": "The AI lab's personal assistant is an operating system from the future designed to compete with Muse, Dots, and Instinct.",
+    "published": "2026-10-06T18:22:45+00:00",
+    "first_seen": "2026-10-07T13:02:12.214794+00:00"
+  },
+  {
+    "source": "TechCrunch AI",
+    "source_tier": 2,
+    "title": "Mirror Particle is building a \u2018world model\u2019 of human behavior",
+    "link": "https://techcrunch.com/2026/10/06/mirror-particle-is-building-a-world-model-of-human-behavior/",
+    "summary": "Mirror Particle will launch at TechCrunch Disrupt's Startup Battlefield 200 with a world model built from scratch to predict human behavior, arguing that LLM role-play falls short for market research and brand strategy.",
+    "published": "2026-10-06T16:35:00+00:00",
+    "first_seen": "2026-10-07T13:02:12.214794+00:00"
+  },
+  {
+    "source": "TechCrunch AI",
+    "source_tier": 2,
+    "title": "Anthropic is giving startups a free year of Claude Team and $1,000 in credits",
+    "link": "https://techcrunch.com/2026/10/06/anthropic-gives-startups-a-free-year-of-enterprise-service-and-1000-in-token-credits/",
+    "summary": "\"We created this program because we believe the benefits of AI will reach most people through the companies that build on top of models, rather than through the models alone.\"",
+    "published": "2026-10-06T16:00:00+00:00",
+    "first_seen": "2026-10-07T13:02:12.214794+00:00"
+  },
+  {
+    "source": "TechCrunch AI",
+    "source_tier": 2,
+    "title": "LibreOffice says \u2018no AI\u2019 is now a software feature",
+    "link": "https://techcrunch.com/2026/10/06/libreoffice-says-no-ai-is-now-a-software-feature/",
+    "summary": "The maker of the open source document editor says it has no plans to add AI to its software's default configuration, citing user privacy.",
+    "published": "2026-10-06T15:25:00+00:00",
+    "first_seen": "2026-10-07T13:02:12.214794+00:00"
+  },
+  {
+    "source": "TechCrunch AI",
+    "source_tier": 2,
+    "title": "Mistral\u2019s new 1T model aims to leapfrog closed and open rivals",
+    "link": "https://techcrunch.com/2026/10/06/mistrals-new-1t-model-aims-to-leapfrog-closed-and-open-rivals/",
+    "summary": "French AI lab Mistral AI has released Mistral Large 4, a new large multimodal model aiming to leapfrog both American and Chinese rivals.",
+    "published": "2026-10-06T14:33:16+00:00",
+    "first_seen": "2026-10-07T13:02:12.214794+00:00"
+  },
+  {
+    "source": "TechCrunch AI",
+    "source_tier": 2,
+    "title": "Pinterest\u2019s AI now turns beauty Pins into action plans",
+    "link": "https://techcrunch.com/2026/10/06/pinterests-ai-now-turns-beauty-pins-into-action-plans/",
+    "summary": "Pinterest\u2019s new AI-powered Beauty Guides translate hair and nail Pins into salon terminology, with estimated costs, appointment times, and maintenance needs.",
+    "published": "2026-10-06T14:00:49+00:00",
+    "first_seen": "2026-10-07T13:02:12.214794+00:00"
+  },
+  {
+    "source": "TechCrunch AI",
+    "source_tier": 2,
+    "title": "Get all your questions answered at TechCrunch Disrupt 2026: The full breakout session agenda revealed",
+    "link": "https://techcrunch.com/2026/10/06/get-all-your-questions-answered-at-techcrunch-disrupt-2026-the-full-breakout-session-agenda-revealed/",
+    "summary": "Get all of your scaling and tech questions answered at TechCrunch Disrupt 2026. Here's the full breakout session agenda, happening October 13-15 in San Francisco. Register now to join and save up to $100, and get a second pass at 50% off.",
+    "published": "2026-10-06T14:00:00+00:00",
+    "first_seen": "2026-10-07T13:02:12.214794+00:00"
+  },
+  {
+    "source": "The Verge AI",
+    "source_tier": 2,
+    "title": "AI could upend food delivery",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/1005726/doordash-ai-agentic-food-delivery-bites",
+    "summary": "DoorDash, the leading food delivery app, processed 970 million orders in its second quarter this year and generated $4.5 billion in revenue. A 10-person startup called Bites is a blip in comparison: It has just around 300 restaurants signed up in the Bay Area, where it's operatin",
+    "published": "2026-10-07T12:00:00+00:00",
+    "first_seen": "2026-10-07T13:02:12.214794+00:00"
+  },
+  {
+    "source": "The Verge AI",
+    "source_tier": 2,
+    "title": "ChatGPT for Teens is an \u2018unacceptable risk,\u2019 says Common Sense Media",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/1006355/openai-chatgpt-for-teens-common-sense-media",
+    "summary": "Common Sense Media, a nonprofit that offers reviews of apps, services, and entertainment with a focus on youth safety, today said that OpenAI's ChatGPT for Teens is an \"unacceptable risk.\" ChatGPT for Teens, introduced in August, has guardrails for teens and is designed to help s",
+    "published": "2026-10-07T09:00:00+00:00",
+    "first_seen": "2026-10-07T13:02:12.214794+00:00"
+  },
+  {
+    "source": "The Verge AI",
+    "source_tier": 2,
+    "title": "OpenAI drops another batch of mathematical breakthroughs",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/1005004/openai-math-release-github",
+    "summary": "OpenAI has revealed solutions to a number of long-standing mathematics problems produced by an unreleased frontier model in a batch of 722 manuscripts, covering 372 result families that group related papers. It extends a run of breakthroughs that have both impressed and unsettled",
+    "published": "2026-10-06T23:26:38+00:00",
+    "first_seen": "2026-10-07T13:02:12.214794+00:00"
+  },
+  {
+    "source": "The Verge AI",
+    "source_tier": 2,
+    "title": "We can\u2019t just change the definition of \u2018recording\u2019",
+    "link": "https://www.theverge.com/column/1005697/we-cant-just-change-the-definition-of-recording",
+    "summary": "With AI hardware, tech companies are pushing the definition of what does and doesn't constitute a recording. For most of gadget history, it'd be reasonable to assume that a device with a microphone or camera is either recording you or it isn't; it's either on or off, without much",
+    "published": "2026-10-06T16:29:44+00:00",
+    "first_seen": "2026-10-07T13:02:12.214794+00:00"
+  },
+  {
+    "source": "The Verge AI",
+    "source_tier": 2,
+    "title": "Google is about to remove free access to Gemini Flash and Pro",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/1005451/google-gemini-free-flash-lite-only",
+    "summary": "Starting on October 9th, anyone using Google Gemini on a free plan will be limited to the Flash Lite model. Free users can currently choose from Gemini Flash Lite, Flash, and Pro, but now you'll need a $4.99/month Google AI Plus subscription to access the standard Flash model. Ho",
+    "published": "2026-10-06T13:19:01+00:00",
+    "first_seen": "2026-10-07T13:02:12.214794+00:00"
   }
 ]

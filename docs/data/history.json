@@ -1,47 +1,11 @@
 [
   {
-    "source": "TechCrunch AI",
-    "source_tier": 2,
-    "title": "Authors push back as publishers and agents make claims on Anthropic settlement",
-    "link": "https://techcrunch.com/2026/09/06/authors-push-back-as-publishers-and-agents-seek-share-of-anthropic-settlement/",
-    "summary": "Authors say publishers seem to be claiming more than their fair share of settlement payments.",
-    "published": "2026-09-06T20:47:37+00:00",
-    "first_seen": "2026-09-07T06:22:04.660745+00:00"
-  },
-  {
-    "source": "TechCrunch AI",
-    "source_tier": 2,
-    "title": "Travis Kalanick\u2019s Atoms might be getting into the robotaxi business",
-    "link": "https://techcrunch.com/2026/09/06/travis-kalanicks-atoms-might-be-getting-into-the-robotaxi-business/",
-    "summary": "The Uber founder has said that Atoms will allow him to complete \"unfinished business.\"",
-    "published": "2026-09-06T16:45:00+00:00",
-    "first_seen": "2026-09-07T06:22:04.660745+00:00"
-  },
-  {
-    "source": "The Verge AI",
-    "source_tier": 2,
-    "title": "Seattle Times and Newsday sue OpenAI and Microsoft for infringement",
-    "link": "https://www.theverge.com/ai-artificial-intelligence/990932/seattle-times-newsday-lawsuit-openai-microsoft",
-    "summary": "The Seattle Times and Newsday are just the latest plaintiffs to take OpenAI to court, alleging copyright infringement. The two outlets say the company used their journalism as training data for its AI models without permission and often reproduces passages from their reporting in",
-    "published": "2026-09-06T23:36:04+00:00",
-    "first_seen": "2026-09-07T06:22:04.660745+00:00"
-  },
-  {
     "source": "European Commission Digital Strategy",
     "source_tier": 1,
     "title": "Apply AI Summit",
     "link": "https://digital-strategy.ec.europa.eu/en/events/apply-ai-summit",
     "summary": "Apply AI Summit\nAnonymous (not verified)\nMon, 09/07/2026 - 15:58\n\n\n\n  \n        \n              \n                              \n      \n      \u00a0\n      17 November 2026\n  \n  \n    \n    \u00a0\n        The EGG (Brussels)\n      \n  \n\n                The Apply AI Summit will gather high-level st",
     "published": "2026-09-07T13:58:15+00:00",
-    "first_seen": "2026-09-08T06:19:55.631730+00:00"
-  },
-  {
-    "source": "MIT Technology Review",
-    "source_tier": 2,
-    "title": "The Download: the hunt for underground hydrogen and more rogue OpenAI agents",
-    "link": "https://www.technologyreview.com/2026/09/07/1143592/the-download-underground-hydrogen-search-rogue-openai-agents/",
-    "summary": "This is today\u2019s edition of The Download, our weekday newsletter that provides a daily dose of what\u2019s going on in the world of technology. How much hydrogen awaits us underground? A flurry of exploration efforts is searching for underground stores of hydrogen gas, which could prov",
-    "published": "2026-09-07T12:10:00+00:00",
     "first_seen": "2026-09-08T06:19:55.631730+00:00"
   },
   {
@@ -1122,15 +1086,6 @@
     "link": "https://www.zdnet.com/tech/sony-budget-over-ear-headphones-2026-demo/",
     "summary": "Sony\u2019s budget headphone lineup starts at $70 and includes the WH-1000XM4, WH-CH730N, and WH-CH530 models.",
     "published": "2026-09-08T12:27:18+00:00",
-    "first_seen": "2026-09-15T06:21:09.674316+00:00"
-  },
-  {
-    "source": "ZDNet AI",
-    "source_tier": 2,
-    "title": "Apple will announce the iPhone 18 this week \u2013 here\u2019s how ZDNET readers think it\u2019ll go down",
-    "link": "https://www.zdnet.com/business/apple-guessing-game-round-3-answers/",
-    "summary": "In the final round of our Big Guessing Game, you shared your predictions on the iPhone event to win a new Apple Watch. Here are the final results.",
-    "published": "2026-09-06T18:46:41+00:00",
     "first_seen": "2026-09-15T06:21:09.674316+00:00"
   },
   {
@@ -5785,5 +5740,257 @@
     "summary": "Starting on October 9th, anyone using Google Gemini on a free plan will be limited to the Flash Lite model. Free users can currently choose from Gemini Flash Lite, Flash, and Pro, but now you'll need a $4.99/month Google AI Plus subscription to access the standard Flash model. Ho",
     "published": "2026-10-06T13:19:01+00:00",
     "first_seen": "2026-10-07T13:02:12.214794+00:00"
+  },
+  {
+    "source": "European Commission Digital Strategy",
+    "source_tier": 1,
+    "title": "European AI Innovation Month",
+    "link": "https://digital-strategy.ec.europa.eu/en/events/european-ai-innovation-month",
+    "summary": "European AI Innovation Month\nAnonymous (not verified)\nThu, 10/08/2026 - 09:00\n\n\n\n  \n        \n              \n                              \n      \n      \u00a0\n      14 October 2026 - 17 November 2026\n  \n  \n  \n\n                From 14 October to 17 November 2026, this initiative led by",
+    "published": "2026-10-08T07:00:00+00:00",
+    "first_seen": "2026-10-08T13:09:16.103140+00:00"
+  },
+  {
+    "source": "MIT Technology Review",
+    "source_tier": 2,
+    "title": "The Download: AI roadblocks for humanoids and portable rubber dams",
+    "link": "https://www.technologyreview.com/2026/10/08/1146045/the-download-ai-roadblocks-humanoids-portable-rubber-dams/",
+    "summary": "This is today\u2019s edition of The Download, our weekday newsletter that provides a daily dose of what\u2019s going on in the world of technology. AI breakthroughs in robotics won\u2019t change your life any time soon The hype around humanoid robots is reaching fever pitch. Much of it comes fr",
+    "published": "2026-10-08T12:10:00+00:00",
+    "first_seen": "2026-10-08T13:09:16.103140+00:00"
+  },
+  {
+    "source": "MIT Technology Review",
+    "source_tier": 2,
+    "title": "Why we\u2019re watching these climate tech companies",
+    "link": "https://www.technologyreview.com/2026/10/08/1145920/climate-tech-companies-list/",
+    "summary": "This week, we released our 2026 version of our Climate Tech Companies to Watch list. It\u2019s an annual project that the MIT Technology Review team puts together. Our goal is to highlight some of the promising, interesting advances and firms we think are worth paying attention to in ",
+    "published": "2026-10-08T10:00:00+00:00",
+    "first_seen": "2026-10-08T13:09:16.103140+00:00"
+  },
+  {
+    "source": "MIT Technology Review",
+    "source_tier": 2,
+    "title": "AI breakthroughs in robotics won\u2019t change your life any time soon",
+    "link": "https://www.technologyreview.com/2026/10/08/1145923/ai-breakthroughs-in-robotics-wont-change-your-life-any-time-soon/",
+    "summary": "The story is a collaboration between MIT Technology Review and Aventine, a non-profit research foundation that creates and supports content about how technology and science are changing the way we live. A robot shaped like a human\u2014white with a black head and torso\u2014has been poppin",
+    "published": "2026-10-08T09:00:00+00:00",
+    "first_seen": "2026-10-08T13:09:16.103140+00:00"
+  },
+  {
+    "source": "MIT Technology Review",
+    "source_tier": 2,
+    "title": "Building a safer path to autonomous industrial AI",
+    "link": "https://www.technologyreview.com/2026/10/08/1144020/building-a-safer-path-to-autonomous-industrial-ai/",
+    "summary": "Industrial AI is entering a new phase. After decades of predictive analytics and other specialized applications, advances in foundation models, physical AI, and agentic AI are making it possible to automate more complex tasks across industrial environments. But unlike AI that ope",
+    "published": "2026-10-08T08:17:32+00:00",
+    "first_seen": "2026-10-08T13:09:16.103140+00:00"
+  },
+  {
+    "source": "ZDNet AI",
+    "source_tier": 2,
+    "title": "Microsoft\u2019s new Surface Laptop Ultra finally has a starting price (you should sit down)",
+    "link": "https://www.zdnet.com/tech/microsoft-surface-laptop-ultra-preorder-starting-price/",
+    "summary": "The Surface Laptop Ultra is an AI powerhouse, with Nvidia\u2019s new RTX Spark chip and up to 128GB of unified memory \u2013 and it\u2019s priced for power users.",
+    "published": "2026-10-08T04:21:00+00:00",
+    "first_seen": "2026-10-08T13:09:16.103140+00:00"
+  },
+  {
+    "source": "ZDNet AI",
+    "source_tier": 2,
+    "title": "Yelp, who? 4 ways Google Maps can help you find your next meal \u2013 and order it",
+    "link": "https://www.zdnet.com/tech/google-maps-features-restaurants-dining-food-ordering/",
+    "summary": "There\u2019s more to Google Maps\u2019 dining tools than reviews and directions \u2013 and a few are worth a look before your next night out.",
+    "published": "2026-10-08T12:00:07+00:00",
+    "first_seen": "2026-10-08T13:09:16.103140+00:00"
+  },
+  {
+    "source": "ZDNet AI",
+    "source_tier": 2,
+    "title": "Managers are using AI to write performance reviews \u2013 and it shows",
+    "link": "https://www.zdnet.com/innovation/manager-ai-use-highwire-survey/",
+    "summary": "Does AI use help or hurt feedback at work? Here\u2019s what one survey found.",
+    "published": "2026-10-07T21:47:48+00:00",
+    "first_seen": "2026-10-08T13:09:16.103140+00:00"
+  },
+  {
+    "source": "TechCrunch AI",
+    "source_tier": 2,
+    "title": "Nous Research confirms it hit $1.5B valuation, launches AI agents for business users",
+    "link": "https://techcrunch.com/2026/10/07/nous-research-confirms-it-hit-1-5b-valuation-launches-ai-agents-for-business-users/",
+    "summary": "The developer of Hermes Agent raised a $90 million Series B.",
+    "published": "2026-10-07T20:48:45+00:00",
+    "first_seen": "2026-10-08T13:09:16.103140+00:00"
+  },
+  {
+    "source": "TechCrunch AI",
+    "source_tier": 2,
+    "title": "Microsoft releases new Nvidia-chip AI PCs with revamped Windows 11",
+    "link": "https://techcrunch.com/2026/10/07/microsoft-releases-new-nvidia-chip-ai-pcs-with-revamped-windows-11/",
+    "summary": "Microsoft revealed the specs and price for its Surface Laptop Ultra, AI PCs that run on Nvidia chips that are designed to run AI models and agents.",
+    "published": "2026-10-07T20:22:37+00:00",
+    "first_seen": "2026-10-08T13:09:16.103140+00:00"
+  },
+  {
+    "source": "TechCrunch AI",
+    "source_tier": 2,
+    "title": "Meta\u2019s Muse launches on iPad just a month after its mobile debut",
+    "link": "https://techcrunch.com/2026/10/07/metas-muse-launches-on-ipad-just-a-month-after-its-mobile-debut/",
+    "summary": "Meta\u2019s AI agent Muse is now available on iPad, just a month after its mobile debut, as the company rapidly expands the assistant\u2019s reach and integrations.",
+    "published": "2026-10-07T18:30:57+00:00",
+    "first_seen": "2026-10-08T13:09:16.103140+00:00"
+  },
+  {
+    "source": "TechCrunch AI",
+    "source_tier": 2,
+    "title": "ChatGPT for Teens keeps teens talking, even during mental health crises",
+    "link": "https://techcrunch.com/2026/10/07/chatgpt-for-teens-keeps-teens-talking-even-during-mental-health-crises/",
+    "summary": "ChatGPT\u2019s teen safeguards are meant to protect vulnerable users, but new testing found the chatbot continues encouraging engagement during crises and potentially encourages unhealthy relationships with the AI itself.",
+    "published": "2026-10-07T18:15:28+00:00",
+    "first_seen": "2026-10-08T13:09:16.103140+00:00"
+  },
+  {
+    "source": "TechCrunch AI",
+    "source_tier": 2,
+    "title": "ChatGPT is getting a lot more visual, with the launch of a new interface",
+    "link": "https://techcrunch.com/2026/10/07/chatgpt-is-getting-a-lot-more-visual-with-the-launch-of-a-new-interface/",
+    "summary": "OpenAI is launching a new user interface that will bring interactive visuals to ChatGPT.",
+    "published": "2026-10-07T18:00:19+00:00",
+    "first_seen": "2026-10-08T13:09:16.103140+00:00"
+  },
+  {
+    "source": "TechCrunch AI",
+    "source_tier": 2,
+    "title": "Meta rolls out new AI tools to detect ads that secretly lead to child sexual abuse material",
+    "link": "https://techcrunch.com/2026/10/07/meta-rolls-out-new-ai-tools-to-detect-ads-that-secretly-lead-to-child-sexual-abuse-material/",
+    "summary": "Meta launches new AI tools after discovering ads on its platforms that may look normal but direct users to harmful content elsewhere online.",
+    "published": "2026-10-07T16:53:46+00:00",
+    "first_seen": "2026-10-08T13:09:16.103140+00:00"
+  },
+  {
+    "source": "TechCrunch AI",
+    "source_tier": 2,
+    "title": "Healthleap raises $38M for its AI that flags hospital patients who may need a closer look",
+    "link": "https://techcrunch.com/2026/10/07/healthleap-raises-38m-for-its-ai-that-flags-hospital-patients-who-may-need-a-closer-look/",
+    "summary": "The financing includes an $8M seed round co-led by Sequoia Capital and First Round Capital, and a $30 million Series A led by Hummingbird Ventures.",
+    "published": "2026-10-07T15:07:08+00:00",
+    "first_seen": "2026-10-08T13:09:16.103140+00:00"
+  },
+  {
+    "source": "TechCrunch AI",
+    "source_tier": 2,
+    "title": "Tony Fadell on why the first wave of AI gadgets failed \u2014 and what comes next",
+    "link": "https://techcrunch.com/2026/10/07/tony-fadell-on-why-the-first-wave-of-ai-gadgets-failed-and-what-comes-next/",
+    "summary": "The \u201cfather of the iPod\u201d says the first generation of AI gadgets failed to solve real problems \u2014 and the next wave will need to earn consumers\u2019 trust.",
+    "published": "2026-10-07T14:41:38+00:00",
+    "first_seen": "2026-10-08T13:09:16.103140+00:00"
+  },
+  {
+    "source": "TechCrunch AI",
+    "source_tier": 2,
+    "title": "Google experiments with an AI-powered gaming platform",
+    "link": "https://techcrunch.com/2026/10/07/google-experiments-with-an-ai-powered-gaming-platform/",
+    "summary": "Google Labs is working on a new AI-powered game-creation platform called Playground for users to build browser-based games using simple text prompts.",
+    "published": "2026-10-07T14:36:23+00:00",
+    "first_seen": "2026-10-08T13:09:16.103140+00:00"
+  },
+  {
+    "source": "TechCrunch AI",
+    "source_tier": 2,
+    "title": "OpenAI\u2019s Alexander Embiricos is coming to TechCrunch Disrupt 2026 \u2014 days after the launch of Dots",
+    "link": "https://techcrunch.com/2026/10/07/openais-alexander-embiricos-is-coming-to-techcrunch-disrupt-2026-days-after-the-launch-of-dots/",
+    "summary": "OpenAI\u2019s Alexander Embiricos is coming to the AI Stage at TechCrunch Disrupt 2026, just days after the launch of Dots. Join this conversation by registering for your pass. Get you pass now to save up to $100 and get a second at 50% off.",
+    "published": "2026-10-07T14:30:00+00:00",
+    "first_seen": "2026-10-08T13:09:16.103140+00:00"
+  },
+  {
+    "source": "TechCrunch AI",
+    "source_tier": 2,
+    "title": "Get hands-on: The full lineup of interactive roundtables at TechCrunch Disrupt 2026",
+    "link": "https://techcrunch.com/2026/10/07/get-hands-on-the-full-lineup-of-interactive-roundtables-at-techcrunch-disrupt-2026/",
+    "summary": "From Nvidia and Chime to Obvious Ventures and Anthropic, explore the entire roundtable agenda at TechCrunch Disrupt 2026. Register now to save up to $100 on your pass and get a second pass at 50% off.",
+    "published": "2026-10-07T14:15:00+00:00",
+    "first_seen": "2026-10-08T13:09:16.103140+00:00"
+  },
+  {
+    "source": "TechCrunch AI",
+    "source_tier": 2,
+    "title": "Google\u2019s new SynthID website can identify AI-generated media",
+    "link": "https://techcrunch.com/2026/10/07/googles-new-synthid-website-can-identify-ai-generated-media/",
+    "summary": "Google on Tuesday launched a new site that lets anyone verify whether a piece of media, be it an image, a video, or an audio clip, is generated using AI.",
+    "published": "2026-10-07T14:00:00+00:00",
+    "first_seen": "2026-10-08T13:09:16.103140+00:00"
+  },
+  {
+    "source": "TechCrunch AI",
+    "source_tier": 2,
+    "title": "6 days to TechCrunch Disrupt 2026: Save on your pass before doors open",
+    "link": "https://techcrunch.com/2026/10/07/6-days-to-techcrunch-disrupt-2026-save-on-your-pass-before-doors-open/",
+    "summary": "In 6 days, 10,000+ people from across the global startup and tech ecosystem will come together at San Francisco\u2019s Moscone West for TechCrunch Disrupt 2026. If you\u2019re planning to be one of them, register for your ticket before prices increase at the door. Save up to $100 on your p",
+    "published": "2026-10-07T14:00:00+00:00",
+    "first_seen": "2026-10-08T13:09:16.103140+00:00"
+  },
+  {
+    "source": "The Verge AI",
+    "source_tier": 2,
+    "title": "ChatGPT\u2019s \u2018Intelligent UI\u2019 update fills its responses with pictures, charts, and buttons",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/1007276/openai-chatgpt-intelligent-ui-gpt-6",
+    "summary": "OpenAI is launching a new Intelligent UI feature in ChatGPT that allows the chatbot to answer your questions with interactive visuals. The update, which is rolling out to all users alongside GPT-6, gives ChatGPT the ability to combine a text response with diagrams, charts, forms,",
+    "published": "2026-10-07T19:10:42+00:00",
+    "first_seen": "2026-10-08T13:09:16.103140+00:00"
+  },
+  {
+    "source": "The Verge AI",
+    "source_tier": 2,
+    "title": "Everything announced at Microsoft\u2019s Surface Laptop Ultra event",
+    "link": "https://www.theverge.com/tech/1007147/microsoft-surface-laptop-ultra-windows-event-everything-announced",
+    "summary": "Microsoft just wrapped up a big Windows and Surface-focused keynote in San Francisco. The biggest announcement was arguably the release details about the Surface Laptop Ultra, its new laptop that\u2019s powered by Nvidia\u2019s RTX Spark Arm-based chip. The machine will start at $2,599 for",
+    "published": "2026-10-07T18:42:22+00:00",
+    "first_seen": "2026-10-08T13:09:16.103140+00:00"
+  },
+  {
+    "source": "The Verge AI",
+    "source_tier": 2,
+    "title": "Microsoft is giving Copilot more control over Windows and your files",
+    "link": "https://www.theverge.com/tech/1007113/microsoft-windows-copilot-ai-control-search-hybrid-intelligence",
+    "summary": "At today's Windows and Surface event, Microsoft showed off an upgrade to its Copilot AI system that will give it access to local files on your PC and the ability to take actions across the OS. It's part of an idea Microsoft is calling \"Hybrid Intelligence,\" where apps and tools r",
+    "published": "2026-10-07T18:01:20+00:00",
+    "first_seen": "2026-10-08T13:09:16.103140+00:00"
+  },
+  {
+    "source": "The Verge AI",
+    "source_tier": 2,
+    "title": "Surface RTX Spark Dev Box is available for preorder for $5,999",
+    "link": "https://www.theverge.com/tech/1006915/microsoft-surface-rtx-spark-dev-box-preorder",
+    "summary": "Microsoft's Nvidia-powered Surface RTX Spark Dev Box is available for preorder now and is slated to ship in November for just about $6,000. It's pricier than the DGX Spark mini PC Nvidia launched last year, but PC prices have been climbing due to shortages of RAM and other compon",
+    "published": "2026-10-07T17:46:44+00:00",
+    "first_seen": "2026-10-08T13:09:16.103140+00:00"
+  },
+  {
+    "source": "The Verge AI",
+    "source_tier": 2,
+    "title": "ChatGPT is getting college planning tools",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/1005194/openai-chatgpt-teens-college-planner-notecards",
+    "summary": "OpenAI is bringing new tools to ChatGPT for Teens, a mode for teens introduced in August with safeguards and break reminders, to help users with the college application process. \"College Planner brings together application requirements, deadlines, tasks, and financial-aid steps f",
+    "published": "2026-10-07T16:00:00+00:00",
+    "first_seen": "2026-10-08T13:09:16.103140+00:00"
+  },
+  {
+    "source": "The Verge AI",
+    "source_tier": 2,
+    "title": "Muse launches on the iPad",
+    "link": "https://www.theverge.com/tech/1006813/muse-ai-agent-ios-app-ipad-support",
+    "summary": "After launching nearly a month ago and spending several weeks as the top free app in Apple's App Store, the latest update to Meta's Muse iOS app introduces native support for the iPad. A Mac version of Meta's agentic AI tool (designed to compete with OpenClaw, ChatGPT's Dots, and",
+    "published": "2026-10-07T15:37:23+00:00",
+    "first_seen": "2026-10-08T13:09:16.103140+00:00"
+  },
+  {
+    "source": "The Verge AI",
+    "source_tier": 2,
+    "title": "Google invests millions in Mark Zuckerberg\u2019s efforts to create a \u2018virtual cell\u2019",
+    "link": "https://www.theverge.com/tech/1006766/google-meta-biohub-investment-virtual-cell",
+    "summary": "Google DeepMind, Meta, and AI drug discovery startup Isomorphic Labs are jointly investing $300 million into an initiative to create a \"virtual cell\" that researchers can use to combat disease, as reported earlier by Reuters. The project is led by Biohub, a nonprofit biomedical r",
+    "published": "2026-10-07T14:40:52+00:00",
+    "first_seen": "2026-10-08T13:09:16.103140+00:00"
   }
 ]

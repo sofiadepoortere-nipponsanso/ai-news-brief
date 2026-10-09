@@ -1,74 +1,11 @@
 [
   {
-    "source": "European Commission Digital Strategy",
-    "source_tier": 1,
-    "title": "Apply AI Summit",
-    "link": "https://digital-strategy.ec.europa.eu/en/events/apply-ai-summit",
-    "summary": "Apply AI Summit\nAnonymous (not verified)\nMon, 09/07/2026 - 15:58\n\n\n\n  \n        \n              \n                              \n      \n      \u00a0\n      17 November 2026\n  \n  \n    \n    \u00a0\n        The EGG (Brussels)\n      \n  \n\n                The Apply AI Summit will gather high-level st",
-    "published": "2026-09-07T13:58:15+00:00",
-    "first_seen": "2026-09-08T06:19:55.631730+00:00"
-  },
-  {
-    "source": "TechCrunch AI",
-    "source_tier": 2,
-    "title": "Opaque recurrence, and other AI terms that you should probably know",
-    "link": "https://techcrunch.com/2026/09/07/artificial-intelligence-definition-glossary-hallucinations-guide-to-common-ai-terms/",
-    "summary": "The rise of AI has brought an avalanche of new terms and slang. Here is a glossary with definitions of some of the most important words and phrases you might encounter.",
-    "published": "2026-09-07T19:24:00+00:00",
-    "first_seen": "2026-09-08T06:19:55.631730+00:00"
-  },
-  {
     "source": "MIT Technology Review",
     "source_tier": 2,
     "title": "What OpenAI\u2019s latest controversy tells us about the future of math",
     "link": "https://www.technologyreview.com/2026/09/08/1143747/what-openais-latest-controversy-tells-us-about-the-future-of-math/",
     "summary": "OpenAI\u2019s latest mathematical milestone has quickly become mired in controversy. Today, the company announced that its agents have solved one of the Millennium Prize Problems, some of the most important open problems in mathematics. Under normal circumstances, that solution would ",
     "published": "2026-09-09T03:10:08+00:00",
-    "first_seen": "2026-09-09T06:20:19.713763+00:00"
-  },
-  {
-    "source": "MIT Technology Review",
-    "source_tier": 2,
-    "title": "The Download: our 35 Innovators Under 35 this year",
-    "link": "https://www.technologyreview.com/2026/09/08/1143615/the-download-35-innovators-under-35-spiderwebs-measuring-nature/",
-    "summary": "This is today\u2019s edition of The Download, our weekday newsletter that provides a daily dose of what\u2019s going on in the world of technology. Introducing our 35 Innovators Under 35 list for 2026 What will the next generation of science and technology look like? Our latest Innovators ",
-    "published": "2026-09-08T12:10:00+00:00",
-    "first_seen": "2026-09-09T06:20:19.713763+00:00"
-  },
-  {
-    "source": "MIT Technology Review",
-    "source_tier": 2,
-    "title": "This founder is teaching chips how to recycle (their energy)",
-    "link": "https://www.technologyreview.com/2026/09/08/1142079/hannah-earley-computer-chips-recycle-energy/",
-    "summary": "Throughout the history of the computer chip, engineers have treated waste heat as an inevitable cost of a calculation. Hannah Earley, however, thinks it\u2019s a design choice. Earley, 31, is cofounder and chief technology officer of Vaire Computing, a startup building chips that recy",
-    "published": "2026-09-08T10:36:00+00:00",
-    "first_seen": "2026-09-09T06:20:19.713763+00:00"
-  },
-  {
-    "source": "MIT Technology Review",
-    "source_tier": 2,
-    "title": "This AI entrepreneur is developing agents that can plan ahead for the unexpected",
-    "link": "https://www.technologyreview.com/2026/09/08/1142088/danijar-hafner-developing-plan-ahead-agents/",
-    "summary": "Danijar Hafner\u2019s office in San Francisco\u2019s SoMa district sits mostly empty. His brand-new startup is still in stealth mode and doesn\u2019t even have its name on the door. On the day I visit, there\u2019s only one other person there, and little in the way of furniture. But what it lacks in",
-    "published": "2026-09-08T10:34:00+00:00",
-    "first_seen": "2026-09-09T06:20:19.713763+00:00"
-  },
-  {
-    "source": "MIT Technology Review",
-    "source_tier": 2,
-    "title": "This founder is making cheaper, cleaner steel",
-    "link": "https://www.technologyreview.com/2026/09/08/1142094/laureen-meroueh-makes-cheaper-cleaner-steel/",
-    "summary": "The steel industry isn\u2019t exactly known for innovation. Very little has changed about purifying iron ore since the process was invented and commercialized in the 1850s. The majority of steelmakers melt solid iron ore at dizzyingly high temperatures inside blast furnaces, where the",
-    "published": "2026-09-08T10:33:00+00:00",
-    "first_seen": "2026-09-09T06:20:19.713763+00:00"
-  },
-  {
-    "source": "MIT Technology Review",
-    "source_tier": 2,
-    "title": "This geneticist\u2019s age-reversal tech could help restore sight",
-    "link": "https://www.technologyreview.com/2026/09/08/1142074/yuancheng-ryan-lu-age-reversal-tech-restores-sight/",
-    "summary": "Yuancheng (Ryan) Lu is obsessed with aging. And with eyes. As he steps outside the Whitehead Institute in Cambridge, Massachusetts, his aviator glasses darken automatically in the sun. Age-related blindness runs in his family. A great-aunt in China, the story goes, was killed cro",
-    "published": "2026-09-08T10:32:00+00:00",
     "first_seen": "2026-09-09T06:20:19.713763+00:00"
   },
   {
@@ -1077,15 +1014,6 @@
     "link": "https://www.zdnet.com/uncategorized/windows-11-september-2026-update/",
     "summary": "The September Windows 11 update set a new patching record with almost 1,000 security flaws fixed.",
     "published": "2026-09-08T20:48:06+00:00",
-    "first_seen": "2026-09-15T06:21:09.674316+00:00"
-  },
-  {
-    "source": "ZDNet AI",
-    "source_tier": 2,
-    "title": "I demoed Sony\u2019s new 2026 budget over-ear headphones \u2013 including a WH-1000XM4 refresh",
-    "link": "https://www.zdnet.com/tech/sony-budget-over-ear-headphones-2026-demo/",
-    "summary": "Sony\u2019s budget headphone lineup starts at $70 and includes the WH-1000XM4, WH-CH730N, and WH-CH530 models.",
-    "published": "2026-09-08T12:27:18+00:00",
     "first_seen": "2026-09-15T06:21:09.674316+00:00"
   },
   {
@@ -5992,5 +5920,320 @@
     "summary": "Google DeepMind, Meta, and AI drug discovery startup Isomorphic Labs are jointly investing $300 million into an initiative to create a \"virtual cell\" that researchers can use to combat disease, as reported earlier by Reuters. The project is led by Biohub, a nonprofit biomedical r",
     "published": "2026-10-07T14:40:52+00:00",
     "first_seen": "2026-10-08T13:09:16.103140+00:00"
+  },
+  {
+    "source": "European Commission Digital Strategy",
+    "source_tier": 1,
+    "title": "Commission holds special meeting of Scientific panel on frontier AI safety and risks",
+    "link": "https://digital-strategy.ec.europa.eu/en/news/commission-holds-special-meeting-scientific-panel-frontier-ai-safety-and-risks",
+    "summary": "Commission holds special meeting of Scientific panel on frontier AI safety and risks\nAnonymous (not verified)\nFri, 10/09/2026 - 09:16\n\n\n\n  \n        \n              \n                                    Today, the Commission holds a special meeting of the Scientific Panel on artific",
+    "published": "2026-10-09T07:16:00+00:00",
+    "first_seen": "2026-10-09T12:55:34.475792+00:00"
+  },
+  {
+    "source": "European Commission Digital Strategy",
+    "source_tier": 1,
+    "title": "Consultation on EU KIDS ACT",
+    "link": "https://digital-strategy.ec.europa.eu/en/consultations/consultation-eu-kids-act",
+    "summary": "Consultation on EU KIDS ACT\nAnonymous (not verified)\nFri, 10/02/2026 - 12:26\n\n\n\n  \n        \n              \n                              \n      \n      \u00a0\n      Opening: 02 October 2026\n    \n    \n      \u00a0\n      Closing: 03 December 2026\n    \n  \n  \n\n                All feedback recei",
+    "published": "2026-10-02T10:26:26+00:00",
+    "first_seen": "2026-10-09T12:55:34.475792+00:00"
+  },
+  {
+    "source": "MIT Technology Review",
+    "source_tier": 2,
+    "title": "The Download: AI\u2019s refusal problem and weight-loss drug side effects",
+    "link": "https://www.technologyreview.com/2026/10/09/1146250/the-download-ai-refusal-problem-weight-loss-drug-side-effects/",
+    "summary": "This is today\u2019s edition of The Download, our weekday newsletter that provides a daily dose of what\u2019s going on in the world of technology. We\u2019re putting too much faith in AI\u2019s ability to say no Today\u2019s AI models are trained to refuse a vast number of prompts. If you ask your chatb",
+    "published": "2026-10-09T12:10:00+00:00",
+    "first_seen": "2026-10-09T12:55:34.475792+00:00"
+  },
+  {
+    "source": "MIT Technology Review",
+    "source_tier": 2,
+    "title": "We\u2019re putting too much faith in AI\u2019s ability to say no",
+    "link": "https://www.technologyreview.com/2026/10/09/1145728/we-are-putting-too-much-faith-in-ai-to-say-no/",
+    "summary": "Ever since people first seriously contemplated giving machines an intelligence modeled on our own, there has never been any question that they would, like us, be able to say no. The sci-fi canon is full of stories of robotic disobedience. Most of these capers are, of course, caut",
+    "published": "2026-10-09T09:00:00+00:00",
+    "first_seen": "2026-10-09T12:55:34.475792+00:00"
+  },
+  {
+    "source": "MIT Technology Review",
+    "source_tier": 2,
+    "title": "Job titles of the future: Delivery drone air traffic controller",
+    "link": "https://www.technologyreview.com/2026/10/09/1145737/job-titles-delivery-drone-air-traffic-controller-trevor-wischnewsky/",
+    "summary": "The moment Trevor Wischnewsky heard that drones were delivering pizza and sushi around his Texas neighborhood, his mind was made up. \u201cIt was super fascinating,\u201d he says. \u201cI just immediately wanted to be a part of it.\u201d Wischnewsky is now an RPIC, or \u201cremote pilot in command,\u201d at a",
+    "published": "2026-10-09T09:00:00+00:00",
+    "first_seen": "2026-10-09T12:55:34.475792+00:00"
+  },
+  {
+    "source": "MIT Technology Review",
+    "source_tier": 2,
+    "title": "We\u2019re still figuring out the side effects of GLP-1 weight-loss drugs",
+    "link": "https://www.technologyreview.com/2026/10/09/1146094/were-still-figuring-out-the-side-effects-of-glp-1-weight-loss-drugs/",
+    "summary": "This week my colleague Antonio Regalado had an interesting update on GLP-1 weight-loss drugs. According to research presented at an aging meeting in Boston, these drugs seem to affect at least some measures of biological age. Overweight and diabetic people who take GLP-1s have a ",
+    "published": "2026-10-09T09:00:00+00:00",
+    "first_seen": "2026-10-09T12:55:34.475792+00:00"
+  },
+  {
+    "source": "MIT Technology Review",
+    "source_tier": 2,
+    "title": "Roundtables: A Conversation With the Creator of AI-Designed Viruses",
+    "link": "https://www.technologyreview.com/2026/10/08/1146224/roundtables-a-conversation-with-the-creator-of-ai-designed-viruses/",
+    "summary": "Friday, October 16, 2026 Can AI design new life forms? In 2025, Stanford University PhD student Samuel King came up with a preliminary answer when he used a generative AI model to propose genetic blueprints for microscopic viruses. It isn\u2019t yet an example of AI-generated life, bu",
+    "published": "2026-10-09T00:08:24+00:00",
+    "first_seen": "2026-10-09T12:55:34.475792+00:00"
+  },
+  {
+    "source": "ZDNet AI",
+    "source_tier": 2,
+    "title": "Got a Microsoft 365 subscription? Your storage is about to shrink",
+    "link": "https://www.zdnet.com/tech/microsoft-365-subscription-storage-limits/",
+    "summary": "Today, shared Microsoft 365 plans include 1 TB of OneDrive cloud storage for every family member. Microsoft is about to shrink that allotment dramatically.",
+    "published": "2026-10-08T18:56:22+00:00",
+    "first_seen": "2026-10-09T12:55:34.475792+00:00"
+  },
+  {
+    "source": "ZDNet AI",
+    "source_tier": 2,
+    "title": "Regulators are trying to protect you from being fired by AI \u2013 here\u2019s how",
+    "link": "https://www.zdnet.com/innovation/how-state-regulators-protect-you-fired-by-ai/",
+    "summary": "Regulating AI at work is happening slowly, but it\u2019s still stuck at the state level.",
+    "published": "2026-10-08T17:05:53+00:00",
+    "first_seen": "2026-10-09T12:55:34.475792+00:00"
+  },
+  {
+    "source": "ZDNet AI",
+    "source_tier": 2,
+    "title": "Can AI fix legacy IT? The \u2018economics don\u2019t hold up,\u2019 says former IBM strategist",
+    "link": "https://www.zdnet.com/innovation/ai-legacy-it-modernization/",
+    "summary": "Vendors are pitching AI as a cure-all for legacy IT systems, but is it?",
+    "published": "2026-10-08T14:35:46+00:00",
+    "first_seen": "2026-10-09T12:55:34.475792+00:00"
+  },
+  {
+    "source": "TechCrunch AI",
+    "source_tier": 2,
+    "title": "Pretend you\u2019re sitting at Elizabeth Holmes\u2019 desk on this weirdly detailed website",
+    "link": "https://techcrunch.com/2026/10/08/pretend-youre-sitting-at-elizabeth-holmes-desk-on-this-weirdly-detailed-website/",
+    "summary": "With over a thousand emails, slides, texts, and documents from the United States v. Elizabeth Holmes trial, Extend engineer Bo Lau created a website that simulates what it might have been like to rifle through the Theranos founder's desk.",
+    "published": "2026-10-08T21:00:00+00:00",
+    "first_seen": "2026-10-09T12:55:34.475792+00:00"
+  },
+  {
+    "source": "TechCrunch AI",
+    "source_tier": 2,
+    "title": "Fired OpenAI safety researchers dispute misconduct claims, warn of chilling effect",
+    "link": "https://techcrunch.com/2026/10/08/fired-openai-safety-researchers-dispute-misconduct-claims-warn-of-chilling-effect/",
+    "summary": "Three fired OpenAI safety researchers dispute allegations of mishandling sensitive information, warning in an open letter that their dismissals are creating a chilling effect on the company\u2019s AI safety culture.",
+    "published": "2026-10-08T20:04:26+00:00",
+    "first_seen": "2026-10-09T12:55:34.475792+00:00"
+  },
+  {
+    "source": "TechCrunch AI",
+    "source_tier": 2,
+    "title": "Ben Affleck is an AI nerd, and the internet is impressed",
+    "link": "https://techcrunch.com/2026/10/08/ben-affleck-is-an-ai-nerd-and-the-internet-is-impressed/",
+    "summary": "Ben Affleck is going viral for his deep knowledge of AI, from neural networks and transformers to open weights. The actor, who sold his AI filmmaking startup to Netflix earlier this year, is proving he's more than just a Hollywood star.",
+    "published": "2026-10-08T18:20:32+00:00",
+    "first_seen": "2026-10-09T12:55:34.475792+00:00"
+  },
+  {
+    "source": "TechCrunch AI",
+    "source_tier": 2,
+    "title": "Popular AI leaderboard Arena nearly doubles valuation to $3.1B valuation in 10 months",
+    "link": "https://techcrunch.com/2026/10/08/popular-ai-leaderboard-arena-nearly-doubles-valuation-to-3-1b-valuation-in-10-months/",
+    "summary": "The company behind the popular LMArena leaderboard has raised $200 million led by Lightspeed and Khosla, and is now measuring AI models on alignment issues such as lying.",
+    "published": "2026-10-08T18:19:45+00:00",
+    "first_seen": "2026-10-09T12:55:34.475792+00:00"
+  },
+  {
+    "source": "TechCrunch AI",
+    "source_tier": 2,
+    "title": "OpenAI\u2019s revenue is reportedly $20 billion less than previously projected",
+    "link": "https://techcrunch.com/2026/10/08/openais-revenue-is-reportedly-20-billion-less-than-previously-projected/",
+    "summary": "It had previously been reported that the AI lab's annualized revenue was some $70 billion, but a new report claims it's a whole lot less than that.",
+    "published": "2026-10-08T18:19:42+00:00",
+    "first_seen": "2026-10-09T12:55:34.475792+00:00"
+  },
+  {
+    "source": "TechCrunch AI",
+    "source_tier": 2,
+    "title": "Google brings agentic AI to Gemini, starting with businesses",
+    "link": "https://techcrunch.com/2026/10/08/google-brings-agentic-ai-to-gemini-starting-with-businesses/",
+    "summary": "Google is turning Gemini into an AI agent that can plan, execute tasks, and work across business apps and systems. The agent can delegate work to subagents, use multiple AI models, and even gets its own workplace identity, complete with an email address.",
+    "published": "2026-10-08T18:18:00+00:00",
+    "first_seen": "2026-10-09T12:55:34.475792+00:00"
+  },
+  {
+    "source": "TechCrunch AI",
+    "source_tier": 2,
+    "title": "Anthropic changes usage policy to ban model abuse and election interference",
+    "link": "https://techcrunch.com/2026/10/08/anthropic-changes-usage-policy-to-ban-model-abuse-and-election-interference/",
+    "summary": "Anthropic's updated usage policy explicitly prohibits users from repeatedly abusing Claude in extreme cases, though ordinary frustration and criticism are still allowed. The new rules also address election interference, deceptive campaigns, weapons software, and surveillance.",
+    "published": "2026-10-08T18:16:24+00:00",
+    "first_seen": "2026-10-09T12:55:34.475792+00:00"
+  },
+  {
+    "source": "TechCrunch AI",
+    "source_tier": 2,
+    "title": "OpenAI\u2019s math solutions aren\u2019t meeting the field\u2019s standards yet",
+    "link": "https://techcrunch.com/2026/10/08/openais-math-solutions-arent-meeting-the-fields-standards-yet/",
+    "summary": "OpenAI's flood of proofs deviated from the guidelines set by a group of mathematical researchers consulted by the frontier lab.",
+    "published": "2026-10-08T18:10:55+00:00",
+    "first_seen": "2026-10-09T12:55:34.475792+00:00"
+  },
+  {
+    "source": "TechCrunch AI",
+    "source_tier": 2,
+    "title": "Natura\u2019s $99 smart ring puts AI agents on your finger",
+    "link": "https://techcrunch.com/2026/10/08/naturas-smart-ring-puts-ai-agents-on-your-finger/",
+    "summary": "Natura\u2019s $99 Interface smart ring lets you summon AI agents with the press of a finger to complete tasks, capture thoughts, and control devices \u2014 while doubling as a health tracker.",
+    "published": "2026-10-08T16:00:00+00:00",
+    "first_seen": "2026-10-09T12:55:34.475792+00:00"
+  },
+  {
+    "source": "TechCrunch AI",
+    "source_tier": 2,
+    "title": "Goodfire says its new \u2018inside-out\u2019 monitors catch rogue AI agents at a fraction of the cost",
+    "link": "https://techcrunch.com/2026/10/08/goodfire-says-its-new-inside-out-monitors-catch-rogue-ai-agents-at-a-fraction-of-the-cost/",
+    "summary": "Goodfire just launched what it says is a cheaper way to keep AI agents in check: Instead of paying a second AI to read everything an agent does, its monitors peek inside the model while it works and only call in backup when something looks fishy.",
+    "published": "2026-10-08T16:00:00+00:00",
+    "first_seen": "2026-10-09T12:55:34.475792+00:00"
+  },
+  {
+    "source": "TechCrunch AI",
+    "source_tier": 2,
+    "title": "Hear from Ambrosia Energy and Bloom Energy execs on where the AI infrastructure boom is creating opportunity at TechCrunch Disrupt 2026",
+    "link": "https://techcrunch.com/2026/10/08/hear-from-ambrosia-energy-and-bloom-energy-execs-on-where-the-ai-infrastructure-boom-is-creating-opportunity-at-disrupt-2026/",
+    "summary": "Ambrosia Energy CEO Ben Longmier and Bloom Energy SVP Bill Thayer join the Smart Systems Stage at TechCrunch Disrupt. Register now to save up to $100. Grab a second of the same pass to save 50%.",
+    "published": "2026-10-08T15:00:00+00:00",
+    "first_seen": "2026-10-09T12:55:34.475792+00:00"
+  },
+  {
+    "source": "TechCrunch AI",
+    "source_tier": 2,
+    "title": "5 days to TechCrunch Disrupt 2026: Don\u2019t pay more at the door for your pass",
+    "link": "https://techcrunch.com/2026/10/08/5-days-to-techcrunch-disrupt-2026-dont-pay-more-at-the-door/",
+    "summary": "The global tech ecosystem gathers at TechCrunch Disrupt 2026 at San Francisco\u2019s Moscone West on October 13-15. Get your pass now to save up to $100. Get a second of the same ticket type to save 50%.",
+    "published": "2026-10-08T14:00:00+00:00",
+    "first_seen": "2026-10-09T12:55:34.475792+00:00"
+  },
+  {
+    "source": "TechCrunch AI",
+    "source_tier": 2,
+    "title": "Cal AI\u2019s 19-year-old founder just raised $10M for his new AI startup",
+    "link": "https://techcrunch.com/2026/10/08/cal-ais-19-year-old-founder-just-raised-10m-for-his-new-ai-startup/",
+    "summary": "Zach Yadegari, the teen co-founder of popular Cal AI calorie tracking app, has launched a new personal AI agent startup that competes with Instinct, Muse, and Bee.",
+    "published": "2026-10-08T14:00:00+00:00",
+    "first_seen": "2026-10-09T12:55:34.475792+00:00"
+  },
+  {
+    "source": "TechCrunch AI",
+    "source_tier": 2,
+    "title": "Google releases a new local-first Granola competitor",
+    "link": "https://techcrunch.com/2026/10/08/google-releases-a-new-local-first-granola-competitor/",
+    "summary": "Google\u2019s new AI Edge Foresight app takes on Granola with an offline meeting note-taker that can transcribe conversations, generate notes, and answer questions using on-device AI.",
+    "published": "2026-10-08T13:28:39+00:00",
+    "first_seen": "2026-10-09T12:55:34.475792+00:00"
+  },
+  {
+    "source": "TechCrunch AI",
+    "source_tier": 2,
+    "title": "China\u2019s Manus raises over $500M in first funding round since split with Meta",
+    "link": "https://techcrunch.com/2026/10/08/chinas-manus-raises-over-500m-in-first-funding-round-since-split-with-meta/",
+    "summary": "Boyu Capital and IDG Capital led the funding round, and existing shareholders Tencent, HSG (formerly known as Sequoia China), ZhenFund, and others also participated.",
+    "published": "2026-10-08T13:20:32+00:00",
+    "first_seen": "2026-10-09T12:55:34.475792+00:00"
+  },
+  {
+    "source": "The Verge AI",
+    "source_tier": 2,
+    "title": "OpenAI doubles down on decision to fire three AI safety researchers",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/1008604/openai-defends-decision-fire-safety-researchers",
+    "summary": "OpenAI is standing firm on its decision to fire three safety researchers after an investigation found they committed \"a significant breach of trust.\" In a post on X on Friday, the company said Jasmine Wang, Tomek Korbak and Mikita \u2060Balesni were dismissed for violating \"clear poli",
+    "published": "2026-10-09T09:48:26+00:00",
+    "first_seen": "2026-10-09T12:55:34.475792+00:00"
+  },
+  {
+    "source": "The Verge AI",
+    "source_tier": 2,
+    "title": "Anthropic launches free AI security scans for open-source projects",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/1008521/anthropic-open-source-oss-scanner",
+    "summary": "Anthropic's offering to help open-source projects track down security vulnerabilities with a new service called OSS Scanner. It says open-source projects that opt-in will get \"thorough, periodic security scans by our strongest models at no cost.\" That could mean open-source proje",
+    "published": "2026-10-08T21:53:51+00:00",
+    "first_seen": "2026-10-09T12:55:34.475792+00:00"
+  },
+  {
+    "source": "The Verge AI",
+    "source_tier": 2,
+    "title": "California is trying to shut down robot vs. human cage matches",
+    "link": "https://www.theverge.com/tech/1008401/california-shut-down-rek-fighting-robot-company-human",
+    "summary": "The California State Athletic Commission sent a cease-and-desist letter to a startup that hosted a match between a human and a robot last month, as reported by The New York Times. The fight, which took place on September 18th, pitted a human, Frankie LaPenna, against a humanoid r",
+    "published": "2026-10-08T20:06:56+00:00",
+    "first_seen": "2026-10-09T12:55:34.475792+00:00"
+  },
+  {
+    "source": "The Verge AI",
+    "source_tier": 2,
+    "title": "USA Today becomes the latest publisher to sue OpenAI",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/1008198/usa-today-openai-copyright-lawsuit",
+    "summary": "USA Today Co., along with the several local newspapers it owns, is suing OpenAI over claims that the company copied \"hundreds of thousands\" of articles to train its AI models, as reported earlier by Reuters. In a filing on Thursday, the publisher asks for damages of more than $25",
+    "published": "2026-10-08T17:58:33+00:00",
+    "first_seen": "2026-10-09T12:55:34.475792+00:00"
+  },
+  {
+    "source": "The Verge AI",
+    "source_tier": 2,
+    "title": "SpaceXAI backs Omarchy, the controversial Linux distro, with $1.5 million in compute",
+    "link": "https://www.theverge.com/tech/1008148/spacexai-omarchy-grok-david-heinemeier-hansson",
+    "summary": "If Elon Musk and SpaceXAI were going to back any Linux distro, it seems obvious they'd back Omarchy. Today it was announced that SpaceXAI would be joining the Omacom Foundation, which oversees Omarchy, as a Founding Corporate Patron and donating $1.5 million worth of Grok tokens ",
+    "published": "2026-10-08T17:57:01+00:00",
+    "first_seen": "2026-10-09T12:55:34.475792+00:00"
+  },
+  {
+    "source": "The Verge AI",
+    "source_tier": 2,
+    "title": "Anthropic bans \u2018abusive or cruel behavior\u2019 toward Claude",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/1008100/anthropic-new-usage-policy-abuse-claude",
+    "summary": "Anthropic is making changes to its usage policy for the first time in over a year to reflect new and high-risk cases of misuse - including election interference, weapons development, surveillance, and health and financial uses. But one of the most significant changes prohibits \"s",
+    "published": "2026-10-08T17:00:00+00:00",
+    "first_seen": "2026-10-09T12:55:34.475792+00:00"
+  },
+  {
+    "source": "The Verge AI",
+    "source_tier": 2,
+    "title": "Google\u2019s AI note-taking app transcribes your meetings completely offline",
+    "link": "https://www.theverge.com/tech/1007985/google-ai-notetaking-app-transcribe-offline",
+    "summary": "Google has released an experimental note-taking app that can transcribe meetings and audio files entirely offline, as reported earlier by TechCrunch. The app, called Google AI Edge Foresight, is free to use and runs on macOS using the company's on-device EmbeddingGemma 2 model. S",
+    "published": "2026-10-08T15:27:30+00:00",
+    "first_seen": "2026-10-09T12:55:34.475792+00:00"
+  },
+  {
+    "source": "The Verge AI",
+    "source_tier": 2,
+    "title": "Google is launching a one-stop Gemini agent for your work tasks",
+    "link": "https://www.theverge.com/tech/1007904/google-gemini-ai-agent-enterprise",
+    "summary": "Google is launching a \"universal\" Gemini AI agent that can work across apps and devices in the background. The tool, announced as part of the Gemini at Work event on Thursday, will be available within the Gemini Enterprise app, allowing users to chat with the Gemini agent and ass",
+    "published": "2026-10-08T14:28:03+00:00",
+    "first_seen": "2026-10-09T12:55:34.475792+00:00"
+  },
+  {
+    "source": "The Verge AI",
+    "source_tier": 2,
+    "title": "Can you trust Meta\u2019s Muse or OpenAI\u2019s Dots to run your life?",
+    "link": "https://www.theverge.com/podcast/1007408/meta-muse-openai-dots-ai-agent-race-privacy-free",
+    "summary": "My Decoder guest today is Hayden Field, The Verge\u2019s senior AI reporter, and we\u2019re discussing the new wave of consumer-friendly AI agents. If you\u2019ve been paying attention to this space, you know AI enthusiasts have been using agents for a minute now \u2014 homebrew OpenClaw setups led ",
+    "published": "2026-10-08T14:00:00+00:00",
+    "first_seen": "2026-10-09T12:55:34.475792+00:00"
+  },
+  {
+    "source": "The Verge AI",
+    "source_tier": 2,
+    "title": "Artificial is a wicked satire that also sticks to the facts",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/1007786/artificial-is-a-wicked-satire-that-also-sticks-to-the-facts",
+    "summary": "At the New York Film Festival premiere of Artificial, Luca Guadagnino's satirical Sam Altman biopic, the director said onstage that \"[when] someone wants to play God, that's very interesting to me.\" The idea of playing God, and power in general - who has it, who desperately wants",
+    "published": "2026-10-08T14:00:00+00:00",
+    "first_seen": "2026-10-09T12:55:34.475792+00:00"
   }
 ]

@@ -1,158 +1,5 @@
 [
   {
-    "source": "MIT Technology Review",
-    "source_tier": 2,
-    "title": "What OpenAI\u2019s latest controversy tells us about the future of math",
-    "link": "https://www.technologyreview.com/2026/09/08/1143747/what-openais-latest-controversy-tells-us-about-the-future-of-math/",
-    "summary": "OpenAI\u2019s latest mathematical milestone has quickly become mired in controversy. Today, the company announced that its agents have solved one of the Millennium Prize Problems, some of the most important open problems in mathematics. Under normal circumstances, that solution would ",
-    "published": "2026-09-09T03:10:08+00:00",
-    "first_seen": "2026-09-09T06:20:19.713763+00:00"
-  },
-  {
-    "source": "TechCrunch AI",
-    "source_tier": 2,
-    "title": "Hackers are stealing Claude tokens from subscribers",
-    "link": "https://techcrunch.com/2026/09/08/hackers-are-stealing-claude-tokens-from-subscribers/",
-    "summary": "Last month, a Claude user noticed his account was consuming tokens even though he wasn't working. Anthropic has since warned users about hackers.",
-    "published": "2026-09-08T21:10:27+00:00",
-    "first_seen": "2026-09-09T06:20:19.713763+00:00"
-  },
-  {
-    "source": "TechCrunch AI",
-    "source_tier": 2,
-    "title": "Cognition hits $48B valuation, signaling investors believe AI coding is far from a winner-take-all market",
-    "link": "https://techcrunch.com/2026/09/08/cognition-hits-48b-valuation-signaling-investors-believe-ai-coding-is-far-from-a-winner-take-all-market/",
-    "summary": "Cognition's valuation multiple is higher than Cursor's was before selling to SpaceX.",
-    "published": "2026-09-08T21:04:06+00:00",
-    "first_seen": "2026-09-09T06:20:19.713763+00:00"
-  },
-  {
-    "source": "TechCrunch AI",
-    "source_tier": 2,
-    "title": "Meta debuts its Muse AI agent. Will consumers trust it?",
-    "link": "https://techcrunch.com/2026/09/08/meta-debuts-its-muse-ai-agent-will-consumers-trust-it/",
-    "summary": "Meta's new personal AI agent Muse wants access to users' email, calendars, payments, health services, and more \u2014 making the company's biggest consumer AI bet yet a major test of whether people still trust Meta with their data.",
-    "published": "2026-09-08T19:00:00+00:00",
-    "first_seen": "2026-09-09T06:20:19.713763+00:00"
-  },
-  {
-    "source": "TechCrunch AI",
-    "source_tier": 2,
-    "title": "OpenAI fought dirty on career-making math problem, says NYU mathematician",
-    "link": "https://techcrunch.com/2026/09/08/openai-fought-dirty-on-career-making-math-problem-says-nyu-mathematician/",
-    "summary": "There is a $1 million bounty for the first person providing a solution to the Navier-Stokes existence and smoothness problem.",
-    "published": "2026-09-08T17:32:15+00:00",
-    "first_seen": "2026-09-09T06:20:19.713763+00:00"
-  },
-  {
-    "source": "TechCrunch AI",
-    "source_tier": 2,
-    "title": "Google Cloud races to catch up in the AI deployment wars with Accenture deal",
-    "link": "https://techcrunch.com/2026/09/08/google-cloud-races-to-catch-up-in-the-ai-deployment-wars-with-accenture-deal/",
-    "summary": "Google Cloud expands its enterprise AI push with Accenture, betting on forward-deployed engineers to drive adoption and overcome deployment bottlenecks.",
-    "published": "2026-09-08T16:20:31+00:00",
-    "first_seen": "2026-09-09T06:20:19.713763+00:00"
-  },
-  {
-    "source": "TechCrunch AI",
-    "source_tier": 2,
-    "title": "Chrome is now shipping updates every 2 weeks as AI changes the security landscape",
-    "link": "https://techcrunch.com/2026/09/08/chrome-is-now-shipping-updates-every-2-weeks-as-ai-changes-the-security-landscape/",
-    "summary": "Google is speeding up Chrome\u2019s release schedule to ship security patches and new features faster.",
-    "published": "2026-09-08T15:04:09+00:00",
-    "first_seen": "2026-09-09T06:20:19.713763+00:00"
-  },
-  {
-    "source": "TechCrunch AI",
-    "source_tier": 2,
-    "title": "Mistral raises \u20ac3B as sovereign AI becomes big business",
-    "link": "https://techcrunch.com/2026/09/08/mistral-raises-e3b-as-sovereign-ai-becomes-big-business/",
-    "summary": "The French AI lab has raised \u20ac3 billion at a \u20ac21 billion valuation in a Series D round led by Samsung, Scaleup Europe, and PSG Equity.",
-    "published": "2026-09-08T14:17:48+00:00",
-    "first_seen": "2026-09-09T06:20:19.713763+00:00"
-  },
-  {
-    "source": "The Verge AI",
-    "source_tier": 2,
-    "title": "Drama swirls around OpenAI\u2019s legendary mathematical milestone",
-    "link": "https://www.theverge.com/ai-artificial-intelligence/991710/openai-navier-stokes-solution",
-    "summary": "OpenAI says it found a solution to a major math problem that has remained unsolved for around 90 years, as reported earlier by The New York Times and Wired. In a blog post on Tuesday, OpenAI announced that it discovered a solution to the Navier-Stokes problem - which relates to t",
-    "published": "2026-09-08T20:53:52+00:00",
-    "first_seen": "2026-09-09T06:20:19.713763+00:00"
-  },
-  {
-    "source": "The Verge AI",
-    "source_tier": 2,
-    "title": "ChatGPT Sketch turns your bad drawings into detailed AI images",
-    "link": "https://www.theverge.com/ai-artificial-intelligence/991727/openai-chatgpt-images-2-5-sketch",
-    "summary": "OpenAI announced ChatGPT Images 2.5 on Tuesday and is adding a new way to tell ChatGPT what you want it to make an image of: by drawing a doodle. With a new feature called Sketch, you can just draw something right inside ChatGPT and then tell ChatGPT how you want it to make an im",
-    "published": "2026-09-08T20:16:09+00:00",
-    "first_seen": "2026-09-09T06:20:19.713763+00:00"
-  },
-  {
-    "source": "The Verge AI",
-    "source_tier": 2,
-    "title": "Meta bets on AI agent Muse to catch up in AI race",
-    "link": "https://www.theverge.com/ai-artificial-intelligence/991216/meta-bets-on-ai-agent-muse-to-catch-up-in-ai-race",
-    "summary": "Meta is making another push to bring artificial intelligence to the masses with Muse, a personal assistant it says can put AI in the hands of virtually anyone. The product is the latest step in a multi-billion-dollar strategy overhaul designed to revitalize the company's ailing p",
-    "published": "2026-09-08T19:00:00+00:00",
-    "first_seen": "2026-09-09T06:20:19.713763+00:00"
-  },
-  {
-    "source": "The Verge AI",
-    "source_tier": 2,
-    "title": "AI power users claim Anthropic duped them with subscriptions, and they\u2019re taking it to court",
-    "link": "https://www.theverge.com/ai-artificial-intelligence/990313/anthropic-class-action-lawsuit-pricing-subscription-plans",
-    "summary": "Anthropic says power users are key to its business - it's prioritized them even when it means cutting off other popular applications, like OpenClaw. But some of these same customers say Anthropic misled them into believing they'd get more out of a top-tier pricing subscription th",
-    "published": "2026-09-08T17:27:31+00:00",
-    "first_seen": "2026-09-09T06:20:19.713763+00:00"
-  },
-  {
-    "source": "The Verge AI",
-    "source_tier": 2,
-    "title": "Google\u2019s Atlas of the human genome could pave the way for new treatments",
-    "link": "https://www.theverge.com/ai-artificial-intelligence/991180/google-launches-alpha-genome-atlas",
-    "summary": "Google DeepMind has unveiled an AI tool that its scientists claim could help unravel the mysteries of the human genome and transform our understanding of biology, accelerating scientific research and ultimately paving the way for new treatments for diseases. The platform, called ",
-    "published": "2026-09-08T14:00:00+00:00",
-    "first_seen": "2026-09-09T06:20:19.713763+00:00"
-  },
-  {
-    "source": "The Verge AI",
-    "source_tier": 2,
-    "title": "Adobe is trying to make its AI generators idiot-proof in Premiere",
-    "link": "https://www.theverge.com/tech/991133/adobe-is-trying-to-make-its-ai-generators-idiot-proof-in-premiere",
-    "summary": "Adobe is overhauling how editors interact with AI in its Premiere professional video editing software. Its new Generative Media tool makes it easier to generate video, sound effects, music, and soundscapes without ever leaving the project timeline. The generators themselves aren'",
-    "published": "2026-09-08T13:00:00+00:00",
-    "first_seen": "2026-09-09T06:20:19.713763+00:00"
-  },
-  {
-    "source": "MIT Technology Review",
-    "source_tier": 2,
-    "title": "The Download: OpenAI\u2019s turning point for math and a battery record",
-    "link": "https://www.technologyreview.com/2026/09/09/1143767/the-download-openai-math-future-battery-record/",
-    "summary": "This is today\u2019s edition of The Download, our weekday newsletter that provides a daily dose of what\u2019s going on in the world of technology. What OpenAI\u2019s latest controversy tells us about the future of math OpenAI says its agents have solved one of the most important open problems ",
-    "published": "2026-09-09T12:10:00+00:00",
-    "first_seen": "2026-09-10T06:20:32.262104+00:00"
-  },
-  {
-    "source": "MIT Technology Review",
-    "source_tier": 2,
-    "title": "Batteries just broke another record in the US",
-    "link": "https://www.technologyreview.com/2026/09/09/1143680/batteries-us-record/",
-    "summary": "Battery installations hit a new record in the US in the second quarter of 2026. In total, 20.2 gigawatt-hours of new capacity came online, according to a new report. That\u2019s enough to supply the daily electricity needs of about 700,000 homes. The surge is putting the country on a ",
-    "published": "2026-09-09T09:00:00+00:00",
-    "first_seen": "2026-09-10T06:20:32.262104+00:00"
-  },
-  {
-    "source": "MIT Technology Review",
-    "source_tier": 2,
-    "title": "Understanding the thermal ceiling in portable power",
-    "link": "https://www.technologyreview.com/2026/09/09/1143279/understanding-the-thermal-ceiling-in-portable-power/",
-    "summary": "Plug a phone into a modern charger and the first 10 minutes are impressive. The next 20 are not. This is not a defect. It\u2019s the connected device protecting itself. As temperature rises during charging, a smartphone\u2019s battery management system reduces the current it will accept, b",
-    "published": "2026-09-09T08:18:13+00:00",
-    "first_seen": "2026-09-10T06:20:32.262104+00:00"
-  },
-  {
     "source": "TechCrunch AI",
     "source_tier": 2,
     "title": "AI research startup Listen Labs scrubbed a $1.5B funding round for Salesforce talks",
@@ -315,15 +162,6 @@
     "first_seen": "2026-09-10T06:20:32.262104+00:00"
   },
   {
-    "source": "TechCrunch AI",
-    "source_tier": 2,
-    "title": "Suno replaces its AI models with a new one trained on licensed music as copyright suits pile up",
-    "link": "https://techcrunch.com/2026/09/09/suno-replaces-its-ai-models-with-a-new-one-trained-on-licensed-music-as-copyright-suits-pile-up/",
-    "summary": "As it grapples with a bevy of lawsuits, Suno said its new model, Suno v6, is not trained using music it used to train previous versions of the AI model.",
-    "published": "2026-09-09T12:05:34+00:00",
-    "first_seen": "2026-09-10T06:20:32.262104+00:00"
-  },
-  {
     "source": "The Verge AI",
     "source_tier": 2,
     "title": "Suno releases its first AI music model made with record industry help",
@@ -375,24 +213,6 @@
     "link": "https://www.theverge.com/tech/991809/amazon-prime-video-ai-lip-sync-dubbing",
     "summary": "Amazon's Prime Video is launching a new AI-powered feature that lines up an actor's mouth with \"human-dubbed\" audio. The feature is only available with the English dub of the German series Maxton Hall for now, but Prime Video plans to expand it to \"additional titles\" in the futur",
     "published": "2026-09-09T13:00:00+00:00",
-    "first_seen": "2026-09-10T06:20:32.262104+00:00"
-  },
-  {
-    "source": "The Verge AI",
-    "source_tier": 2,
-    "title": "Students who use AI generally score worse at school",
-    "link": "https://www.theverge.com/ai-artificial-intelligence/991956/student-ai-use-scores-oecd-pisa",
-    "summary": "Students who use AI to help them study tend to perform worse at school than those who don't, according to data from a global OECD educational report. The situation is more complex than it sounds though, with certain types of AI use giving learners a slight boost, especially among",
-    "published": "2026-09-09T12:05:01+00:00",
-    "first_seen": "2026-09-10T06:20:32.262104+00:00"
-  },
-  {
-    "source": "The Verge AI",
-    "source_tier": 2,
-    "title": "Worried Anthropic researchers warn that AI \u2018could kill all humans\u2019",
-    "link": "https://www.theverge.com/ai-artificial-intelligence/991927/anthropic-ai-kill-all-humans",
-    "summary": "A senior Anthropic safety researcher has said there is more than a 10 percent chance artificial intelligence \"could kill all humans\" by the end of the decade, just hours after a colleague resigned over fears the AI lab and its rivals are carelessly racing to build \"superhuman sys",
-    "published": "2026-09-09T09:56:28+00:00",
     "first_seen": "2026-09-10T06:20:32.262104+00:00"
   },
   {
@@ -1005,15 +825,6 @@
     "link": "https://www.zdnet.com/business/apple-september-event-live-blog-2026/",
     "summary": "ZDNET editors are on the ground in Cupertino to cover the \u2018Surprise and shine\u2019 event live.",
     "published": "2026-09-09T13:00:30+00:00",
-    "first_seen": "2026-09-15T06:21:09.674316+00:00"
-  },
-  {
-    "source": "ZDNet AI",
-    "source_tier": 2,
-    "title": "Latest Windows 11 update restores your taskbar control, patches 995 security flaws",
-    "link": "https://www.zdnet.com/uncategorized/windows-11-september-2026-update/",
-    "summary": "The September Windows 11 update set a new patching record with almost 1,000 security flaws fixed.",
-    "published": "2026-09-08T20:48:06+00:00",
     "first_seen": "2026-09-15T06:21:09.674316+00:00"
   },
   {
@@ -6235,5 +6046,158 @@
     "summary": "At the New York Film Festival premiere of Artificial, Luca Guadagnino's satirical Sam Altman biopic, the director said onstage that \"[when] someone wants to play God, that's very interesting to me.\" The idea of playing God, and power in general - who has it, who desperately wants",
     "published": "2026-10-08T14:00:00+00:00",
     "first_seen": "2026-10-09T12:55:34.475792+00:00"
+  },
+  {
+    "source": "ZDNet AI",
+    "source_tier": 2,
+    "title": "Ring\u2019s new smart lock has a manual fallback that can\u2019t lock you out \u2013 how it works",
+    "link": "https://www.zdnet.com/uncategorized/ring-smart-lock-manual-power-dial/",
+    "summary": "The brand just announced a smart lock with a manual \u2018power dial\u2019 that charges the device in case it dies.",
+    "published": "2026-10-10T08:15:00+00:00",
+    "first_seen": "2026-10-10T12:13:33.542542+00:00"
+  },
+  {
+    "source": "ZDNet AI",
+    "source_tier": 2,
+    "title": "4 ways Amazon\u2019s new Alexa tablets eclipse the Fire line \u2013 starting with Google Play",
+    "link": "https://www.zdnet.com/tech/amazon-new-alexa-tablets-google-play-store/",
+    "summary": "Amazon just upped its game with new Android tablets for entertainment and work.",
+    "published": "2026-10-09T19:10:12+00:00",
+    "first_seen": "2026-10-10T12:13:33.542542+00:00"
+  },
+  {
+    "source": "ZDNet AI",
+    "source_tier": 2,
+    "title": "\u2018I use AI to do the things that I\u2019m bad at\u2019: Linus Torvalds on why it works for him",
+    "link": "https://www.zdnet.com/tech/linus-torvalds-ai-coding-programming/",
+    "summary": "The Linux creator calls vibe coding \u2018a wonderful way to find joy in programming,\u2019 but not for running Linux development. (Finding bugs is OK.)",
+    "published": "2026-10-09T17:53:18+00:00",
+    "first_seen": "2026-10-10T12:13:33.542542+00:00"
+  },
+  {
+    "source": "TechCrunch AI",
+    "source_tier": 2,
+    "title": "Anthropic can\u2019t reliably control its AI agents. It\u2019s cutting off its internal evals from the live internet instead",
+    "link": "https://techcrunch.com/2026/10/09/anthropic-cant-reliably-control-its-ai-agents-its-cutting-off-its-internal-evals-from-the-live-internet-instead/",
+    "summary": "Anthropic said it \"turned off live internet access\" for \"all our internal evaluations\" until further notice.",
+    "published": "2026-10-10T00:18:32+00:00",
+    "first_seen": "2026-10-10T12:13:33.542542+00:00"
+  },
+  {
+    "source": "TechCrunch AI",
+    "source_tier": 2,
+    "title": "The maker of non-text AI model Jev valued at $7.5B just weeks after launch",
+    "link": "https://techcrunch.com/2026/10/09/the-maker-of-non-text-ai-model-jev-valued-at-7-5b-just-weeks-after-launch/",
+    "summary": "What has users and large corporations so excited about Jev is TypeSafe\u2019s claim that it works significantly faster and uses far fewer tokens than LLMs.",
+    "published": "2026-10-09T21:41:29+00:00",
+    "first_seen": "2026-10-10T12:13:33.542542+00:00"
+  },
+  {
+    "source": "TechCrunch AI",
+    "source_tier": 2,
+    "title": "An Anthropic AI model sent a false homicide tip to Philadelphia police",
+    "link": "https://techcrunch.com/2026/10/09/an-anthropic-ai-model-sent-a-false-homicide-tip-to-philadelphia-police/",
+    "summary": "Anthropic did not discover this behavior until over two months after its AI submitted the false tip.",
+    "published": "2026-10-09T19:36:56+00:00",
+    "first_seen": "2026-10-10T12:13:33.542542+00:00"
+  },
+  {
+    "source": "TechCrunch AI",
+    "source_tier": 2,
+    "title": "Amazon and others are done keeping data center deals secret. Is it enough to build trust?",
+    "link": "https://techcrunch.com/video/amazon-and-others-are-done-keeping-data-center-deals-secret-is-it-enough-to-build-trust/",
+    "summary": "Amazon says it will\u00a0stop using NDAs\u00a0when negotiating data center deals with local governments, following\u00a0a\u00a0similar move from Microsoft\u00a0earlier this year. Secrecy has fueled community backlash against AI infrastructure, with opposition leading to\u00a0hundreds of\u00a0proposed and enacted m",
+    "published": "2026-10-09T16:56:42+00:00",
+    "first_seen": "2026-10-10T12:13:33.542542+00:00"
+  },
+  {
+    "source": "TechCrunch AI",
+    "source_tier": 2,
+    "title": "Amazon drops data center NDAs, and AI agents want your credit card",
+    "link": "https://techcrunch.com/podcast/amazon-drops-data-center-ndas-and-ai-agents-want-your-credit-card/",
+    "summary": "Amazon says it will\u00a0stop using NDAs\u00a0when negotiating data center deals with local governments, following\u00a0a\u00a0similar move from Microsoft\u00a0earlier this year. Secrecy has fueled community backlash against AI infrastructure, with opposition leading to\u00a0hundreds of\u00a0proposed and enacted m",
+    "published": "2026-10-09T16:53:02+00:00",
+    "first_seen": "2026-10-10T12:13:33.542542+00:00"
+  },
+  {
+    "source": "TechCrunch AI",
+    "source_tier": 2,
+    "title": "Danu Robotics\u2019 fight to build a better recycling robot",
+    "link": "https://techcrunch.com/2026/10/09/danu-robotics-fight-to-build-a-better-recycling-robot/",
+    "summary": "For six years, Danu founder Amy Ma has been working on a better way to sort recyclable waste.",
+    "published": "2026-10-09T16:45:00+00:00",
+    "first_seen": "2026-10-10T12:13:33.542542+00:00"
+  },
+  {
+    "source": "TechCrunch AI",
+    "source_tier": 2,
+    "title": "We can\u2019t help treating AI like it\u2019s human. But should we?",
+    "link": "https://techcrunch.com/2026/10/09/we-cant-help-treating-ai-like-its-human-but-should-we/",
+    "summary": "\"When we are drawn into even the most primitive exchanges with a relational artifact, we believe it cares for us,\" Dr. Sherry Turkle writes. \"And we are wired to care for it in return.\"",
+    "published": "2026-10-09T16:40:14+00:00",
+    "first_seen": "2026-10-10T12:13:33.542542+00:00"
+  },
+  {
+    "source": "TechCrunch AI",
+    "source_tier": 2,
+    "title": "a16z\u2019s Olivia Moore on the state of consumer AI",
+    "link": "https://techcrunch.com/2026/10/09/a16zs-olivia-moore-on-the-state-of-consumer-ai/",
+    "summary": "Moore sees a huge opportunity in consumer AI, particularly if the industry can tap into revenue streams beyond just subscriptions and API charges.",
+    "published": "2026-10-09T15:43:33+00:00",
+    "first_seen": "2026-10-10T12:13:33.542542+00:00"
+  },
+  {
+    "source": "TechCrunch AI",
+    "source_tier": 2,
+    "title": "TechCrunch Disrupt 2026 starts in 4 days \u2014 lock in your pass savings of up to $100 before prices rise",
+    "link": "https://techcrunch.com/2026/10/09/techcrunch-disrupt-2026-starts-in-4-days-lock-in-your-pass-savings-of-up-to-100-before-prices-rise/",
+    "summary": "Four days until TechCrunch Disrupt 2026 starts, when\u00a010,000 founders, investors, and tech leaders gather in San Francisco's Moscone West on October 13-15. Save up to $100 on your price. Plus, save 50% on a second pass of the same type.",
+    "published": "2026-10-09T14:00:00+00:00",
+    "first_seen": "2026-10-10T12:13:33.542542+00:00"
+  },
+  {
+    "source": "The Verge AI",
+    "source_tier": 2,
+    "title": "Anthropic\u2019s AI gave Philadelphia police a fake tip about an unsolved homicide",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/1009090/anthropic-fake-homicide-information-philadelphia-pd-tip",
+    "summary": "An Anthropic AI model provided false information about an unsolved homicide to a Philadelphia Police Department (PPD) tipline, according to a report from 6abc. In a statement released on Friday, the PPD said the AI model sent the tip through PhillyUnsolvedMurders.com on July 18th",
+    "published": "2026-10-09T21:15:38+00:00",
+    "first_seen": "2026-10-10T12:13:33.542542+00:00"
+  },
+  {
+    "source": "The Verge AI",
+    "source_tier": 2,
+    "title": "\u2018Pure insanity\u2019: Mathematicians will need years to make sense of OpenAI\u2019s latest drop",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/1008726/openai-mathematics-solutions-chaos",
+    "summary": "\"Staggering.\" \"Overwhelming.\" \"Unprecedented.\" \"Surreal.\" \"Pure insanity.\" Those were among the descriptions more than three dozen mathematicians reached for in conversations with The Verge as they tried to make sense of the flood of mathematical results OpenAI abruptly dropped o",
+    "published": "2026-10-09T19:09:44+00:00",
+    "first_seen": "2026-10-10T12:13:33.542542+00:00"
+  },
+  {
+    "source": "The Verge AI",
+    "source_tier": 2,
+    "title": "Nikon microscopic video competition winner disqualified for using generative AI",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/1008930/nikon-small-world-in-motion-winner-ai",
+    "summary": "Nikon says the video that originally won first place in its Small World in Motion contest \"did not comply with the competition rules regarding generative AI.\" BBC reports that the original first place video from Dr. Ning Xu claimed to show \"tiny, hair-like structures called cilia",
+    "published": "2026-10-09T18:06:57+00:00",
+    "first_seen": "2026-10-10T12:13:33.542542+00:00"
+  },
+  {
+    "source": "The Verge AI",
+    "source_tier": 2,
+    "title": "Trump\u2019s attempt to rename AI is looking awfully artificial",
+    "link": "https://www.theverge.com/policy/1008677/trump-super-intelligence-ai-rebranding",
+    "summary": "President Donald Trump has a knack for turning words against his enemies. His first successful presidential run was built on monikers like \"Little Marco\" and \"Crooked Hillary\"; he changed \"fake news\" from a phrase describing scammy media outlets to a derogatory term for the press",
+    "published": "2026-10-09T14:25:43+00:00",
+    "first_seen": "2026-10-10T12:13:33.542542+00:00"
+  },
+  {
+    "source": "The Verge AI",
+    "source_tier": 2,
+    "title": "Instinct was the buzziest AI agent around \u2014 can it survive Muse?",
+    "link": "https://www.theverge.com/tech/1008254/instinct-agent-ai-hands-on-muse-dots",
+    "summary": "Before there were cute little guys, there was Instinct. In August, the startup got its AI agent to market with an unusual playbook: invite-only, no marketing, and barely so much as a website. And yet, Instinct quickly became the buzziest thing in AI, garnering praise for its stra",
+    "published": "2026-10-09T14:00:00+00:00",
+    "first_seen": "2026-10-10T12:13:33.542542+00:00"
   }
 ]

@@ -1,173 +1,11 @@
 [
   {
-    "source": "Power BI Blog",
-    "source_tier": 1,
-    "title": "Power BI Q&A retirement reminder: February 2027 timeline update",
-    "link": "https://community.fabric.microsoft.com/t5/Power-BI-Updates-Blog/Power-BI-Q-A-retirement-reminder-February-2027-timeline-update/ba-p/5365841",
-    "summary": "In December, we announced the retirement of Power BI Q&A, our legacy natural-language querying experience, with retirement planned for December 2026. To give current Q&A user's additional time to assess their dependencies and transition to newer Copilot-powered solutions, we\u2019re e",
-    "published": "2026-09-10T16:00:00+00:00",
-    "first_seen": "2026-09-11T06:19:14.438364+00:00"
-  },
-  {
-    "source": "TechCrunch AI",
-    "source_tier": 2,
-    "title": "Jensen Huang explains why Nvidia will grow an astounding 70% next year",
-    "link": "https://techcrunch.com/2026/09/10/jensen-huang-explains-why-nvidia-will-grow-an-astounding-70-next-year/",
-    "summary": "Nvidia has its finger in every pie, and sees another year of plenty in its future, Jensen Huang says. But, he insists, its deals are not circular.",
-    "published": "2026-09-10T21:51:59+00:00",
-    "first_seen": "2026-09-11T06:19:14.438364+00:00"
-  },
-  {
-    "source": "TechCrunch AI",
-    "source_tier": 2,
-    "title": "Mark Wahlberg is coming to TechCrunch Disrupt 2026, and he wants to talk about your work, not his",
-    "link": "https://techcrunch.com/2026/09/10/mark-wahlberg-is-coming-to-techcrunch-disrupt-2026/",
-    "summary": "Mark Wahlberg joins Bruce K. Lee at Disrupt to discuss investing, entrepreneurship, healthcare, wellness and building businesses.",
-    "published": "2026-09-10T21:35:00+00:00",
-    "first_seen": "2026-09-11T06:19:14.438364+00:00"
-  },
-  {
-    "source": "TechCrunch AI",
-    "source_tier": 2,
-    "title": "OpenAI puts Pro subscriptions on hold due to Astra demand",
-    "link": "https://techcrunch.com/2026/09/10/openai-puts-pro-subscriptions-on-hold-due-to-astra-demand/",
-    "summary": "The company said Pro subscriptions put the most strain on its systems, so it's pausing sign-ups while adding more capacity.",
-    "published": "2026-09-10T20:59:51+00:00",
-    "first_seen": "2026-09-11T06:19:14.438364+00:00"
-  },
-  {
-    "source": "TechCrunch AI",
-    "source_tier": 2,
-    "title": "Anthropic details distillation campaigns from Alibaba, Moonshot AI, and DeepSeek",
-    "link": "https://techcrunch.com/2026/09/10/anthropic-details-distillation-campaigns-from-alibaba-moonshot-ai-and-deepseek/",
-    "summary": "A new report released Thursday by Anthropic alleges persistent distillation attacks by China-based AI companies, which have escalated in recent months as competition in the space has intensified.",
-    "published": "2026-09-10T20:57:30+00:00",
-    "first_seen": "2026-09-11T06:19:14.438364+00:00"
-  },
-  {
-    "source": "TechCrunch AI",
-    "source_tier": 2,
-    "title": "Meta\u2019s AI agent Muse is now the No. 2 app in the US",
-    "link": "https://techcrunch.com/2026/09/10/metas-ai-agent-muse-is-now-the-no-2-app-in-the-us/",
-    "summary": "Meta's newest app Muse is off to a slower start than the company's other apps, like Meta AI or Threads.",
-    "published": "2026-09-10T19:50:04+00:00",
-    "first_seen": "2026-09-11T06:19:14.438364+00:00"
-  },
-  {
-    "source": "TechCrunch AI",
-    "source_tier": 2,
-    "title": "Anthropic reveals rogue AI agents hate CAPTCHAs, just like you",
-    "link": "https://techcrunch.com/2026/09/10/anthropic-reveals-rogue-ai-agents-hate-captchas-just-like-you/",
-    "summary": "Come inside the mind of a bot trying to convince the internet it's human.",
-    "published": "2026-09-10T17:54:44+00:00",
-    "first_seen": "2026-09-11T06:19:14.438364+00:00"
-  },
-  {
-    "source": "TechCrunch AI",
-    "source_tier": 2,
-    "title": "India\u2019s Pocket FM doubles revenue run rate to $500M as AI powers 93% of audio content",
-    "link": "https://techcrunch.com/2026/09/10/indias-pocket-fm-doubles-revenue-run-rate-to-500m-as-ai-powers-93-of-audio-content/",
-    "summary": "Pocket FM uses AI to produce 99% of its new content, helping make content production about 80 times cheaper.",
-    "published": "2026-09-10T17:45:00+00:00",
-    "first_seen": "2026-09-11T06:19:14.438364+00:00"
-  },
-  {
-    "source": "TechCrunch AI",
-    "source_tier": 2,
-    "title": "AI agents are flooding public services with new requests",
-    "link": "https://techcrunch.com/2026/09/10/ai-agents-are-flooding-public-services-with-new-requests/",
-    "summary": "\u201cThe vast majority of cases we find are people who are entitled to claim for something, claiming for that thing,\u201d the researcher told TechCrunch.",
-    "published": "2026-09-10T14:53:50+00:00",
-    "first_seen": "2026-09-11T06:19:14.438364+00:00"
-  },
-  {
-    "source": "TechCrunch AI",
-    "source_tier": 2,
-    "title": "Maven Robotics wants to steal your robot deployment deal",
-    "link": "https://techcrunch.com/2026/09/10/maven-robotics-wants-to-steal-your-robot-deployment-deal/",
-    "summary": "Maven Robotics emerged from stealth today with a $100 million Series A and active deployments.",
-    "published": "2026-09-10T14:17:37+00:00",
-    "first_seen": "2026-09-11T06:19:14.438364+00:00"
-  },
-  {
-    "source": "The Verge AI",
-    "source_tier": 2,
-    "title": "Slack can now vibe-code interactive charts and reports inside chats",
-    "link": "https://www.theverge.com/tech/989853/slackforce-surfaces-launch",
-    "summary": "A new feature coming to Slack will allow you to build interactive reports, polls, dashboards, presentations, microsites, and other tools directly inside a chat. With Slackforce Surfaces, you can describe to Slackbot what you need, and it will use AI to gather information from rel",
-    "published": "2026-09-10T21:25:21+00:00",
-    "first_seen": "2026-09-11T06:19:14.438364+00:00"
-  },
-  {
-    "source": "The Verge AI",
-    "source_tier": 2,
-    "title": "Schools are catching on to Big Tech\u2019s playbook",
-    "link": "https://www.theverge.com/policy/993308/computer-science-ai-education-coding-kids",
-    "summary": "It's the hot new thing in tech, and it's where all the jobs are. Students who don't learn to use it fall behind. And to help them catch up in time, its creators are graciously providing the resources and curriculum for learning it, often pro bono. That's the narrative AI companie",
-    "published": "2026-09-10T19:44:20+00:00",
-    "first_seen": "2026-09-11T06:19:14.438364+00:00"
-  },
-  {
-    "source": "The Verge AI",
-    "source_tier": 2,
-    "title": "Universal Music is launching an AI music platform with ElevenLabs",
-    "link": "https://www.theverge.com/ai-artificial-intelligence/993465/universal-music-elevenlabs-ai",
-    "summary": "Universal Music Group is launching a new AI-powered platform that will allow users to draw from its catalog of licensed music to create song remixes, mashups, and new takes on tracks, according to an announcement on Thursday. The record label is developing the platform through a ",
-    "published": "2026-09-10T15:38:19+00:00",
-    "first_seen": "2026-09-11T06:19:14.438364+00:00"
-  },
-  {
-    "source": "The Verge AI",
-    "source_tier": 2,
-    "title": "Meta\u2019s Muse AI works and creeps me out",
-    "link": "https://www.theverge.com/tech/993391/meta-muse-ai-hands-on",
-    "summary": "Meta has launched its new Muse assistant, marking the company's first real foray into AI-powered productivity tools. The company says its AI agent can \"take the busywork off your plate\" by helping you with online shopping, emails, trip-planning, and more. I decided to try out the",
-    "published": "2026-09-10T15:00:00+00:00",
-    "first_seen": "2026-09-11T06:19:14.438364+00:00"
-  },
-  {
-    "source": "The Verge AI",
-    "source_tier": 2,
-    "title": "Why the current tech backlash feels different",
-    "link": "https://www.theverge.com/podcast/992141/decoder-mailbag-ai-backlash-surveillance-midterms-data-centers",
-    "summary": "This interview has been lightly edited for length and clarity.\u00a0 Nick Statt: Hello and welcome to Decoder, Nilay\u2019s show about big ideas and other problems. This is Nick Statt, senior producer. And I\u2019m joined by our brand-new supervising producer, Greg Ott. Greg Ott: Good day, ever",
-    "published": "2026-09-10T14:00:00+00:00",
-    "first_seen": "2026-09-11T06:19:14.438364+00:00"
-  },
-  {
-    "source": "Azure AI Blog",
-    "source_tier": 1,
-    "title": "Microsoft named a Leader in the 2026 Gartner\u00ae Magic Quadrant\u2122 for Container Management",
-    "link": "https://azure.microsoft.com/en-us/blog/microsoft-named-a-leader-in-the-2026-gartner-magic-quadrant-for-container-management/",
-    "summary": "Microsoft was named a Leader in the 2026 Gartner\u00ae Magic Quadrant\u2122 for Container Management. Discover how AKS, Azure Arc, and Azure Container Apps help organizations run AI and hybrid workloads at scale.\nThe post Microsoft named a Leader in the 2026 Gartner\u00ae Magic Quadrant\u2122 for Co",
-    "published": "2026-09-10T21:00:00+00:00",
-    "first_seen": "2026-09-12T06:18:39.316605+00:00"
-  },
-  {
     "source": "MIT Technology Review",
     "source_tier": 2,
     "title": "Roundtables: AI\u2019s apocalypse crisis",
     "link": "https://www.technologyreview.com/2026/09/11/1143936/roundtables-will-ai-really-kill-us-all/",
     "summary": "Employees at the world\u2019s leading AI labs are saying there\u2019s a real possibility that advanced AI could destroy humanity. Are they right? Or is this more scaremongering and hype? Join MIT Technology Review executive editor Niall Firth for a conversation with senior AI editor Will D",
     "published": "2026-09-11T20:05:06+00:00",
-    "first_seen": "2026-09-12T06:18:39.316605+00:00"
-  },
-  {
-    "source": "MIT Technology Review",
-    "source_tier": 2,
-    "title": "The Download: biotech\u2019s future and cheaper, cleaner steel",
-    "link": "https://www.technologyreview.com/2026/09/11/1143879/the-download-biotech-future-cheaper-cleaner-steel/",
-    "summary": "This is today\u2019s edition of The Download, our weekday newsletter that provides a daily dose of what\u2019s going on in the world of technology. Meet the under-35s shaping the future of biotech Every year, MIT Technology Review puts together our 35 Innovators Under 35, a list of some of",
-    "published": "2026-09-11T12:10:00+00:00",
-    "first_seen": "2026-09-12T06:18:39.316605+00:00"
-  },
-  {
-    "source": "MIT Technology Review",
-    "source_tier": 2,
-    "title": "Meet the under-35s shaping the future of biotech",
-    "link": "https://www.technologyreview.com/2026/09/11/1143834/meet-the-under-35s-shaping-the-future-of-biotech/",
-    "summary": "Every year, MIT Technology Review puts together a list of some of the brightest and best young minds working across science and technology. Our 35 Innovators Under 35 are the ones to watch\u2014people whose research and technical work stands to shape the future of their fields. This y",
-    "published": "2026-09-11T09:00:00+00:00",
     "first_seen": "2026-09-12T06:18:39.316605+00:00"
   },
   {
@@ -261,15 +99,6 @@
     "first_seen": "2026-09-12T06:18:39.316605+00:00"
   },
   {
-    "source": "The Verge AI",
-    "source_tier": 2,
-    "title": "Meta says it\u2019s changing AI suggestions after posing invasive personal questions",
-    "link": "https://www.theverge.com/tech/993974/meta-ai-prompt-invasive-suggestions",
-    "summary": "Meta says it's making changes to the prompts suggested by its AI chatbot after a viral video showed it digging for personal information about a woman's young daughters, as reported earlier by Futurism. In a statement to The Verge, Meta spokesperson Dina El-Kassaby says the compan",
-    "published": "2026-09-11T14:25:21+00:00",
-    "first_seen": "2026-09-12T06:18:39.316605+00:00"
-  },
-  {
     "source": "TechCrunch AI",
     "source_tier": 2,
     "title": "OpenAI\u2019s Sam Altman says it would be \u2018ill-advised\u2019 to go public in 2026",
@@ -360,24 +189,6 @@
     "first_seen": "2026-09-14T06:22:12.288413+00:00"
   },
   {
-    "source": "Microsoft 365 Blog",
-    "source_tier": 1,
-    "title": "ESPC 2026 is coming to Amsterdam: Bringing Microsoft and the community together",
-    "link": "https://www.microsoft.com/en-us/microsoft-365/blog/2026/09/10/espc-2026-is-coming-to-amsterdam-bringing-microsoft-and-the-community-together/",
-    "summary": "Join Microsoft at ESPC 2026 in Amsterdam to explore the latest innovations in Microsoft 365, Copilot, agents, and AI.\nThe post ESPC 2026 is coming to Amsterdam: Bringing Microsoft and the community together appeared first on Microsoft 365 Blog.",
-    "published": "2026-09-10T16:00:00+00:00",
-    "first_seen": "2026-09-15T06:21:09.674316+00:00"
-  },
-  {
-    "source": "Microsoft 365 Blog",
-    "source_tier": 1,
-    "title": "Build apps in Copilot Cowork and Copilot Studio",
-    "link": "https://www.microsoft.com/en-us/microsoft-copilot/blog/copilot-studio/build-apps-in-copilot-cowork-and-copilot-studio/",
-    "summary": "Create full-stack business apps through conversation, grounded in your data with app building in Copilot Cowork and Copilot Studio.\nThe post Build apps in Copilot Cowork and Copilot Studio appeared first on Microsoft 365 Blog.",
-    "published": "2026-09-10T15:00:00+00:00",
-    "first_seen": "2026-09-15T06:21:09.674316+00:00"
-  },
-  {
     "source": "MIT Technology Review",
     "source_tier": 2,
     "title": "The AI industry has taken a doomer turn. What now?",
@@ -438,42 +249,6 @@
     "link": "https://www.zdnet.com/business/apple-extends-free-satellite-service-to-older-iphones/",
     "summary": "This isn\u2019t the first time that Apple has extended the free two-year trial.",
     "published": "2026-09-11T16:35:00+00:00",
-    "first_seen": "2026-09-15T06:21:09.674316+00:00"
-  },
-  {
-    "source": "ZDNet AI",
-    "source_tier": 2,
-    "title": "This CIO doesn\u2019t \u2018hire engineers to write code\u2019: 3 AI fundamentals he prioritizes instead",
-    "link": "https://www.zdnet.com/innovation/chase-cio-ai-fundamentals/",
-    "summary": "Gill Haus explains Chase\u2019s approach to AI \u2013 and getting the core fundamentals right.",
-    "published": "2026-09-11T12:20:31+00:00",
-    "first_seen": "2026-09-15T06:21:09.674316+00:00"
-  },
-  {
-    "source": "ZDNet AI",
-    "source_tier": 2,
-    "title": "I\u2019ve been an Android user all my life, but I\u2019m jealous of 3 things Apple just announced",
-    "link": "https://www.zdnet.com/tech/apple-event-features-android-users-want/",
-    "summary": "I hate to admit it, but I wish Android would do what Apple just did.",
-    "published": "2026-09-11T12:06:19+00:00",
-    "first_seen": "2026-09-15T06:21:09.674316+00:00"
-  },
-  {
-    "source": "ZDNet AI",
-    "source_tier": 2,
-    "title": "Eager to try iOS 27\u2019s cool AI features and upgraded Siri? Get ready for usage limits",
-    "link": "https://www.zdnet.com/innovation/how-apple-will-limit-your-ai-use/",
-    "summary": "A new Apple support page explains how Siri AI and other AI-powered tools in the new OS will be controlled.",
-    "published": "2026-09-10T18:00:46+00:00",
-    "first_seen": "2026-09-15T06:21:09.674316+00:00"
-  },
-  {
-    "source": "ZDNet AI",
-    "source_tier": 2,
-    "title": "Your friend with \u2018nothing to hide\u2019 is more likely to spy on you, study shows",
-    "link": "https://www.zdnet.com/tech/partner-has-nothing-to-hide-theyre-more-likely-to-spy-on-you/",
-    "summary": "New research explores behavioral trends behind that \u2018nothing to hide\u2019 phrase. Plus: 6 ways to improve your phone privacy.",
-    "published": "2026-09-10T14:31:03+00:00",
     "first_seen": "2026-09-15T06:21:09.674316+00:00"
   },
   {
@@ -825,15 +600,6 @@
     "link": "https://www.microsoft.com/en-us/microsoft-cloud/blog/government/government-operations-and-infrastructure/2026/09/15/introducing-microsoft-365-g7-intelligence-trust-for-the-mission-ahead/",
     "summary": "Microsoft 365 G7 brings AI, Copilot, agent governance, security, and compliance together to help government agencies modernize securely.\nThe post Introducing Microsoft 365 G7: Intelligence + Trust for the mission ahead appeared first on Microsoft 365 Blog.",
     "published": "2026-09-15T15:00:00+00:00",
-    "first_seen": "2026-09-17T06:20:39.611760+00:00"
-  },
-  {
-    "source": "Microsoft 365 Blog",
-    "source_tier": 1,
-    "title": "ESPC 2026 is coming to Amsterdam: Bringing Microsoft and the community together",
-    "link": "https://www.microsoft.com/en-us/copilot/blog/2026/09/10/espc-2026-is-coming-to-amsterdam-bringing-microsoft-and-the-community-together/",
-    "summary": "Join Microsoft at ESPC 2026 in Amsterdam to explore the latest innovations in Microsoft 365, Copilot, agents, and AI.\nThe post ESPC 2026 is coming to Amsterdam: Bringing Microsoft and the community together appeared first on Microsoft 365 Blog.",
-    "published": "2026-09-10T16:00:00+00:00",
     "first_seen": "2026-09-17T06:20:39.611760+00:00"
   },
   {
@@ -5920,5 +5686,113 @@
     "summary": "At this year's OpenAI DevDay, CEO Sam Altman unveiled the company's new AI agent Dots - and told the crowd that the company wants to \"set a new standard for privacy in frontier AI.\" OpenAI would spend the day taking veiled shots at Meta's Muse, its primary competitor, for failing",
     "published": "2026-10-10T13:00:00+00:00",
     "first_seen": "2026-10-11T12:27:51.550618+00:00"
+  },
+  {
+    "source": "MIT Technology Review",
+    "source_tier": 2,
+    "title": "The Download: moon city problems and drone traffic controllers",
+    "link": "https://www.technologyreview.com/2026/10/12/1146376/the-download-moon-city-drone-air-traffic-controllers/",
+    "summary": "This is today\u2019s edition of The Download, our weekday newsletter that provides a daily dose of what\u2019s going on in the world of technology. Mars may be a hellhole, but the moon is not far behind The US and China are racing to build bases on the moon, with NASA hoping to establish a",
+    "published": "2026-10-12T12:10:00+00:00",
+    "first_seen": "2026-10-12T14:59:18.758256+00:00"
+  },
+  {
+    "source": "MIT Technology Review",
+    "source_tier": 2,
+    "title": "Mars may be a hellhole, but the moon is not far behind",
+    "link": "https://www.technologyreview.com/2026/10/12/1145760/imagining-building-cities-on-the-moon/",
+    "summary": "Welcome to the second space race. You can be forgiven for experiencing d\u00e9j\u00e0 vu. Last time, it was the Soviet Union and the United States vying to be the first to plant some flags. Now it\u2019s a sprint to the lunar surface between America and China\u2014alongside a host of varyingly frien",
+    "published": "2026-10-12T09:37:02+00:00",
+    "first_seen": "2026-10-12T14:59:18.758256+00:00"
+  },
+  {
+    "source": "MIT Technology Review",
+    "source_tier": 2,
+    "title": "The ecologist revealing the invisible networks that revive rainforests",
+    "link": "https://www.technologyreview.com/2026/10/12/1145745/daisy-dent-ecologist-revealing-invisible-networks-revive-rainforests/",
+    "summary": "In a research station in central Panama, you can walk through a century of forest time, watching scrubby plots of adolescent trees give way to cathedral-\u00adlike canopies of mature growth. Forest ecologist Daisy Dent, a senior scientist at ETH Zurich, oversees this sequence of plots",
+    "published": "2026-10-12T09:00:00+00:00",
+    "first_seen": "2026-10-12T14:59:18.758256+00:00"
+  },
+  {
+    "source": "ZDNet AI",
+    "source_tier": 2,
+    "title": "Google\u2019s new Fitbit Edge solves my biggest gripe with the Pixel Watch",
+    "link": "https://www.zdnet.com/tech/googles-new-fitbit-edge-solves-my-biggest-gripe-with-the-pixel-watch/",
+    "summary": "Google\u2019s watches are too dang chunky.",
+    "published": "2026-10-12T13:00:00+00:00",
+    "first_seen": "2026-10-12T14:59:18.758256+00:00"
+  },
+  {
+    "source": "TechCrunch AI",
+    "source_tier": 2,
+    "title": "TechCrunch Disrupt 2026 starts tomorrow: Your final chance to secure up to $100 ticket savings",
+    "link": "https://techcrunch.com/2026/10/12/techcrunch-disrupt-2026-starts-tomorrow-your-final-chance-to-secure-up-to-100-ticket-savings/",
+    "summary": "Tomorrow at 8 a.m. PT, it all begins. 10,000+ founders, investors, and tech operators will gather at San Francisco\u2019s Moscone West for\u00a0TechCrunch Disrupt 2026 for three days of ideas, connections, and startups shaping what comes next. This is your last 24 hours to secure ticket sa",
+    "published": "2026-10-12T14:00:00+00:00",
+    "first_seen": "2026-10-12T14:59:18.758256+00:00"
+  },
+  {
+    "source": "TechCrunch AI",
+    "source_tier": 2,
+    "title": "Former Plaud exec raises $26M for AI app that listens to you in the background",
+    "link": "https://techcrunch.com/2026/10/12/former-plaud-exec-raises-26m-for-ai-app-that-listens-to-you-in-the-background/",
+    "summary": "Ambi is releasing apps for iPhone, Mac, and Apple Watch that enables ambient capture",
+    "published": "2026-10-12T12:47:59+00:00",
+    "first_seen": "2026-10-12T14:59:18.758256+00:00"
+  },
+  {
+    "source": "TechCrunch AI",
+    "source_tier": 2,
+    "title": "Will the HomeView be Apple\u2019s first smart home success?",
+    "link": "https://techcrunch.com/2026/10/11/will-the-homeview-be-apples-first-smart-home-success/",
+    "summary": "Over the past couple of years, we\u2019ve seen multiple reports that Apple was working on a new smart home product, but now it seems the product has a name and a launch date.",
+    "published": "2026-10-11T21:14:40+00:00",
+    "first_seen": "2026-10-12T14:59:18.758256+00:00"
+  },
+  {
+    "source": "TechCrunch AI",
+    "source_tier": 2,
+    "title": "48 hours to TechCrunch Disrupt 2026 \u2014 hear directly from the people building what\u2019s next",
+    "link": "https://techcrunch.com/2026/10/11/48-hours-to-techcrunch-disrupt-2026-hear-directly-from-the-people-building-whats-next/",
+    "summary": "Less than 48 hours, TechCrunch Disrupt 2026 starts in San Francisco\u2019s Moscone West. Save up to $100 on your pass before prices increase at the door, plus get 50% on a second pass. Or score other deals.",
+    "published": "2026-10-11T19:00:00+00:00",
+    "first_seen": "2026-10-12T14:59:18.758256+00:00"
+  },
+  {
+    "source": "TechCrunch AI",
+    "source_tier": 2,
+    "title": "Can the AI industry persuade data center opponents by getting rid of NDAs?",
+    "link": "https://techcrunch.com/2026/10/11/can-the-ai-industry-persuade-data-center-opponents-by-getting-rid-of-ndas/",
+    "summary": "On Equity, we debate the impact of data center moratoriums and whether the AI industry has a communication problem.",
+    "published": "2026-10-11T16:52:33+00:00",
+    "first_seen": "2026-10-12T14:59:18.758256+00:00"
+  },
+  {
+    "source": "TechCrunch AI",
+    "source_tier": 2,
+    "title": "These execs think voice AI hasn\u2019t reached its ChatGPT moment yet",
+    "link": "https://techcrunch.com/2026/10/11/these-execs-think-voice-ai-hasnt-reached-its-chatgpt-moment-yet/",
+    "summary": "Voice AI's often misses important points for its context layer, and causes the whole pipeline to break",
+    "published": "2026-10-11T14:00:00+00:00",
+    "first_seen": "2026-10-12T14:59:18.758256+00:00"
+  },
+  {
+    "source": "The Verge AI",
+    "source_tier": 2,
+    "title": "Silicon Valley is falling in line with Trump\u2019s attempt to rename AI",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/1009406/silicon-valley-is-falling-in-line-with-trumps-attempt-to-rename-ai",
+    "summary": "When President Donald Trump announced his plans to rebrand artificial intelligence as \"super intelligence,\" you'd be forgiven for being skeptical that it would catch on. While most of the broader population is sticking with AI, some of Silicon Valley's most powerful are falling i",
+    "published": "2026-10-11T18:33:56+00:00",
+    "first_seen": "2026-10-12T14:59:18.758256+00:00"
+  },
+  {
+    "source": "The Verge AI",
+    "source_tier": 2,
+    "title": "Learning to use local AI is exciting, overwhelming, and frustrating",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/1008484/learning-local-ai-hermes-qwen-model-mac-studio-testing-diary-progress",
+    "summary": "I'm embarking on a journey I've so far been hesitant to go on: actually using AI on the regular. Giving my most personal data to cloud services has been a major hold up for me, but it's increasingly possible to run powerful models locally to see what they're capable of. Is this t",
+    "published": "2026-10-11T11:00:00+00:00",
+    "first_seen": "2026-10-12T14:59:18.758256+00:00"
   }
 ]

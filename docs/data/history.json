@@ -1,104 +1,5 @@
 [
   {
-    "source": "MIT Technology Review",
-    "source_tier": 2,
-    "title": "Roundtables: AI\u2019s apocalypse crisis",
-    "link": "https://www.technologyreview.com/2026/09/11/1143936/roundtables-will-ai-really-kill-us-all/",
-    "summary": "Employees at the world\u2019s leading AI labs are saying there\u2019s a real possibility that advanced AI could destroy humanity. Are they right? Or is this more scaremongering and hype? Join MIT Technology Review executive editor Niall Firth for a conversation with senior AI editor Will D",
-    "published": "2026-09-11T20:05:06+00:00",
-    "first_seen": "2026-09-12T06:18:39.316605+00:00"
-  },
-  {
-    "source": "TechCrunch AI",
-    "source_tier": 2,
-    "title": "Mecka AI nears $500M valuation in Sequoia-led deal amid rush for robot training data",
-    "link": "https://techcrunch.com/2026/09/11/mecka-ai-nears-500m-valuation-in-sequoia-led-deal-amid-rush-for-robot-training-data/",
-    "summary": "The round for the two-year-old startup is coming together months after Mecka announced its Series A.",
-    "published": "2026-09-11T22:58:17+00:00",
-    "first_seen": "2026-09-12T06:18:39.316605+00:00"
-  },
-  {
-    "source": "TechCrunch AI",
-    "source_tier": 2,
-    "title": "Y Combinator\u2019s Garry Tan wants US open-weight AI labs to \u2018distill\u2019 frontier models, too",
-    "link": "https://techcrunch.com/2026/09/11/y-combinators-garry-tan-wants-u-s-open-weight-ai-labs-to-distill-frontier-models-too/",
-    "summary": "Tan wants smaller, American open-weight AI labs to use the same kind of training techniques on American frontier AI labs, giving the U.S. a more robust set of open-weight options that aren\u2019t Chinese.",
-    "published": "2026-09-11T20:59:47+00:00",
-    "first_seen": "2026-09-12T06:18:39.316605+00:00"
-  },
-  {
-    "source": "TechCrunch AI",
-    "source_tier": 2,
-    "title": "OpenAI\u2019s feud with mathematicians is only escalating",
-    "link": "https://techcrunch.com/2026/09/11/openais-feud-with-mathematicians-is-only-escalating/",
-    "summary": "Twenty-five leading mathematicians signed an open letter arguing that AI labs are threatening their intellectual work.",
-    "published": "2026-09-11T20:57:36+00:00",
-    "first_seen": "2026-09-12T06:18:39.316605+00:00"
-  },
-  {
-    "source": "TechCrunch AI",
-    "source_tier": 2,
-    "title": "One week left to book your exhibit table at TechCrunch Disrupt 2026",
-    "link": "https://techcrunch.com/2026/09/11/one-week-left-to-book-your-exhibit-table-at-techcrunch-disrupt-2026/",
-    "summary": "Only one week left to secure your exhibit table. Tables are limited and can sell out before the September 18 deadline.",
-    "published": "2026-09-11T20:33:18+00:00",
-    "first_seen": "2026-09-12T06:18:39.316605+00:00"
-  },
-  {
-    "source": "TechCrunch AI",
-    "source_tier": 2,
-    "title": "Final, final, final call for TechCrunch Disrupt 2026 Side Events",
-    "link": "https://techcrunch.com/2026/09/11/final-final-final-call-for-techcrunch-disrupt-2026-side-events/",
-    "summary": "The absolute last chance to apply to host an official Side Event during TechCrunch Disrupt 2026 is tonight, September 11, at 11:59 p.m. PT.",
-    "published": "2026-09-11T20:30:17+00:00",
-    "first_seen": "2026-09-12T06:18:39.316605+00:00"
-  },
-  {
-    "source": "TechCrunch AI",
-    "source_tier": 2,
-    "title": "Kimi-maker Moonshot AI targets $2B in annual revenue",
-    "link": "https://techcrunch.com/2026/09/11/kimi-maker-moonshot-ai-targets-2-billion-in-annual-revenue/",
-    "summary": "While K3's usage figures have declined slightly in recent months, OpenRouter data currently shows as many as 300 billion tokens being generated each day by K3 models on the system.",
-    "published": "2026-09-11T19:35:54+00:00",
-    "first_seen": "2026-09-12T06:18:39.316605+00:00"
-  },
-  {
-    "source": "TechCrunch AI",
-    "source_tier": 2,
-    "title": "An Anthropic researcher\u2019s doomsday warning comes at\u00a0a very interesting\u00a0time",
-    "link": "https://techcrunch.com/podcast/an-anthropic-researchers-doomsday-warning-comes-at-a-very-interesting-time/",
-    "summary": "An Anthropic researcher resigned this week,\u00a0warning in a post on X\u00a0that the company is \u201cracing straight to self-improving superintelligence and gambling with our lives\u201d.\u00a0The company\u2019s own alignment\u00a0lead\u00a0even\u00a0co-signed the message\u00a0rather than walking it back.\u00a0It\u2019s\u00a0the kind of\u00a0doom",
-    "published": "2026-09-11T18:41:49+00:00",
-    "first_seen": "2026-09-12T06:18:39.316605+00:00"
-  },
-  {
-    "source": "TechCrunch AI",
-    "source_tier": 2,
-    "title": "Nscale adds former OpenAI exec Fidji Simo to its board ahead of potential IPO",
-    "link": "https://techcrunch.com/2026/09/11/nscale-adds-former-openai-exec-fidji-simo-to-its-board-ahead-of-potential-ipo/",
-    "summary": "The No. 2 exec at OpenAI also led Instacart through its IPO in 2023.",
-    "published": "2026-09-11T16:46:25+00:00",
-    "first_seen": "2026-09-12T06:18:39.316605+00:00"
-  },
-  {
-    "source": "The Verge AI",
-    "source_tier": 2,
-    "title": "Lawyer fined $5K over AI-hallucinated witnesses in a murder case",
-    "link": "https://www.theverge.com/ai-artificial-intelligence/994207/chatgpt-new-mexico-lawyer-fined-murder-appeal",
-    "summary": "New Mexico's Supreme Court is punishing a lawyer for including AI-fabricated witnesses and fake police testimony in an appeal for his client's murder conviction, according to a report from Reuters. In a filing on Wednesday, the court fined Stephen Aarons $5,000 and held him in co",
-    "published": "2026-09-11T20:44:02+00:00",
-    "first_seen": "2026-09-12T06:18:39.316605+00:00"
-  },
-  {
-    "source": "The Verge AI",
-    "source_tier": 2,
-    "title": "Anthropic spent this week in hot water over cybersecurity",
-    "link": "https://www.theverge.com/ai-artificial-intelligence/994064/anthropic-spent-this-week-in-hot-water-over-cybersecurity",
-    "summary": "After admitting earlier this year that its AI models had hacked other companies' systems on a handful of occasions, Anthropic released a new report on Wednesday detailing the attacks. It reveals a string of incidents displaying what Anthropic deems its models' single-minded \"reck",
-    "published": "2026-09-11T16:09:14+00:00",
-    "first_seen": "2026-09-12T06:18:39.316605+00:00"
-  },
-  {
     "source": "TechCrunch AI",
     "source_tier": 2,
     "title": "OpenAI\u2019s Sam Altman says it would be \u2018ill-advised\u2019 to go public in 2026",
@@ -150,15 +51,6 @@
     "link": "https://www.theverge.com/ai-artificial-intelligence/994112/ai-data-center-pollution-health-epa",
     "summary": "President Donald Trump is weakening environmental regulations in the name of speeding up the construction of AI data centers, raising health risks for Americans, a cadre of former EPA officials said this week in a briefing and new report. They are urging - perhaps futilely - the ",
     "published": "2026-09-12T14:41:27+00:00",
-    "first_seen": "2026-09-13T06:23:06.651723+00:00"
-  },
-  {
-    "source": "The Verge AI",
-    "source_tier": 2,
-    "title": "OpenAI just wants to win",
-    "link": "https://www.theverge.com/ai-artificial-intelligence/994255/openai-millennium-prize-problem-tristan-buckmaster-competition",
-    "summary": "OpenAI has spent the last few years planting flags across the increasingly difficult terrain in mathematics. This week, it claimed one of its biggest prizes yet: a solution to a legendary Millennium Prize problem. In normal circumstances, this would have been celebrated as a hist",
-    "published": "2026-09-12T11:00:00+00:00",
     "first_seen": "2026-09-13T06:23:06.651723+00:00"
   },
   {
@@ -231,24 +123,6 @@
     "link": "https://www.zdnet.com/business/windows-11-sept-update-audio-glitch-fix-2/",
     "summary": "The September Patch Tuesday update is causing audio problems with certain USB devices, but you may be able to resolve it yourself.",
     "published": "2026-09-14T17:27:48+00:00",
-    "first_seen": "2026-09-15T06:21:09.674316+00:00"
-  },
-  {
-    "source": "ZDNet AI",
-    "source_tier": 2,
-    "title": "Switzerland takes a Swiss Army knife to Microsoft 365",
-    "link": "https://www.zdnet.com/business/switzerland-replaces-microsoft-365-open-source-opendesk/",
-    "summary": "Two divisions of Switzerland\u2019s government are shifting from Microsoft 365 to open-source openDesk. Here\u2019s why.",
-    "published": "2026-09-11T18:57:47+00:00",
-    "first_seen": "2026-09-15T06:21:09.674316+00:00"
-  },
-  {
-    "source": "ZDNet AI",
-    "source_tier": 2,
-    "title": "Your older iPhone just got free satellite service for another year \u2013 here\u2019s why",
-    "link": "https://www.zdnet.com/business/apple-extends-free-satellite-service-to-older-iphones/",
-    "summary": "This isn\u2019t the first time that Apple has extended the free two-year trial.",
-    "published": "2026-09-11T16:35:00+00:00",
     "first_seen": "2026-09-15T06:21:09.674316+00:00"
   },
   {
@@ -5794,5 +5668,167 @@
     "summary": "I'm embarking on a journey I've so far been hesitant to go on: actually using AI on the regular. Giving my most personal data to cloud services has been a major hold up for me, but it's increasingly possible to run powerful models locally to see what they're capable of. Is this t",
     "published": "2026-10-11T11:00:00+00:00",
     "first_seen": "2026-10-12T14:59:18.758256+00:00"
+  },
+  {
+    "source": "MIT Technology Review",
+    "source_tier": 2,
+    "title": "The Download: open model trade-offs and geothermal power\u2019s promise",
+    "link": "https://www.technologyreview.com/2026/10/13/1146382/the-download-open-models-trade-offs-geothermal-power/",
+    "summary": "This is today\u2019s edition of The Download, our weekday newsletter that provides a daily dose of what\u2019s going on in the world of technology. Open models have real benefits. Do they outweigh the risks? Anthropic recently released a report arguing that a powerful new model released by",
+    "published": "2026-10-13T12:00:00+00:00",
+    "first_seen": "2026-10-13T13:55:23.058699+00:00"
+  },
+  {
+    "source": "MIT Technology Review",
+    "source_tier": 2,
+    "title": "Open models have real benefits. Do they outweigh the risks?",
+    "link": "https://www.technologyreview.com/2026/10/13/1146366/open-models-have-real-benefits-do-they-outweigh-the-risks/",
+    "summary": "MIT Technology Review Explains: Let our writers untangle the complex, messy world of science and technology to help you understand what\u2019s coming next. You can read more from the series here. Late last month, Anthropic released a report arguing that the model GLM-5.3 poses a major",
+    "published": "2026-10-13T10:00:00+00:00",
+    "first_seen": "2026-10-13T13:55:23.058699+00:00"
+  },
+  {
+    "source": "MIT Technology Review",
+    "source_tier": 2,
+    "title": "AI labs are buying data from dead startups to train their models",
+    "link": "https://www.technologyreview.com/2026/10/13/1145755/ai-labs-buying-data-from-dead-startups-to-train-models/",
+    "summary": "When Keelan Miskell began winding down his crypto startup this year, he didn\u2019t think its data was worth much: the users were anonymous, the company just a few years old. But he\u2019s since turned the firm\u2019s digital archives into real money. He\u2019s netted roughly $25,000 for his code ba",
+    "published": "2026-10-13T09:00:00+00:00",
+    "first_seen": "2026-10-13T13:55:23.058699+00:00"
+  },
+  {
+    "source": "ZDNet AI",
+    "source_tier": 2,
+    "title": "Dutch tax authorities cancel Microsoft 365 cloud rollout \u2013 and turn toward open source",
+    "link": "https://www.zdnet.com/business/dutch-tax-authorities-cancel-microsoft-365-cloud-rollout/",
+    "summary": "Another European move toward digital sovereignty has curtailed adopting the US workplace suite.",
+    "published": "2026-10-13T11:50:35+00:00",
+    "first_seen": "2026-10-13T13:55:23.058699+00:00"
+  },
+  {
+    "source": "ZDNet AI",
+    "source_tier": 2,
+    "title": "Claude sent a false homicide tip to police \u2013 and it\u2019s part of a troubling AI pattern",
+    "link": "https://www.zdnet.com/innovation/claude-false-homicide-tip/",
+    "summary": "Models routinely take shortcuts to pass evaluations. Who gets to decide what incidents are innocuous?",
+    "published": "2026-10-12T17:45:44+00:00",
+    "first_seen": "2026-10-13T13:55:23.058699+00:00"
+  },
+  {
+    "source": "TechCrunch AI",
+    "source_tier": 2,
+    "title": "SpaceXSI bundles X Premium, Grok and Cursor into one subscription",
+    "link": "https://techcrunch.com/2026/10/13/spacexsi-bundles-x-premium-grok-and-cursor-into-one-subscription/",
+    "summary": "The new X Subscription combines X's paid features with AI tools like Grok and Cursor, offering plans ranging from $8 to $200 per month.",
+    "published": "2026-10-13T13:50:19+00:00",
+    "first_seen": "2026-10-13T13:55:23.058699+00:00"
+  },
+  {
+    "source": "TechCrunch AI",
+    "source_tier": 2,
+    "title": "The final Disrupt Stage lineup: Three days of conversations you won\u2019t hear anywhere outside of TechCrunch Disrupt 2026",
+    "link": "https://techcrunch.com/2026/10/13/the-final-disrupt-stage-lineup-three-days-of-conversations-you-wont-hear-anywhere-outside-of-techcrunch-disrupt-2026/",
+    "summary": "The full TechCrunch Disrupt Stage lineup revealed, featuring Max Hodak, Mark Wahlberg, Benchmark partners, and more. Register now to save up to $100 on your pass and get a second at 50% off.",
+    "published": "2026-10-13T13:28:06+00:00",
+    "first_seen": "2026-10-13T13:55:23.058699+00:00"
+  },
+  {
+    "source": "TechCrunch AI",
+    "source_tier": 2,
+    "title": "Amex introduces a framework to prevent AI agents from making unauthorized purchases",
+    "link": "https://techcrunch.com/2026/10/13/amex-introduces-a-framework-to-prevent-ai-agents-from-making-unauthorized-purchases/",
+    "summary": "American Express is introducing a new framework designed to ensure AI agents only make purchases their users have authorized, potentially preventing costly mistakes and disputes as AI-powered shopping grows.",
+    "published": "2026-10-13T13:00:00+00:00",
+    "first_seen": "2026-10-13T13:55:23.058699+00:00"
+  },
+  {
+    "source": "TechCrunch AI",
+    "source_tier": 2,
+    "title": "Just 5 years in, interactive chatbot platform Character.AI files for bankruptcy",
+    "link": "https://techcrunch.com/2026/10/13/just-5-years-in-interactive-chatbot-platform-character-ai-files-for-bankruptcy/",
+    "summary": "The startup will sell some of its assets to Disney for $20 million.",
+    "published": "2026-10-13T12:23:42+00:00",
+    "first_seen": "2026-10-13T13:55:23.058699+00:00"
+  },
+  {
+    "source": "TechCrunch AI",
+    "source_tier": 2,
+    "title": "Meta releases its first frontier model, Muse Wonder",
+    "link": "https://techcrunch.com/2026/10/12/meta-releases-its-first-frontier-model-muse-wonder/",
+    "summary": "Where Muse Spark aimed to be a lightweight model that could perform at low latency, the Wonder models are larger and said to be more capable, with higher benchmark scores and better results on complex tasks like coding.",
+    "published": "2026-10-12T17:56:56+00:00",
+    "first_seen": "2026-10-13T13:55:23.058699+00:00"
+  },
+  {
+    "source": "TechCrunch AI",
+    "source_tier": 2,
+    "title": "WindBorne wins a hefty US Air Force contract for its balloon data",
+    "link": "https://techcrunch.com/2026/10/12/windborne-wins-a-hefty-us-air-force-contract-for-its-balloon-data/",
+    "summary": "A Silicon Valley startup that uses weather balloons and AI to predict the weather won a U.S. military contract worth almost $50 million.",
+    "published": "2026-10-12T17:19:14+00:00",
+    "first_seen": "2026-10-13T13:55:23.058699+00:00"
+  },
+  {
+    "source": "TechCrunch AI",
+    "source_tier": 2,
+    "title": "Honeyjar offers AI tools to improve PR and comms at every company",
+    "link": "https://techcrunch.com/2026/10/12/honeyjar-offers-ai-tools-to-improve-pr-and-comms-at-every-company/",
+    "summary": "Journalists, entrepreneurs, and even some public relations professionals will tell you that the PR process is broken. But could AI actually make things better?",
+    "published": "2026-10-12T15:45:00+00:00",
+    "first_seen": "2026-10-13T13:55:23.058699+00:00"
+  },
+  {
+    "source": "TechCrunch AI",
+    "source_tier": 2,
+    "title": "Microsoft president says UK is best placed to drive AI regulation",
+    "link": "https://techcrunch.com/2026/10/12/microsoft-president-says-uk-is-best-placed-to-drive-ai-regulation/",
+    "summary": "Microsoft president Brad Smith calls for urgent AI regulation, saying milk and washing machines have more oversight than AI companies.",
+    "published": "2026-10-12T15:31:19+00:00",
+    "first_seen": "2026-10-13T13:55:23.058699+00:00"
+  },
+  {
+    "source": "TechCrunch AI",
+    "source_tier": 2,
+    "title": "This AI startup says it can generate permit-ready blueprints in minutes",
+    "link": "https://techcrunch.com/2026/10/12/this-ai-startup-says-it-can-generate-permit-ready-blueprints-in-minutes/",
+    "summary": "Blueprints AI, a bootstrapped startup based in Santa Monica, developed software that produces code-compliant construction blueprints from a photo, PDF, or sketch.",
+    "published": "2026-10-12T15:27:59+00:00",
+    "first_seen": "2026-10-13T13:55:23.058699+00:00"
+  },
+  {
+    "source": "The Verge AI",
+    "source_tier": 2,
+    "title": "Apple launches HomeView, its first smart display for the home",
+    "link": "https://www.theverge.com/tech/1009704/apple-homeview-smart-display-first-look",
+    "summary": "It's finally here: Apple's long-rumored smart display, the Apple HomeView, has arrived. I got a first look at the device in New York City this week, and it's gorgeous. The HomeView puts a small, vibrant screen atop a speaker base for taking video calls, beautifully displaying pho",
+    "published": "2026-10-13T13:00:00+00:00",
+    "first_seen": "2026-10-13T13:55:23.058699+00:00"
+  },
+  {
+    "source": "The Verge AI",
+    "source_tier": 2,
+    "title": "Character.AI files for bankruptcy",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/1009802/character-ai-files-for-bankruptcy-disney",
+    "summary": "Character.AI, one of the first breakout startups of the generative AI boom, has filed for bankruptcy and is selling some of its assets to Disney. The company, which builds various online bots for users to chat or roleplay with, has faced mounting scrutiny and lawsuits over the sa",
+    "published": "2026-10-13T10:32:23+00:00",
+    "first_seen": "2026-10-13T13:55:23.058699+00:00"
+  },
+  {
+    "source": "The Verge AI",
+    "source_tier": 2,
+    "title": "Meta has some Wonder Full new AI models",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/1009479/meta-muse-wonder-full-ai-model",
+    "summary": "Meta is making up for lost time in the AI race. After launching Muse Spark, the first model from its revamped Superintelligence Labs division, and buzzy AI agent Muse, it's now launching two new models it claims can go toe-to-toe with the industry's best. The new models, Muse Won",
+    "published": "2026-10-12T17:00:00+00:00",
+    "first_seen": "2026-10-13T13:55:23.058699+00:00"
+  },
+  {
+    "source": "The Verge AI",
+    "source_tier": 2,
+    "title": "Microsoft\u2019s new AI chip makes it less reliant on Nvidia\u2019s GPUs",
+    "link": "https://www.theverge.com/news/1009465/microsoft-maia-300-chip-improvements-rollout",
+    "summary": "Microsoft is announcing its third-generation Maia in-house AI chip today, designed to be the \"primary AI inference system\" for Microsoft's products and services. Maia 300 not only improves the cost and efficiency of running AI workloads in the cloud, it's also more capable of han",
+    "published": "2026-10-12T13:00:00+00:00",
+    "first_seen": "2026-10-13T13:55:23.058699+00:00"
   }
 ]

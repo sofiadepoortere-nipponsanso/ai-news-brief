@@ -2,60 +2,6 @@
   {
     "source": "TechCrunch AI",
     "source_tier": 2,
-    "title": "OpenAI\u2019s Sam Altman says it would be \u2018ill-advised\u2019 to go public in 2026",
-    "link": "https://techcrunch.com/2026/09/12/openais-sam-altman-says-it-would-be-ill-advised-to-go-public-in-2026/",
-    "summary": "While OpenAI has filed confidentially for an IPO, the company will not be going public this year, according to CEO Sam Altman.",
-    "published": "2026-09-12T20:19:16+00:00",
-    "first_seen": "2026-09-13T06:23:06.651723+00:00"
-  },
-  {
-    "source": "TechCrunch AI",
-    "source_tier": 2,
-    "title": "Anthropic CEO outlines plan to slow AI development",
-    "link": "https://techcrunch.com/2026/09/12/anthropic-ceo-outlines-plan-to-pace-the-frontier/",
-    "summary": "Anthropic's Dario Amodei and OpenAI's Sam Altman seem to agree that it's time to \"pace the frontier.\" What would that actually look like?",
-    "published": "2026-09-12T19:34:44+00:00",
-    "first_seen": "2026-09-13T06:23:06.651723+00:00"
-  },
-  {
-    "source": "The Verge AI",
-    "source_tier": 2,
-    "title": "OpenAI\u2019s rogue AI tried to hack another company in May",
-    "link": "https://www.theverge.com/ai-artificial-intelligence/994383/openais-rogue-ai-rubygems-hack",
-    "summary": "In May, hundreds of malicious and spam packages were uploaded to RubyGems, causing a serious disruption for the host. Now independent researchers have said that a swarm of OpenAI agents were responsible for the attack. Not only that, but the AI tried to steal users' API keys. At ",
-    "published": "2026-09-12T21:41:36+00:00",
-    "first_seen": "2026-09-13T06:23:06.651723+00:00"
-  },
-  {
-    "source": "The Verge AI",
-    "source_tier": 2,
-    "title": "Sam Altman says OpenAI going public in 2026 would be \u2018ill-advised\u2019",
-    "link": "https://www.theverge.com/ai-artificial-intelligence/994384/sam-altman-no-openai-ipo-ill-advised",
-    "summary": "OpenAI CEO Sam Altman confirmed that there would be no OpenAI IPO in 2026 during an interview with Fortune. Over the course of 45 minutes, Altman discussed a variety of subjects including the Hugging Face hacking incident, recursive self-improvement, and the possibility of buildi",
-    "published": "2026-09-12T21:16:28+00:00",
-    "first_seen": "2026-09-13T06:23:06.651723+00:00"
-  },
-  {
-    "source": "The Verge AI",
-    "source_tier": 2,
-    "title": "Anthropic CEO says it\u2019s time to pump the brakes on AI",
-    "link": "https://www.theverge.com/ai-artificial-intelligence/994337/anthropic-ceo-slow-down-ai-development",
-    "summary": "Anthropic CEO Dario Amodei says the time has come to slow down AI development and will give third-party evaluators like METR access to its models to help ensure its \"adherence to safety practices and commitments.\" In a winding essay, Amodei proposed a three-step plan to \"pace the",
-    "published": "2026-09-12T16:23:40+00:00",
-    "first_seen": "2026-09-13T06:23:06.651723+00:00"
-  },
-  {
-    "source": "The Verge AI",
-    "source_tier": 2,
-    "title": "Trump is giving data centers a pass to pollute",
-    "link": "https://www.theverge.com/ai-artificial-intelligence/994112/ai-data-center-pollution-health-epa",
-    "summary": "President Donald Trump is weakening environmental regulations in the name of speeding up the construction of AI data centers, raising health risks for Americans, a cadre of former EPA officials said this week in a briefing and new report. They are urging - perhaps futilely - the ",
-    "published": "2026-09-12T14:41:27+00:00",
-    "first_seen": "2026-09-13T06:23:06.651723+00:00"
-  },
-  {
-    "source": "TechCrunch AI",
-    "source_tier": 2,
     "title": "What\u2019s behind the AI industry\u2019s latest warnings of doom?",
     "link": "https://techcrunch.com/2026/09/13/whats-behind-the-ai-industrys-latest-warnings-of-doom/",
     "summary": "On Equity, we discussed the AI industry's latest debate about whether it poses an existential threat to humanity.",
@@ -5830,5 +5776,284 @@
     "summary": "Microsoft is announcing its third-generation Maia in-house AI chip today, designed to be the \"primary AI inference system\" for Microsoft's products and services. Maia 300 not only improves the cost and efficiency of running AI workloads in the cloud, it's also more capable of han",
     "published": "2026-10-12T13:00:00+00:00",
     "first_seen": "2026-10-13T13:55:23.058699+00:00"
+  },
+  {
+    "source": "Azure AI Blog",
+    "source_tier": 1,
+    "title": "Deep dive into Azure Maia 300 architecture",
+    "link": "https://azure.microsoft.com/en-us/blog/deep-dive-into-azure-maia-300-architecture/",
+    "summary": "Maia 300 operates as a single platform to meet the demands of cloud-scale agentic inference.\nThe post Deep dive into Azure Maia 300 architecture appeared first on Microsoft Azure Blog.",
+    "published": "2026-10-12T13:00:00+00:00",
+    "first_seen": "2026-10-14T11:32:32.180131+00:00"
+  },
+  {
+    "source": "Power BI Blog",
+    "source_tier": 1,
+    "title": "Amazon Redshift V2 Connector for Microsoft Data Factory",
+    "link": "https://community.fabric.microsoft.com/t5/Power-BI-Updates-Blog/Amazon-Redshift-V2-Connector-for-Microsoft-Data-Factory/ba-p/5365631",
+    "summary": "Microsoft is updating our Amazon Redshift connector to use the new Amazon Redshift ODBC 2.x driver.\nWhat\u2019s new and why upgrade\nMicrosoft and Amazon Redshift have been collaborating to provide our shared customers with an industry-leading, improved security, connectivity experienc",
+    "published": "2026-10-13T19:00:00+00:00",
+    "first_seen": "2026-10-14T11:32:32.180131+00:00"
+  },
+  {
+    "source": "MIT Technology Review",
+    "source_tier": 2,
+    "title": "The US military\u2019s race to make fake blood",
+    "link": "https://www.technologyreview.com/2026/10/14/1145807/us-military-race-to-make-fake-blood/",
+    "summary": "Its call sign was Morphine 1-2. \u00a0 In February 2007, the hulking dual-\u00adrotor casualty evacuation helicopter had just flown three wounded soldiers to a field hospital in Balad, north of Baghdad, when another call came: an emergency mission to fly through an insurgent-controlled are",
+    "published": "2026-10-14T09:00:00+00:00",
+    "first_seen": "2026-10-14T11:32:32.180131+00:00"
+  },
+  {
+    "source": "ZDNet AI",
+    "source_tier": 2,
+    "title": "Linus Torvalds is using AI to develop Linux kernel code now",
+    "link": "https://www.zdnet.com/innovation/linus-torvalds-uses-ai-to-write-linux-kernel-patch/",
+    "summary": "The move is a turning point in the developer\u2019s relationship with AI and Linux.",
+    "published": "2026-10-13T17:30:46+00:00",
+    "first_seen": "2026-10-14T11:32:32.180131+00:00"
+  },
+  {
+    "source": "ZDNet AI",
+    "source_tier": 2,
+    "title": "Google lets you make personal Android apps for free now \u2013 with just prompts",
+    "link": "https://www.zdnet.com/tech/custom-android-apps-google-ai-studio/",
+    "summary": "It just got a whole lot easier to vibe code the exact Android app you need \u2013 no developer experience required.",
+    "published": "2026-10-13T17:00:00+00:00",
+    "first_seen": "2026-10-14T11:32:32.180131+00:00"
+  },
+  {
+    "source": "ZDNet AI",
+    "source_tier": 2,
+    "title": "Apple\u2019s smart home event: All 7 devices, prices, and release dates",
+    "link": "https://www.zdnet.com/uncategorized/apple-smart-home-event-homeview-homepod-mini-new-apple-tv/",
+    "summary": "Apple\u2019s \u201cWelcome Home\u201d event featured all the new smart home hardware coming to the Apple lineup.",
+    "published": "2026-10-13T15:37:27+00:00",
+    "first_seen": "2026-10-14T11:32:32.180131+00:00"
+  },
+  {
+    "source": "ZDNet AI",
+    "source_tier": 2,
+    "title": "4 upgrades HomePod Mini 2 has over its 6-year-old predecessor",
+    "link": "https://www.zdnet.com/home-and-office/upgrades-homepod-mini-2026-has-over-predecessor/",
+    "summary": "HomePod mini 2 is here, and there are four major upgrades that separate it from the first generation.",
+    "published": "2026-10-13T15:28:12+00:00",
+    "first_seen": "2026-10-14T11:32:32.180131+00:00"
+  },
+  {
+    "source": "ZDNet AI",
+    "source_tier": 2,
+    "title": "Apple\u2019s $299 HomeView smart hub is here: 8 highlights, including the wall model",
+    "link": "https://www.zdnet.com/home-and-office/apple-homeview-smart-home-hub-features-price/",
+    "summary": "As an Apple Home user, here\u2019s what stands out about Apple\u2019s new smart home hub \u2013 and what I want to test firsthand.",
+    "published": "2026-10-13T14:31:03+00:00",
+    "first_seen": "2026-10-14T11:32:32.180131+00:00"
+  },
+  {
+    "source": "TechCrunch AI",
+    "source_tier": 2,
+    "title": "Scimplify raises $25M to challenge China\u2019s grip on critical materials with AI",
+    "link": "https://techcrunch.com/2026/10/14/scimplify-raises-25m-to-challenge-chinas-grip-on-critical-materials-with-ai/",
+    "summary": "Scimplify's annualized revenue run rate has tripled to $200 million as it eyes U.S. expansion.",
+    "published": "2026-10-14T11:00:00+00:00",
+    "first_seen": "2026-10-14T11:32:32.180131+00:00"
+  },
+  {
+    "source": "TechCrunch AI",
+    "source_tier": 2,
+    "title": "Science Corporation implants its vision-restoring chip in its first Stargardt disease patient",
+    "link": "https://techcrunch.com/2026/10/13/science-corporation-implants-its-vision-restoring-chip-in-its-first-stargardt-disease-patient/",
+    "summary": "Max Hodak, the former president and co-founder of Neuralink, detailed onstage at TechCrunch Disrupt how his company's work with PRIMA is part of its path toward a novel brain-computer interface (BCI).",
+    "published": "2026-10-13T23:13:31+00:00",
+    "first_seen": "2026-10-14T11:32:32.180131+00:00"
+  },
+  {
+    "source": "TechCrunch AI",
+    "source_tier": 2,
+    "title": "Cerebras CEO says we\u2019re nearing a future where everyone has a personal AI assistant at home",
+    "link": "https://techcrunch.com/2026/10/13/cerebras-ceo-says-were-nearing-a-future-where-everyone-has-a-personal-ai-assistant-at-home/",
+    "summary": "Cerebras CEO Andrew Feldman predicts a future where personal AI assistants become as commonplace as household appliances, running partly on local devices and partly in the cloud.",
+    "published": "2026-10-13T23:05:34+00:00",
+    "first_seen": "2026-10-14T11:32:32.180131+00:00"
+  },
+  {
+    "source": "TechCrunch AI",
+    "source_tier": 2,
+    "title": "Industrial Next wants factory robots to switch tasks in minutes, not weeks",
+    "link": "https://techcrunch.com/2026/10/13/industrial-next-wants-factory-robots-to-switch-tasks-in-minutes-not-weeks/",
+    "summary": "Industrial Next helps manufacturers automate complex, delicate tasks that have traditionally required human labor.",
+    "published": "2026-10-13T23:00:00+00:00",
+    "first_seen": "2026-10-14T11:32:32.180131+00:00"
+  },
+  {
+    "source": "TechCrunch AI",
+    "source_tier": 2,
+    "title": "Cerebras CEO pushes back on AI doomsday warnings",
+    "link": "https://techcrunch.com/2026/10/13/cerebras-ceo-pushes-back-on-ai-doomsday-warnings/",
+    "summary": "Cerebras CEO Andrew Feldman has a message for AI leaders spreading doomsday warnings: Maybe stop talking? At TechCrunch Disrupt, he argued that the industry's focus on AI's risks is drowning out its potential benefits.",
+    "published": "2026-10-13T22:36:59+00:00",
+    "first_seen": "2026-10-14T11:32:32.180131+00:00"
+  },
+  {
+    "source": "TechCrunch AI",
+    "source_tier": 2,
+    "title": "Judge orders OpenAI to turn over hiring records in Apple trade secrets case",
+    "link": "https://techcrunch.com/2026/10/13/judge-orders-openai-to-turn-over-hiring-records-in-apple-trade-secrets-case/",
+    "summary": "A federal judge ruled that Apple can access OpenAI's interview materials involving former Apple employees, as well as private messages and testimony from key figures in the case.",
+    "published": "2026-10-13T20:36:44+00:00",
+    "first_seen": "2026-10-14T11:32:32.180131+00:00"
+  },
+  {
+    "source": "TechCrunch AI",
+    "source_tier": 2,
+    "title": "Flox Intelligence is building AI to keep wildlife away from trains, airports, and roads",
+    "link": "https://techcrunch.com/2026/10/13/flox-intelligence-is-building-ai-to-keep-wildlife-away-from-trains-airports-and-roads/",
+    "summary": "Flox's edge devices can identify animals and use species-specific sounds to drive them away from critical infrastructure.",
+    "published": "2026-10-13T18:30:00+00:00",
+    "first_seen": "2026-10-14T11:32:32.180131+00:00"
+  },
+  {
+    "source": "TechCrunch AI",
+    "source_tier": 2,
+    "title": "Facebook is giving users more control over their algorithm",
+    "link": "https://techcrunch.com/2026/10/13/facebook-is-giving-users-more-control-over-their-algorithm/",
+    "summary": "Meta announced the launch of its new AI-powered feature, \u201cYour Algorithm,\u201d a feature it first launched on Instagram.",
+    "published": "2026-10-13T18:05:24+00:00",
+    "first_seen": "2026-10-14T11:32:32.180131+00:00"
+  },
+  {
+    "source": "TechCrunch AI",
+    "source_tier": 2,
+    "title": "Laplace Intelligence red-teams robots and self-driving cars before they hit the real world",
+    "link": "https://techcrunch.com/2026/10/13/laplace-intelligence-red-teams-robots-and-self-driving-cars-before-they-hit-the-real-world/",
+    "summary": "University of Michigan spinout Laplace Intelligence uses AI agents and interactive simulation to stress-test robots and self-driving vehicles before deployment. The profitable startup is competing in Startup Battlefield at TechCrunch Disrupt, October 13-15 in San Francisco.",
+    "published": "2026-10-13T17:30:00+00:00",
+    "first_seen": "2026-10-14T11:32:32.180131+00:00"
+  },
+  {
+    "source": "TechCrunch AI",
+    "source_tier": 2,
+    "title": "Pluto Security raises $42M as AI gives enterprise security teams a new headache",
+    "link": "https://techcrunch.com/2026/10/13/pluto-security-raises-42m-as-ai-gives-enterprise-security-teams-a-new-headache/",
+    "summary": "The problem with giving everyone in a company access to AI tools is that people will use them in unexpected ways. And that fact is steadily seeding fears that companies now have new, gaping security holes in their systems or, at least, will soon.",
+    "published": "2026-10-13T17:18:25+00:00",
+    "first_seen": "2026-10-14T11:32:32.180131+00:00"
+  },
+  {
+    "source": "TechCrunch AI",
+    "source_tier": 2,
+    "title": "Google Play now lets anyone build private, vibe-coded apps that run on Android",
+    "link": "https://techcrunch.com/2026/10/13/google-play-now-supports-private-vibe-coded-apps-built-just-for-you/",
+    "summary": "Google is making it easier to build and use personal Android apps created with AI, without having to make them available to everyone on the Play Store.",
+    "published": "2026-10-13T17:00:00+00:00",
+    "first_seen": "2026-10-14T11:32:32.180131+00:00"
+  },
+  {
+    "source": "TechCrunch AI",
+    "source_tier": 2,
+    "title": "SpaceX and Google both said no. Now his software is riding a SpaceX rocket next to Google\u2019s",
+    "link": "https://techcrunch.com/2026/10/13/satlyt-founded-by-a-former-google-and-spacex-product-manager-raises-8m-to-run-ai-on-satellites/",
+    "summary": "Satlyt wants to be the Android of orbital computing, offering open software that works on many companies' satellites, versus SpaceX's closed, all-in-one iPhone-style approach.",
+    "published": "2026-10-13T16:30:00+00:00",
+    "first_seen": "2026-10-14T11:32:32.180131+00:00"
+  },
+  {
+    "source": "TechCrunch AI",
+    "source_tier": 2,
+    "title": "TechCrunch Disrupt 2026: Day 1",
+    "link": "https://techcrunch.com/2026/10/13/techcrunch-disrupt-2026-day-1/",
+    "summary": "TechCrunch Disrupt 2026 officially kicks off today. See what's in store for Day 1 (Oct. 13) at San Francisco's Moscone West. Don't miss it. Register for your pass now and meet 10,000+ tech leaders at the startup epicenter of the year.",
+    "published": "2026-10-13T14:00:00+00:00",
+    "first_seen": "2026-10-14T11:32:32.180131+00:00"
+  },
+  {
+    "source": "The Verge AI",
+    "source_tier": 2,
+    "title": "OpenAI employee arrested for allegedly planting a bug in a conference room",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/1010642/openai-employee-arrested-recording-device",
+    "summary": "An OpenAI engineer was arrested after the company said it discovered a \"sophisticated recording device\" hidden in one of its offices. The employee was identified as Abdulrahman Alfozan, a 35-year-old Saudi national. Alfozan is charged with using or endeavoring to use a device to ",
+    "published": "2026-10-13T20:45:25+00:00",
+    "first_seen": "2026-10-14T11:32:32.180131+00:00"
+  },
+  {
+    "source": "The Verge AI",
+    "source_tier": 2,
+    "title": "Shopify opens its catalog up to more AI agents",
+    "link": "https://www.theverge.com/news/1010365/shopify-opens-its-catalog-up-to-more-ai-agents",
+    "summary": "More AI agents will soon be able to browse and purchase from Shopify listings, marking an expansion of the company's agentic commerce ambitions. Shopify announced Tuesday it will let shoppers configure their AI agents to purchase products on their behalf, giving more agents acces",
+    "published": "2026-10-13T19:42:42+00:00",
+    "first_seen": "2026-10-14T11:32:32.180131+00:00"
+  },
+  {
+    "source": "The Verge AI",
+    "source_tier": 2,
+    "title": "Xbox is officially embracing the chaos of AI-powered game ports",
+    "link": "https://www.theverge.com/news/1010406/xbox-labs-game-decompiling-emulation-exploration",
+    "summary": "Retro gaming is going through a wild time at the moment, thanks to decompilations and recompilations that are letting gamers port classic titles to new devices, or merge code from two different games into a single new experience. Microsoft has witnessed skateboarding being modded",
+    "published": "2026-10-13T19:00:48+00:00",
+    "first_seen": "2026-10-14T11:32:32.180131+00:00"
+  },
+  {
+    "source": "The Verge AI",
+    "source_tier": 2,
+    "title": "I don\u2019t miss the camera on the Ray-Ban Meta Audio glasses",
+    "link": "https://www.theverge.com/tech/1009128/ray-ban-meta-audio-glasses-review-smart-glasses-headphones-wearables",
+    "summary": "The other day I whizzed past several people while running in the park, my playlist blasting at full volume. The next morning, I smiled at a barista while ordering a caramel apple-flavored matcha latte. Afterward, I sat on a park bench reading a book, called up a pal to chat about",
+    "published": "2026-10-13T18:00:00+00:00",
+    "first_seen": "2026-10-14T11:32:32.180131+00:00"
+  },
+  {
+    "source": "The Verge AI",
+    "source_tier": 2,
+    "title": "Facebook will let you customize your feed algorithm using AI",
+    "link": "https://www.theverge.com/tech/1010344/meta-facebook-your-algorithm-ai",
+    "summary": "Facebook's new \"Your Algorithm\" feature will let you directly add and manage topics you want to see in your feed and Facebook Reels. Meta says your recommendations \"respond right away\" after you make updates using the new feature by hitting \"interested\" or \"not interested\" for di",
+    "published": "2026-10-13T17:01:31+00:00",
+    "first_seen": "2026-10-14T11:32:32.180131+00:00"
+  },
+  {
+    "source": "The Verge AI",
+    "source_tier": 2,
+    "title": "Google makes it easier to launch your vibe-coded apps",
+    "link": "https://www.theverge.com/tech/1009066/google-play-vibe-coded-android-apps-launch",
+    "summary": "The next time you vibe-code a custom app with Google's AI Studio, you won't have to connect your phone to a computer to install it. On Tuesday, Google announced a new feature in the US that will allow you to launch personal apps directly through the Play Store. Google first launc",
+    "published": "2026-10-13T17:00:00+00:00",
+    "first_seen": "2026-10-14T11:32:32.180131+00:00"
+  },
+  {
+    "source": "The Verge AI",
+    "source_tier": 2,
+    "title": "It\u2019s \u2018incomprehensible\u2019 that Instagram allowed an AI image of Mia Goth to spread, say her reps",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/1010277/mia-goth-instagram-ai-shirt-deepfake-divorce",
+    "summary": "Earlier this month, news broke that actress Mia Goth had filed for divorce from actor and filmmaker Shia LaBeouf. An Instagram post from the account miagoth_ - marked with a blue verified checkmark - quickly spread. The post shows Goth in a T-shirt that reads \"MY EX IS MY BIGGEST",
+    "published": "2026-10-13T16:42:51+00:00",
+    "first_seen": "2026-10-14T11:32:32.180131+00:00"
+  },
+  {
+    "source": "The Verge AI",
+    "source_tier": 2,
+    "title": "Google finally releases Gemini 4 Argon",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/1009862/google-releases-gemini-4-argon",
+    "summary": "After months sitting on the sidelines of the frontier AI race, Google has finally launched its long-awaited Gemini 4 Argon model, claiming it can compete with the best the industry has to offer. Google says Argon delivers \"frontier reasoning and improved performance across comple",
+    "published": "2026-10-13T16:00:00+00:00",
+    "first_seen": "2026-10-14T11:32:32.180131+00:00"
+  },
+  {
+    "source": "The Verge AI",
+    "source_tier": 2,
+    "title": "Epic shifts to \u2018AI-accelerated development\u2019 for upcoming Disney game",
+    "link": "https://www.theverge.com/games/1010097/epic-games-disney-project-ai-coding-art",
+    "summary": "Epic Games plans to use AI to generate code and art for an unannounced Disney game, which is now delayed from its original March release window, according to a report from Bloomberg. The project's developers have been given an \"AI-first\" mandate directing them to use tools like A",
+    "published": "2026-10-13T15:12:59+00:00",
+    "first_seen": "2026-10-14T11:32:32.180131+00:00"
+  },
+  {
+    "source": "The Verge AI",
+    "source_tier": 2,
+    "title": "DLSS 5 gets toned down for its Hogwarts Legacy debut next month",
+    "link": "https://www.theverge.com/news/1009904/dlss-5-hogwarts-legacy-changes-improvements",
+    "summary": "When Nvidia originally showed off DLSS 5 earlier this year, the technology immediately got branded as gen AI for video games. To gamers, Nvidia had lost the plot. I personally couldn't get over how faces were transformed using DLSS 5. The 15-year-old student from Hogwarts Legacy ",
+    "published": "2026-10-13T13:55:45+00:00",
+    "first_seen": "2026-10-14T11:32:32.180131+00:00"
   }
 ]

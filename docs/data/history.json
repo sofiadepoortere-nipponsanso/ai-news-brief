@@ -2,204 +2,6 @@
   {
     "source": "MIT Technology Review",
     "source_tier": 2,
-    "title": "Roundtables: Could AI really kill us all?",
-    "link": "https://www.technologyreview.com/2026/09/15/1143936/roundtables-will-ai-really-kill-us-all/",
-    "summary": "Listen to the session or watch below Employees at the world\u2019s leading AI labs are saying there\u2019s a real possibility that advanced AI could destroy humanity. Are they right? Or is this more scaremongering and hype? Watch a conversation unpacking AI extinction fears: where they com",
-    "published": "2026-09-15T17:47:51+00:00",
-    "first_seen": "2026-09-16T06:20:36.392561+00:00"
-  },
-  {
-    "source": "MIT Technology Review",
-    "source_tier": 2,
-    "title": "The Download: AI doomers, whistleblowing agents, and de-aged livers",
-    "link": "https://www.technologyreview.com/2026/09/15/1144141/the-download-ai-extinction-whistleblowing-agents-donated-livers/",
-    "summary": "This is today\u2019s edition of The Download, our weekday newsletter that provides a daily dose of what\u2019s going on in the world of technology. The AI industry has taken a doomer turn. What now? AI chiefs Dario Amodei, Sam Altman, Elon Musk, and Demis Hassabis are suddenly all in agree",
-    "published": "2026-09-15T12:10:00+00:00",
-    "first_seen": "2026-09-16T06:20:36.392561+00:00"
-  },
-  {
-    "source": "MIT Technology Review",
-    "source_tier": 2,
-    "title": "AI models need more data about biology, and OpenAI is paying to create it",
-    "link": "https://www.technologyreview.com/2026/09/15/1144129/ai-models-need-more-data-about-biology-and-openai-is-paying-to-create-it/",
-    "summary": "Last year Ruxandra Teslo, a policy analyst who focuses on clinical trials, posted an idea for supercharging medical AI systems: Use data from failed biotech companies. By bidding at their bankruptcy proceedings, she proposed, it might be possible to obtain detailed regulatory fil",
-    "published": "2026-09-15T12:00:00+00:00",
-    "first_seen": "2026-09-16T06:20:36.392561+00:00"
-  },
-  {
-    "source": "ZDNet AI",
-    "source_tier": 2,
-    "title": "iOS 27 is finally here, with the new Siri AI beta \u2013 and 120 security patches",
-    "link": "https://www.zdnet.com/business/ios-27-siri-ai-beta-how-to-try/",
-    "summary": "Even if you\u2019re not ready for iOS 27, there\u2019s an important new update for you too. Here\u2019s what\u2019s new.",
-    "published": "2026-09-15T13:13:10+00:00",
-    "first_seen": "2026-09-16T06:20:36.392561+00:00"
-  },
-  {
-    "source": "TechCrunch AI",
-    "source_tier": 2,
-    "title": "We don\u2019t need AI regulation \u2014 leave safety to us, Nvidia\u2019s Jensen Huang says",
-    "link": "https://techcrunch.com/2026/09/15/we-dont-need-ai-regulation-leave-safety-to-us-nvidias-jensen-huang-says/",
-    "summary": "AI isn't some new form of \"alien mind,\" according to Jensen Huang. It's just hardware and software, so safety can be engineered by each AI product maker.",
-    "published": "2026-09-16T00:20:39+00:00",
-    "first_seen": "2026-09-16T06:20:36.392561+00:00"
-  },
-  {
-    "source": "TechCrunch AI",
-    "source_tier": 2,
-    "title": "The AI data center boom is colliding with cities scarred by big industry",
-    "link": "https://techcrunch.com/2026/09/15/the-ai-data-center-boom-is-colliding-with-cities-scarred-by-big-industry/",
-    "summary": "National outcry against data center construction has spread to Philadelphia, where officials suggested possible construction in a neighborhood already impacted by a now-defunct oil refinery.",
-    "published": "2026-09-15T21:47:38+00:00",
-    "first_seen": "2026-09-16T06:20:36.392561+00:00"
-  },
-  {
-    "source": "TechCrunch AI",
-    "source_tier": 2,
-    "title": "Meta now lets AI agents handle the boring parts of WhatsApp Business setup",
-    "link": "https://techcrunch.com/2026/09/15/meta-now-lets-ai-agents-handle-the-boring-parts-of-whatsapp-business-setup/",
-    "summary": "A new WhatsApp Business MCP server lets developers use AI coding agents like Claude, Cursor, Codex, and ChatGPT to handle setup, messaging templates, testing, and troubleshooting.",
-    "published": "2026-09-15T20:12:53+00:00",
-    "first_seen": "2026-09-16T06:20:36.392561+00:00"
-  },
-  {
-    "source": "TechCrunch AI",
-    "source_tier": 2,
-    "title": "The AI graveyard: a running list of projects and startups that didn\u2019t make it",
-    "link": "https://techcrunch.com/2026/09/15/the-ai-graveyard-a-running-list-of-projects-and-startups-that-didnt-make-it/",
-    "summary": "From Apple's repeatedly delayed Siri AI to OpenAI's messy \"super app\" launch, here's a look at the AI projects that shut down or missed expectations.",
-    "published": "2026-09-15T19:00:00+00:00",
-    "first_seen": "2026-09-16T06:20:36.392561+00:00"
-  },
-  {
-    "source": "TechCrunch AI",
-    "source_tier": 2,
-    "title": "US data centers could consume more natural gas than Germany and Japan combined by 2035",
-    "link": "https://techcrunch.com/2026/09/15/us-data-centers-could-consume-more-natural-gas-than-germany-and-japan-combined-by-2035/",
-    "summary": "The AI frenzy could push U.S. data centers to become one of the largest consumers of natural gas in the world.",
-    "published": "2026-09-15T18:29:20+00:00",
-    "first_seen": "2026-09-16T06:20:36.392561+00:00"
-  },
-  {
-    "source": "TechCrunch AI",
-    "source_tier": 2,
-    "title": "AI agents now have a place to snitch",
-    "link": "https://techcrunch.com/2026/09/15/ai-agents-now-have-a-place-to-snitch/",
-    "summary": "The AI Contact Hotline is designed to be a discreet place where agents that have witnessed misbehavior can tip off authorities.",
-    "published": "2026-09-15T17:42:59+00:00",
-    "first_seen": "2026-09-16T06:20:36.392561+00:00"
-  },
-  {
-    "source": "TechCrunch AI",
-    "source_tier": 2,
-    "title": "Meta expands subscription push with new AI-focused plans",
-    "link": "https://techcrunch.com/2026/09/15/meta-expands-subscription-push-with-new-ai-focused-plans/",
-    "summary": "Meta One bundles expanded access to the company\u2019s AI tools with premium features across Facebook, Instagram, and WhatsApp.",
-    "published": "2026-09-15T17:05:24+00:00",
-    "first_seen": "2026-09-16T06:20:36.392561+00:00"
-  },
-  {
-    "source": "TechCrunch AI",
-    "source_tier": 2,
-    "title": "OpenAI, Anthropic, Google have been in talks on AI safety for weeks",
-    "link": "https://techcrunch.com/2026/09/15/openai-anthropic-google-have-been-in-talks-on-ai-safety-for-weeks/",
-    "summary": "OpenAI confirms weeks of AI safety talks with Anthropic and Google DeepMind, as Trump's team dismisses safety concerns and pushes to keep pace with China.",
-    "published": "2026-09-15T15:47:03+00:00",
-    "first_seen": "2026-09-16T06:20:36.392561+00:00"
-  },
-  {
-    "source": "TechCrunch AI",
-    "source_tier": 2,
-    "title": "AEO startup Profound hits unicorn valuation, raises $180M Series D 7 months after last round",
-    "link": "https://techcrunch.com/2026/09/15/aeo-startup-profound-hits-unicorn-valuation-raises-180m-series-d-7-months-after-last-round/",
-    "summary": "Profound has raised a $180 million Series D at a $1.8 billion valuation, less than seven months after it raised a $96 million Series C.",
-    "published": "2026-09-15T15:22:48+00:00",
-    "first_seen": "2026-09-16T06:20:36.392561+00:00"
-  },
-  {
-    "source": "TechCrunch AI",
-    "source_tier": 2,
-    "title": "Former TikTok execs built an app that uses AI to teach you how to pose for a photo",
-    "link": "https://techcrunch.com/2026/09/15/former-tiktok-execs-built-an-app-that-uses-ai-to-teach-you-how-to-pose-for-a-photo/",
-    "summary": "Essentially a camera app, Superpose analyzes selfies or photos and generates four potential poses using AI.",
-    "published": "2026-09-15T14:42:37+00:00",
-    "first_seen": "2026-09-16T06:20:36.392561+00:00"
-  },
-  {
-    "source": "TechCrunch AI",
-    "source_tier": 2,
-    "title": "Discover how to take your startup from prototype to production at TechCrunch Disrupt 2026",
-    "link": "https://techcrunch.com/2026/09/15/discover-how-to-take-your-startup-from-prototype-to-production-at-techcrunch-disrupt-2026/",
-    "summary": "Learn how to scale your startup breakthrough from prototype to production at TechCrunch Disrupt 2026 with scaling leaders, Adrian Macneil (Foxglove), John Mackey (MBRYONICS), and Boris Sofman (Bedrock Robotics). Register before September 25 to save up to $200 on your pass.",
-    "published": "2026-09-15T14:30:00+00:00",
-    "first_seen": "2026-09-16T06:20:36.392561+00:00"
-  },
-  {
-    "source": "TechCrunch AI",
-    "source_tier": 2,
-    "title": "4 days left to exhibit at TechCrunch Disrupt 2026",
-    "link": "https://techcrunch.com/2026/09/15/4-days-left-to-exhibit-at-techcrunch-disrupt-2026/",
-    "summary": "Last day to exhibit at Disrupt is Sept 18. 4 days left. Get your startup in front of 10,000+ founders, investors, operators and tech leaders October 13\u201315.",
-    "published": "2026-09-15T14:00:00+00:00",
-    "first_seen": "2026-09-16T06:20:36.392561+00:00"
-  },
-  {
-    "source": "TechCrunch AI",
-    "source_tier": 2,
-    "title": "Early Anthropic hire, former METR COO have found a way to rein in rogue AI agents",
-    "link": "https://techcrunch.com/2026/09/15/early-anthropic-hire-former-metr-coo-have-found-a-way-to-rein-in-rogue-ai-agents/",
-    "summary": "Their startup, Artificial Intelligence Underwriting Company (AIUC) has raised $40 million in a Series A round led by Ribbit Capital, with participation from First Harmonic.",
-    "published": "2026-09-15T13:00:00+00:00",
-    "first_seen": "2026-09-16T06:20:36.392561+00:00"
-  },
-  {
-    "source": "TechCrunch AI",
-    "source_tier": 2,
-    "title": "Salesforce and Nvidia\u2019s new reasoning model is everything the AI labs should fear",
-    "link": "https://techcrunch.com/2026/09/15/salesforce-and-nvidias-new-reasoning-model-is-everything-the-ai-labs-should-fear/",
-    "summary": "Salesforce Koa is built on Nvidia's open-weight Nemotron model and is trained to do sales, marketing, and customer-support tasks.",
-    "published": "2026-09-15T12:00:00+00:00",
-    "first_seen": "2026-09-16T06:20:36.392561+00:00"
-  },
-  {
-    "source": "The Verge AI",
-    "source_tier": 2,
-    "title": "AI and data centers are incredibly unpopular in every poll",
-    "link": "https://www.theverge.com/ai-artificial-intelligence/995917/data-center-nyt-midterm-poll-september",
-    "summary": "Poll data released Tuesday by the New York Times and Siena University confirms what we've already been seeing, and what politicians are responding to - AI and data centers are incredibly unpopular. Asked if they support or oppose the construction of data centers to power AI tech,",
-    "published": "2026-09-15T23:34:25+00:00",
-    "first_seen": "2026-09-16T06:20:36.392561+00:00"
-  },
-  {
-    "source": "The Verge AI",
-    "source_tier": 2,
-    "title": "Meta\u2019s new One subscriptions put a price on social media and AI",
-    "link": "https://www.theverge.com/tech/995453/meta-one-subscriptions-ai",
-    "summary": "Shortly after launching its new do-everything AI assistant Muse, Meta's launching subscription bundles that pair its standalone app subscriptions with extra AI usage. Some of the new Meta One bundles were in testing earlier this year, but are now available globally starting today",
-    "published": "2026-09-15T15:00:00+00:00",
-    "first_seen": "2026-09-16T06:20:36.392561+00:00"
-  },
-  {
-    "source": "The Verge AI",
-    "source_tier": 2,
-    "title": "This doorbell camera lets a human security guard watch your front door",
-    "link": "https://www.theverge.com/tech/995365/simplisafe-video-doorbell-series-2-virtual-guard-price-specs",
-    "summary": "DIY home security company SimpliSafe is bringing its AI-powered proactive security feature to the front door. The new SimpliSafe Video Doorbell Series 2 launches today for $199.99 and works with the company's Active Guard Outdoor Protection (starting at $49.99 a month). This comb",
-    "published": "2026-09-15T13:36:45+00:00",
-    "first_seen": "2026-09-16T06:20:36.392561+00:00"
-  },
-  {
-    "source": "Microsoft 365 Blog",
-    "source_tier": 1,
-    "title": "Introducing Microsoft 365 G7: Intelligence + Trust for the mission ahead",
-    "link": "https://www.microsoft.com/en-us/microsoft-cloud/blog/government/government-operations-and-infrastructure/2026/09/15/introducing-microsoft-365-g7-intelligence-trust-for-the-mission-ahead/",
-    "summary": "Microsoft 365 G7 brings AI, Copilot, agent governance, security, and compliance together to help government agencies modernize securely.\nThe post Introducing Microsoft 365 G7: Intelligence + Trust for the mission ahead appeared first on Microsoft 365 Blog.",
-    "published": "2026-09-15T15:00:00+00:00",
-    "first_seen": "2026-09-17T06:20:39.611760+00:00"
-  },
-  {
-    "source": "MIT Technology Review",
-    "source_tier": 2,
     "title": "Meet a mouse whose brain cortex is made up of human cells",
     "link": "https://www.technologyreview.com/2026/09/16/1144210/meet-a-mouse-whose-brain-cortex-is-made-up-of-human-cells/",
     "summary": "Multiple cameras tracked a mouse as it wandered around a small arena. A computer charted its position and speed, leaving Pong-like traces on a monitor.\u00a0 The reason to watch this rodent so carefully? Nearly half its brain volume had been replaced with human cells. The effort to mi",
@@ -258,15 +60,6 @@
     "link": "https://www.zdnet.com/business/iphone-18-pro-vs-pro-max-buying-advice-2026/",
     "summary": "Can\u2019t decide between the iPhone 18 Pro and 18 Pro Max? Absolute feature parity makes this year\u2019s decision a little easier for me.",
     "published": "2026-09-16T12:05:35+00:00",
-    "first_seen": "2026-09-17T06:20:39.611760+00:00"
-  },
-  {
-    "source": "ZDNet AI",
-    "source_tier": 2,
-    "title": "Windows 11 out-of-band update fixes audio glitch and other bugs \u2013 grab it now",
-    "link": "https://www.zdnet.com/business/windows-11-out-of-band-update-fixes-audio-glitch/",
-    "summary": "The latest out-of-band update resolves a few problems in Windows 11, including one that cut off the sound for certain USB audio devices.",
-    "published": "2026-09-16T09:04:02+00:00",
     "first_seen": "2026-09-17T06:20:39.611760+00:00"
   },
   {
@@ -6352,5 +6145,176 @@
     "summary": "Today, I\u2019m talking with Benn Jordan, musician, YouTuber, researcher, and investigative journalist. You might know Benn from those first two titles \u2014 he\u2019s got a prolific discography of experimental music dating back decades. But in the last couple of years, he\u2019s become a high-prof",
     "published": "2026-10-15T14:00:00+00:00",
     "first_seen": "2026-10-16T11:05:33.962307+00:00"
+  },
+  {
+    "source": "Azure AI Blog",
+    "source_tier": 1,
+    "title": "Evolving the cloud-native foundation for the next generation of AI",
+    "link": "https://azure.microsoft.com/en-us/blog/evolving-the-cloud-native-foundation-for-the-next-generation-of-ai/",
+    "summary": "Discover how Azure is advancing cloud-native infrastructure to help organizations build, run, and optimize applications and agents at scale.\nThe post Evolving the cloud-native foundation for the next generation of AI appeared first on Microsoft Azure Blog.",
+    "published": "2026-10-15T16:00:00+00:00",
+    "first_seen": "2026-10-17T10:25:04.495722+00:00"
+  },
+  {
+    "source": "MIT Technology Review",
+    "source_tier": 2,
+    "title": "Roundtables: A Conversation With the Creator of AI-Designed Viruses",
+    "link": "https://www.technologyreview.com/2026/10/16/1146224/roundtables-a-conversation-with-the-creator-of-ai-designed-viruses/",
+    "summary": "Listen to the session or watch below Can AI design new life forms? In 2025, Stanford University PhD student Samuel King came up with a preliminary answer when he used a generative AI model to propose genetic blueprints for microscopic viruses. It isn\u2019t yet an example of AI-genera",
+    "published": "2026-10-16T18:00:00+00:00",
+    "first_seen": "2026-10-17T10:25:04.495722+00:00"
+  },
+  {
+    "source": "MIT Technology Review",
+    "source_tier": 2,
+    "title": "The Download: failed social media bans, and extending pets\u2019 lives",
+    "link": "https://www.technologyreview.com/2026/10/16/1146864/the-download-failed-social-media-bans-and-extending-pets-lives/",
+    "summary": "This is today\u2019s edition of The Download, our weekday newsletter that provides a daily dose of what\u2019s going on in the world of technology. Kids are outsmarting social media bans. That\u2019s not a problem we need to solve.\u00a0\u00a0 \u2014Michal Luria, Aliya Bhatia, and Danah Boyd Social media bans",
+    "published": "2026-10-16T12:10:00+00:00",
+    "first_seen": "2026-10-17T10:25:04.495722+00:00"
+  },
+  {
+    "source": "ZDNet AI",
+    "source_tier": 2,
+    "title": "Have a Meta business account? You\u2019re consenting to AI scraping now, legal experts say",
+    "link": "https://www.zdnet.com/uncategorized/meta-business-account-data-ai-scraping-terms/",
+    "summary": "And there\u2019s no opt-out available.",
+    "published": "2026-10-16T19:36:02+00:00",
+    "first_seen": "2026-10-17T10:25:04.495722+00:00"
+  },
+  {
+    "source": "ZDNet AI",
+    "source_tier": 2,
+    "title": "Munich dumps proprietary for open source (again) \u2013 but no Linux desktop",
+    "link": "https://www.zdnet.com/business/munich-proprietary-open-source-no-linux-desktop/",
+    "summary": "Open source in the public sector doesn\u2019t fail because of technical issues. It  fails because it\u2019s not aligned with the political agenda",
+    "published": "2026-10-16T17:11:35+00:00",
+    "first_seen": "2026-10-17T10:25:04.495722+00:00"
+  },
+  {
+    "source": "ZDNet AI",
+    "source_tier": 2,
+    "title": "Anthropic gives third-party auditors\u00a0\u2019employee-like access\u2019 in AI industry first",
+    "link": "https://www.zdnet.com/uncategorized/anthropic-embed-third-party-ai-auditors-safety/",
+    "summary": "As AI labs continue to self-regulate, external evaluators play a crucial role in spotting risks.",
+    "published": "2026-10-16T17:10:27+00:00",
+    "first_seen": "2026-10-17T10:25:04.495722+00:00"
+  },
+  {
+    "source": "ZDNet AI",
+    "source_tier": 2,
+    "title": "Want an iPhone Duo before 2027? Don\u2019t preorder from Apple \u2013 try this instead",
+    "link": "https://www.zdnet.com/tech/iphone-duo-preorders-delay-supply/",
+    "summary": "Estimates for Duo preorders are now showing a ship date of late January, marking a new wait time record for Apple and its customers.",
+    "published": "2026-10-16T16:44:50+00:00",
+    "first_seen": "2026-10-17T10:25:04.495722+00:00"
+  },
+  {
+    "source": "ZDNet AI",
+    "source_tier": 2,
+    "title": "How many jobs is your state losing to AI? This dashboard tracks the cuts \u2013 and the cost",
+    "link": "https://www.zdnet.com/innovation/ai-job-cuts-wage-loss-by-state-tracker/",
+    "summary": "CAIS\u2019 Wage Loss Dashboard puts AI-related job cuts into dollars and cents.",
+    "published": "2026-10-16T11:47:39+00:00",
+    "first_seen": "2026-10-17T10:25:04.495722+00:00"
+  },
+  {
+    "source": "TechCrunch AI",
+    "source_tier": 2,
+    "title": "Replit is no longer working with Anthropic, CEO says",
+    "link": "https://techcrunch.com/2026/10/16/replit-is-no-longer-working-with-anthropic-ceo-says/",
+    "summary": "Masad said the decision was made for a number of different reasons, including cost. Replit announced a partnership with OpenAI in August, but there was never any indication that it was no longer with Anthropic.",
+    "published": "2026-10-16T21:22:28+00:00",
+    "first_seen": "2026-10-17T10:25:04.495722+00:00"
+  },
+  {
+    "source": "TechCrunch AI",
+    "source_tier": 2,
+    "title": "India becomes the latest country to report rogue AI agent activity",
+    "link": "https://techcrunch.com/2026/10/16/india-becomes-the-latest-country-to-report-rogue-ai-agent-activity/",
+    "summary": "The agents got in through credentials and connection settings left exposed in app configurations, public code repositories, and overly permissive cloud roles.",
+    "published": "2026-10-16T17:52:24+00:00",
+    "first_seen": "2026-10-17T10:25:04.495722+00:00"
+  },
+  {
+    "source": "TechCrunch AI",
+    "source_tier": 2,
+    "title": "An Nvidia insider-turned-VC on why robotics hasn\u2019t hit its ChatGPT moment, yet",
+    "link": "https://techcrunch.com/video/a-nvidia-insider-turned-vc-on-why-robotics-hasnt-hit-its-chatgpt-moment-yet/",
+    "summary": "Amulya Vishwanath, who spent seven years leading product marketing for NVIDIA\u2019s robotics platforms, says robotics is currently in its \u201cLego era,\u201d with the basic building blocks like actuators, robotic hands, software, and safety standards still being\u00a0rebuilt.\u00a0 This view runs coun",
+    "published": "2026-10-16T16:30:00+00:00",
+    "first_seen": "2026-10-17T10:25:04.495722+00:00"
+  },
+  {
+    "source": "TechCrunch AI",
+    "source_tier": 2,
+    "title": "Physical AI is more than robots, says the Nvidia veteran now investing in it",
+    "link": "https://techcrunch.com/podcast/physical-ai-is-more-than-robots-says-the-nvidia-veteran-now-investing-in-it/",
+    "summary": "Amulya Vishwanath, who spent seven years leading product marketing for NVIDIA\u2019s robotics platforms, says robotics is currently in its \u201cLego era,\u201d with the basic building blocks like actuators, robotic hands, software, and safety standards still being\u00a0rebuilt.\u00a0 This view runs coun",
+    "published": "2026-10-16T16:30:00+00:00",
+    "first_seen": "2026-10-17T10:25:04.495722+00:00"
+  },
+  {
+    "source": "TechCrunch AI",
+    "source_tier": 2,
+    "title": "Elorian\u2019s first AI model wants to reason with images, not just about them",
+    "link": "https://techcrunch.com/2026/10/16/elorians-first-ai-model-wants-to-reason-with-images-not-just-about-them/",
+    "summary": "According to Elorian's evaluations, Glimpse outperforms even GPT-6 Astra on scientific chart reasoning and short-form video captioning, with competitive results on other visual reasoning tasks.",
+    "published": "2026-10-16T16:01:37+00:00",
+    "first_seen": "2026-10-17T10:25:04.495722+00:00"
+  },
+  {
+    "source": "TechCrunch AI",
+    "source_tier": 2,
+    "title": "Jev is Vercel\u2019s fastest-adopted AI model ever",
+    "link": "https://techcrunch.com/2026/10/16/jev-is-vercels-fastest-adopted-ai-model-ever/",
+    "summary": "The data comes from Vercel's AI gateway, a unified API service similar to OpenRouter.",
+    "published": "2026-10-16T15:33:49+00:00",
+    "first_seen": "2026-10-17T10:25:04.495722+00:00"
+  },
+  {
+    "source": "TechCrunch AI",
+    "source_tier": 2,
+    "title": "Mark Wahlberg on using AI in film \u2018the right way\u2019 and being open to an AI clone carrying on his legacy",
+    "link": "https://techcrunch.com/2026/10/16/mark-wahlberg-on-using-ai-in-film-the-right-way-and-being-open-to-an-ai-clone-carrying-on-his-legacy/",
+    "summary": "Actor and angel investor Mark Wahlberg says he's OK with using AI in filmmaking, provided it's used \"to enhance what you're doing.\"",
+    "published": "2026-10-16T14:26:51+00:00",
+    "first_seen": "2026-10-17T10:25:04.495722+00:00"
+  },
+  {
+    "source": "TechCrunch AI",
+    "source_tier": 2,
+    "title": "Veritas expands its anti-counterfeit chip to jewelry, trophies, and fragrance bottles",
+    "link": "https://techcrunch.com/2026/10/16/veritas-is-building-a-chip-to-verify-luxury-goods/",
+    "summary": "Counterfeiters are getting better at replicating brands' marks and passing off dupes, known as \"superfakes,\" as genuine items. A startup called Veritas wants to tackle the problem with its own chip that verifies goods.",
+    "published": "2026-10-16T14:00:00+00:00",
+    "first_seen": "2026-10-17T10:25:04.495722+00:00"
+  },
+  {
+    "source": "TechCrunch AI",
+    "source_tier": 2,
+    "title": "Replit\u2019s CEO says the future of work is the \u2018self-driving company\u2019",
+    "link": "https://techcrunch.com/2026/10/16/replits-ceo-says-the-future-of-work-is-the-self-driving-company/",
+    "summary": "Replit CEO Amjad Masad envisions a future of \u201cself-driving companies,\u201d where AI agents handle day-to-day tasks and people focus on higher-level decisions.",
+    "published": "2026-10-16T12:55:09+00:00",
+    "first_seen": "2026-10-17T10:25:04.495722+00:00"
+  },
+  {
+    "source": "The Verge AI",
+    "source_tier": 2,
+    "title": "A week with RTX Spark: everything we\u2019ve learned using Nvidia\u2019s new laptops",
+    "link": "https://www.theverge.com/tech/1012748/nvidia-rtx-spark-windows-arm-laptops-asus-hp-lenovo-impressions",
+    "summary": "Nvidia's RTX Spark N1X processor is finally here, and we've been collectively testing a small fortune's worth of powerful laptops sporting this new \"superchip.\" RTX Spark is designed to be a high-performing Arm-based SoC for laptops and small desktop computers, rivaling the best ",
+    "published": "2026-10-16T15:00:00+00:00",
+    "first_seen": "2026-10-17T10:25:04.495722+00:00"
+  },
+  {
+    "source": "The Verge AI",
+    "source_tier": 2,
+    "title": "Meta\u2019s new terms may allow it to train AI on news sites for free",
+    "link": "https://www.theverge.com/tech/1012846/meta-business-terms-scrape-news-publishers",
+    "summary": "Meta's new terms appear to give it permission to crawl and scrape websites \"associated\" with the businesses that use its platforms - including online publishers, according to a report from Nieman Lab. The new terms, which go into effect on October 30th, say Meta can use this outs",
+    "published": "2026-10-16T14:02:40+00:00",
+    "first_seen": "2026-10-17T10:25:04.495722+00:00"
   }
 ]

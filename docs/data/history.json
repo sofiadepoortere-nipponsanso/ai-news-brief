@@ -1,275 +1,5 @@
 [
   {
-    "source": "Power BI Blog",
-    "source_tier": 1,
-    "title": "Manage semantic model settings in context with the default settings pane (Preview)",
-    "link": "https://community.fabric.microsoft.com/t5/Power-BI-Updates-Blog/Manage-semantic-model-settings-in-context-with-the-default/ba-p/5366792",
-    "summary": "The semantic model settings pane is becoming the default way to configure semantic models in the Power BI service. The pane opens alongside your workspace, so you can review and change settings without leaving the current page. It provides the same settings as the full semantic m",
-    "published": "2026-09-17T16:00:00+00:00",
-    "first_seen": "2026-09-18T10:56:09.103218+00:00"
-  },
-  {
-    "source": "MIT Technology Review",
-    "source_tier": 2,
-    "title": "The specter of AI-enabled bioweapons is a wake-up call for biotech",
-    "link": "https://www.technologyreview.com/2026/09/18/1144329/the-specter-of-ai-enabled-bioweapons-is-a-wake-up-call-for-biotech/",
-    "summary": "In recent weeks, leaders of some of the biggest AI companies have warned that the very tech they are developing is dangerous. Last weekend, Anthropic CEO Dario Amodei argued that AI\u00a0carries serious risk and that progress should be slowed. OpenAI CEO Sam Altman\u00a0responded on X: \u201cI ",
-    "published": "2026-09-18T09:00:00+00:00",
-    "first_seen": "2026-09-18T10:56:09.103218+00:00"
-  },
-  {
-    "source": "MIT Technology Review",
-    "source_tier": 2,
-    "title": "The Download: mice with part-human brains and climate tech innovators",
-    "link": "https://www.technologyreview.com/2026/09/17/1144314/the-download-mice-part-human-brains-climate-tech-innovators/",
-    "summary": "This is today\u2019s edition of The Download, our weekday newsletter that provides a daily dose of what\u2019s going on in the world of technology. Meet a mouse whose brain cortex is made up of human cells Multiple cameras tracked a mouse as it wandered around a small arena. A computer cha",
-    "published": "2026-09-17T12:10:00+00:00",
-    "first_seen": "2026-09-18T10:56:09.103218+00:00"
-  },
-  {
-    "source": "ZDNet AI",
-    "source_tier": 2,
-    "title": "Roku rolls out over 30 subscription bundles for up to 30% off, plus a new Labs feature",
-    "link": "https://www.zdnet.com/home-and-office/roku-streaming-premium-bundles-labs-feature/",
-    "summary": "Roku\u2019s money-saving bundles include channels like HBO Max, Starz, and Fox One.",
-    "published": "2026-09-17T19:17:20+00:00",
-    "first_seen": "2026-09-18T10:56:09.103218+00:00"
-  },
-  {
-    "source": "ZDNet AI",
-    "source_tier": 2,
-    "title": "Claude Code\u2019s revised projects adds AI orchestration, but local developers must wait",
-    "link": "https://www.zdnet.com/innovation/claude-code-revised-projects-threads/",
-    "summary": "Claude Code Projects could change how developers manage complex AI coding workflows by coordinating threads, sharing memory, and spanning repos, but its biggest benefits are still cloud-only for now.",
-    "published": "2026-09-17T17:00:00+00:00",
-    "first_seen": "2026-09-18T10:56:09.103218+00:00"
-  },
-  {
-    "source": "ZDNet AI",
-    "source_tier": 2,
-    "title": "Bose returns with new open earbuds (and a refreshed favorite)",
-    "link": "https://www.zdnet.com/tech/bose-ultra-earbuds-sport-open-earbuds/",
-    "summary": "Bose announces the Ultra Open (2nd Gen) and the Sport Open Earbuds, offering more options for aware listeners.",
-    "published": "2026-09-17T13:00:19+00:00",
-    "first_seen": "2026-09-18T10:56:09.103218+00:00"
-  },
-  {
-    "source": "TechCrunch AI",
-    "source_tier": 2,
-    "title": "Crusoe raises $3.9B to build massive data centers and small modular \u2018AI factories\u2019",
-    "link": "https://techcrunch.com/2026/09/17/crusoe-raises-3-9b-to-build-massive-data-centers-and-small-modular-ai-factories/",
-    "summary": "The round values the data center giant at $30.9 billion.",
-    "published": "2026-09-17T23:25:52+00:00",
-    "first_seen": "2026-09-18T10:56:09.103218+00:00"
-  },
-  {
-    "source": "TechCrunch AI",
-    "source_tier": 2,
-    "title": "Google DeepMind launches institute to widen the AGI debate",
-    "link": "https://techcrunch.com/2026/09/17/google-deepmind-launches-institute-to-widen-the-agi-debate/",
-    "summary": "The new institute aims to surface differing views between Google, Google DeepMind, and the broader global research community around AGI. \"They will not always agree, and they will likely change their minds, as more data and information comes to light at the fast-moving frontier.\"",
-    "published": "2026-09-17T23:21:17+00:00",
-    "first_seen": "2026-09-18T10:56:09.103218+00:00"
-  },
-  {
-    "source": "TechCrunch AI",
-    "source_tier": 2,
-    "title": "PrismML hopes its tiny LLM will change how we all use AI",
-    "link": "https://techcrunch.com/2026/09/17/prismml-hopes-its-tiny-llm-could-change-how-we-all-use-ai/",
-    "summary": "If AI lab PrismML isn't on your radar yet, it should be.",
-    "published": "2026-09-17T22:34:09+00:00",
-    "first_seen": "2026-09-18T10:56:09.103218+00:00"
-  },
-  {
-    "source": "TechCrunch AI",
-    "source_tier": 2,
-    "title": "The FAA\u2019s plan to fix air traffic? $875M worth of AI",
-    "link": "https://techcrunch.com/2026/09/17/the-faas-plan-to-fix-air-traffic-875-million-worth-of-ai/",
-    "summary": "A new AI-based software program is being launched to help air traffic controllers better navigate their jobs as the crossing guards of America's skies.",
-    "published": "2026-09-17T22:14:59+00:00",
-    "first_seen": "2026-09-18T10:56:09.103218+00:00"
-  },
-  {
-    "source": "TechCrunch AI",
-    "source_tier": 2,
-    "title": "The fix for rogue AI agents could be more AI",
-    "link": "https://techcrunch.com/2026/09/17/the-fix-for-rogue-ai-agents-could-be-more-ai/",
-    "summary": "As companies hand off longer and more complex tasks to AI agents, they are running into an oversight problem: Agents can act faster, longer, and at greater volume than humans can realistically review.",
-    "published": "2026-09-17T20:34:47+00:00",
-    "first_seen": "2026-09-18T10:56:09.103218+00:00"
-  },
-  {
-    "source": "TechCrunch AI",
-    "source_tier": 2,
-    "title": "OpenAI caught its models leaving notes to successors to hide bad behavior",
-    "link": "https://techcrunch.com/2026/09/17/openai-caught-its-models-leaving-notes-to-successors-to-hide-bad-behavior/",
-    "summary": "OpenAI disclosed instances of GPT-5.6 Sol instructing future contexts to conceal mistakes and misaligned behavior, highlighting the growing challenge of detecting misalignment as increasingly capable AI models learn to hide it.",
-    "published": "2026-09-17T20:34:24+00:00",
-    "first_seen": "2026-09-18T10:56:09.103218+00:00"
-  },
-  {
-    "source": "TechCrunch AI",
-    "source_tier": 2,
-    "title": "Is the AI safety debate about safety or control?",
-    "link": "https://techcrunch.com/2026/09/17/is-the-ai-safety-debate-about-safety-or-control/",
-    "summary": "Not everyone agrees with Amodei's call for globally coordinated action for AI safety.",
-    "published": "2026-09-17T20:19:37+00:00",
-    "first_seen": "2026-09-18T10:56:09.103218+00:00"
-  },
-  {
-    "source": "TechCrunch AI",
-    "source_tier": 2,
-    "title": "UN turns to Google to make its global data ready for AI agents",
-    "link": "https://techcrunch.com/2026/09/17/un-turns-to-google-to-make-its-global-data-ready-for-ai-agents/",
-    "summary": "The shift comes after a UNICEF test found leading AI models struggled to accurately retrieve global development statistics.",
-    "published": "2026-09-17T20:00:00+00:00",
-    "first_seen": "2026-09-18T10:56:09.103218+00:00"
-  },
-  {
-    "source": "TechCrunch AI",
-    "source_tier": 2,
-    "title": "Microsoft exec called AI scraping \u2018the largest theft of labor in human history,\u2019 new unredacted filings reveal",
-    "link": "https://techcrunch.com/2026/09/17/microsoft-exec-called-ai-scraping-the-largest-theft-of-labor-in-human-history-new-unredacted-filings-reveal/",
-    "summary": "Newly unsealed court filings show Microsoft privately called OpenAI's data practices \"theft\" while both companies scraped paywalled Times content, built datasets from it, and warned internally it would gut publishers.",
-    "published": "2026-09-17T19:46:08+00:00",
-    "first_seen": "2026-09-18T10:56:09.103218+00:00"
-  },
-  {
-    "source": "TechCrunch AI",
-    "source_tier": 2,
-    "title": "Even the king of England has his hesitations about AI",
-    "link": "https://techcrunch.com/2026/09/17/even-the-king-of-england-has-his-hesitations-about-ai/",
-    "summary": "King Charles hosted a private summit Thursday with some of the most prominent names in AI and the U.K. government.",
-    "published": "2026-09-17T17:26:25+00:00",
-    "first_seen": "2026-09-18T10:56:09.103218+00:00"
-  },
-  {
-    "source": "TechCrunch AI",
-    "source_tier": 2,
-    "title": "Base Labs launches an open-weight AI safety partnership with Hugging Face and Goodfire",
-    "link": "https://techcrunch.com/2026/09/17/base-labs-launches-an-open-weight-ai-safety-partnership-with-hugging-face-and-goodfire/",
-    "summary": "Base Labs, the research group Baseten spun up earlier this year, will develop and publish methods for training and monitoring open models.",
-    "published": "2026-09-17T17:15:59+00:00",
-    "first_seen": "2026-09-18T10:56:09.103218+00:00"
-  },
-  {
-    "source": "TechCrunch AI",
-    "source_tier": 2,
-    "title": "Pinterest teases a new \u2018Restyle\u2019 feature that lets you redesign your room with AI",
-    "link": "https://techcrunch.com/2026/09/17/pinterest-teases-a-new-restyle-feature-that-lets-you-redesign-your-room-with-ai/",
-    "summary": "Pinterest is testing Restyle, a new AI-powered feature that lets users visualize furniture, decor, lighting, and more in photos of their own rooms \u2014 potentially helping turn saved inspiration into purchases.",
-    "published": "2026-09-17T17:15:00+00:00",
-    "first_seen": "2026-09-18T10:56:09.103218+00:00"
-  },
-  {
-    "source": "TechCrunch AI",
-    "source_tier": 2,
-    "title": "Huawei plans Q1 2027 launch of new AI chip as it takes on Nvidia",
-    "link": "https://techcrunch.com/2026/09/17/huawei-plans-q1-2027-launch-of-new-ai-chip-as-it-takes-on-nvidia/",
-    "summary": "Huawei is accelerating the launch of its next-generation Ascend 960DT AI chip as it pushes to compete with Nvidia and close China\u2019s AI computing gap with the U.S.",
-    "published": "2026-09-17T14:06:14+00:00",
-    "first_seen": "2026-09-18T10:56:09.103218+00:00"
-  },
-  {
-    "source": "TechCrunch AI",
-    "source_tier": 2,
-    "title": "2 days left to exhibit at TechCrunch Disrupt 2026",
-    "link": "https://techcrunch.com/2026/09/17/2-days-left-to-exhibit-at-techcrunch-disrupt-2026/",
-    "summary": "Last day to book your exhibit table at Disrupt is September 18. Two days left. Get your startup in front of 10,000+ founders, investors, operators, and tech leaders on October 13\u201315.",
-    "published": "2026-09-17T14:00:00+00:00",
-    "first_seen": "2026-09-18T10:56:09.103218+00:00"
-  },
-  {
-    "source": "TechCrunch AI",
-    "source_tier": 2,
-    "title": "Rival AI agents, Instinct and Meta\u2019s Muse, both add the ability to make calls",
-    "link": "https://techcrunch.com/2026/09/17/rival-ai-agents-instinct-and-metas-muse-both-add-the-ability-to-make-calls/",
-    "summary": "People can use these assistants to make restaurant reservations and cancel subscriptions.",
-    "published": "2026-09-17T13:46:16+00:00",
-    "first_seen": "2026-09-18T10:56:09.103218+00:00"
-  },
-  {
-    "source": "TechCrunch AI",
-    "source_tier": 2,
-    "title": "Google, Nvidia, and Anthropic want Emerald AI to find space on the grid for more data centers",
-    "link": "https://techcrunch.com/2026/09/17/google-nvidia-and-anthropic-want-emerald-ai-to-find-space-on-the-grid-for-more-data-centers/",
-    "summary": "A new coalition that includes Google, Nvidia, Anthropic, and Emerald AI wants to find 100 GW of grid capacity for new data centers.",
-    "published": "2026-09-17T13:38:33+00:00",
-    "first_seen": "2026-09-18T10:56:09.103218+00:00"
-  },
-  {
-    "source": "The Verge AI",
-    "source_tier": 2,
-    "title": "The AI Superintelligence Slowdown",
-    "link": "https://www.theverge.com/ai-artificial-intelligence/996923/ai-safety-slow-openai-anthropic",
-    "summary": "Remember when tech leaders would tell their employees to \u201cmove fast and break things\u201d? It seemed that would be the way of AI too. But after a summer where rogue AI agents became reality, and researchers warned that AI could kill us all, a number of leading US AI companies are pub",
-    "published": "2026-09-17T19:28:24+00:00",
-    "first_seen": "2026-09-18T10:56:09.103218+00:00"
-  },
-  {
-    "source": "The Verge AI",
-    "source_tier": 2,
-    "title": "Claude Code relaunches Projects to manage multiple AI agents in the cloud",
-    "link": "https://www.theverge.com/ai-artificial-intelligence/997134/anthropic-claude-code-projects",
-    "summary": "The revamped projects feature in Claude Code allows users to run multiple agents under the same roof, with a shared memory, goals, and library of files and artifacts. Similar to Grok Bot and other tools that manage groups of AI agents, each project has \"threads\" running different",
-    "published": "2026-09-17T18:58:05+00:00",
-    "first_seen": "2026-09-18T10:56:09.103218+00:00"
-  },
-  {
-    "source": "The Verge AI",
-    "source_tier": 2,
-    "title": "Microsoft AI CEO says AI threats are real, and Anthropic is making it worse",
-    "link": "https://www.theverge.com/podcast/996412/microsoft-ai-ceo-mustafa-suleyman-regulation-safety-anthropic-claude",
-    "summary": "Today, I\u2019m talking with Mustafa Suleyman, the CEO of Microsoft AI. As you\u2019re no doubt aware, the biggest story in tech right now is the spiraling debate about AI safety and regulation.\u00a0 It should come as no surprise that Mustafa has strong opinions on how AI should be built and r",
-    "published": "2026-09-17T14:00:00+00:00",
-    "first_seen": "2026-09-18T10:56:09.103218+00:00"
-  },
-  {
-    "source": "The Verge AI",
-    "source_tier": 2,
-    "title": "AI is feared globally as the destroyer of jobs",
-    "link": "https://www.theverge.com/ai-artificial-intelligence/996775/ai-is-feared-globally-as-the-destroyer-of-jobs",
-    "summary": "Pew Research has published a new global survey that sheds light on how people view AI, including its impact on jobs, life in general, and income inequality. The survey questioned 42,151 people across 37 countries from February 8th to May 13th - well ahead of recent apocalyptic wa",
-    "published": "2026-09-17T14:00:00+00:00",
-    "first_seen": "2026-09-18T10:56:09.103218+00:00"
-  },
-  {
-    "source": "The Verge AI",
-    "source_tier": 2,
-    "title": "Inside the suddenly explosive world of AI safety",
-    "link": "https://www.theverge.com/ai-artificial-intelligence/996563/ai-safety-research-metr-redwood-openai-anthropic",
-    "summary": "On a sunny July day in Berkeley, California, the country's top AI safety researchers gathered on an unmarked floor of an unmarked building. They had come together for a \"war room\" to dissect the high-profile cybersecurity incident that had rocked the AI industry hours earlier. An",
-    "published": "2026-09-17T11:30:00+00:00",
-    "first_seen": "2026-09-18T10:56:09.103218+00:00"
-  },
-  {
-    "source": "European Commission Digital Strategy",
-    "source_tier": 1,
-    "title": "Data Union Conference",
-    "link": "https://digital-strategy.ec.europa.eu/en/events/data-union-conference",
-    "summary": "Data Union Conference\nAnonymous (not verified)\nFri, 09/18/2026 - 09:43\n\n\n\n  \n        \n              \n                              \n      \n      \u00a0\n      12 January 2027\n  \n  \n    \n    \u00a0\n        Charlemagne building, Brussels, Belgium\n      \n  \n\n                Bringing policymake",
-    "published": "2026-09-18T07:43:00+00:00",
-    "first_seen": "2026-09-19T10:39:11.431206+00:00"
-  },
-  {
-    "source": "MIT Technology Review",
-    "source_tier": 2,
-    "title": "The Download: AI\u2019s extinction risk and bioweapons threat",
-    "link": "https://www.technologyreview.com/2026/09/18/1142577/the-download-ai-extinction-threat-bioweapons/",
-    "summary": "This is today\u2019s edition of The Download, our weekday newsletter that provides a daily dose of what\u2019s going on in the world of technology. Could AI really kill us all? Your questions, answered On Wednesday, MIT Technology Review hosted a live Roundtables event that asked the quest",
-    "published": "2026-09-18T12:10:00+00:00",
-    "first_seen": "2026-09-19T10:39:11.431206+00:00"
-  },
-  {
-    "source": "MIT Technology Review",
-    "source_tier": 2,
-    "title": "Could AI really kill us all? Your questions, answered.",
-    "link": "https://www.technologyreview.com/2026/09/18/1144435/could-ai-really-kill-us-all-your-questions-answered/",
-    "summary": "On Wednesday, MIT Technology Review hosted a live Roundtables event for subscribers that asked the question everyone\u2019s asking right now: Could AI really kill us all? But attendees had so many more questions than we had time to answer in the 30 minute session. So we asked our seni",
-    "published": "2026-09-18T11:29:22+00:00",
-    "first_seen": "2026-09-19T10:39:11.431206+00:00"
-  },
-  {
     "source": "ZDNet AI",
     "source_tier": 2,
     "title": "Businesses finally seeing AI ROI, but 62% can\u2019t handle the storage demands",
@@ -495,15 +225,6 @@
     "first_seen": "2026-09-19T10:39:11.431206+00:00"
   },
   {
-    "source": "The Verge AI",
-    "source_tier": 2,
-    "title": "Flash floods can strike without warning \u2014 this new technology could change that",
-    "link": "https://www.theverge.com/science/997083/flash-flood-warning-tacls-satellite-machine-learning",
-    "summary": "On the morning of June 9th, Laura Lin was working from her home in Lanesville, a rural southern Indiana town about 15 miles from the Kentucky border. She was on a Zoom call, unaware that the heavy rain outside was beginning to flood her yard. \"I look over to where the barn is ove",
-    "published": "2026-09-18T11:00:00+00:00",
-    "first_seen": "2026-09-19T10:39:11.431206+00:00"
-  },
-  {
     "source": "TechCrunch AI",
     "source_tier": 2,
     "title": "Flock reportedly tries to shrink workforce with employee buyouts",
@@ -601,15 +322,6 @@
     "summary": "At the start of this week, the who's-who of AI seemed - at least tentatively - on the side of AI regulation. Over the weekend, Anthropic CEO Dario Amodei had proposed a three-step plan for slowing AI development, including by embedding third-party evaluators in labs, coordinating",
     "published": "2026-09-19T13:00:00+00:00",
     "first_seen": "2026-09-20T11:02:10.884024+00:00"
-  },
-  {
-    "source": "Power Automate Blog",
-    "source_tier": 1,
-    "title": "What\u2019s new in Power Platform: September 2026 feature update",
-    "link": "https://www.microsoft.com/en-us/power-platform/blog/power-apps/whats-new-in-power-platform-september-2026-feature-update/",
-    "summary": "Power Platform Build hands-on Power Platform and AI expertise with Power Series Developed by the Power CAT team, Power Series is now available with 20 hands-on labs that help customers, partners, and field teams build practical Power Platform and AI skills at their own pace.\nThe ",
-    "published": "2026-09-17T15:00:00+00:00",
-    "first_seen": "2026-09-21T12:29:05.683303+00:00"
   },
   {
     "source": "MIT Technology Review",
@@ -6064,5 +5776,95 @@
     "summary": "Autonomous agents are the hottest thing in AI. OpenAI, Meta, Google, Instinct, and others promise their agents can scour the internet on your behalf, doing anything from booking a dinner reservation and cleaning out your inbox to buying new shoes. But what happens when the rest o",
     "published": "2026-10-17T13:00:00+00:00",
     "first_seen": "2026-10-18T10:43:43.927912+00:00"
+  },
+  {
+    "source": "European Commission Digital Strategy",
+    "source_tier": 1,
+    "title": "First harmonised standard supporting the AI Act published in the Official Journal",
+    "link": "https://digital-strategy.ec.europa.eu/en/library/first-harmonised-standard-supporting-ai-act-published-official-journal",
+    "summary": "First harmonised standard supporting the AI Act published in the Official Journal\nAnonymous (not verified)\nMon, 10/19/2026 - 09:37\n\n\n\n  \n        \n              \n                                    The European Commission has published the reference to the first harmonised standar",
+    "published": "2026-10-19T07:37:54+00:00",
+    "first_seen": "2026-10-19T12:43:13.794121+00:00"
+  },
+  {
+    "source": "MIT Technology Review",
+    "source_tier": 2,
+    "title": "The Download: preserving the Arctic permafrost, and playful AI agents",
+    "link": "https://www.technologyreview.com/2026/10/19/1147103/the-download-preserving-the-arctic-permafrost-and-playful-ai-agents/",
+    "summary": "This is today\u2019s edition of The Download, our weekday newsletter that provides a daily dose of what\u2019s going on in the world of technology. Inside the quest to combat Arctic fires and save the planet\u2019s frozen carbon \u2014James Temple In July 2021, a wildfire burned through a forest on ",
+    "published": "2026-10-19T12:10:00+00:00",
+    "first_seen": "2026-10-19T12:43:13.794121+00:00"
+  },
+  {
+    "source": "MIT Technology Review",
+    "source_tier": 2,
+    "title": "Inside the quest to combat Arctic fires and save the planet\u2019s frozen carbon",
+    "link": "https://www.technologyreview.com/2026/10/19/1146832/inside-the-quest-to-combat-arctic-fires-and-save-the-planets-frozen-carbon/",
+    "summary": "In the middle of an especially warm July in 2021, a wildfire ignited in a thick forest of black spruce and peeling paper birch trees on the northern campus of the University of Alaska, Fairbanks.\u00a0 The blaze, possibly sparked by lightning, burned across the dry carpet of feather m",
+    "published": "2026-10-19T09:22:17+00:00",
+    "first_seen": "2026-10-19T12:43:13.794121+00:00"
+  },
+  {
+    "source": "MIT Technology Review",
+    "source_tier": 2,
+    "title": "AI researchers stranded Claude on a virtual desert island. It started to \u201cplay.\u201d",
+    "link": "https://www.technologyreview.com/2026/10/19/1147095/ai-stranded-claude-virtual-desert-island-play/",
+    "summary": "What do AI agents do if you don\u2019t tell them to do anything? The answer looks a lot like play. Researchers repeatedly stranded them alone on a virtual desert island for 30 hours in an experiment reminiscent of the movies Cast Away or Home Alone. The agents\u2014copies of Claude Opus 4.",
+    "published": "2026-10-19T09:08:05+00:00",
+    "first_seen": "2026-10-19T12:43:13.794121+00:00"
+  },
+  {
+    "source": "MIT Technology Review",
+    "source_tier": 2,
+    "title": "How far can we push computing?",
+    "link": "https://www.technologyreview.com/2026/10/19/1145904/tr-explains-how-far-can-we-push-computing/",
+    "summary": "MIT Technology Review Explains: Let our writers untangle the complex, messy world of science and technology to help you understand what\u2019s coming next. You can read more from the series here. On the evening of December 29, 1959, at an American Physical Society meeting at Caltech, ",
+    "published": "2026-10-19T09:00:00+00:00",
+    "first_seen": "2026-10-19T12:43:13.794121+00:00"
+  },
+  {
+    "source": "ZDNet AI",
+    "source_tier": 2,
+    "title": "Have a Meta business account? You\u2019re consenting to AI scraping now, legal experts say",
+    "link": "https://www.zdnet.com/business/meta-business-account-data-ai-scraping-terms/",
+    "summary": "And there\u2019s no opt-out available.",
+    "published": "2026-10-16T19:36:02+00:00",
+    "first_seen": "2026-10-19T12:43:13.794121+00:00"
+  },
+  {
+    "source": "TechCrunch AI",
+    "source_tier": 2,
+    "title": "Anthropic says it\u2019s committing 5% of its shares to a \u2018public benefit fund\u2019",
+    "link": "https://techcrunch.com/2026/10/18/anthropic-says-its-committing-5-of-its-shares-to-a-public-benefit-fund/",
+    "summary": "Anthropic said that it will commit 5% of its shares to the fund.",
+    "published": "2026-10-18T20:37:40+00:00",
+    "first_seen": "2026-10-19T12:43:13.794121+00:00"
+  },
+  {
+    "source": "TechCrunch AI",
+    "source_tier": 2,
+    "title": "Disney agrees to hire the majority of Character.AI\u2019s workforce",
+    "link": "https://techcrunch.com/2026/10/18/disney-agrees-to-hire-the-majority-of-character-ais-workforce/",
+    "summary": "The filing also says that the \u201cvast majority\u201d of Character.AI employees who were offered jobs at Disney accepted them. However, this is a stalking horse bid, so another company could come forward with a higher offer.",
+    "published": "2026-10-18T16:30:00+00:00",
+    "first_seen": "2026-10-19T12:43:13.794121+00:00"
+  },
+  {
+    "source": "The Verge AI",
+    "source_tier": 2,
+    "title": "Democrats think cracking down on AI could give them an edge",
+    "link": "https://www.theverge.com/policy/1013113/democrats-ai-midterms",
+    "summary": "Democrats could win back control of Congress this November, and if they do, they'll need to decide how to approach one of the country's newest and thorniest political issues: AI. Polls predict Democrats will flip at least one chamber of Congress in the midterm elections, which wo",
+    "published": "2026-10-19T12:00:00+00:00",
+    "first_seen": "2026-10-19T12:43:13.794121+00:00"
+  },
+  {
+    "source": "The Verge AI",
+    "source_tier": 2,
+    "title": "A woman was arrested in Philly for blocking a delivery robot",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/1013541/a-woman-was-arrested-in-philly-for-blocking-a-delivery-robot",
+    "summary": "Carolyn Marvin was arrested and charged with disorderly conduct after blocking the path of an Uber delivery robot and refusing to get out of the way. Marvin told Philadelphia's ABC13 \"I know they're taking the jobs of human delivery workers and so, I have been protesting them whe",
+    "published": "2026-10-18T18:28:10+00:00",
+    "first_seen": "2026-10-19T12:43:13.794121+00:00"
   }
 ]

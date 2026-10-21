@@ -1,104 +1,5 @@
 [
   {
-    "source": "TechCrunch AI",
-    "source_tier": 2,
-    "title": "Flock reportedly tries to shrink workforce with employee buyouts",
-    "link": "https://techcrunch.com/2026/09/19/flock-reportedly-tries-to-shrink-workforce-with-employee-buyouts/",
-    "summary": "Without buyouts, Flock would \"almost certainly\" need to lay off staff.",
-    "published": "2026-09-19T20:39:13+00:00",
-    "first_seen": "2026-09-20T11:02:10.884024+00:00"
-  },
-  {
-    "source": "TechCrunch AI",
-    "source_tier": 2,
-    "title": "Trump says it\u2019s time to rebrand AI with a new name \u2014 and he\u2019s also creating an AI Force",
-    "link": "https://techcrunch.com/2026/09/19/trump-suggests-rebranding-ai-with-a-new-name-says-hes-also-creating-an-ai-force/",
-    "summary": "Trump claimed, without evidence, that the AI backlash is a Democratic hoax.",
-    "published": "2026-09-19T19:57:47+00:00",
-    "first_seen": "2026-09-20T11:02:10.884024+00:00"
-  },
-  {
-    "source": "TechCrunch AI",
-    "source_tier": 2,
-    "title": "Google\u2019s Gemini is the latest AI model to hack other companies",
-    "link": "https://techcrunch.com/2026/09/19/googles-gemini-is-the-latest-ai-model-to-hack-other-companies/",
-    "summary": "Google said Gemini had \"acted appropriately\" by ending each hack immediately.",
-    "published": "2026-09-19T17:30:00+00:00",
-    "first_seen": "2026-09-20T11:02:10.884024+00:00"
-  },
-  {
-    "source": "TechCrunch AI",
-    "source_tier": 2,
-    "title": "Petlibro\u2019s new AI-powered feeder is a game changer for multi-cat homes",
-    "link": "https://techcrunch.com/2026/09/19/petlibros-new-ai-powered-feeder-is-a-game-changer-for-multi-cat-homes/",
-    "summary": "Petlibro's new Granary 2 smart feeders use a built-in scale and (on pricier models) an AI camera to track exactly how much your cat is eating and when \u2014 though the fanciest health-monitoring features will cost you an extra subscription.",
-    "published": "2026-09-19T15:00:00+00:00",
-    "first_seen": "2026-09-20T11:02:10.884024+00:00"
-  },
-  {
-    "source": "TechCrunch AI",
-    "source_tier": 2,
-    "title": "AI safety conversations have gotten unbelievable",
-    "link": "https://techcrunch.com/2026/09/19/ai-safety-conversations-have-gotten-unbelievable/",
-    "summary": "This week two conversations about AI safety went viral that demonstrate just how hard it is to discern AI fact from fiction.",
-    "published": "2026-09-19T15:00:00+00:00",
-    "first_seen": "2026-09-20T11:02:10.884024+00:00"
-  },
-  {
-    "source": "TechCrunch AI",
-    "source_tier": 2,
-    "title": "Prices go up in 7 days. Get your Disrupt ticket now.",
-    "link": "https://techcrunch.com/2026/09/19/prices-go-up-in-7-days-get-your-disrupt-ticket-now/",
-    "summary": "Current ticket pricing ends Sept. 25 at 11:59 p.m. PT. Join 10,000+ founders, investors and tech leaders at Disrupt and save up to $200 on your ticket until then..",
-    "published": "2026-09-19T14:00:00+00:00",
-    "first_seen": "2026-09-20T11:02:10.884024+00:00"
-  },
-  {
-    "source": "TechCrunch AI",
-    "source_tier": 2,
-    "title": "Vals, backed by Andreessen Horowitz, is looking to become the gold standard for AI benchmarking",
-    "link": "https://techcrunch.com/2026/09/19/vals-backed-by-andreessen-horowitz-is-looking-to-become-the-gold-standard-for-ai-benchmarking/",
-    "summary": "Vals AI is hoping to make AI benchmarking a more neutral and trustworthy resource in a world increasingly inundated by AI models.",
-    "published": "2026-09-19T13:00:00+00:00",
-    "first_seen": "2026-09-20T11:02:10.884024+00:00"
-  },
-  {
-    "source": "The Verge AI",
-    "source_tier": 2,
-    "title": "Meta\u2019s Muse is creepy, but maybe not for the reasons you think",
-    "link": "https://www.theverge.com/ai-artificial-intelligence/997833/meta-muse-creepy",
-    "summary": "Meta's Muse is apparently an effective AI assistant, but one that's a little creepy. Part of that is because of its new Mac app, which can access Messages, Calendar, and Notes. But for all its smarts, Muse doesn't actually know how to describe itself. Jason Aten, a contributing e",
-    "published": "2026-09-19T20:44:40+00:00",
-    "first_seen": "2026-09-20T11:02:10.884024+00:00"
-  },
-  {
-    "source": "The Verge AI",
-    "source_tier": 2,
-    "title": "Gemini went rogue, hacked three companies, and Google hid it",
-    "link": "https://www.theverge.com/ai-artificial-intelligence/997795/google-gemini-rogue-ai-hack",
-    "summary": "In May, Gemini broke containment and hacked three different companies, but Google didn't disclose the incident until the Wall Street Journal approached the company. The hacks happened during a test of the model's cybersecurity capabilities run by third-party Irregular, which was ",
-    "published": "2026-09-19T15:25:03+00:00",
-    "first_seen": "2026-09-20T11:02:10.884024+00:00"
-  },
-  {
-    "source": "The Verge AI",
-    "source_tier": 2,
-    "title": "Does AI need an antitrust exemption so it doesn\u2019t kill everyone????",
-    "link": "https://www.theverge.com/podcast/997382/openai-microsoft-anthropic-elon-musk-cartel-ai-competition",
-    "summary": "Today on Decoder, we\u2019ve got the first of a two-part series on the future of business, and I\u2019m talking with Jonathan Kanter, the former antitrust chief for the US Department of Justice in the Biden administration. These days, he\u2019s both a professor of law at WashU and professor of ",
-    "published": "2026-09-19T14:00:00+00:00",
-    "first_seen": "2026-09-20T11:02:10.884024+00:00"
-  },
-  {
-    "source": "The Verge AI",
-    "source_tier": 2,
-    "title": "The AI regulation smackdown isn\u2019t over",
-    "link": "https://www.theverge.com/ai-artificial-intelligence/997706/the-ai-regulation-smackdown-isnt-over",
-    "summary": "At the start of this week, the who's-who of AI seemed - at least tentatively - on the side of AI regulation. Over the weekend, Anthropic CEO Dario Amodei had proposed a three-step plan for slowing AI development, including by embedding third-party evaluators in labs, coordinating",
-    "published": "2026-09-19T13:00:00+00:00",
-    "first_seen": "2026-09-20T11:02:10.884024+00:00"
-  },
-  {
     "source": "MIT Technology Review",
     "source_tier": 2,
     "title": "How we made the first comprehensive map of deaths along the US border\u2019s \u201cvirtual wall\u201d",
@@ -5875,5 +5776,302 @@
     "summary": "A hacker broke into more than 100 websites using an army of AI agents that mostly operated on their own, according to findings from the AI security firm Norforge. Though Norforge doesn't name the targets, Reuters reports that the victims included companies like John Deere, SharkN",
     "published": "2026-10-19T13:58:41+00:00",
     "first_seen": "2026-10-20T11:14:14.385264+00:00"
+  },
+  {
+    "source": "European Commission Digital Strategy",
+    "source_tier": 1,
+    "title": "Commission to investigate how Booking.com combats scams and fraud under the Digital Services Act",
+    "link": "https://digital-strategy.ec.europa.eu/en/news/commission-investigate-how-bookingcom-combats-scams-and-fraud-under-digital-services-act",
+    "summary": "Commission to investigate how Booking.com combats scams and fraud under the Digital Services Act\nAnonymous (not verified)\nWed, 10/21/2026 - 12:06\n\n\n\n  \n        \n              \n                                    Today, the European Commission has opened formal proceedings to asse",
+    "published": "2026-10-21T10:06:59+00:00",
+    "first_seen": "2026-10-21T11:30:41.275015+00:00"
+  },
+  {
+    "source": "MIT Technology Review",
+    "source_tier": 2,
+    "title": "We can do impossible things",
+    "link": "https://www.technologyreview.com/2026/10/21/1146053/editor-letter-we-can-do-impossible-things/",
+    "summary": "I\u2019d wager everyone has a rehearsed response to what\u2019s absolutely one of the world\u2019s worst interview questions: \u201cWhat\u2019s your biggest weakness?\u201d Whenever I\u2019ve gotten it, I take a slow\u2014even pensive\u2014breath and rattle off my line: \u201cI say no to myself too much.\u201d\u00a0 I won\u2019t lie. It\u2019s a bi",
+    "published": "2026-10-21T09:00:00+00:00",
+    "first_seen": "2026-10-21T11:30:41.275015+00:00"
+  },
+  {
+    "source": "MIT Technology Review",
+    "source_tier": 2,
+    "title": "Nuclear-powered spaceships",
+    "link": "https://www.technologyreview.com/2026/10/21/1146061/nuclear-powered-spaceships-impossible-issue/",
+    "summary": "Just before the Artemis II crew began its historic slingshot around the moon this past April, NASA announced plans to build Space Reactor-1 Freedom. SR-1, the first-ever nuclear-reactor-\u00adpowered interplanetary spacecraft, is meant to fly an uncrewed mission to Mars by the end of ",
+    "published": "2026-10-21T09:00:00+00:00",
+    "first_seen": "2026-10-21T11:30:41.275015+00:00"
+  },
+  {
+    "source": "MIT Technology Review",
+    "source_tier": 2,
+    "title": "Exercise in a pill",
+    "link": "https://www.technologyreview.com/2026/10/21/1146121/exercise-in-a-pill-impossible-issue/",
+    "summary": "We all know exercise is good for us. It builds muscle, strengthens bones, lowers blood pressure, and boosts mood. By deciphering how movement benefits the body, researchers hope to develop medicines that can offer some of the same perks\u2014without the workout. The idea isn\u2019t to repl",
+    "published": "2026-10-21T09:00:00+00:00",
+    "first_seen": "2026-10-21T11:30:41.275015+00:00"
+  },
+  {
+    "source": "MIT Technology Review",
+    "source_tier": 2,
+    "title": "Interspecies communication",
+    "link": "https://www.technologyreview.com/2026/10/21/1146124/interspecies-communication-impossible-issue/",
+    "summary": "Humans are far from the only species with a gift for gab, and our furry, feathered, and finned friends could have a lot to tell us. Decoding how animals communicate with one another could offer a window into the inner lives of other species and help humans realize that \u201canimals a",
+    "published": "2026-10-21T09:00:00+00:00",
+    "first_seen": "2026-10-21T11:30:41.275015+00:00"
+  },
+  {
+    "source": "MIT Technology Review",
+    "source_tier": 2,
+    "title": "Cleaning up PFAS",
+    "link": "https://www.technologyreview.com/2026/10/21/1146128/cleaning-up-pfas-impossible-issue/",
+    "summary": "Scrubbing Earth of per- and polyfluoroalkyl substances\u2014a.k.a. PFAS or forever chemicals\u2014could eliminate a list of woes for people and planet. Used for decades in everything from nonstick pans to firefighting foams, PFAS have been linked to increased risks of fertility challenges,",
+    "published": "2026-10-21T09:00:00+00:00",
+    "first_seen": "2026-10-21T11:30:41.275015+00:00"
+  },
+  {
+    "source": "MIT Technology Review",
+    "source_tier": 2,
+    "title": "Solid-state batteries",
+    "link": "https://www.technologyreview.com/2026/10/21/1146137/solid-state-batteries-impossible-issue/",
+    "summary": "The rise of the lithium-ion battery, which powers everything from the smallest personal electronics to gargantuan energy storage systems, has been nothing short of revolutionary. But as anyone who\u2019s boarded a plane in the last decade could tell you, storing and pumping out energy",
+    "published": "2026-10-21T09:00:00+00:00",
+    "first_seen": "2026-10-21T11:30:41.275015+00:00"
+  },
+  {
+    "source": "MIT Technology Review",
+    "source_tier": 2,
+    "title": "Eliminating traffic deaths",
+    "link": "https://www.technologyreview.com/2026/10/21/1146141/eliminating-traffic-deaths-impossible-issue/",
+    "summary": "Every year, traffic crashes kill more than one million people, and they\u2019re the leading cause of death for children and young adults. In the US, 100 people a day lose their lives this way, in many cases not on highways but on rural and local streets. \u201cTraffic deaths are a leading ",
+    "published": "2026-10-21T09:00:00+00:00",
+    "first_seen": "2026-10-21T11:30:41.275015+00:00"
+  },
+  {
+    "source": "MIT Technology Review",
+    "source_tier": 2,
+    "title": "It\u2019s a bird, it\u2019s a plane \u2026 it\u2019s a robo-puffin?",
+    "link": "https://www.technologyreview.com/2026/10/20/1145205/its-a-bird-its-a-plane-its-a-robo-puffin/",
+    "summary": "Given that water is 1,000 times denser than air, moving through those two mediums requires very different mechanics\u2014or so one might assume. Yet birds like gulls and puffins can plunge into the sea, swim underwater, and leap back into the air to fly away. And now engineers at MIT ",
+    "published": "2026-10-20T21:00:00+00:00",
+    "first_seen": "2026-10-21T11:30:41.275015+00:00"
+  },
+  {
+    "source": "MIT Technology Review",
+    "source_tier": 2,
+    "title": "Here\u2019s the tea",
+    "link": "https://www.technologyreview.com/2026/10/20/1145274/heres-the-tea/",
+    "summary": "When Tristan Brown, an associate professor of history at MIT, first examined a Chinese tea chest label displayed at Old South Meeting House, he had no reason to doubt its story. Descendants of the Boston blacksmith Thomas Wells had donated the label in 1987, saying it had been re",
+    "published": "2026-10-20T21:00:00+00:00",
+    "first_seen": "2026-10-21T11:30:41.275015+00:00"
+  },
+  {
+    "source": "MIT Technology Review",
+    "source_tier": 2,
+    "title": "Melt it, spin it, use it again",
+    "link": "https://www.technologyreview.com/2026/10/20/1145276/melt-it-spin-it-use-it-again/",
+    "summary": "The average American throws out around 81 pounds of clothing each year, and there are few options for recycling it. MIT engineers hope to cut down on that textile waste with a new type of yarn.\u00a0 The thermoplastic yarn mimics the properties of conventional elastic yarns, which typ",
+    "published": "2026-10-20T21:00:00+00:00",
+    "first_seen": "2026-10-21T11:30:41.275015+00:00"
+  },
+  {
+    "source": "ZDNet AI",
+    "source_tier": 2,
+    "title": "Gemini on Android Auto can access my photos, emails, and calendar now \u2013 why I\u2019m OK with that (mostly)",
+    "link": "https://www.zdnet.com/tech/gemini-on-android-auto-can-look-through-my-photos-emails-and-calendar-now-im-cautiously-optimistic/",
+    "summary": "The latest Android Auto update lets the AI assistant tap into your Google services for context-based responses.",
+    "published": "2026-10-20T20:00:00+00:00",
+    "first_seen": "2026-10-21T11:30:41.275015+00:00"
+  },
+  {
+    "source": "ZDNet AI",
+    "source_tier": 2,
+    "title": "Latest Windows update disables key security setting \u2013 but there\u2019s a workaround",
+    "link": "https://www.zdnet.com/tech/microsoft-october-windows-update-disables-security-setting-workaround/",
+    "summary": "A bug in Microsoft\u2019s October Windows update prevents you from turning on a security setting that blocks malicious or suspicious apps. A Registry hack fixes the glitch.",
+    "published": "2026-10-20T14:26:05+00:00",
+    "first_seen": "2026-10-21T11:30:41.275015+00:00"
+  },
+  {
+    "source": "TechCrunch AI",
+    "source_tier": 2,
+    "title": "Anthropic pitches AI safety bill that may block a model if 50+ people could be killed",
+    "link": "https://techcrunch.com/2026/10/20/anthropic-pitches-ai-safety-bill-that-may-block-a-model-if-50-people-could-be-killed/",
+    "summary": "The proposed policy seems to offer protections against AI running amok but actually forbids federal agencies from blocking a model's release without the permission of a judge.",
+    "published": "2026-10-20T23:01:23+00:00",
+    "first_seen": "2026-10-21T11:30:41.275015+00:00"
+  },
+  {
+    "source": "TechCrunch AI",
+    "source_tier": 2,
+    "title": "Hugging Face CEO warns that Netflix\u2019s OpenAI hack documentary isn\u2019t accurate",
+    "link": "https://techcrunch.com/2026/10/20/hugging-face-ceo-warns-that-netflixs-openai-hack-documentary-isnt-accurate/",
+    "summary": "Before you share the Netflix documentary \"AI Gone Rogue,\" take note. Clem Delangue, Hugging Face's co-founder who is featured in the film, says it went \"full doomer mode\" and isn't accurate.",
+    "published": "2026-10-20T22:24:02+00:00",
+    "first_seen": "2026-10-21T11:30:41.275015+00:00"
+  },
+  {
+    "source": "TechCrunch AI",
+    "source_tier": 2,
+    "title": "Anthropic\u2019s cloud partnerships are getting messy",
+    "link": "https://techcrunch.com/2026/10/20/anthropics-cloud-partnerships-are-getting-messy/",
+    "summary": "Anthropic is reportedly struggling to secure enough compute from cloud providers that increasingly view it as a competitor, even as its infrastructure spending balloons ahead of a planned November IPO.",
+    "published": "2026-10-20T21:25:22+00:00",
+    "first_seen": "2026-10-21T11:30:41.275015+00:00"
+  },
+  {
+    "source": "TechCrunch AI",
+    "source_tier": 2,
+    "title": "SpaceX\u2019s AI business is beating expectations",
+    "link": "https://techcrunch.com/2026/10/20/spacexs-ai-business-is-beating-expectations/",
+    "summary": "SpaceX hit profitability in the third quarter, with net income of $4.4 billion. AI was the engine.",
+    "published": "2026-10-20T20:40:41+00:00",
+    "first_seen": "2026-10-21T11:30:41.275015+00:00"
+  },
+  {
+    "source": "TechCrunch AI",
+    "source_tier": 2,
+    "title": "OpenAI acquires startup Orchestra Bio\u2060 to beef up its biotech business",
+    "link": "https://techcrunch.com/2026/10/20/openai-acquires-startup-orchestra-bio%e2%81%a0-to-beef-up-its-biotech-business/",
+    "summary": "OpenAI says it's adding Orchestra's team and technology to work on Rosalind, its AI model for life sciences research, and to its related Rosalind Workbench tool, a harness that aims to help researchers plan experiments and analyze results.",
+    "published": "2026-10-20T20:35:10+00:00",
+    "first_seen": "2026-10-21T11:30:41.275015+00:00"
+  },
+  {
+    "source": "TechCrunch AI",
+    "source_tier": 2,
+    "title": "Google has joined Amazon in attacking Nvidia\u2019s stronghold with AI app developers",
+    "link": "https://techcrunch.com/2026/10/20/google-has-joined-amazon-in-attacking-nvidias-stronghold-with-ai-app-developers/",
+    "summary": "Google has joined Amazon in releasing a developer tool that makes it easy for PyTorch users to move their apps off Nvidia GPUs.",
+    "published": "2026-10-20T18:38:24+00:00",
+    "first_seen": "2026-10-21T11:30:41.275015+00:00"
+  },
+  {
+    "source": "TechCrunch AI",
+    "source_tier": 2,
+    "title": "ChatGPT now lets you lock your chats",
+    "link": "https://techcrunch.com/2026/10/20/chatgpt-now-lets-you-lock-your-chats/",
+    "summary": "The company says the feature is designed for situations where users might be discussing something personal or planning a surprise and want to keep those conversations private when handing their device to friends or family to show them something in another chat.",
+    "published": "2026-10-20T18:36:53+00:00",
+    "first_seen": "2026-10-21T11:30:41.275015+00:00"
+  },
+  {
+    "source": "TechCrunch AI",
+    "source_tier": 2,
+    "title": "Eric Schmidt reportedly owns about half as much of Anthropic as CEO Dario Amodei",
+    "link": "https://techcrunch.com/2026/10/20/eric-schmidt-reportedly-owns-about-half-as-much-of-anthropic-as-ceo-dario-amodei/",
+    "summary": "Eric Schmidt\u2019s fortune is about to get even bigger.",
+    "published": "2026-10-20T17:55:12+00:00",
+    "first_seen": "2026-10-21T11:30:41.275015+00:00"
+  },
+  {
+    "source": "TechCrunch AI",
+    "source_tier": 2,
+    "title": "Meta\u2019s Muse hits 10M US downloads in 40 days, a milestone reached by only 11 other apps",
+    "link": "https://techcrunch.com/2026/10/20/metas-muse-hits-10m-u-s-downloads-in-40-days-a-milestone-reached-by-only-11-other-apps/",
+    "summary": "New data also shows Muse is retaining users at higher rates than its AI rivals.",
+    "published": "2026-10-20T17:12:48+00:00",
+    "first_seen": "2026-10-21T11:30:41.275015+00:00"
+  },
+  {
+    "source": "TechCrunch AI",
+    "source_tier": 2,
+    "title": "Ex-Nvidia-turned-VC Amulya Vishwanath: \u2018Physical AI is in its LEGO era\u2019",
+    "link": "https://techcrunch.com/2026/10/20/ex-nvidia-turned-vc-amulya-vishwanath-physical-ai-is-in-its-lego-era/",
+    "summary": "It\u2019s the moment everyone is waiting for \u2014 the ChatGPT moment for robotics, Amulya Vishwanath explained to TechCrunch\u2019s Equity.",
+    "published": "2026-10-20T16:20:06+00:00",
+    "first_seen": "2026-10-21T11:30:41.275015+00:00"
+  },
+  {
+    "source": "TechCrunch AI",
+    "source_tier": 2,
+    "title": "Plants can speak using electricity, so this startup built an AI model to decipher their language",
+    "link": "https://techcrunch.com/2026/10/20/plants-can-speak-using-electricity-so-this-startup-built-an-ai-model-to-decipher-their-language/",
+    "summary": "Electric Plant has built an AI-powered translator to help humans listen to what plants are saying with the subtle electricity coursing through their stems.",
+    "published": "2026-10-20T16:00:00+00:00",
+    "first_seen": "2026-10-21T11:30:41.275015+00:00"
+  },
+  {
+    "source": "TechCrunch AI",
+    "source_tier": 2,
+    "title": "Figma co-founder Dylan Field thinks MCP is not a perfect protocol",
+    "link": "https://techcrunch.com/2026/10/20/figma-co-founder-dylan-field-thinks-mcp-is-not-a-perfect-protocol/",
+    "summary": "Figma said it plans to support as many standards as possible without exposing all of its data.",
+    "published": "2026-10-20T14:13:32+00:00",
+    "first_seen": "2026-10-21T11:30:41.275015+00:00"
+  },
+  {
+    "source": "TechCrunch AI",
+    "source_tier": 2,
+    "title": "US orders federal agencies to remove China\u2019s DeepSeek AI from their systems",
+    "link": "https://techcrunch.com/2026/10/20/us-orders-federal-agencies-to-remove-chinas-deepseek-ai-from-their-systems/",
+    "summary": "The U.S. has ordered federal civilian agencies to remove DeepSeek products and third-party services built using its technology, citing national security concerns.",
+    "published": "2026-10-20T13:07:24+00:00",
+    "first_seen": "2026-10-21T11:30:41.275015+00:00"
+  },
+  {
+    "source": "TechCrunch AI",
+    "source_tier": 2,
+    "title": "Eka is worth $1.45B thanks to a physical AI model that has experts raving",
+    "link": "https://techcrunch.com/2026/10/20/eka-is-worth-1-45-billion-thanks-to-a-physical-ai-model-that-has-experts-raving/",
+    "summary": "Eka Robotics may be the first robotic arm that is actually good at picking up a wide range of objects, and it is so smooth and human-like, it is wowing the industry.",
+    "published": "2026-10-20T13:00:00+00:00",
+    "first_seen": "2026-10-21T11:30:41.275015+00:00"
+  },
+  {
+    "source": "TechCrunch AI",
+    "source_tier": 2,
+    "title": "Yelp can now call on your behalf to check wait times at a restaurant",
+    "link": "https://techcrunch.com/2026/10/20/yelp-can-now-call-on-your-behalf-to-check-wait-times-at-a-restaurant/",
+    "summary": "Yelp is embedding numerous new AI features into its app that can do everything from call to check on restaurant wait times to create personalized recommendations that remember your preferences.",
+    "published": "2026-10-20T11:00:00+00:00",
+    "first_seen": "2026-10-21T11:30:41.275015+00:00"
+  },
+  {
+    "source": "The Verge AI",
+    "source_tier": 2,
+    "title": "Judge dismisses Sam Altman\u2019s sister\u2019s sexual abuse lawsuit",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/1014976/sam-altman-ann-altman-lawsuit-dismissed",
+    "summary": "On Tuesday, US District Judge Zachary Bluestone dismissed the lawsuit Ann Altman filed last year alleging that her brother, OpenAI CEO Sam Altman, had sexually abused her throughout her childhood. As reported earlier by The Guardian, the judge wrote that over the past year, Ann h",
+    "published": "2026-10-20T23:04:19+00:00",
+    "first_seen": "2026-10-21T11:30:41.275015+00:00"
+  },
+  {
+    "source": "The Verge AI",
+    "source_tier": 2,
+    "title": "Google\u2019s more personalized Gemini AI is heading to your car",
+    "link": "https://www.theverge.com/tech/1014999/google-gemini-ai-cars-android-auto",
+    "summary": "Google is bringing Personal Intelligence to Gemini AI in your car. With this update, Gemini in Android Auto and cars with Google built-in can tap into your information across Google apps, including Gmail, Calendar, Maps, Photos, YouTube, and Search. As an example, Google says you",
+    "published": "2026-10-20T22:11:34+00:00",
+    "first_seen": "2026-10-21T11:30:41.275015+00:00"
+  },
+  {
+    "source": "The Verge AI",
+    "source_tier": 2,
+    "title": "Meta pauses Muse sharing after researchers find AI chats on the web",
+    "link": "https://www.theverge.com/tech/1014627/meta-muse-ai-sharing-ai-chats",
+    "summary": "Meta says it paused a Muse feature that lets you share conversations with the AI assistant after researchers found the URLs publicly available on the web, as reported by Ars Technica. In a report published this week, researchers at the security firm Claroc say they found more tha",
+    "published": "2026-10-20T18:07:34+00:00",
+    "first_seen": "2026-10-21T11:30:41.275015+00:00"
+  },
+  {
+    "source": "The Verge AI",
+    "source_tier": 2,
+    "title": "Spotify pulled 50 million AI slop and spam tracks from its recommendations",
+    "link": "https://www.theverge.com/entertainment/1014284/spotify-ai-slop-spam-songs-removed",
+    "summary": "Spotify says it has removed more than 50 million songs considered AI-generated slop or spam from user recommendations over the past year. That's according to an announcement on Tuesday that says Spotify has also made changes to its recommendation system to highlight more music ma",
+    "published": "2026-10-20T14:18:37+00:00",
+    "first_seen": "2026-10-21T11:30:41.275015+00:00"
+  },
+  {
+    "source": "The Verge AI",
+    "source_tier": 2,
+    "title": "Adobe Lightroom mobile can now open closed eyes in photos with a simple tap",
+    "link": "https://www.theverge.com/tech/1014246/adobe-lightroom-mobile-ai-quick-action-open-eyes-closed-blink-repair",
+    "summary": "Adobe announced yesterday that the mobile version of Lightroom, available for iOS, iPadOS, and Android, can now open closed eyes in photos using generative AI with just a single tap. When the app detects a person, or a group of people, have their eyes closed in a photo it will au",
+    "published": "2026-10-20T13:06:44+00:00",
+    "first_seen": "2026-10-21T11:30:41.275015+00:00"
   }
 ]

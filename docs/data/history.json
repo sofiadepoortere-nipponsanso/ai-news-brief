@@ -45,96 +45,6 @@
     "first_seen": "2026-09-21T12:29:05.683303+00:00"
   },
   {
-    "source": "TechCrunch AI",
-    "source_tier": 2,
-    "title": "6 days left to save up to $200 to TechCrunch Disrupt 2026",
-    "link": "https://techcrunch.com/2026/09/20/6-days-left-to-get-ahead-at-techcrunch-disrupt-2026/",
-    "summary": "Current ticket pricing ends in 6 days on Sept. 25 at 11:59 p.m. PT. Join 10,000+ founders, investors and tech leaders at Disrupt and save up to $200 on your ticket until then.",
-    "published": "2026-09-20T21:41:08+00:00",
-    "first_seen": "2026-09-21T12:29:05.683303+00:00"
-  },
-  {
-    "source": "TechCrunch AI",
-    "source_tier": 2,
-    "title": "World model companies are keeping a lot of secrets",
-    "link": "https://techcrunch.com/2026/09/20/world-model-companies-are-keeping-a-lot-of-secrets/",
-    "summary": "Everyone in the world-models space is sitting on a pile of cash and a ton of buzz, but good luck getting anyone \u2014 from the founders to their own data suppliers \u2014 to tell you what they're actually building.",
-    "published": "2026-09-20T20:29:07+00:00",
-    "first_seen": "2026-09-21T12:29:05.683303+00:00"
-  },
-  {
-    "source": "TechCrunch AI",
-    "source_tier": 2,
-    "title": "Is the AI industry really ready to slow down?",
-    "link": "https://techcrunch.com/2026/09/20/is-the-ai-industry-really-ready-to-slow-down/",
-    "summary": "On Equity, we debated whether Ai executives are serious about wanting to slow down.",
-    "published": "2026-09-20T18:56:04+00:00",
-    "first_seen": "2026-09-21T12:29:05.683303+00:00"
-  },
-  {
-    "source": "TechCrunch AI",
-    "source_tier": 2,
-    "title": "Vocci\u2019s ring adds a new form factor to meeting note-taking",
-    "link": "https://techcrunch.com/2026/09/20/voccis-ring-adds-a-new-form-factor-to-meeting-note-taking/",
-    "summary": "Vocci's lightweight ring costs $249, and might pose some privacy questions",
-    "published": "2026-09-20T18:32:52+00:00",
-    "first_seen": "2026-09-21T12:29:05.683303+00:00"
-  },
-  {
-    "source": "TechCrunch AI",
-    "source_tier": 2,
-    "title": "ScrollEd wants to turn textbooks into TikTok",
-    "link": "https://techcrunch.com/2026/09/20/scrolled-wants-to-turn-textbooks-into-tiktok/",
-    "summary": "ScrollEd turns textbooks into a scrollable, Instagram-like feed with video, audio, and quizzes. The Palo Alto startup, founded by student co-founders (and spouses) Utsav Gupta and Rebecca Neff, pitches at TechCrunch Disrupt.",
-    "published": "2026-09-20T18:00:00+00:00",
-    "first_seen": "2026-09-21T12:29:05.683303+00:00"
-  },
-  {
-    "source": "The Verge AI",
-    "source_tier": 2,
-    "title": "UN says AI safeguards can\u2019t wait for certainty",
-    "link": "https://www.theverge.com/ai-artificial-intelligence/998090/un-ai-panel-hugging-face-hack-precautionary-principle",
-    "summary": "Governments need to rein in increasingly capable AI agents before their risks are fully understood, a United Nations scientific panel warned in the global organization's first major assessment of OpenAI's hack of Hugging Face earlier this year. The report cements AI's place on th",
-    "published": "2026-09-21T10:18:06+00:00",
-    "first_seen": "2026-09-21T12:29:05.683303+00:00"
-  },
-  {
-    "source": "The Verge AI",
-    "source_tier": 2,
-    "title": "Amazon doesn\u2019t trust Meta\u2019s Muse AI agent",
-    "link": "https://www.theverge.com/tech/998078/amazon-blocks-meta-muse-ai-agent-shopping",
-    "summary": "Meta's Muse AI agent has been blocked from shopping Amazon on behalf of its users, GeekWire reports. A popup message started appearing on Sunday for Muse users saying that \"continued access by an unauthorized AI agent violates Amazon's Conditions of Use, to which our customers ha",
-    "published": "2026-09-21T09:21:47+00:00",
-    "first_seen": "2026-09-21T12:29:05.683303+00:00"
-  },
-  {
-    "source": "The Verge AI",
-    "source_tier": 2,
-    "title": "No one is surprised that Nvidia\u2019s Jensen Huang thinks AI fears are overblown",
-    "link": "https://www.theverge.com/ai-artificial-intelligence/997936/nvidia-jensen-huang-ai-fears-overblown",
-    "summary": "The man who may stand to make the most money from the AI boom seems to think he knows better than anyone else, including researchers who have studied and worked on AI for decades. In an interview with CBS Sunday Morning, he claimed there was a \"0% chance\" of AI being the end of t",
-    "published": "2026-09-20T18:50:18+00:00",
-    "first_seen": "2026-09-21T12:29:05.683303+00:00"
-  },
-  {
-    "source": "The Verge AI",
-    "source_tier": 2,
-    "title": "Trump now says he wants to form an \u2018AI Force\u2019",
-    "link": "https://www.theverge.com/ai-artificial-intelligence/997867/trump-ai-force-ai-czar",
-    "summary": "The president posted on Truth Social that he wanted to appoint an \"AI czar\" to lead a new \"AI force.\" He made the announcement amid growing calls from across the political spectrum and even within the industry to pump the brakes on AI development. He posted that his administratio",
-    "published": "2026-09-20T15:39:22+00:00",
-    "first_seen": "2026-09-21T12:29:05.683303+00:00"
-  },
-  {
-    "source": "The Verge AI",
-    "source_tier": 2,
-    "title": "Humans, not rogue AI, are still the biggest cybersecurity risk to energy systems",
-    "link": "https://www.theverge.com/science/997834/ai-cyberattack-energy-critical-infrastructure",
-    "summary": "Before recent high-profile hacks raised the specter of AI possibly \"killing all humans,\" our energy systems were already disturbingly vulnerable to cyberattack - and the risk is growing. \"We were always prey. We were just kind of surviving at the appetite of our predators,\" Joshu",
-    "published": "2026-09-20T12:00:00+00:00",
-    "first_seen": "2026-09-21T12:29:05.683303+00:00"
-  },
-  {
     "source": "MIT Technology Review",
     "source_tier": 2,
     "title": "The Download: investigating deaths at the US border\u2019s \u201cvirtual wall\u201d",
@@ -6073,5 +5983,248 @@
     "summary": "Adobe announced yesterday that the mobile version of Lightroom, available for iOS, iPadOS, and Android, can now open closed eyes in photos using generative AI with just a single tap. When the app detects a person, or a group of people, have their eyes closed in a photo it will au",
     "published": "2026-10-20T13:06:44+00:00",
     "first_seen": "2026-10-21T11:30:41.275015+00:00"
+  },
+  {
+    "source": "Azure AI Blog",
+    "source_tier": 1,
+    "title": "Designing for sovereign AI: A shared foundation from edge to cloud",
+    "link": "https://azure.microsoft.com/en-us/blog/designing-for-sovereign-ai-a-shared-foundation-from-edge-to-cloud/",
+    "summary": "A flexible sovereign architecture allows organizations to place each workload in the right environment, apply the controls it requires, and maintain consistency.\nThe post Designing for sovereign AI: A shared foundation from edge to cloud appeared first on Microsoft Azure Blog.",
+    "published": "2026-10-19T19:00:00+00:00",
+    "first_seen": "2026-10-22T11:30:13.581674+00:00"
+  },
+  {
+    "source": "MIT Technology Review",
+    "source_tier": 2,
+    "title": "Making the case for context-aware AI",
+    "link": "https://www.technologyreview.com/2026/10/22/1146812/making-the-case-for-context-aware-ai/",
+    "summary": "Enterprise AI can generate recommendations, automate tasks, and help organizations make decisions faster. But without an understanding of how a business actually operates, even powerful models can miss the constraints and relationships that determine whether a decision is the rig",
+    "published": "2026-10-22T10:00:00+00:00",
+    "first_seen": "2026-10-22T11:30:13.581674+00:00"
+  },
+  {
+    "source": "MIT Technology Review",
+    "source_tier": 2,
+    "title": "Three things you should know about permafrost",
+    "link": "https://www.technologyreview.com/2026/10/22/1147591/permafrost-primer/",
+    "summary": "How much do you know about permafrost? Maybe, like me, you\u2019ve been aware that this layer of frozen soil is thawing, that it\u2019s important in the global puzzle of climate change \u2026 and that\u2019s about the extent of it.\u00a0\u00a0 The great news for both of us is that my colleague James Temple ju",
+    "published": "2026-10-22T10:00:00+00:00",
+    "first_seen": "2026-10-22T11:30:13.581674+00:00"
+  },
+  {
+    "source": "MIT Technology Review",
+    "source_tier": 2,
+    "title": "AI\u2019s hidden storage bill: What inference leaves behind",
+    "link": "https://www.technologyreview.com/2026/10/22/1146948/ais-hidden-storage-bill-what-inference-leaves-behind/",
+    "summary": "Ask most executives to picture the cost of AI and they\u2019ll likely see GPUs\u2014racks of accelerators with gigawatts of power\u2014and a waitlist for silicon. But that picture leaves something out: Data storage costs. What happens to data after a model responds? Much of the back-end data th",
+    "published": "2026-10-22T08:41:18+00:00",
+    "first_seen": "2026-10-22T11:30:13.581674+00:00"
+  },
+  {
+    "source": "MIT Technology Review",
+    "source_tier": 2,
+    "title": "The Download: introducing the Impossible issue",
+    "link": "https://www.technologyreview.com/2026/10/21/1147573/the-download-introducing-impossible-issue/",
+    "summary": "This is today\u2019s edition of The Download, our weekday newsletter that provides a daily dose of what\u2019s going on in the world of technology. Introducing: the Impossible issue We wanted our last print edition of 2026 to include a slate of stories that check in on impossible ideas. Wh",
+    "published": "2026-10-21T12:10:00+00:00",
+    "first_seen": "2026-10-22T11:30:13.581674+00:00"
+  },
+  {
+    "source": "ZDNet AI",
+    "source_tier": 2,
+    "title": "GridCraft is the open-source Excel clone for Linux I\u2019ve been waiting for",
+    "link": "https://www.zdnet.com/tech/gridcraft-excel-clone-hands-on/",
+    "summary": "If spreadsheets are your thing, but Microsoft Office isn\u2019t, you might want to give the open-source clone, GridCraft, a try.",
+    "published": "2026-10-22T02:00:00+00:00",
+    "first_seen": "2026-10-22T11:30:13.581674+00:00"
+  },
+  {
+    "source": "ZDNet AI",
+    "source_tier": 2,
+    "title": "Not impressed with Google Maps? Make Waze your default on Pixel \u2013 here\u2019s how",
+    "link": "https://www.zdnet.com/tech/waze-your-way-to-a-different-default-map-app-on-pixel/",
+    "summary": "If you\u2019re tired of Google Maps failing to get you where you need to go, set Waze as the default on your Pixel. I\u2019ve finally figured out how.",
+    "published": "2026-10-22T01:00:00+00:00",
+    "first_seen": "2026-10-22T11:30:13.581674+00:00"
+  },
+  {
+    "source": "ZDNet AI",
+    "source_tier": 2,
+    "title": "Hold onto your old HomePod \u2013 an upgrade is on the way",
+    "link": "https://www.zdnet.com/home-and-office/keep-old-apple-homepod-upgrades/",
+    "summary": "An upcoming update will bring new features to existing HomePods. Here\u2019s what to know.",
+    "published": "2026-10-21T18:37:07+00:00",
+    "first_seen": "2026-10-22T11:30:13.581674+00:00"
+  },
+  {
+    "source": "ZDNet AI",
+    "source_tier": 2,
+    "title": "OpenAI\u2019s most powerful AI models turned off safety monitoring \u2013 then lied about it",
+    "link": "https://www.zdnet.com/innovation/openai-astra-sol-models-disable-safety-monitoring/",
+    "summary": "The models Astra and Sol misinterpreted instructions during internal use, which has serious implications for alignment monitoring.",
+    "published": "2026-10-21T18:15:19+00:00",
+    "first_seen": "2026-10-22T11:30:13.581674+00:00"
+  },
+  {
+    "source": "ZDNet AI",
+    "source_tier": 2,
+    "title": "Chrome warns you about suspicious websites now \u2013 how to turn on Google\u2019s new scam protection",
+    "link": "https://www.zdnet.com/business/chrome-browser-warns-suspicious-websites-scam-protection/",
+    "summary": "Google\u2019s browser will flash two  types of warnings based on whether the site is deemed dangerous or just suspicious.",
+    "published": "2026-10-21T16:43:12+00:00",
+    "first_seen": "2026-10-22T11:30:13.581674+00:00"
+  },
+  {
+    "source": "ZDNet AI",
+    "source_tier": 2,
+    "title": "Amazon unveiled 5 new Blink cameras, including a 4K model that caught my eye",
+    "link": "https://www.zdnet.com/home-and-office/new-amazon-blink-cameras-worth-the-upgrade/",
+    "summary": "Five new Blink cameras are coming to the market, and the extended-range model has all my attention.",
+    "published": "2026-10-21T14:01:31+00:00",
+    "first_seen": "2026-10-22T11:30:13.581674+00:00"
+  },
+  {
+    "source": "ZDNet AI",
+    "source_tier": 2,
+    "title": "ServiceNow and Nvidia launch Arc, a new AI agent for enterprise",
+    "link": "https://www.zdnet.com/innovation/exclusive-servicenow-and-nvidia-launch-arc-a-new-ai-agent-for-enterprise/",
+    "summary": "The two companies are trying to solve the AI agent security conundrum with multiple layers of real-time security checks.",
+    "published": "2026-10-21T11:30:00+00:00",
+    "first_seen": "2026-10-22T11:30:13.581674+00:00"
+  },
+  {
+    "source": "TechCrunch AI",
+    "source_tier": 2,
+    "title": "Blackstone\u2019s Jas Khaira says fears over AI-buildout debt are overblown",
+    "link": "https://techcrunch.com/2026/10/21/blackstones-jas-khaira-says-fears-over-ai-buildout-debt-are-overblown/",
+    "summary": "Blackstone\u2019s AI head on why the PE giant isn't panicked by market jitters.",
+    "published": "2026-10-21T22:51:22+00:00",
+    "first_seen": "2026-10-22T11:30:13.581674+00:00"
+  },
+  {
+    "source": "TechCrunch AI",
+    "source_tier": 2,
+    "title": "TechCrunch Founder Summit 2026: Everything you need to know",
+    "link": "https://techcrunch.com/2026/10/21/techcrunch-founder-summit-2026-everything-you-need-to-know/",
+    "summary": "TechCrunch Founder Summit is a full-day gathering in Boston on November 4 where founders across all stages connect with top VCs and experienced entrepreneurs to gain tactical insights on building and scaling their companies.",
+    "published": "2026-10-21T21:16:20+00:00",
+    "first_seen": "2026-10-22T11:30:13.581674+00:00"
+  },
+  {
+    "source": "TechCrunch AI",
+    "source_tier": 2,
+    "title": "Meta says Muse has over 10M users, with shopping a top activity",
+    "link": "https://techcrunch.com/2026/10/21/meta-says-muse-has-over-10m-users-with-shopping-a-top-activity/",
+    "summary": "Meta Muse users are adopting the app for shopping and personal productivity, the company said during its Q3 earnings call. The AI app now has over 10M users.",
+    "published": "2026-10-21T21:14:19+00:00",
+    "first_seen": "2026-10-22T11:30:13.581674+00:00"
+  },
+  {
+    "source": "TechCrunch AI",
+    "source_tier": 2,
+    "title": "Recursive launches Flint, a laptop coding model it says was largely built by AI",
+    "link": "https://techcrunch.com/2026/10/21/recursive-launches-flint-a-laptop-coding-model-it-says-was-largely-built-by-ai/",
+    "summary": "Startup Recursive has released Flint, a free, laptop-sized coding model built largely by its own AI research system, as an early test of AI that improves itself.",
+    "published": "2026-10-21T20:27:41+00:00",
+    "first_seen": "2026-10-22T11:30:13.581674+00:00"
+  },
+  {
+    "source": "TechCrunch AI",
+    "source_tier": 2,
+    "title": "While Amazon blocks AI agents, Walmart rolls out the welcome mat",
+    "link": "https://techcrunch.com/2026/10/21/while-amazon-blocks-ai-agents-walmart-rolls-out-the-welcome-mat/",
+    "summary": "As Amazon blocks AI agents from shopping on its site, Walmart is taking the opposite approach, introducing new technology that lets AI agents make purchases on customers' behalf, with controls over spending and transaction approvals.",
+    "published": "2026-10-21T19:30:00+00:00",
+    "first_seen": "2026-10-22T11:30:13.581674+00:00"
+  },
+  {
+    "source": "TechCrunch AI",
+    "source_tier": 2,
+    "title": "PHP Armageddon: OpenAI, Google\u2019s Wiz find ancient holes, panicking the internet",
+    "link": "https://techcrunch.com/2026/10/21/php-armageddon-openai-googles-wiz-find-ancient-holes-panicking-the-internet/",
+    "summary": "This is the kind of security issue that was found and prevented by AI, but is also a high risk because of AI.",
+    "published": "2026-10-21T17:59:12+00:00",
+    "first_seen": "2026-10-22T11:30:13.581674+00:00"
+  },
+  {
+    "source": "TechCrunch AI",
+    "source_tier": 2,
+    "title": "Blacksmith hits unicorn valuation after Sequoia leads Series C",
+    "link": "https://techcrunch.com/2026/10/21/blacksmith-hits-unicorn-valuation-after-sequoia-leads-series-c/",
+    "summary": "Blacksmith, a platform that lets companies build and test AI code more effectively, just announced a $66 million Series C round led by Sequoia that values the company at $1 billion.",
+    "published": "2026-10-21T17:18:27+00:00",
+    "first_seen": "2026-10-22T11:30:13.581674+00:00"
+  },
+  {
+    "source": "TechCrunch AI",
+    "source_tier": 2,
+    "title": "AI promises productivity, but for managers, it\u2019s mostly a headache for now",
+    "link": "https://techcrunch.com/2026/10/21/ai-promises-productivity-but-for-managers-its-mostly-a-headache-for-now-says-new-survey/",
+    "summary": "More than 50% of managers say they're finding it harder to evaluate employees' work after adopting AI, according to a new survey.",
+    "published": "2026-10-21T14:00:00+00:00",
+    "first_seen": "2026-10-22T11:30:13.581674+00:00"
+  },
+  {
+    "source": "The Verge AI",
+    "source_tier": 2,
+    "title": "Eiliko maker says it\u2019s hiring an \u2018independent security firm\u2019 after Verge report on its insecure robots",
+    "link": "https://www.theverge.com/news/1015824/eiliko-energize-lab-statement-on-robot-hack-breach",
+    "summary": "Eiliko, a cute robot charm you can hang on your bag with built-in AI conversations, turned out to be a security nightmare. It told owners that \"your secrets are safe with me,\" but hackers could easily read complete transcripts of everything we told the toy, and that was just the ",
+    "published": "2026-10-22T11:00:00+00:00",
+    "first_seen": "2026-10-22T11:30:13.581674+00:00"
+  },
+  {
+    "source": "The Verge AI",
+    "source_tier": 2,
+    "title": "Data centers could erase decades of air quality gains",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/1015958/data-center-pollution-rising-report",
+    "summary": "A rush of new data centers could bring air pollution roaring back to levels not seen since the 2000s in Texas, which has become ground zero for the physical infrastructure behind generative AI. New and proposed data centers are demanding a tremendous amount of electricity. How de",
+    "published": "2026-10-21T22:33:44+00:00",
+    "first_seen": "2026-10-22T11:30:13.581674+00:00"
+  },
+  {
+    "source": "The Verge AI",
+    "source_tier": 2,
+    "title": "Meta to create a new class of shares to fund AI push",
+    "link": "https://www.theverge.com/tech/1015799/meta-shares-class-ai-q3-2026-earnings",
+    "summary": "Meta says it's issuing a new class of shares to fund its AI initiatives. As part of its third-quarter earnings report released on Wednesday, the company says the non-voting stock will also go toward potential acquisitions and employee compensation, with trading beginning in 2027.",
+    "published": "2026-10-21T21:30:02+00:00",
+    "first_seen": "2026-10-22T11:30:13.581674+00:00"
+  },
+  {
+    "source": "The Verge AI",
+    "source_tier": 2,
+    "title": "Anthropic takes on Muse with Claude Duet, its new AI agent",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/1015843/anthropic-claude-duet-ai-agent",
+    "summary": "Anthropic just announced an AI agent competitor to Meta's Muse and OpenAI's Dots: Claude Duet. The new agent, designed for professionals and small business owners, is launching as a \"research preview,\" according to Anthropic, and it's available as a standalone app on iOS and Andr",
+    "published": "2026-10-21T19:53:20+00:00",
+    "first_seen": "2026-10-22T11:30:13.581674+00:00"
+  },
+  {
+    "source": "The Verge AI",
+    "source_tier": 2,
+    "title": "Walmart is inviting AI agents to shop for you",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/1015715/walmart-ai-shopping-agents",
+    "summary": "Walmart will soon let AI agents shop on its website for you. Next month, the retail giant will allow you to use an AI agent on the site, with systems in place to let you approve and review purchases and set spending limits. The embrace of AI agents stands in stark contrast to Ama",
+    "published": "2026-10-21T19:30:00+00:00",
+    "first_seen": "2026-10-22T11:30:13.581674+00:00"
+  },
+  {
+    "source": "The Verge AI",
+    "source_tier": 2,
+    "title": "Conversational Gemini navigation comes to Apple CarPlay",
+    "link": "https://www.theverge.com/transportation/1015281/gemini-ai-apple-carplay-voice-google-maps",
+    "summary": "After introducing its Gemini AI assistant to Android Auto last year, Google is now bringing it to Apple CarPlay users. The conversational Gemini in navigation is available today for US drivers, with \"rollout happening globally too,\" according to Google (we've asked for specific r",
+    "published": "2026-10-21T15:00:00+00:00",
+    "first_seen": "2026-10-22T11:30:13.581674+00:00"
+  },
+  {
+    "source": "The Verge AI",
+    "source_tier": 2,
+    "title": "OpenAI says an AI agent lied about disabling its safety monitoring system",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/1015316/openai-ai-agent-disabling-monitoring-systems",
+    "summary": "OpenAI disclosed a pair of safety incidents that involved AI agents weakening their safety monitoring systems during internal coding tasks. In one incident, OpenAI says its GPT-6 Astra agent disabled its safety monitor when copying reference code - and then lied about it. \"The re",
+    "published": "2026-10-21T13:57:43+00:00",
+    "first_seen": "2026-10-22T11:30:13.581674+00:00"
   }
 ]

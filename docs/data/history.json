@@ -1,203 +1,5 @@
 [
   {
-    "source": "ZDNet AI",
-    "source_tier": 2,
-    "title": "This one WatchOS 27 feature just solved my biggest issue with Apple Watch",
-    "link": "https://www.zdnet.com/uncategorized/watchos-27-update-fix-apple-watch/",
-    "summary": "Sometimes less is more, and the most helpful software update is the simplest.",
-    "published": "2026-09-25T16:51:43+00:00",
-    "first_seen": "2026-09-26T11:08:11.060058+00:00"
-  },
-  {
-    "source": "TechCrunch AI",
-    "source_tier": 2,
-    "title": "At Meta Connect, the company\u2019s smart glasses were everywhere",
-    "link": "https://techcrunch.com/2026/09/25/at-meta-connect-the-companys-smart-glasses-were-everywhere/",
-    "summary": "The company behind Facebook and Instagram wants to keep consumers connected to the digital world via its ever-growing line of smart glasses.",
-    "published": "2026-09-26T01:08:57+00:00",
-    "first_seen": "2026-09-26T11:08:11.060058+00:00"
-  },
-  {
-    "source": "TechCrunch AI",
-    "source_tier": 2,
-    "title": "Crusoe abandons $1.25B plan to use Boom turbines at AI data centers",
-    "link": "https://techcrunch.com/2026/09/25/crusoe-abandons-1-25b-plan-to-use-boom-turbines-at-ai-data-centers/",
-    "summary": "Boom Supersonic CEO Blake Scholl said the company's new stationary power plants were no longer in Crusoe's near-term plans.",
-    "published": "2026-09-25T23:11:10+00:00",
-    "first_seen": "2026-09-26T11:08:11.060058+00:00"
-  },
-  {
-    "source": "TechCrunch AI",
-    "source_tier": 2,
-    "title": "Unsecured OpenAI agents posted 53 user images on the internet without the lab\u2019s knowledge",
-    "link": "https://techcrunch.com/2026/09/25/unsecured-openai-agents-posted-53-user-images-on-the-internet-without-the-labs-knowledge/",
-    "summary": "AI agents operating in OpenAI's research environment posted user images on public image-hosting sites without the lab's knowledge.",
-    "published": "2026-09-25T22:20:47+00:00",
-    "first_seen": "2026-09-26T11:08:11.060058+00:00"
-  },
-  {
-    "source": "TechCrunch AI",
-    "source_tier": 2,
-    "title": "Meta opens early access program for new Muse features",
-    "link": "https://techcrunch.com/2026/09/25/meta-opens-early-access-program-for-new-muse-features/",
-    "summary": "Anyone interested in joining has to ask Muse to put them on the list.",
-    "published": "2026-09-25T20:34:53+00:00",
-    "first_seen": "2026-09-26T11:08:11.060058+00:00"
-  },
-  {
-    "source": "TechCrunch AI",
-    "source_tier": 2,
-    "title": "Anthropic to pay Akamai $11.6 billion over seven years in cloud deal",
-    "link": "https://techcrunch.com/2026/09/25/anthropic-to-pay-akamai-11-6-billion-over-seven-years-in-cloud-deal/",
-    "summary": "Anthropic has committed $11.6 billion over seven years to Akamai's cloud infrastructure, a bet on CPUs that could grow to about $20 billion, and in an unusual arrangement, Akamai is giving Anthropic a potential stake of up to 5% of its stock that grows as Anthropic spends more.",
-    "published": "2026-09-25T19:13:38+00:00",
-    "first_seen": "2026-09-26T11:08:11.060058+00:00"
-  },
-  {
-    "source": "TechCrunch AI",
-    "source_tier": 2,
-    "title": "Mark Wahlberg is coming to TechCrunch Disrupt 2026, and he wants to talk about your work, not his",
-    "link": "https://techcrunch.com/2026/09/25/mark-wahlberg-is-coming-to-techcrunch-disrupt-2026/",
-    "summary": "Mark Wahlberg joins Bruce K. Lee at Disrupt to discuss investing, entrepreneurship, healthcare, wellness, and building businesses.",
-    "published": "2026-09-25T18:48:33+00:00",
-    "first_seen": "2026-09-26T11:08:11.060058+00:00"
-  },
-  {
-    "source": "TechCrunch AI",
-    "source_tier": 2,
-    "title": "Ahead of US IPO, British AI neocloud Nscale secures $3.36B in convertible financing",
-    "link": "https://techcrunch.com/2026/09/25/ahead-of-u-s-ipo-british-ai-neocloud-nscale-secures-3-36b-in-convertible-finacing/",
-    "summary": "The funding, which comes from Third Point, Nvidia, and others, will  fuel the company's massive AI data center buildout.",
-    "published": "2026-09-25T18:33:59+00:00",
-    "first_seen": "2026-09-26T11:08:11.060058+00:00"
-  },
-  {
-    "source": "TechCrunch AI",
-    "source_tier": 2,
-    "title": "Meta\u2019s Muse just stole the AI spotlight from OpenAI and Anthropic",
-    "link": "https://techcrunch.com/podcast/metas-muse-just-stole-the-ai-spotlight-from-openai-and-anthropic/",
-    "summary": "When AI leaders at OpenAI and Anthropic started talking about \u201cpacing the frontier,\u201d\u00a0maybe someone\u00a0should have asked: what pace?\u00a0Now\u00a0it\u2019s\u00a0turned into model drop week for both companies as\u00a0Anthropic rolled out Opus 5.5, followed by\u00a0OpenAI\u2019s GPT-6 model updates\u00a0just\u00a090 minutes\u00a0late",
-    "published": "2026-09-25T18:22:47+00:00",
-    "first_seen": "2026-09-26T11:08:11.060058+00:00"
-  },
-  {
-    "source": "TechCrunch AI",
-    "source_tier": 2,
-    "title": "Some Supabase customers are publicly exposing reams of people\u2019s data to the web",
-    "link": "https://techcrunch.com/2026/09/25/some-supabase-customers-are-publicly-exposing-reams-of-peoples-data-to-the-web/",
-    "summary": "The findings highlight how AI-generated and vibe-coded apps can spill and expose users' data when not configured or secured properly.",
-    "published": "2026-09-25T17:29:46+00:00",
-    "first_seen": "2026-09-26T11:08:11.060058+00:00"
-  },
-  {
-    "source": "TechCrunch AI",
-    "source_tier": 2,
-    "title": "Astra and Opus just passed Turing\u2019s other test",
-    "link": "https://techcrunch.com/2026/09/25/astra-and-opus-just-passed-turings-other-test/",
-    "summary": "Frontier AI models are finishing Alan Turing's World War II codebreaking work.",
-    "published": "2026-09-25T17:24:36+00:00",
-    "first_seen": "2026-09-26T11:08:11.060058+00:00"
-  },
-  {
-    "source": "TechCrunch AI",
-    "source_tier": 2,
-    "title": "Meta is putting its muscle behind Muse as the AI app takes off",
-    "link": "https://techcrunch.com/2026/09/25/meta-is-putting-its-muscle-behind-muse-as-the-ai-app-takes-off/",
-    "summary": "Muse is topping the app store charts and adding users at a rapid clip, while Meta ramps up the personal AI agent's promotion across its own apps and beyond.",
-    "published": "2026-09-25T16:16:52+00:00",
-    "first_seen": "2026-09-26T11:08:11.060058+00:00"
-  },
-  {
-    "source": "TechCrunch AI",
-    "source_tier": 2,
-    "title": "Meta\u2019s AI Tamagotchi bet is\u2026working?",
-    "link": "https://techcrunch.com/video/will-metas-ai-tamagotchi-bet-isworking/",
-    "summary": "When AI leaders at OpenAI and Anthropic started talking about \u201cpacing the frontier,\u201d\u00a0maybe someone\u00a0should have asked: what pace?\u00a0Now\u00a0it\u2019s\u00a0turned into model drop week for both companies as\u00a0Anthropic rolled out Opus 5.5, followed by\u00a0OpenAI\u2019s GPT-6 model updates\u00a0just\u00a090 minutes\u00a0late",
-    "published": "2026-09-25T16:00:00+00:00",
-    "first_seen": "2026-09-26T11:08:11.060058+00:00"
-  },
-  {
-    "source": "TechCrunch AI",
-    "source_tier": 2,
-    "title": "For months, OpenAI\u2019s agent swarms have been attacking online databases to find obscure facts",
-    "link": "https://techcrunch.com/2026/09/25/for-months-openais-agent-swarms-have-been-attacking-online-databases-to-find-obscure-facts/",
-    "summary": "The latest unauthorized agent swarms were discovered by researchers.",
-    "published": "2026-09-25T15:48:14+00:00",
-    "first_seen": "2026-09-26T11:08:11.060058+00:00"
-  },
-  {
-    "source": "TechCrunch AI",
-    "source_tier": 2,
-    "title": "Anthropic\u2019s founders seek voting control ahead of IPO",
-    "link": "https://techcrunch.com/2026/09/25/anthropics-founders-seek-voting-control-ahead-of-ipo/",
-    "summary": "Anthropic is asking its shareholders to approve a structure that would give its seven co-founders a combined 50.1% of the vote on most corporate matters.",
-    "published": "2026-09-25T15:40:03+00:00",
-    "first_seen": "2026-09-26T11:08:11.060058+00:00"
-  },
-  {
-    "source": "TechCrunch AI",
-    "source_tier": 2,
-    "title": "TechCrunch Disrupt 2026: Ricursive Intelligence\u2019s Anna Goldie and Azalia Mirhoseini on when AI starts designing its own hardware",
-    "link": "https://techcrunch.com/2026/09/25/techcrunch-disrupt-2026-ricursive-intelligences-anna-goldie-and-azalia-mirhoseini-on-when-ai-starts-designing-its-own-hardware/",
-    "summary": "At TechCrunch Disrupt 2026, Ricursive Intelligence co-founders Anna Goldie and Azalia Mirhoseini will take the Disrupt Stage to discuss closing the loop between AI and chip development. Save up to $200 on your pass before today ends.",
-    "published": "2026-09-25T15:00:00+00:00",
-    "first_seen": "2026-09-26T11:08:11.060058+00:00"
-  },
-  {
-    "source": "TechCrunch AI",
-    "source_tier": 2,
-    "title": "Affected by layoffs? Don\u2019t miss this $75 deal for your TechCrunch Disrupt 2026 Expo+ Pass",
-    "link": "https://techcrunch.com/2026/09/25/disrupt-2026-layoff-expo-plus-passes-available-for-75-dollars/",
-    "summary": "Your next opportunity could be one conversation away. Get your Expo+ Pass for just $75. Limited to the first 100 qualifying people.",
-    "published": "2026-09-25T14:15:00+00:00",
-    "first_seen": "2026-09-26T11:08:11.060058+00:00"
-  },
-  {
-    "source": "TechCrunch AI",
-    "source_tier": 2,
-    "title": "Last 24 hours to save up to $200 on TechCrunch Disrupt 2026. Reason 5 of 5 to attend: Momentum",
-    "link": "https://techcrunch.com/2026/09/25/last-24-hours-to-save-up-to-200-on-techcrunch-disrupt-2026-reason-5-of-5-to-attend-momentum/",
-    "summary": "Last 24 hours to save up to $200 on your TechCrunch Disrupt 2026 pass. Leave the event further in your startup's trajectory than where you started. Don't miss your chance to save and to push the needle.",
-    "published": "2026-09-25T14:00:00+00:00",
-    "first_seen": "2026-09-26T11:08:11.060058+00:00"
-  },
-  {
-    "source": "The Verge AI",
-    "source_tier": 2,
-    "title": "Meta makes the Muse filesystem even more accessible",
-    "link": "https://www.theverge.com/ai-artificial-intelligence/1000784/meta-muse-filesystem",
-    "summary": "Yesterday, with a little prodding, it was discovered that Meta's Muse would expose its filesystem to curious users. The files offered a fascinating peek under the hood of an AI chatbot, and appeared to expose details we weren't meant to see, not least because Muse itself told peo",
-    "published": "2026-09-25T16:49:53+00:00",
-    "first_seen": "2026-09-26T11:08:11.060058+00:00"
-  },
-  {
-    "source": "The Verge AI",
-    "source_tier": 2,
-    "title": "Sony and UMG are suing Suno again",
-    "link": "https://www.theverge.com/ai-artificial-intelligence/1000758/suno-sony-umg-lawsuit-ai-music",
-    "summary": "Sony and Universal Music Group filed yet another suit against Suno. The labels claim its new v6 model still infringes on their copyrights because it's trained on user outputs from previous models, which were themselves trained on unlicensed music ripped from YouTube and other sou",
-    "published": "2026-09-25T15:51:56+00:00",
-    "first_seen": "2026-09-26T11:08:11.060058+00:00"
-  },
-  {
-    "source": "The Verge AI",
-    "source_tier": 2,
-    "title": "One company is at the center of a wave of rogue AI attacks",
-    "link": "https://www.theverge.com/ai-artificial-intelligence/1000644/irregular-rogue-ai-cyberattacks-hacking-openai-meta-anthropic-google",
-    "summary": "In July, OpenAI revealed that its AI agents had attacked Hugging Face without permission, sparking widespread concerns about AI safety. Since then, a string of similar incidents involving agents from Meta, Anthropic, Google, and other companies has fueled further fears about rogu",
-    "published": "2026-09-25T15:39:48+00:00",
-    "first_seen": "2026-09-26T11:08:11.060058+00:00"
-  },
-  {
-    "source": "The Verge AI",
-    "source_tier": 2,
-    "title": "Can Apple Home\u2019s AI camera features outsmart Amazon\u2019s and Google\u2019s? I put them to the test",
-    "link": "https://www.theverge.com/tech/1000321/apple-intelligence-home-security-camera-amazon-ring-alexa-google-nest-gemini-home-review",
-    "summary": "A few years back, I was at a beachside Easter egg hunt, watching my kids dash through sand dunes searching for sweet treats. My phone buzzed in my pocket; I ignored it. A moment later, it buzzed again. I pulled it out, glanced down, and saw a \"motion detected\" notification from m",
-    "published": "2026-09-25T13:00:00+00:00",
-    "first_seen": "2026-09-26T11:08:11.060058+00:00"
-  },
-  {
     "source": "TechCrunch AI",
     "source_tier": 2,
     "title": "Google tests buying from Walmart-owned Flipkart through Gemini and AI Mode in India",
@@ -5668,5 +5470,230 @@
     "summary": "This is The Stepback, a weekly newsletter breaking down one essential story from the tech world. For more about AI's impact on the web, follow Emma Roth. The Stepback arrives in our subscribers' inboxes on Sunday at 8AM ET. Opt in for The Stepback here. How it started The digital",
     "published": "2026-10-25T12:00:00+00:00",
     "first_seen": "2026-10-26T12:36:45.080998+00:00"
+  },
+  {
+    "source": "MIT Technology Review",
+    "source_tier": 2,
+    "title": "Industrial Intelligence: The next growth opportunity for manufacturing",
+    "link": "https://www.technologyreview.com/2026/10/27/1147142/industrial-intelligence-the-next-growth-opportunity-for-manufacturing/",
+    "summary": "Every manufacturer has its own industrial intelligence. Some is documented, and some resides in the knowledge of experienced workers. Consider an experienced operator preparing to restart a line after a changeover. The machine settings matter, but so does knowing how a particular",
+    "published": "2026-10-27T11:19:18+00:00",
+    "first_seen": "2026-10-27T11:53:34.205313+00:00"
+  },
+  {
+    "source": "MIT Technology Review",
+    "source_tier": 2,
+    "title": "How solid-state transformers could help power the AI boom",
+    "link": "https://www.technologyreview.com/2026/10/27/1147684/solid-state-transformers/",
+    "summary": "Transformers are a crucial but nearly invisible part of our grid. The devices help efficiently move power across long distances, but they\u2019re complicated and in short supply. And given that their basic design hasn\u2019t changed much for about a century, they could use an upgrade.\u00a0 As ",
+    "published": "2026-10-27T09:00:00+00:00",
+    "first_seen": "2026-10-27T11:53:34.205313+00:00"
+  },
+  {
+    "source": "MIT Technology Review",
+    "source_tier": 2,
+    "title": "Will the real Anthropic please stand up",
+    "link": "https://www.technologyreview.com/2026/10/26/1147672/will-the-real-anthropic-please-stand-up/",
+    "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first,\u00a0sign up here. After weeks of frenzied speculation, Anthropic has filed its IPO prospectus. The 335-page document (100 pages or so are focused on risks) lays",
+    "published": "2026-10-26T17:45:43+00:00",
+    "first_seen": "2026-10-27T11:53:34.205313+00:00"
+  },
+  {
+    "source": "MIT Technology Review",
+    "source_tier": 2,
+    "title": "The Download: everyday AI harms and the race to nuclear spaceflight",
+    "link": "https://www.technologyreview.com/2026/10/26/1147650/the-download-everyday-ai-harms-nuclear-spaceflight/",
+    "summary": "This is today\u2019s edition of The Download, our weekday newsletter that provides a daily dose of what\u2019s going on in the world of technology. Opinion: The focus on AI safety disasters ignores everyday harms \u2014Sam Hiner, cofounder of the Young People\u2019s Alliance, and Emma Leiken, execut",
+    "published": "2026-10-26T12:40:00+00:00",
+    "first_seen": "2026-10-27T11:53:34.205313+00:00"
+  },
+  {
+    "source": "MIT Technology Review",
+    "source_tier": 2,
+    "title": "The focus on AI safety disasters ignores everyday harms",
+    "link": "https://www.technologyreview.com/2026/10/26/1147645/the-focus-on-ai-safety-disasters-ignores-everyday-harms/",
+    "summary": "Consider what passes for success in technology policy. An AI company promises that its chatbot will not encourage suicide. A social media platform makes it more difficult for children to buy fentanyl. These are important protections, and they should have existed all along. But co",
+    "published": "2026-10-26T09:01:00+00:00",
+    "first_seen": "2026-10-27T11:53:34.205313+00:00"
+  },
+  {
+    "source": "ZDNet AI",
+    "source_tier": 2,
+    "title": "Apple\u2019s iOS 27.2 update offers major Siri AI upgrades, dual camera support for FaceTime",
+    "link": "https://www.zdnet.com/tech/apple-ios-27-2-update-siri-ai-facetime-dual-cameras/",
+    "summary": "iOS 27.2 is the first major update for the current OS. Here\u2019s what\u2019s inside and what happened to iOS 27.1.",
+    "published": "2026-10-26T20:52:35+00:00",
+    "first_seen": "2026-10-27T11:53:34.205313+00:00"
+  },
+  {
+    "source": "ZDNet AI",
+    "source_tier": 2,
+    "title": "Github competitor Entire is live now \u2013 how the agent-first platform works",
+    "link": "https://www.zdnet.com/innovation/enitre-github-competitor-trail-git-forge/",
+    "summary": "Now that agents are writing so much code, Entire is trying to reinvent the coding platform itself.",
+    "published": "2026-10-26T17:00:04+00:00",
+    "first_seen": "2026-10-27T11:53:34.205313+00:00"
+  },
+  {
+    "source": "ZDNet AI",
+    "source_tier": 2,
+    "title": "Apple\u2019s new OLED iPad Mini is the upgrade I\u2019ve been waiting for \u2013 here\u2019s why",
+    "link": "https://www.zdnet.com/tech/apple-launches-new-ipad-mini-with-oled-screen-why-im-getting-one/",
+    "summary": "Starting at $799, the 8th-generation iPad mini is up for preorder on October 27 and hits stores on November 6. It\u2019s already on my shopping list.",
+    "published": "2026-10-26T16:25:16+00:00",
+    "first_seen": "2026-10-27T11:53:34.205313+00:00"
+  },
+  {
+    "source": "ZDNet AI",
+    "source_tier": 2,
+    "title": "iPhone Duo screens are already cracking: What buyers need to know",
+    "link": "https://www.zdnet.com/tech/iphone-duo-cracked-screen-hinge-what-to-do-crackgate/",
+    "summary": "A handful of first-hand reports show similar damage, suggesting a bad batch of hinges. Here\u2019s what to do if your Duo screen fails.",
+    "published": "2026-10-26T15:56:38+00:00",
+    "first_seen": "2026-10-27T11:53:34.205313+00:00"
+  },
+  {
+    "source": "TechCrunch AI",
+    "source_tier": 2,
+    "title": "Nvidia backs Indian startup helping companies run AI models with fewer GPUs",
+    "link": "https://techcrunch.com/2026/10/27/nvidia-backs-indian-startup-helping-companies-run-ai-models-with-fewer-gpus/",
+    "summary": "Simplismart says its annualized revenue run rate has grown 14-fold in six months, with the U.S. accounting for more than half its revenue.",
+    "published": "2026-10-27T11:00:00+00:00",
+    "first_seen": "2026-10-27T11:53:34.205313+00:00"
+  },
+  {
+    "source": "TechCrunch AI",
+    "source_tier": 2,
+    "title": "How OpenAI turned its coding tools into dots, an always-on personal assistant",
+    "link": "https://techcrunch.com/2026/10/26/how-openai-turned-its-coding-tools-into-dots-an-always-on-personal-assistant/",
+    "summary": "Alexander Embiricos, the OpenAI executive responsible for dots, never wants to have a meeting with someone else's AI agent.",
+    "published": "2026-10-27T02:00:00+00:00",
+    "first_seen": "2026-10-27T11:53:34.205313+00:00"
+  },
+  {
+    "source": "TechCrunch AI",
+    "source_tier": 2,
+    "title": "Cohere says Alibaba\u2019s Qwen model tried to send a file to Beijing",
+    "link": "https://techcrunch.com/2026/10/26/cohere-says-alibabas-qwen-model-tried-to-send-a-file-to-beijing/",
+    "summary": "An AI model said it wouldn\u2019t use any tools, then tried to send something to a server in Beijing anyway, and while researchers say it\u2019s probably a training quirk and not espionage, the whole thing has people asking how much to trust free Chinese AI.",
+    "published": "2026-10-27T01:12:21+00:00",
+    "first_seen": "2026-10-27T11:53:34.205313+00:00"
+  },
+  {
+    "source": "TechCrunch AI",
+    "source_tier": 2,
+    "title": "Anthropic\u2019s IPO filing reveals its strategy for keeping enterprise customers hooked",
+    "link": "https://techcrunch.com/2026/10/26/anthropics-ipo-filing-reveals-its-strategy-for-keeping-enterprise-customers-hooked/",
+    "summary": "Anthropic\u2019s S-1 shows more than half of its $100,000-plus customers now use both the Claude Platform and a first-party app, a cross-selling playbook reminiscent of Amazon that\u2019s making enterprise customers stickier.",
+    "published": "2026-10-26T16:49:42+00:00",
+    "first_seen": "2026-10-27T11:53:34.205313+00:00"
+  },
+  {
+    "source": "TechCrunch AI",
+    "source_tier": 2,
+    "title": "SpaceX locks in $40B GPU financing deal with Apollo",
+    "link": "https://techcrunch.com/2026/10/26/spacex-locks-in-40b-gpu-financing-deal-with-apollo/",
+    "summary": "The financing gives SpaceX another way to fund its rapidly expanding AI ambitions without relying solely on traditional debt markets.",
+    "published": "2026-10-26T16:46:36+00:00",
+    "first_seen": "2026-10-27T11:53:34.205313+00:00"
+  },
+  {
+    "source": "TechCrunch AI",
+    "source_tier": 2,
+    "title": "Anthropic officially files for its public debut",
+    "link": "https://techcrunch.com/2026/10/26/anthropic-officially-files-for-its-public-debut/",
+    "summary": "Anthropic has officially filed for an IPO, revealing soaring revenue, mounting losses, major enterprise adoption, and an unusual governance structure designed to preserve founder control and its AI safety mission.",
+    "published": "2026-10-26T14:35:22+00:00",
+    "first_seen": "2026-10-27T11:53:34.205313+00:00"
+  },
+  {
+    "source": "TechCrunch AI",
+    "source_tier": 2,
+    "title": "Will AI expose the rickety infrastructure of the internet?",
+    "link": "https://techcrunch.com/2026/10/24/will-ai-expose-the-rickety-infrastructure-of-the-internet/",
+    "summary": "The moment you realize the internet is \"held together by glue and dreams.\"",
+    "published": "2026-10-24T20:15:33+00:00",
+    "first_seen": "2026-10-27T11:53:34.205313+00:00"
+  },
+  {
+    "source": "The Verge AI",
+    "source_tier": 2,
+    "title": "Data center backlash is uniting America",
+    "link": "https://www.theverge.com/policy/1019152/data-centers-midterm-elections",
+    "summary": "If there's one issue that seems to activate all kinds of voters in 2026, it's data centers. The rapid buildout of these massive server storage facilities - and the infrastructure construction and expenses that come with them - has sparked local opposition in communities across th",
+    "published": "2026-10-27T10:00:00+00:00",
+    "first_seen": "2026-10-27T11:53:34.205313+00:00"
+  },
+  {
+    "source": "The Verge AI",
+    "source_tier": 2,
+    "title": "OpenAI announces three big science discoveries and a new way to work with academics",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/1019143/openai-eth-kaseya-science-math-physics",
+    "summary": "Less than a month after its mass release of hundreds of manuscripts that it said contained solutions to long-standing mathematics questions, OpenAI is back with three more \"major\" discoveries in math, computer science, and physics. What's different this time is the choice to have",
+    "published": "2026-10-26T23:34:58+00:00",
+    "first_seen": "2026-10-27T11:53:34.205313+00:00"
+  },
+  {
+    "source": "The Verge AI",
+    "source_tier": 2,
+    "title": "Anthropic is burning gas to feed the AI boom",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/1018994/anthropic-ipo-ai-data-center-energy-climate-risk",
+    "summary": "As it prepares to go public, Anthropic's S-1 filing makes generative AI's methane dependency glaringly obvious. \"Competition for access to electrical supply and data center locations with adequate power availability is intense.\" In documents filed with the US Securities and Excha",
+    "published": "2026-10-26T21:45:31+00:00",
+    "first_seen": "2026-10-27T11:53:34.205313+00:00"
+  },
+  {
+    "source": "The Verge AI",
+    "source_tier": 2,
+    "title": "The RealReal won\u2019t let AI agents hog designer clothing",
+    "link": "https://www.theverge.com/news/1018713/meta-muse-agentic-shopping-ai-the-realreal",
+    "summary": "The RealReal, a secondhand luxury fashion consignment retailer, said it's updating its bot defense system, effectively making it harder for AI agents to shop on its site. The change comes days after The Verge reported that an AI agent could be used to take advantage of The RealRe",
+    "published": "2026-10-26T17:30:55+00:00",
+    "first_seen": "2026-10-27T11:53:34.205313+00:00"
+  },
+  {
+    "source": "The Verge AI",
+    "source_tier": 2,
+    "title": "Five weird details from Anthropic\u2019s IPO filing",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/1018738/anthropic-ipo-s1-filing-weird-details",
+    "summary": "Anthropic has finally filed its S-1 prospectus with the SEC, a document designed to give investors a look under the hood of its business, from how much its executives are making and plans for spending its IPO billions to the risks that could derail its ambitions. At more than 300",
+    "published": "2026-10-26T17:10:23+00:00",
+    "first_seen": "2026-10-27T11:53:34.205313+00:00"
+  },
+  {
+    "source": "The Verge AI",
+    "source_tier": 2,
+    "title": "Microsoft offers buyouts to 60,000 employees",
+    "link": "https://www.theverge.com/tech/1018666/microsoft-expands-buyouts-60000-employees-eligible",
+    "summary": "Microsoft is offering voluntary buyouts to up to 60,000 employees across the US, UK, Canada, and India. In a message to employees, Microsoft chief people officer Amy Coleman writes that this gives staff members \"the opportunity to leave Microsoft with financial support and career",
+    "published": "2026-10-26T15:58:27+00:00",
+    "first_seen": "2026-10-27T11:53:34.205313+00:00"
+  },
+  {
+    "source": "The Verge AI",
+    "source_tier": 2,
+    "title": "Kevin Roose is AGI-pilled. Why aren\u2019t you?",
+    "link": "https://www.theverge.com/podcast/1018264/kevin-roose-the-agi-chronicles-machine-gods-podcast-youtube-openai-anthropic",
+    "summary": "Today, I\u2019m talking to Kevin Roose, journalist and author of the new book The AGI Chronicles, which details the recent and explosive transformation of the AI industry. Kevin was a longtime New York Times reporter and host of the popular podcast Hard Fork, but he and friend of the ",
+    "published": "2026-10-26T14:00:00+00:00",
+    "first_seen": "2026-10-27T11:53:34.205313+00:00"
+  },
+  {
+    "source": "The Verge AI",
+    "source_tier": 2,
+    "title": "Anthropic\u2019s IPO filing lays out a plan to \u2018revolutionize every area of human endeavor\u2019 with AI",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/1018476/anthropic-ipo-details-s1-filed-sec",
+    "summary": "Anthropic has filed its S-1 prospectus with the Securities and Exchange Commission, preparing the company behind Claude to beat OpenAI to the punch with an IPO. In a filing with the SEC, Anthropic said it plans to list on the Nasdaq exchange under the ticker symbol \"ANT.\" The AI ",
+    "published": "2026-10-26T13:32:49+00:00",
+    "first_seen": "2026-10-27T11:53:34.205313+00:00"
+  },
+  {
+    "source": "The Verge AI",
+    "source_tier": 2,
+    "title": "Can AI help solve the COBOL code crisis?",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/1018434/cobol-migration-legacy-code-openai-anthropic",
+    "summary": "What do the IRS, banks, airlines, and government infrastructure around the world have in common? They're all running on systems propped up by antique computer code that nobody dares touch, lest everything come crashing down. OpenAI thinks it may have a solution. On October 19th, ",
+    "published": "2026-10-26T13:15:00+00:00",
+    "first_seen": "2026-10-27T11:53:34.205313+00:00"
   }
 ]

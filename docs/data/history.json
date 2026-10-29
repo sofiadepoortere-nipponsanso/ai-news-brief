@@ -1,68 +1,5 @@
 [
   {
-    "source": "MIT Technology Review",
-    "source_tier": 2,
-    "title": "The Download: rogue agent liability and the AI Hype Index",
-    "link": "https://www.technologyreview.com/2026/09/28/1145202/the-download-rogue-agent-liability-and-the-ai-hype-index/",
-    "summary": "This is today\u2019s edition of\u00a0The Download,\u00a0our weekday newsletter that provides a daily dose of what\u2019s going on in the world of technology. Who\u2019s liable when AI agents go rogue? Over the past few months, a cascade of cyberattacks by AI agents has stunned the world. In July, OpenAI ",
-    "published": "2026-09-28T12:10:00+00:00",
-    "first_seen": "2026-09-28T13:27:18.163272+00:00"
-  },
-  {
-    "source": "MIT Technology Review",
-    "source_tier": 2,
-    "title": "Who\u2019s liable when AI agents go rogue?",
-    "link": "https://www.technologyreview.com/2026/09/28/1145197/whos-liable-when-ai-agents-go-rogue/",
-    "summary": "MIT Technology Review Explains: Let our writers untangle the complex, messy world of technology to help you understand what\u2019s coming next. You can read more from the series here. Over the past few months, a cascade of cyberattacks by AI agents has stunned the world. In July, Open",
-    "published": "2026-09-28T08:06:22+00:00",
-    "first_seen": "2026-09-28T13:27:18.163272+00:00"
-  },
-  {
-    "source": "TechCrunch AI",
-    "source_tier": 2,
-    "title": "Anthropic\u2019s CEO is about to have dinner with President Trump",
-    "link": "https://techcrunch.com/2026/09/27/anthropics-ceo-is-about-to-have-dinner-with-president-trump/",
-    "summary": "This will be the first one-on-one meeting between Dario Amodei and Donald Trump",
-    "published": "2026-09-27T20:34:28+00:00",
-    "first_seen": "2026-09-28T13:27:18.163272+00:00"
-  },
-  {
-    "source": "TechCrunch AI",
-    "source_tier": 2,
-    "title": "Can Muse overcome Meta\u2019s trust issues?",
-    "link": "https://techcrunch.com/2026/09/27/can-muse-overcome-metas-trust-issues/",
-    "summary": "On Equity, we discussed how Meta's AI announcement managed to steal the spotlight from OpenAI and Anthropic.",
-    "published": "2026-09-27T19:57:30+00:00",
-    "first_seen": "2026-09-28T13:27:18.163272+00:00"
-  },
-  {
-    "source": "TechCrunch AI",
-    "source_tier": 2,
-    "title": "Anthropic\u2019s Dario Amodei gets the SNL treatment",
-    "link": "https://techcrunch.com/2026/09/27/anthropics-dario-amodei-gets-the-snl-treatment/",
-    "summary": "\"AI is the devil and I its maker.\"",
-    "published": "2026-09-27T16:30:00+00:00",
-    "first_seen": "2026-09-28T13:27:18.163272+00:00"
-  },
-  {
-    "source": "The Verge AI",
-    "source_tier": 2,
-    "title": "Engram is a sampler that turns broken AI hallucinations into music",
-    "link": "https://www.theverge.com/ai-artificial-intelligence/1001193/engram-sampler-ai-hallucinations-music",
-    "summary": "Music startup Thoughtful Things has just launched the Kickstarter campaign for its first instrument, Engram. It's a sampler and groovebox that uses AI to mangle incoming audio and even hallucinate completely new sounds. This isn't Suno in a box, though. This isn't a \"push-button,",
-    "published": "2026-09-27T20:46:36+00:00",
-    "first_seen": "2026-09-28T13:27:18.163272+00:00"
-  },
-  {
-    "source": "The Verge AI",
-    "source_tier": 2,
-    "title": "OpenAI agents tried to \u2018bruteforce\u2019 a UN website",
-    "link": "https://www.theverge.com/ai-artificial-intelligence/1001178/openai-agents-bruteforce-un-website",
-    "summary": "Security researcher Rowan Howard-Jones says that OpenAI agents scanned the UN Conference on Trade and Development's (UNCTAD) statistics site over 16,000 times between April and June. While the incident doesn't quite rise to the level of the Hugging Face hack, or the recent attack",
-    "published": "2026-09-27T17:21:07+00:00",
-    "first_seen": "2026-09-28T13:27:18.163272+00:00"
-  },
-  {
     "source": "Azure AI Blog",
     "source_tier": 1,
     "title": "FabCon and SQLCon 2026 in Barcelona: Building the data foundation for Microsoft Copilot and agents",
@@ -5929,5 +5866,356 @@
     "summary": "Apple is bringing an AI assistant to its suite of productivity apps, including Keynote, Pages, and Numbers. The assistant, which is built on AI models from Apple and OpenAI, can understand a document's context to perform tasks like designing, animating, and refining slides in Key",
     "published": "2026-10-27T13:50:51+00:00",
     "first_seen": "2026-10-28T12:29:04.755784+00:00"
+  },
+  {
+    "source": "European Commission Digital Strategy",
+    "source_tier": 1,
+    "title": "Local Digital Twins CiTiVERSE EDIC joins Smart City Expo World Congress 2026",
+    "link": "https://digital-strategy.ec.europa.eu/en/events/local-digital-twins-citiverse-edic-joins-smart-city-expo-world-congress-2026",
+    "summary": "Local Digital Twins CiTiVERSE EDIC joins Smart City Expo World Congress 2026\nAnonymous (not verified)\nThu, 10/29/2026 - 09:12\n\n\n\n  \n        \n              \n                              \n      \n      \u00a0\n      03 November 2026 - 05 November 2026\n  \n  \n    \n    \u00a0\n        Fira de Bar",
+    "published": "2026-10-29T08:12:20+00:00",
+    "first_seen": "2026-10-29T12:40:08.461697+00:00"
+  },
+  {
+    "source": "European Commission Digital Strategy",
+    "source_tier": 1,
+    "title": "Commission accepts Temu's action plan to remedy the breach of the Digital Services Act",
+    "link": "https://digital-strategy.ec.europa.eu/en/news/commission-accepts-temus-action-plan-remedy-breach-digital-services-act",
+    "summary": "Commission accepts Temu's action plan to remedy the breach of the Digital Services Act\nAnonymous (not verified)\nMon, 10/26/2026 - 10:28\n\n\n\n  \n        \n              \n                                    The European Commission has accepted Temu's action plan to comply with the Dig",
+    "published": "2026-10-26T09:28:00+00:00",
+    "first_seen": "2026-10-29T12:40:08.461697+00:00"
+  },
+  {
+    "source": "Microsoft 365 Blog",
+    "source_tier": 1,
+    "title": "The AI advantage your company can keep",
+    "link": "https://www.microsoft.com/en-us/copilot/blog/2026/10/27/the-ai-advantage-your-company-can-keep/",
+    "summary": "New research across more than 200 enterprises looks at how shared knowledge can help companies coordinate their agents\u2014and turn lessons from their work into an operational edge.\nThe post The AI advantage your company can keep appeared first on Microsoft Copilot Blog.",
+    "published": "2026-10-27T16:00:00+00:00",
+    "first_seen": "2026-10-29T12:40:08.461697+00:00"
+  },
+  {
+    "source": "Microsoft 365 Blog",
+    "source_tier": 1,
+    "title": "Bringing CRM into the flow of work and agents into business process for sales and service teams",
+    "link": "https://www.microsoft.com/en-us/copilot/blog/2026/10/08/bringing-crm-into-the-flow-of-work-and-agents-into-business-process-for-sales-and-service-teams/",
+    "summary": "The traditional boundaries of business applications are disappearing. For decades, people went to their customer relationship management (CRM) to find customer context, take action, and move work forward. AI is inverting that model. This shift creates two complementary opportunit",
+    "published": "2026-10-08T15:00:00+00:00",
+    "first_seen": "2026-10-29T12:40:08.461697+00:00"
+  },
+  {
+    "source": "MIT Technology Review",
+    "source_tier": 2,
+    "title": "The Download: AI agent tracking and climate feedback loops",
+    "link": "https://www.technologyreview.com/2026/10/29/1147830/the-download-monitoring-ai-agents-climate-feedback-loops/",
+    "summary": "This is today\u2019s edition of The Download, our weekday newsletter that provides a daily dose of what\u2019s going on in the world of technology. Opinion: We urgently need to monitor AI agents\u2019 actions in real time \u2014Madhulika Srikumar and Claire Leibowicz from the Partnership on AI, a no",
+    "published": "2026-10-29T12:10:00+00:00",
+    "first_seen": "2026-10-29T12:40:08.461697+00:00"
+  },
+  {
+    "source": "MIT Technology Review",
+    "source_tier": 2,
+    "title": "We urgently need to monitor AI agents\u2019 actions in real time",
+    "link": "https://www.technologyreview.com/2026/10/29/1147824/monitor-ai-agents-actions-real-time/",
+    "summary": "This summer, hundreds of OpenAI agents tried to cheat on a cybersecurity test. They broke out of their test environment and successfully hacked Hugging Face, a site that they believed held clues about how they\u2019d be graded. Around the same time, another OpenAI agent accessed priva",
+    "published": "2026-10-29T10:11:12+00:00",
+    "first_seen": "2026-10-29T12:40:08.461697+00:00"
+  },
+  {
+    "source": "MIT Technology Review",
+    "source_tier": 2,
+    "title": "Our climate models have a big, dangerous blind spot",
+    "link": "https://www.technologyreview.com/2026/10/29/1147735/climate-models-blind-spot/",
+    "summary": "Climate change itself is increasingly fueling climate change. Rising concentrations of greenhouse gases are driving up global temperatures, setting off dangerous feedback loops that we have not fully accounted for in our climate models\u2014or our emissions-reduction goals. Scientists",
+    "published": "2026-10-29T10:00:00+00:00",
+    "first_seen": "2026-10-29T12:40:08.461697+00:00"
+  },
+  {
+    "source": "MIT Technology Review",
+    "source_tier": 2,
+    "title": "Creating AI value with enterprise context",
+    "link": "https://www.technologyreview.com/2026/10/28/1147709/creating-ai-value-with-enterprise-context/",
+    "summary": "Across a business, any number of AI platforms, systems, and tools may be at work simultaneously\u2014for example, AI-powered customer platforms, conversational assistants, and workflow and process automation tools. Each one is sophisticated, advanced, and quick to respond. But, when s",
+    "published": "2026-10-28T20:32:02+00:00",
+    "first_seen": "2026-10-29T12:40:08.461697+00:00"
+  },
+  {
+    "source": "ZDNet AI",
+    "source_tier": 2,
+    "title": "The 4 biggest Amazon smart home announcements from today",
+    "link": "https://www.zdnet.com/home-and-office/amazon-echo-smart-home-announcements-october-2026-price-availability/",
+    "summary": "From a new smart alarm clock to an Alexa-powered 3D map of your home, here\u2019s what\u2019s new from Amazon, including prices and release dates.",
+    "published": "2026-10-28T20:35:05+00:00",
+    "first_seen": "2026-10-29T12:40:08.461697+00:00"
+  },
+  {
+    "source": "ZDNet AI",
+    "source_tier": 2,
+    "title": "Apple\u2019s new touchscreen MacBook Pros may be late, but they have one big advantage",
+    "link": "https://www.zdnet.com/tech/apples-new-touchscreen-macbook-pros-may-be-late-but-they-have-one-big-advantage/",
+    "summary": "Apple finally revealed its new MacBook M5 Pro and Max with a touchscreen OLED display, bringing the best features from the iPhone to its laptops.",
+    "published": "2026-10-28T18:58:25+00:00",
+    "first_seen": "2026-10-29T12:40:08.461697+00:00"
+  },
+  {
+    "source": "ZDNet AI",
+    "source_tier": 2,
+    "title": "Your public Discord messages may soon appear in Google search results \u2013 how to opt out",
+    "link": "https://www.zdnet.com/tech/discord-servers-searchable-on-web/",
+    "summary": "Discord announced a new feature that can make your server messages discoverable on Google. Here\u2019s how to opt out.",
+    "published": "2026-10-28T18:56:53+00:00",
+    "first_seen": "2026-10-29T12:40:08.461697+00:00"
+  },
+  {
+    "source": "ZDNet AI",
+    "source_tier": 2,
+    "title": "Amazon\u2019s new Alexa Photo Frame could have what I\u2019ve been missing \u2013 here\u2019s why",
+    "link": "https://www.zdnet.com/tech/amazon-alexa-photo-frame/",
+    "summary": "You can ask Amazon\u2019s voice assistant to show you your favorite photos.",
+    "published": "2026-10-28T18:46:45+00:00",
+    "first_seen": "2026-10-29T12:40:08.461697+00:00"
+  },
+  {
+    "source": "ZDNet AI",
+    "source_tier": 2,
+    "title": "These Claude Enterprise features let you track AI ROI \u2013 what\u2019s new",
+    "link": "https://www.zdnet.com/innovation/claude-enterprise-efficiency-cost-tracking/",
+    "summary": "Is your pricey Claude Enterprise account worth it? Anthropic is trying to surface insights with three tools.",
+    "published": "2026-10-28T18:00:00+00:00",
+    "first_seen": "2026-10-29T12:40:08.461697+00:00"
+  },
+  {
+    "source": "ZDNet AI",
+    "source_tier": 2,
+    "title": "Amazon\u2019s Echo Show 16 makes Apple\u2019s 7-inch HomeView look puny \u2013 is it worth $100+ extra?",
+    "link": "https://www.zdnet.com/home-and-office/amazon-echo-show-16-announced/",
+    "summary": "Amazon just dropped new smart home gear in response to Apple. Here\u2019s how the Echo Show 16 stacks up.",
+    "published": "2026-10-28T16:48:15+00:00",
+    "first_seen": "2026-10-29T12:40:08.461697+00:00"
+  },
+  {
+    "source": "ZDNet AI",
+    "source_tier": 2,
+    "title": "Opera will run AI locally in your browser now \u2013 why that\u2019s a gamechanger and how to try it",
+    "link": "https://www.zdnet.com/innovation/opera-webai-local-ai-browser/",
+    "summary": "Thanks to the newly proposed WebAI web standard, the company will start shipping local AI models with its flagship browser.",
+    "published": "2026-10-28T16:10:39+00:00",
+    "first_seen": "2026-10-29T12:40:08.461697+00:00"
+  },
+  {
+    "source": "ZDNet AI",
+    "source_tier": 2,
+    "title": "Amazon\u2019s new Echo Studio gives Alexa+ an AI camera to see inside your home",
+    "link": "https://www.zdnet.com/home-and-office/amazon-echo-studio-home-camera-2026-privacy-concerns/",
+    "summary": "The Echo Studio with Home Camera essentially equips Alexa+ with eyes to enable \u2018visual intelligence\u2019 features \u2013 but there\u2019s a kill switch.",
+    "published": "2026-10-28T15:26:34+00:00",
+    "first_seen": "2026-10-29T12:40:08.461697+00:00"
+  },
+  {
+    "source": "ZDNet AI",
+    "source_tier": 2,
+    "title": "Samsung\u2019s new clip-style Galaxy Buds On have a major advantage over Sony and Bose",
+    "link": "https://www.zdnet.com/tech/samsung-galaxy-buds-on-availability-price/",
+    "summary": "Advanced audio features are great, but ecosystem integration is better. Here\u2019s how Samsung\u2019s newest clip-on Buds compare to its rivals.",
+    "published": "2026-10-28T15:09:12+00:00",
+    "first_seen": "2026-10-29T12:40:08.461697+00:00"
+  },
+  {
+    "source": "ZDNet AI",
+    "source_tier": 2,
+    "title": "Amazon\u2019s new Echo Dot can turn into a Wi-Fi extender \u2013 how it works",
+    "link": "https://www.zdnet.com/home-and-office/amazon-new-echo-dot-wi-fi-extender-smart-home-hub/",
+    "summary": "Amazon\u2019s new Echo Dot includes a built-in Eero Wi-Fi extender, along with other smart home features.",
+    "published": "2026-10-28T14:41:32+00:00",
+    "first_seen": "2026-10-29T12:40:08.461697+00:00"
+  },
+  {
+    "source": "TechCrunch AI",
+    "source_tier": 2,
+    "title": "Microsoft just shared Azure\u2019s actual revenue in dollars: $33.2 billion",
+    "link": "https://techcrunch.com/2026/10/28/microsoft-just-shared-azures-actual-revenue-in-dollars-33-2-billion/",
+    "summary": "Microsoft has never disclosed Azure's quarterly revenue in dollars. But for the first time, we can see just how close it is getting to besting the biggest competitor in the market, AWS.",
+    "published": "2026-10-28T21:58:32+00:00",
+    "first_seen": "2026-10-29T12:40:08.461697+00:00"
+  },
+  {
+    "source": "TechCrunch AI",
+    "source_tier": 2,
+    "title": "Google expands AI Search ads globally as core ad growth slows",
+    "link": "https://techcrunch.com/2026/10/28/google-expands-ai-search-ads-globally-as-core-ad-growth-slows/",
+    "summary": "The announcement came alongside parent company Alphabet's third-quarter earnings report, which saw revenue grow 25% year over year to $127.6 billion.",
+    "published": "2026-10-28T21:48:37+00:00",
+    "first_seen": "2026-10-29T12:40:08.461697+00:00"
+  },
+  {
+    "source": "TechCrunch AI",
+    "source_tier": 2,
+    "title": "Microsoft recorded $10 billion in revenue from OpenAI",
+    "link": "https://techcrunch.com/2026/10/28/microsoft-recorded-10-billion-in-revenue-from-openai/",
+    "summary": "Microsoft said it made $10 billion in revenue from commercial arrangements with OpenAI, including revenue-sharing payments, in the quarter ending September 30. It underscores the still-enormous financial dependency of the partnership.",
+    "published": "2026-10-28T21:34:30+00:00",
+    "first_seen": "2026-10-29T12:40:08.461697+00:00"
+  },
+  {
+    "source": "TechCrunch AI",
+    "source_tier": 2,
+    "title": "Microsoft hits 10 quarters of record-breaking revenue in a row",
+    "link": "https://techcrunch.com/2026/10/28/microsoft-hits-10-quarters-of-record-breaking-revenue-in-a-row/",
+    "summary": "Whatever the future of AI might be, the current situation is still very good for Microsoft. The tech giant reported yet another record for quarterly revenue on Wednesday: $92.3 billion, a 19% increase over the year-ago quarter.",
+    "published": "2026-10-28T21:25:30+00:00",
+    "first_seen": "2026-10-29T12:40:08.461697+00:00"
+  },
+  {
+    "source": "TechCrunch AI",
+    "source_tier": 2,
+    "title": "Anthropic just launched tools to show companies what their AI spending is buying",
+    "link": "https://techcrunch.com/2026/10/28/anthropic-just-launched-tools-to-show-companies-what-their-ai-spending-is-buying/",
+    "summary": "The frontier lab is lifting the curtain on how users spend money on its models ahead of a planned IPO.",
+    "published": "2026-10-28T19:19:58+00:00",
+    "first_seen": "2026-10-29T12:40:08.461697+00:00"
+  },
+  {
+    "source": "TechCrunch AI",
+    "source_tier": 2,
+    "title": "Wiz\u2019s CTO on PHP2Shell and the coming \u2018vulnpocalypse\u2019",
+    "link": "https://techcrunch.com/video/wizs-cto-on-php2shell-and-the-coming-vulnpocalypse/",
+    "summary": "The PHP scare may have faded from your feed, but the cleanup is far from over. Last week, two critical bugs in the open source language behind roughly 70% of websites left organizations scrambling to fix their systems, with some taking sites offline until the vulnerabilities coul",
+    "published": "2026-10-28T19:05:46+00:00",
+    "first_seen": "2026-10-29T12:40:08.461697+00:00"
+  },
+  {
+    "source": "TechCrunch AI",
+    "source_tier": 2,
+    "title": "The \u2018Vulnpocalypse\u2019 is coming for the internet\u2019s aging code, says Wiz\u2019s CTO",
+    "link": "https://techcrunch.com/podcast/the-vulnpocalypse-is-coming-for-the-internets-aging-code-says-wizs-cto/",
+    "summary": "The PHP scare may have faded from your feed, but the cleanup is far from over. Last week, two critical bugs in the open source language behind roughly 70% of websites left organizations scrambling to fix their systems, with some taking sites offline until the vulnerabilities coul",
+    "published": "2026-10-28T18:50:39+00:00",
+    "first_seen": "2026-10-29T12:40:08.461697+00:00"
+  },
+  {
+    "source": "TechCrunch AI",
+    "source_tier": 2,
+    "title": "Chrome\u2019s AI-powered Autofill can now dig through your Gmail to fill out forms",
+    "link": "https://techcrunch.com/2026/10/28/chromes-ai-powered-autofill-can-now-dig-through-your-gmail-to-fill-out-forms/",
+    "summary": "The autofill update lets Chrome pull flight confirmations, tracking info, order details, and other information from your inbox, with your permission.",
+    "published": "2026-10-28T17:00:00+00:00",
+    "first_seen": "2026-10-29T12:40:08.461697+00:00"
+  },
+  {
+    "source": "TechCrunch AI",
+    "source_tier": 2,
+    "title": "As AI agents reshape the web, Google opens Gemini and Search to more apps",
+    "link": "https://techcrunch.com/2026/10/28/as-ai-agents-reshape-the-web-google-opens-gemini-and-search-to-more-apps/",
+    "summary": "A new developer platform will let businesses bring their services to Google's AI experiences, potentially changing how consumers discover and use apps.",
+    "published": "2026-10-28T17:00:00+00:00",
+    "first_seen": "2026-10-29T12:40:08.461697+00:00"
+  },
+  {
+    "source": "TechCrunch AI",
+    "source_tier": 2,
+    "title": "AI execs may be too out of touch to build for the general public",
+    "link": "https://techcrunch.com/2026/10/28/ai-execs-may-be-too-out-of-touch-to-build-for-the-general-public/",
+    "summary": "Tech leaders are flaunting how out of touch they are when they brag about using AI to connect with their families.",
+    "published": "2026-10-28T15:53:52+00:00",
+    "first_seen": "2026-10-29T12:40:08.461697+00:00"
+  },
+  {
+    "source": "TechCrunch AI",
+    "source_tier": 2,
+    "title": "South Korea\u2019s financial industry hit by fresh wave of cyberattacks",
+    "link": "https://techcrunch.com/2026/10/28/south-koreas-financial-industry-hit-by-fresh-wave-of-cyberattacks/",
+    "summary": "South Korea\u2019s financial institutions have been hit by another wave of cyberattacks, highlighting the growing risk of AI-driven hacking in Asia.",
+    "published": "2026-10-28T15:41:18+00:00",
+    "first_seen": "2026-10-29T12:40:08.461697+00:00"
+  },
+  {
+    "source": "TechCrunch AI",
+    "source_tier": 2,
+    "title": "Voice AI in vogue: Nvidia releases new open transcription model",
+    "link": "https://techcrunch.com/2026/10/28/voice-ai-in-vogue-nvidia-releases-new-open-transcription-model/",
+    "summary": "Nvidia just released a free speech-to-text model that can transcribe up to 40 languages, but it only works on recordings, not live audio, so it\u2019s a big step for meeting and medical transcription tools while still leaving real-time use to rivals like ElevenLabs.",
+    "published": "2026-10-28T15:00:00+00:00",
+    "first_seen": "2026-10-29T12:40:08.461697+00:00"
+  },
+  {
+    "source": "TechCrunch AI",
+    "source_tier": 2,
+    "title": "7 days until TechCrunch Founder Summit: Save up to $100 on your pass before doors open",
+    "link": "https://techcrunch.com/2026/10/28/7-days-until-techcrunch-founder-summit-save-up-to-100-before-doors-open/",
+    "summary": "In just 7 days, TechCrunch Founder Summit takes over Boston\u2019s SoWa Power Station on November 4. Your chance to save up to $100 on tickets is running out, and the opportunity to learn and connect directly with experienced founders, investors, and startup leaders is almost here.",
+    "published": "2026-10-28T13:00:00+00:00",
+    "first_seen": "2026-10-29T12:40:08.461697+00:00"
+  },
+  {
+    "source": "The Verge AI",
+    "source_tier": 2,
+    "title": "AI has come for Arizona\u2019s water",
+    "link": "https://www.theverge.com/cs/features/1016650/arizona-water-data-center-tsmc",
+    "summary": "A hulking gray giant rises from the desert. Inside, engineers create the force behind our phones and computers and appliances, our streaming services and search engines and chatbots and vibe-coded apps and websites. The complex is simultaneously massive and squat, dwarfed by the ",
+    "published": "2026-10-29T10:00:04+00:00",
+    "first_seen": "2026-10-29T12:40:08.461697+00:00"
+  },
+  {
+    "source": "The Verge AI",
+    "source_tier": 2,
+    "title": "Adam Mosseri says negativity around AI is \u2018going to get worse\u2019",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/1021644/adam-mosseri-instagram-ai-negativity",
+    "summary": "Asked about AI and the trend of college students booing tech CEOs at graduation ceremonies, Instagram head Adam Mosseri acknowledged in an interview that a lot of people really don't like AI, and it's not just young people and creatives. Appearing on the Colin and Samir podcast t",
+    "published": "2026-10-28T23:05:39+00:00",
+    "first_seen": "2026-10-29T12:40:08.461697+00:00"
+  },
+  {
+    "source": "The Verge AI",
+    "source_tier": 2,
+    "title": "Akai is embracing vibe-coded mods with an open-source MPC",
+    "link": "https://www.theverge.com/gadgets/1021405/akai-open-source-mpc-sample-key",
+    "summary": "The MPC Sample Key isn't even formally announced yet, but Akai is already showing off what the modding community is cooking up through vibe coding. Akai has decided to embrace the explosion of hackers and custom firmware developers by giving them early access to the device, which",
+    "published": "2026-10-28T21:34:04+00:00",
+    "first_seen": "2026-10-29T12:40:08.461697+00:00"
+  },
+  {
+    "source": "The Verge AI",
+    "source_tier": 2,
+    "title": "Google launches Gemini 4 Carbon with a \u2018significant leap\u2019 in cybersecurity",
+    "link": "https://www.theverge.com/tech/1021339/google-gemini-4-carbon-cybersecurity-frontier",
+    "summary": "Google has released its latest frontier model, Gemini 4 Carbon, offering \"significant gains\" in coding, agentic tasks, and cybersecurity. In an announcement on Wednesday, Google highlights Carbon's top spot on the Artificial Analysis Intelligence Index (v5.0) benchmark, with Clau",
+    "published": "2026-10-28T20:03:00+00:00",
+    "first_seen": "2026-10-29T12:40:08.461697+00:00"
+  },
+  {
+    "source": "The Verge AI",
+    "source_tier": 2,
+    "title": "Microsoft is ending Copilot support on smart TVs",
+    "link": "https://www.theverge.com/tech/1021143/microsoft-lg-samsung-copilot-ai-assistant-smart-tvs-ending",
+    "summary": "Nearly two years after LG and Samsung announced at CES 2025 that their latest smart TVs would include access to Microsoft's Copilot, the company is ending support for the AI assistant's functionality on all TVs this year, according to a report by Windows Central. The news comes n",
+    "published": "2026-10-28T18:36:26+00:00",
+    "first_seen": "2026-10-29T12:40:08.461697+00:00"
+  },
+  {
+    "source": "The Verge AI",
+    "source_tier": 2,
+    "title": "Chrome\u2019s enhanced autofill can now pull info from Gmail to help you fill out forms",
+    "link": "https://www.theverge.com/tech/1020626/chrome-enhanced-autofill-gmail-forms-gemini-personal-intelligence",
+    "summary": "Following improvements made to Chrome's enhanced autofill last year that included your name, passport number, email address, and physical addresses sourced from your Google Accounts and services like Google Wallet, the feature is now expanding. Starting today, Chrome's enhanced a",
+    "published": "2026-10-28T17:00:00+00:00",
+    "first_seen": "2026-10-29T12:40:08.461697+00:00"
+  },
+  {
+    "source": "The Verge AI",
+    "source_tier": 2,
+    "title": "Meta says it\u2019ll probably delay its controversial new business terms again",
+    "link": "https://www.theverge.com/tech/1020769/meta-updated-business-terms-delay-indefinitely",
+    "summary": "Meta says it may push the implementation of its new business terms past November 20th as it faces backlash from publishers over concerns about AI training. In a post on X, Meta communications head Andy Stone said the company does \"not plan to make policy changes without a full co",
+    "published": "2026-10-28T16:15:30+00:00",
+    "first_seen": "2026-10-29T12:40:08.461697+00:00"
+  },
+  {
+    "source": "The Verge AI",
+    "source_tier": 2,
+    "title": "xAI is buying out homeowners who promise not to sue over data center noise",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/1020596/xai-mississippi-neighborhood-data-center-lawsuit",
+    "summary": "A subsidiary of Elon Musk's xAI is offering to buy up homes in a Mississippi neighborhood, as long as residents don't join a lawsuit targeting the company's nearby data center and power plant, according to a report from The Guardian. A realtor going door-to-door in the Southaven ",
+    "published": "2026-10-28T14:44:00+00:00",
+    "first_seen": "2026-10-29T12:40:08.461697+00:00"
   }
 ]

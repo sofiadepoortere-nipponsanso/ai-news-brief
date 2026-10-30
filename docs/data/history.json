@@ -1,365 +1,5 @@
 [
   {
-    "source": "Azure AI Blog",
-    "source_tier": 1,
-    "title": "FabCon and SQLCon 2026 in Barcelona: Building the data foundation for Microsoft Copilot and agents",
-    "link": "https://azure.microsoft.com/en-us/blog/fabcon-and-sqlcon-2026-in-barcelona-building-the-data-foundation-for-microsoft-copilot-and-agents/",
-    "summary": "Microsoft Fabric and SQL innovations announced at FabCon and SQLCon Barcelona 2026 help organizations build trusted data foundations for AI.\nThe post FabCon and SQLCon 2026 in Barcelona: Building the data foundation for Microsoft Copilot and agents appeared first on Microsoft Azu",
-    "published": "2026-09-29T06:30:00+00:00",
-    "first_seen": "2026-09-29T12:30:37.433906+00:00"
-  },
-  {
-    "source": "Power BI Blog",
-    "source_tier": 1,
-    "title": "Power BI\u2019s next chapter: The evolution of business intelligence",
-    "link": "https://community.fabric.microsoft.com/t5/Power-BI-Updates-Blog/Power-BI-s-next-chapter-The-evolution-of-business-intelligence/ba-p/5369131",
-    "summary": "If you haven't already, check out\u00a0FabCon and SQLCon 2026 in Barcelona: Building the data foundation for Microsoft Copilot and Agents for a complete look at all of our FabCon Europe announcements across Fabric and Microsoft Databases.\n\nMore than a decade ago, I watched Power BI ch",
-    "published": "2026-09-29T06:30:00+00:00",
-    "first_seen": "2026-09-29T12:30:37.433906+00:00"
-  },
-  {
-    "source": "Power BI Blog",
-    "source_tier": 1,
-    "title": "Power BI September 2026 Feature Summary",
-    "link": "https://community.fabric.microsoft.com/t5/Power-BI-Updates-Blog/Power-BI-September-2026-Feature-Summary/ba-p/5325831",
-    "summary": "As the Power BI, Microsoft Fabric, data, and analytics community gathers in Barcelona for the European Microsoft Fabric + SQL Community Conference, this month is packed with news. From new Copilot and AI experiences to reporting, modeling, data connectivity, developer enhancement",
-    "published": "2026-09-29T06:30:00+00:00",
-    "first_seen": "2026-09-29T12:30:37.433906+00:00"
-  },
-  {
-    "source": "MIT Technology Review",
-    "source_tier": 2,
-    "title": "Coming soon: Our 2026 list of Climate Tech Companies to Watch",
-    "link": "https://www.technologyreview.com/2026/09/29/1145183/2026-climate-tech-companies-to-watch-preview/",
-    "summary": "Earlier this month, the UN announced the planet will tip past 1.5 \u02daC of warming, \u201clikely within the next few years,\u201d squashing any lingering hope that nations would cut emissions fast enough to achieve the loftiest goal of the Paris climate agreement. In the US, the world\u2019s secon",
-    "published": "2026-09-29T11:00:00+00:00",
-    "first_seen": "2026-09-29T12:30:37.433906+00:00"
-  },
-  {
-    "source": "MIT Technology Review",
-    "source_tier": 2,
-    "title": "Making AI an asset, not an expense",
-    "link": "https://www.technologyreview.com/2026/09/29/1145186/making-ai-an-asset-not-an-expense/",
-    "summary": "When customers talk about AI costs, the conversation usually starts with token prices and ends with access to the latest, most capable model in the cloud. Do they always need that level of capability? Not necessarily. But that is often where the conversation goes. As AI moves fro",
-    "published": "2026-09-29T10:43:45+00:00",
-    "first_seen": "2026-09-29T12:30:37.433906+00:00"
-  },
-  {
-    "source": "MIT Technology Review",
-    "source_tier": 2,
-    "title": "Roundtables: The Deadly Failures of The Virtual Border Wall",
-    "link": "https://www.technologyreview.com/2026/09/28/1144890/roundtables-the-deadly-failures-of-the-virtual-border-wall/",
-    "summary": "Listen to the session or watch below The US has spent billions building a \u201cvirtual wall\u201d of surveillance towers along its southern border over the past 25 years, promising they will help detect and apprehend border crossers and save lives. But a groundbreaking investigation by MI",
-    "published": "2026-09-28T22:17:07+00:00",
-    "first_seen": "2026-09-29T12:30:37.433906+00:00"
-  },
-  {
-    "source": "MIT Technology Review",
-    "source_tier": 2,
-    "title": "When can we say AI made a scientific discovery?",
-    "link": "https://www.technologyreview.com/2026/09/28/1145230/when-can-we-say-ai-made-a-scientific-discovery/",
-    "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first,\u00a0sign up here. Last Wednesday, Anthropic announced that earlier this year it had launched a molecular biology lab, where Claude agents read and conjecture ab",
-    "published": "2026-09-28T17:03:16+00:00",
-    "first_seen": "2026-09-29T12:30:37.433906+00:00"
-  },
-  {
-    "source": "ZDNet AI",
-    "source_tier": 2,
-    "title": "iOS 27.0.1 released: Apple fixes annoying iPhone 18 Pro restart and freezing issues",
-    "link": "https://www.zdnet.com/tech/iphone-18-pro-freeze-restart-ios-27-0-1-fix/",
-    "summary": "The first update to iOS 27 squashes a bug in which the iPhone 18 Pro and Pro Max would freeze or restart when you try to use Face ID.",
-    "published": "2026-09-28T20:39:56+00:00",
-    "first_seen": "2026-09-29T12:30:37.433906+00:00"
-  },
-  {
-    "source": "ZDNet AI",
-    "source_tier": 2,
-    "title": "Bose\u2019s new wired earbuds aim for the same great sound and ANC \u2013 no charging needed",
-    "link": "https://www.zdnet.com/tech/bose-new-hybrid-wired-earbuds-anc/",
-    "summary": "The new wired USB-C earbuds mix old-school elements with modern audio features.",
-    "published": "2026-09-28T16:15:17+00:00",
-    "first_seen": "2026-09-29T12:30:37.433906+00:00"
-  },
-  {
-    "source": "ZDNet AI",
-    "source_tier": 2,
-    "title": "Your Bose headphones are getting a major Bluetooth upgrade \u2013 what to expect",
-    "link": "https://www.zdnet.com/tech/your-bose-headphones-are-getting-a-major-bluetooth-upgrade-what-to-expect/",
-    "summary": "Key Bluetooth technologies and upgrades to USB-C audio are coming to the company\u2019s flagship over-ears.",
-    "published": "2026-09-28T14:40:43+00:00",
-    "first_seen": "2026-09-29T12:30:37.433906+00:00"
-  },
-  {
-    "source": "TechCrunch AI",
-    "source_tier": 2,
-    "title": "Anthropic\u2019s prospectus details losses, growth, and, yes, a warning that its AI could end humanity",
-    "link": "https://techcrunch.com/2026/09/28/anthropics-prospectus-details-losses-growth-and-yes-a-warning-that-its-ai-could-end-humanity/",
-    "summary": "In its prospectus, Anthropic just told investors it's losing tens of billions of dollars a year, but also growing like crazy, and \u2014 oh yeah \u2014 its own AI might pose an existential risk to humanity.",
-    "published": "2026-09-29T05:13:43+00:00",
-    "first_seen": "2026-09-29T12:30:37.433906+00:00"
-  },
-  {
-    "source": "TechCrunch AI",
-    "source_tier": 2,
-    "title": "Peak XV ups Surge seed investment ceiling to $5M, unveils 18-startup cohort",
-    "link": "https://techcrunch.com/2026/09/28/peak-xv-goes-bigger-at-seed-with-new-surge-cohort-as-series-a-bar-rises/",
-    "summary": "Thirteen of the 18 startups in Peak XV\u2019s latest Surge cohort are targeting global markets, while more than half are based in India.",
-    "published": "2026-09-29T00:30:00+00:00",
-    "first_seen": "2026-09-29T12:30:37.433906+00:00"
-  },
-  {
-    "source": "TechCrunch AI",
-    "source_tier": 2,
-    "title": "OpenAI reportedly ditches model over safety concerns",
-    "link": "https://techcrunch.com/2026/09/28/openai-reportedly-ditches-model-over-safety-concerns/",
-    "summary": "A top executive at the AI lab told the Wall Street Journal that the model in question had displayed a poor aptitude for following orders.",
-    "published": "2026-09-28T23:39:20+00:00",
-    "first_seen": "2026-09-29T12:30:37.433906+00:00"
-  },
-  {
-    "source": "TechCrunch AI",
-    "source_tier": 2,
-    "title": "Source: Inference provider Modal Labs closing in on $750M round at $15.75B valuation",
-    "link": "https://techcrunch.com/2026/09/28/source-inference-provider-modal-labs-closing-in-on-750m-round-at-15-75b-valuation/",
-    "summary": "The new financing is expected to more than triples the AI infrastructure startup's valuation from just four months ago.",
-    "published": "2026-09-28T21:29:18+00:00",
-    "first_seen": "2026-09-29T12:30:37.433906+00:00"
-  },
-  {
-    "source": "TechCrunch AI",
-    "source_tier": 2,
-    "title": "AMD will acquire Fei-Fei Li\u2019s World Labs for $8.2 billion",
-    "link": "https://techcrunch.com/2026/09/28/amd-will-acquire-fei-fei-lis-world-labs-for-8-2-billion/",
-    "summary": "The acquisition will see World Labs founder Fei-Fei Li join AMD as executive vice president and chief scientist.",
-    "published": "2026-09-28T20:39:33+00:00",
-    "first_seen": "2026-09-29T12:30:37.433906+00:00"
-  },
-  {
-    "source": "TechCrunch AI",
-    "source_tier": 2,
-    "title": "Shopify opens checkout to browser-based AI agents",
-    "link": "https://techcrunch.com/2026/09/28/shopify-opens-checkout-to-browser-based-ai-agents/",
-    "summary": "Shopify is expanding WebMCP support to checkout, allowing browser-based AI agents to update order details and complete purchases with a buyer\u2019s authorization.",
-    "published": "2026-09-28T19:33:57+00:00",
-    "first_seen": "2026-09-29T12:30:37.433906+00:00"
-  },
-  {
-    "source": "TechCrunch AI",
-    "source_tier": 2,
-    "title": "The AI boom took over Climate Week and not everyone is happy about it",
-    "link": "https://techcrunch.com/2026/09/28/the-ai-boom-took-over-climate-week-and-not-everyone-is-happy-about-it/",
-    "summary": "Just like the rest of the U.S., data centers and AI are dividing climate tech founders and investors.",
-    "published": "2026-09-28T19:21:59+00:00",
-    "first_seen": "2026-09-29T12:30:37.433906+00:00"
-  },
-  {
-    "source": "TechCrunch AI",
-    "source_tier": 2,
-    "title": "Nvidia launches new platform for reining in rogue AI agents",
-    "link": "https://techcrunch.com/2026/09/28/nvidia-launches-new-platform-for-reining-in-rogue-ai-agents/",
-    "summary": "Nvidia CEO Jensen Huang on Monday introduced a toolkit of software and hardware products that add independent security layers around AI agents to ensure they stay within their test environments even if they attempt to break out.",
-    "published": "2026-09-28T18:31:23+00:00",
-    "first_seen": "2026-09-29T12:30:37.433906+00:00"
-  },
-  {
-    "source": "TechCrunch AI",
-    "source_tier": 2,
-    "title": "Anthropic releases Sonnet 5.5, which it calls a significantly cheaper, faster work partner",
-    "link": "https://techcrunch.com/2026/09/28/anthropic-releases-sonnet-5-5-which-it-calls-a-significantly-cheaper-faster-work-partner/",
-    "summary": "Anthropic has released the newest version of its mid-range model, boasting faster response times and less token burn.",
-    "published": "2026-09-28T18:00:00+00:00",
-    "first_seen": "2026-09-29T12:30:37.433906+00:00"
-  },
-  {
-    "source": "TechCrunch AI",
-    "source_tier": 2,
-    "title": "Google is killing off Gemini\u2019s Gems in favor of \u2018skills\u2019",
-    "link": "https://techcrunch.com/2026/09/28/google-is-killing-off-geminis-gems-in-favor-of-skills/",
-    "summary": "As all-in-one AI agents like Meta's Muse and Instinct take off, Google is opting to end a feature that built task-specific agents.",
-    "published": "2026-09-28T17:29:50+00:00",
-    "first_seen": "2026-09-29T12:30:37.433906+00:00"
-  },
-  {
-    "source": "TechCrunch AI",
-    "source_tier": 2,
-    "title": "OpenAI still doesn\u2019t seem to have a handle on all of its rogue AI activity",
-    "link": "https://techcrunch.com/2026/09/28/openai-still-doesnt-seem-to-have-a-handle-on-all-of-its-rogue-ai-activity/",
-    "summary": "On Friday, OpenAI published a new site devoted to \u201cmisalignment reports\u201d and the breadth of the incidents is alarming.",
-    "published": "2026-09-28T17:09:02+00:00",
-    "first_seen": "2026-09-29T12:30:37.433906+00:00"
-  },
-  {
-    "source": "TechCrunch AI",
-    "source_tier": 2,
-    "title": "Meta launches enterprise\u00a0AI platform, hires\u00a0MongoDB CEO to\u00a0lead new initiative",
-    "link": "https://techcrunch.com/2026/09/28/meta-launches-enterprise-ai-platform-hires-mongodb-ceo-to-lead-new-initiative/",
-    "summary": "Meta says it will focus on bringing its full technology stack, including Muse, Meta Business Agent, Muse API, Muse Code, and more to businesses and developers.",
-    "published": "2026-09-28T16:52:38+00:00",
-    "first_seen": "2026-09-29T12:30:37.433906+00:00"
-  },
-  {
-    "source": "TechCrunch AI",
-    "source_tier": 2,
-    "title": "Anthropic, Gamma, and Clay share what happens when enterprises actually deploy AI at TechCrunch Disrupt 2026",
-    "link": "https://techcrunch.com/2026/09/28/anthropic-gamma-and-clay-share-what-happens-when-enterprises-actually-deploy-ai-at-techcrunch-disrupt-2026/",
-    "summary": "Anthropic, Clay, and Gamma on what it takes for an AI product to go beyond the demo at the AI Stage at TechCrunchDisrupt 2026. Register to join and get 50% off a second pass.",
-    "published": "2026-09-28T15:30:00+00:00",
-    "first_seen": "2026-09-29T12:30:37.433906+00:00"
-  },
-  {
-    "source": "TechCrunch AI",
-    "source_tier": 2,
-    "title": "After a deepfake voice fooled her grandfather, this founder sprang into action",
-    "link": "https://techcrunch.com/2026/09/28/after-a-deepfake-voice-fooled-her-grandfather-this-founder-sprang-into-action/",
-    "summary": "After her grandfather was scammed by a deepfake of his brother's voice, Tarini Padmanabhuni founded DetectifAI, a San Francisco startup building AI models small enough to run directly on smartphones and flag fake voices in real time, and it's now one of the companies competing in",
-    "published": "2026-09-28T15:00:00+00:00",
-    "first_seen": "2026-09-29T12:30:37.433906+00:00"
-  },
-  {
-    "source": "TechCrunch AI",
-    "source_tier": 2,
-    "title": "Next 5 VCs judging Startup Battlefield 200 contenders at TechCrunch Disrupt 2026",
-    "link": "https://techcrunch.com/2026/09/28/next-five-vcs-judging-startup-battlefield-200-contenders-at-techcrunch-disrupt-2026/",
-    "summary": "Thousands of applications. Multiple rounds of review. Hundreds of hours spent evaluating startups from around the world. Now comes the part everyone has been waiting for. Register for TechCrunch Disrupt 2026 today.",
-    "published": "2026-09-28T14:30:00+00:00",
-    "first_seen": "2026-09-29T12:30:37.433906+00:00"
-  },
-  {
-    "source": "TechCrunch AI",
-    "source_tier": 2,
-    "title": "Modulate raises $25M for its voice models and analysis suite",
-    "link": "https://techcrunch.com/2026/09/28/modulate-raises-25m-for-its-voice-models-and-analysis-suite/",
-    "summary": "Modulate deploys its models to detect deepfake, fraud and scam",
-    "published": "2026-09-28T14:05:00+00:00",
-    "first_seen": "2026-09-29T12:30:37.433906+00:00"
-  },
-  {
-    "source": "TechCrunch AI",
-    "source_tier": 2,
-    "title": "Your final chance to grab your exhibit table at TechCrunch Disrupt 2026 is October 2",
-    "link": "https://techcrunch.com/2026/09/28/disrupt-2026-exhibitor-program-extended-until-oct-2/",
-    "summary": "The last day to book your Disrupt 2026 exhibit table is this Friday, October 2 at 11:59 p.m. PT. Secure your exhibit table and get your startup in front of 10,000+ founders, investors, and tech leaders at San Francisco's Moscone West on October 13-15.",
-    "published": "2026-09-28T14:00:00+00:00",
-    "first_seen": "2026-09-29T12:30:37.433906+00:00"
-  },
-  {
-    "source": "TechCrunch AI",
-    "source_tier": 2,
-    "title": "Insurtech Outmarket raises $34.5M just months after prior round",
-    "link": "https://techcrunch.com/2026/09/28/insuretech-outmarket-raises-34-5m-just-months-after-prior-round/",
-    "summary": "The startup uses AI to automate tedious paperwork for insurance agencies and brokers.",
-    "published": "2026-09-28T14:00:00+00:00",
-    "first_seen": "2026-09-29T12:30:37.433906+00:00"
-  },
-  {
-    "source": "TechCrunch AI",
-    "source_tier": 2,
-    "title": "Viral AI agent Instinct raises $1B Series C at a $10B valuation",
-    "link": "https://techcrunch.com/2026/09/28/viral-ai-agent-instinct-raises-1b-series-c-at-a-10b-valuation/",
-    "summary": "\"This funding helps us bring Instinct to more people and continue building the future of personal AI. It\u2019s an exciting, creative time, and we're just getting started,\" founder Noah Shinn said in a statement.",
-    "published": "2026-09-28T13:38:48+00:00",
-    "first_seen": "2026-09-29T12:30:37.433906+00:00"
-  },
-  {
-    "source": "The Verge AI",
-    "source_tier": 2,
-    "title": "Will Chinese AI companies slow down? A top House Democrat wants answers",
-    "link": "https://www.theverge.com/policy/1001767/khanna-ai-safety-china-treaty",
-    "summary": "As President Donald Trump prepares to meet tech and AI CEOs in Washington, Rep. Ro Khanna (D-CA) is calling for a treaty between the US and China to keep AI from wreaking havoc on the world. But wrangling leaders in both countries to take action could be a long shot. In letters s",
-    "published": "2026-09-29T12:00:00+00:00",
-    "first_seen": "2026-09-29T12:30:37.433906+00:00"
-  },
-  {
-    "source": "The Verge AI",
-    "source_tier": 2,
-    "title": "Anthropic warns of \u2018catastrophic\u2019 AI risks in its own IPO filing",
-    "link": "https://www.theverge.com/ai-artificial-intelligence/1001838/anthropic-ipo-prospectus-ai-safety-threat",
-    "summary": "As Anthropic gears up for its greatly anticipated public debut, a preview of the company's IPO filing reportedly details its mounting losses, leadership proposals to retain power, and how its AI development plans could \"further increase the risk that our models cause harm.\" These",
-    "published": "2026-09-29T11:48:27+00:00",
-    "first_seen": "2026-09-29T12:30:37.433906+00:00"
-  },
-  {
-    "source": "The Verge AI",
-    "source_tier": 2,
-    "title": "AMD is acquiring AI company World Labs in a deal worth more than $8 billion",
-    "link": "https://www.theverge.com/tech/1001749/amd-world-labs-ai-acquisition-deal",
-    "summary": "AMD announced today that it's acquiring World Labs, an AI research lab co-founded by the prominent researcher Dr. Fei-Fei Li, in an all-stock deal worth approximately $8.2 billion. World Labs launched in 2024 and was valued at $1 billion in a matter of months. The startup launche",
-    "published": "2026-09-28T21:31:35+00:00",
-    "first_seen": "2026-09-29T12:30:37.433906+00:00"
-  },
-  {
-    "source": "The Verge AI",
-    "source_tier": 2,
-    "title": "OpenAI\u2019s AI agents need to catch up",
-    "link": "https://www.theverge.com/ai-artificial-intelligence/1001590/openai-devday-2026-aeon-ai-agent",
-    "summary": "OpenAI popularized the modern generative AI chatbot, but as its 2026 DevDay event approaches, it's fallen behind in one of the industry's hottest categories: continuously running, consumer-facing AI agents. On Tuesday, it will likely try to capture the lead in that race. Rumors a",
-    "published": "2026-09-28T18:45:00+00:00",
-    "first_seen": "2026-09-29T12:30:37.433906+00:00"
-  },
-  {
-    "source": "The Verge AI",
-    "source_tier": 2,
-    "title": "AI is supercharging hacking, and your local hospitals and banks aren\u2019t ready",
-    "link": "https://www.theverge.com/ai-artificial-intelligence/1001427/ai-is-supercharging-hacking-and-your-local-hospitals-and-banks-arent-ready",
-    "summary": "In March, Janice Malone began getting calls about suspicious activity from her nonprofit organization, Vivian's Door. Vivian's Door, headquartered in Alabama, typically provided training, resources, and community to underserved and minority-owned businesses. The work sometimes pu",
-    "published": "2026-09-28T18:30:00+00:00",
-    "first_seen": "2026-09-29T12:30:37.433906+00:00"
-  },
-  {
-    "source": "The Verge AI",
-    "source_tier": 2,
-    "title": "Florida seeks a ban on ChatGPT acting like a person",
-    "link": "https://www.theverge.com/ai-artificial-intelligence/1001527/chatgpt-florida-ban-first-person-human-attributes-kids",
-    "summary": "Florida Attorney General James Uthmeier is calling for a judge to block OpenAI from \"giving ChatGPT false human attributes,\" a few months after Florida sued the AI company over safety concerns. According to Uthmeier, users are lulled into a false sense of security by the AI bot, ",
-    "published": "2026-09-28T17:00:23+00:00",
-    "first_seen": "2026-09-29T12:30:37.433906+00:00"
-  },
-  {
-    "source": "The Verge AI",
-    "source_tier": 2,
-    "title": "OpenAI keeps bulldozing mathematicians",
-    "link": "https://www.theverge.com/ai-artificial-intelligence/1001477/openai-math-advisory-group",
-    "summary": "In a chaotic few months, OpenAI has demonstrated it can do two things with remarkable consistency: make impressive breakthroughs in mathematics, then colossally screw up announcing them. OpenAI is now trying to do better. Somehow, it has botched that too. OpenAI's latest attempt ",
-    "published": "2026-09-28T17:00:00+00:00",
-    "first_seen": "2026-09-29T12:30:37.433906+00:00"
-  },
-  {
-    "source": "The Verge AI",
-    "source_tier": 2,
-    "title": "Walmart won\u2019t hike prices based on your shopping history, CEO says",
-    "link": "https://www.theverge.com/tech/1001492/walmart-dynamic-pricing-digital-shelf-labels",
-    "summary": "Walmart says it won't change product prices based on your personal information or the time of day, as reported earlier by The Wall Street Journal. In a letter to customers, Walmart CEO John Furner writes that the company's switch to digital shelf labels is meant to save store ass",
-    "published": "2026-09-28T16:44:57+00:00",
-    "first_seen": "2026-09-29T12:30:37.433906+00:00"
-  },
-  {
-    "source": "The Verge AI",
-    "source_tier": 2,
-    "title": "The SaaSpocalypse that wasn\u2019t, with Atlassian CEO Mike Cannon-Brookes",
-    "link": "https://www.theverge.com/podcast/1000914/atlassian-ceo-mike-cannon-brookes-saaspocalypse-ai-enterprise-software-trello-jira",
-    "summary": "Today, I\u2019m talking with Mike Cannon-Brookes, who is cofounder and CEO of Atlassian.\u00a0 Atlassian is one of those companies that every other company runs on \u2014 it makes important platform tools like Jira and Trello that allow people to organize and manage big teams, create shared dat",
-    "published": "2026-09-28T14:00:00+00:00",
-    "first_seen": "2026-09-29T12:30:37.433906+00:00"
-  },
-  {
-    "source": "The Verge AI",
-    "source_tier": 2,
-    "title": "Nvidia says its new AI safety platform can contain rogue agents within \u2018milliseconds\u2019",
-    "link": "https://www.theverge.com/tech/1001287/nvidia-ai-safety-platform-rogue-agents",
-    "summary": "Nvidia is launching a new safety platform designed to contain and monitor AI agents, a move that comes in response to a wave of rogue hacking incidents, as reported earlier by Reuters. In an announcement on Monday, Nvidia says its new Open Agent Safety Platform can quarantine age",
-    "published": "2026-09-28T13:36:06+00:00",
-    "first_seen": "2026-09-29T12:30:37.433906+00:00"
-  },
-  {
-    "source": "European Commission Digital Strategy",
-    "source_tier": 1,
-    "title": "Targeted consultation to support a better copyright environment for creativity and innovation",
-    "link": "https://digital-strategy.ec.europa.eu/en/consultations/targeted-consultation-support-better-copyright-environment-creativity-and-innovation",
-    "summary": "Targeted consultation to support a better copyright environment for creativity and innovation\nAnonymous (not verified)\nTue, 09/29/2026 - 10:15\n\n\n\n  \n        \n              \n                              \n      \n      \u00a0\n      Opening: 29 September 2026\n    \n    \n      \u00a0\n      Clos",
-    "published": "2026-09-29T08:15:00+00:00",
-    "first_seen": "2026-09-30T12:15:56.636803+00:00"
-  },
-  {
     "source": "Power BI Blog",
     "source_tier": 1,
     "title": "Microsoft & Snowflake\u2019s Commitment to Apache Ossie",
@@ -384,15 +24,6 @@
     "link": "https://www.technologyreview.com/2026/09/30/1145339/were-not-going-to-shoot-ourselves-in-the-foot-over-hugging-face-says-openais-chief-research-officer/",
     "summary": "Two months after the bombshell news that a swarm of its agents had broken their containment and hacked into the computers of the AI company Hugging Face, OpenAI is still putting out fires. A steady drip of disclosures about other hacks in the weeks since has kept OpenAI in the sp",
     "published": "2026-09-30T10:40:30+00:00",
-    "first_seen": "2026-09-30T12:15:56.636803+00:00"
-  },
-  {
-    "source": "MIT Technology Review",
-    "source_tier": 2,
-    "title": "The Download: climate tech companies to watch and AI\u2019s discovery problem",
-    "link": "https://www.technologyreview.com/2026/09/29/1145249/the-download-climate-tech-ai-scientific-discovery/",
-    "summary": "This is today\u2019s edition of The Download, our weekday newsletter that provides a daily dose of what\u2019s going on in the world of technology. Coming soon: our 2026 list of Climate Tech Companies to Watch With the planet nearing 1.5 \u00b0C of warming, climate policies being unraveled, and",
-    "published": "2026-09-29T12:10:00+00:00",
     "first_seen": "2026-09-30T12:15:56.636803+00:00"
   },
   {
@@ -573,15 +204,6 @@
     "link": "https://techcrunch.com/2026/09/29/openai-apologizes-to-australia-after-its-ai-agents-breached-government-sites/",
     "summary": "The company also detailed how some of those breaches had happened, and outlined additional measures it is taking to assess the impact of the events.",
     "published": "2026-09-29T12:45:05+00:00",
-    "first_seen": "2026-09-30T12:15:56.636803+00:00"
-  },
-  {
-    "source": "TechCrunch AI",
-    "source_tier": 2,
-    "title": "Reco raises $55M as AI agent security startups crowd the market",
-    "link": "https://techcrunch.com/2026/09/29/reco-raises-55m-as-ai-agent-security-startups-crowd-the-market/",
-    "summary": "The round builds on a $30 million fundraise in February, taking the company's total funding to $140 million.",
-    "published": "2026-09-29T12:30:00+00:00",
     "first_seen": "2026-09-30T12:15:56.636803+00:00"
   },
   {
@@ -6217,5 +5839,248 @@
     "summary": "A subsidiary of Elon Musk's xAI is offering to buy up homes in a Mississippi neighborhood, as long as residents don't join a lawsuit targeting the company's nearby data center and power plant, according to a report from The Guardian. A realtor going door-to-door in the Southaven ",
     "published": "2026-10-28T14:44:00+00:00",
     "first_seen": "2026-10-29T12:40:08.461697+00:00"
+  },
+  {
+    "source": "Power Automate Blog",
+    "source_tier": 1,
+    "title": "Built by makers: Five years of Power Platform Community Conference",
+    "link": "https://www.microsoft.com/en-us/power-platform/blog/2026/10/29/built-by-makers-five-years-of-power-platform-community-conference/",
+    "summary": "Five years in, PPCC is still built by makers. Explore the ideas, innovations, and community moments that shaped this year\u2019s event.\nThe post Built by makers: Five years of Power Platform Community Conference appeared first on Microsoft Power Platform Blog.",
+    "published": "2026-10-29T16:30:00+00:00",
+    "first_seen": "2026-10-30T12:31:15.439286+00:00"
+  },
+  {
+    "source": "MIT Technology Review",
+    "source_tier": 2,
+    "title": "The Download: GLP-1s and eating disorders, self-aware cities, and forever chemicals",
+    "link": "https://www.technologyreview.com/2026/10/30/1147843/the-download-glp-1s-eating-disorders-forever-chemicals/",
+    "summary": "This is today\u2019s edition of The Download, our weekday newsletter that provides a daily dose of what\u2019s going on in the world of technology. Eating disorders are on the rise. GLP-1s could make things worse. GLP-1 weight-loss drugs are one of the biggest biotech breakthroughs of the ",
+    "published": "2026-10-30T12:10:00+00:00",
+    "first_seen": "2026-10-30T12:31:15.439286+00:00"
+  },
+  {
+    "source": "MIT Technology Review",
+    "source_tier": 2,
+    "title": "Eating disorders are on the rise. GLP-1s could make things worse.",
+    "link": "https://www.technologyreview.com/2026/10/30/1147838/eating-disorders-rise-glp-1s-weight-loss-drugs/",
+    "summary": "GLP-1 weight-loss drugs are one of the biggest biotech breakthroughs of the last decade. But to some clinical psychologists, they can represent something more sinister\u2014a potential trigger for eating disorders. A new report suggests that the global incidence of anorexia nervosa an",
+    "published": "2026-10-30T09:00:00+00:00",
+    "first_seen": "2026-10-30T12:31:15.439286+00:00"
+  },
+  {
+    "source": "ZDNet AI",
+    "source_tier": 2,
+    "title": "Your headphones have hidden LE Audio features you\u2019ll want to know about",
+    "link": "https://www.zdnet.com/tech/bluetooth-headphones-hidden-le-audio-features-jbl-sony-bose/",
+    "summary": "Your JBL, Sony, or Bose Bluetooth headphones got a top-to-bottom wireless makeover \u2014 not just Auracast.",
+    "published": "2026-10-29T17:45:05+00:00",
+    "first_seen": "2026-10-30T12:31:15.439286+00:00"
+  },
+  {
+    "source": "ZDNet AI",
+    "source_tier": 2,
+    "title": "Firefox and Chrome patch 200+ security flaws combined \u2013 update both ASAP",
+    "link": "https://www.zdnet.com/tech/firefox-chrome-browsers-patch-200-security-flaws-update-asap/",
+    "summary": "The latest version of Firefox fixes 167 security vulnerabilities, most of which are of high severity, while the newest version of Chrome patches 52 flaws, four of which are critical.",
+    "published": "2026-10-29T16:30:28+00:00",
+    "first_seen": "2026-10-30T12:31:15.439286+00:00"
+  },
+  {
+    "source": "ZDNet AI",
+    "source_tier": 2,
+    "title": "Stop sharing your passwords with AI agents, Bank of America warns customers",
+    "link": "https://www.zdnet.com/innovation/bank-of-america-customers-no-sharing-passwords-ai-agents/",
+    "summary": "The bank\u2019s message follows a trend among financial institutions that are restricting third-party AI agent access.",
+    "published": "2026-10-29T15:36:26+00:00",
+    "first_seen": "2026-10-30T12:31:15.439286+00:00"
+  },
+  {
+    "source": "ZDNet AI",
+    "source_tier": 2,
+    "title": "Mistral\u2019s Le Chonk is now a top open model for coding, ranking alongside Codex GPT-6.1 Terra",
+    "link": "https://www.zdnet.com/innovation/mistral-large-4-weights-release/",
+    "summary": "Mistral has released the weights for Large 4, along with some impressive Artificial Analysis scores.",
+    "published": "2026-10-29T14:00:31+00:00",
+    "first_seen": "2026-10-30T12:31:15.439286+00:00"
+  },
+  {
+    "source": "TechCrunch AI",
+    "source_tier": 2,
+    "title": "You don\u2019t need to believe in a god to get a religious exemption from using AI at work",
+    "link": "https://techcrunch.com/2026/10/29/you-dont-need-to-believe-in-a-god-to-get-a-religious-exemption-from-using-ai-at-work/",
+    "summary": "David Durman, a University of Kentucky administrator, recently earned a religious exemption from using AI in the workplace.",
+    "published": "2026-10-30T01:20:48+00:00",
+    "first_seen": "2026-10-30T12:31:15.439286+00:00"
+  },
+  {
+    "source": "TechCrunch AI",
+    "source_tier": 2,
+    "title": "AWS will be a $1T business, Jassy says \u2014 but first, it will spend big",
+    "link": "https://techcrunch.com/2026/10/29/aws-will-be-a-1t-business-jassy-says-but-first-it-will-spend-big/",
+    "summary": "Amazon wants to be the king of AI cloud computing and become the first $1 trillion revenue business. But to do that it will have to continue on its capex spending spree, its CEO said Thursday.",
+    "published": "2026-10-29T23:42:22+00:00",
+    "first_seen": "2026-10-30T12:31:15.439286+00:00"
+  },
+  {
+    "source": "TechCrunch AI",
+    "source_tier": 2,
+    "title": "As search traffic dries up, Reddit announces it\u2019s shifting to a logged-in experience",
+    "link": "https://techcrunch.com/2026/10/29/as-search-traffic-dries-up-reddit-announces-its-shifting-to-a-logged-in-experience/",
+    "summary": "As AI transforms how people find information online, Reddit is rethinking its open-web roots to protect its audience and business.",
+    "published": "2026-10-29T20:08:31+00:00",
+    "first_seen": "2026-10-30T12:31:15.439286+00:00"
+  },
+  {
+    "source": "TechCrunch AI",
+    "source_tier": 2,
+    "title": "Rivian expands joint venture with VW to include AI assistant",
+    "link": "https://techcrunch.com/2026/10/29/rivian-expands-joint-venture-with-vw-to-include-ai-assistant/",
+    "summary": "Rivian doesn't disclose if the value of its $5.8 billion joint venture will expand as a result.",
+    "published": "2026-10-29T20:05:47+00:00",
+    "first_seen": "2026-10-30T12:31:15.439286+00:00"
+  },
+  {
+    "source": "TechCrunch AI",
+    "source_tier": 2,
+    "title": "OpenAI-backed Thrive Holdings acquires ADT",
+    "link": "https://techcrunch.com/2026/10/29/openai-backed-thrive-holdings-acquires-adt/",
+    "summary": "OpenAI-backed Thrive Holdings is buying ADT in a $15.3 billion deal, with plans to bring AI to the home security business.",
+    "published": "2026-10-29T19:56:19+00:00",
+    "first_seen": "2026-10-30T12:31:15.439286+00:00"
+  },
+  {
+    "source": "TechCrunch AI",
+    "source_tier": 2,
+    "title": "Meta quietly launches an AI fashion app called Style Sketch",
+    "link": "https://techcrunch.com/2026/10/29/meta-quietly-launches-an-ai-fashion-app-called-style-sketch/",
+    "summary": "The app connects to Instagram to build a virtual closet from photos you\u2019ve already shared, or lets you add items manually by snapping a photo, recording a quick video, or uploading images from your camera roll.",
+    "published": "2026-10-29T19:14:36+00:00",
+    "first_seen": "2026-10-30T12:31:15.439286+00:00"
+  },
+  {
+    "source": "TechCrunch AI",
+    "source_tier": 2,
+    "title": "Granola crunches up a dictation feature to compete with Wispr",
+    "link": "https://techcrunch.com/2026/10/29/granola-crunches-up-a-dictation-feature-to-compete-with-wispr/",
+    "summary": "Uno reverse! After Wispr added meeting notes to its dictation app, Granola is adding dictation to its meeting notetaker. The voice AI wars are getting interesting.",
+    "published": "2026-10-29T17:54:38+00:00",
+    "first_seen": "2026-10-30T12:31:15.439286+00:00"
+  },
+  {
+    "source": "TechCrunch AI",
+    "source_tier": 2,
+    "title": "Mistral releases weights for its trillion-parameter AI model, targeting cybersecurity",
+    "link": "https://techcrunch.com/2026/10/29/mistral-releases-weights-for-its-trillion-parameter-ai-model-targeting-cybersecurity/",
+    "summary": "Mistral says its new model can afford organizations a kind of control over its cyber defenses that closed models can't.",
+    "published": "2026-10-29T17:00:00+00:00",
+    "first_seen": "2026-10-30T12:31:15.439286+00:00"
+  },
+  {
+    "source": "TechCrunch AI",
+    "source_tier": 2,
+    "title": "US investigated Chinese spy plot aimed at Nvidia CEO",
+    "link": "https://techcrunch.com/2026/10/29/u-s-investigated-chinese-spy-plot-aimed-at-nvidia-ceo/",
+    "summary": "A top executive of a Singapore AI cloud company that was accused of illegally selling Nvidia chips to China could also have been a Chinese spy, sources have told the New York Times.",
+    "published": "2026-10-29T16:42:32+00:00",
+    "first_seen": "2026-10-30T12:31:15.439286+00:00"
+  },
+  {
+    "source": "TechCrunch AI",
+    "source_tier": 2,
+    "title": "Ex-Palantir execs launch Dream with $17M from a16z to build AI world models for construction",
+    "link": "https://techcrunch.com/2026/10/29/ex-palantir-execs-launch-dream-with-17m-from-a16z-to-build-ai-world-models-for-construction/",
+    "summary": "Dream is grounded in real physics and construction standards. Just as LLMs learn from text, Dream's world model is trained on more than 100 million square feet of building data gathered from permit archives across the United States.",
+    "published": "2026-10-29T16:21:00+00:00",
+    "first_seen": "2026-10-30T12:31:15.439286+00:00"
+  },
+  {
+    "source": "TechCrunch AI",
+    "source_tier": 2,
+    "title": "Wabi, the AI agent that builds mini apps, now valued at $1.25B after latest round",
+    "link": "https://techcrunch.com/2026/10/29/wabi-the-ai-agent-that-builds-mini-apps-now-valued-at-1-25b-after-latest-round/",
+    "summary": "On Thursday, AI app Wabi, now describing itself as a \"personal agent,\" said it has raised $55 million at a $1.25 billion valuation.",
+    "published": "2026-10-29T14:35:26+00:00",
+    "first_seen": "2026-10-30T12:31:15.439286+00:00"
+  },
+  {
+    "source": "TechCrunch AI",
+    "source_tier": 2,
+    "title": "Deepgram acquires Pipecat-maker Daily to bolster its voice AI infrastructure",
+    "link": "https://techcrunch.com/2026/10/29/deepgram-acquires-pipecat-maker-daily-to-bolster-its-voice-ai-infrastructure/",
+    "summary": "With Pipecat, Deepgram will likely gain a deeper understanding of real-time voice and video infrastructure.",
+    "published": "2026-10-29T13:00:00+00:00",
+    "first_seen": "2026-10-30T12:31:15.439286+00:00"
+  },
+  {
+    "source": "TechCrunch AI",
+    "source_tier": 2,
+    "title": "Amazon updates Alexa to help you manage shopping lists and subscriptions and update delivery instructions",
+    "link": "https://techcrunch.com/2026/10/29/amazon-updates-alexa-to-help-you-manage-shopping-lists-and-subscriptions-and-update-delivery-instructions/",
+    "summary": "The update allows you to use Alexa to create lists, register them, see what's on them, and add or edit items. You can also manage subscriptions.",
+    "published": "2026-10-29T13:00:00+00:00",
+    "first_seen": "2026-10-30T12:31:15.439286+00:00"
+  },
+  {
+    "source": "The Verge AI",
+    "source_tier": 2,
+    "title": "Maine\u2019s data center revolt will decide who controls the Senate",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/1021080/maine-senate-race-susan-collins-ai-data-centers",
+    "summary": "Maine Sen. Susan Collins, a Republican, was midway through defending her record during the final debate of the midterms when an audience member cut her short. \"I'm terrified,\" a man shouted. \"AI data centers are destroying our climate. They are poisoning our water.\" Collins brush",
+    "published": "2026-10-30T11:00:00+00:00",
+    "first_seen": "2026-10-30T12:31:15.439286+00:00"
+  },
+  {
+    "source": "The Verge AI",
+    "source_tier": 2,
+    "title": "Wikipedia\u2019s operator says a bad AI copyright ruling could threaten the open web",
+    "link": "https://www.theverge.com/policy/1022880/wikipedia-openai-new-york-times-copyright",
+    "summary": "The Wikimedia Foundation is staking out a middle ground in a group of landmark AI copyright cases, pushing courts to legally protect large language models (LLMs) training on copyrighted work - but not chatbots regurgitating that work to users. An overly black-and-white ruling, it",
+    "published": "2026-10-30T09:00:00+00:00",
+    "first_seen": "2026-10-30T12:31:15.439286+00:00"
+  },
+  {
+    "source": "The Verge AI",
+    "source_tier": 2,
+    "title": "You can generate and edit Google Docs files directly in Gemini chats now",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/1022519/google-gemini-file-editing-documents-pdfs",
+    "summary": "Now you can generate, preview, and edit PDFs, Google Docs, Google Sheets, slide decks, Markdown files, TXT files, and code directly within Google Gemini. The new file editing capabilities are available starting today for all Gemini users, and while PDF previews/editing works on b",
+    "published": "2026-10-29T18:45:31+00:00",
+    "first_seen": "2026-10-30T12:31:15.439286+00:00"
+  },
+  {
+    "source": "The Verge AI",
+    "source_tier": 2,
+    "title": "Microsoft\u2019s AI future has fewer jobs",
+    "link": "https://www.theverge.com/tech/1022023/microsoft-exit-offer-layoffs-notepad",
+    "summary": "To anyone listening closely to what Microsoft CEO Satya Nadella has been saying over the past couple of years, this week felt like the clearest sign yet that AI is about to fundamentally change the size of Microsoft's workforce. Microsoft is now offering voluntary buyouts to arou",
+    "published": "2026-10-29T16:00:00+00:00",
+    "first_seen": "2026-10-30T12:31:15.439286+00:00"
+  },
+  {
+    "source": "The Verge AI",
+    "source_tier": 2,
+    "title": "The NYT Cooking app is testing AI recipe modifications",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/1022193/nyt-cooking-app-ai-recipe-modification-tool",
+    "summary": "The New York Times is testing a new AI feature for its Cooking app that helps users to modify recipes, and it has sparked some drama among users. Last Friday, NYT Cooking senior editor Genevieve Ko announced the feature, which can be used to recommend substitutions for ingredient",
+    "published": "2026-10-29T14:39:37+00:00",
+    "first_seen": "2026-10-30T12:31:15.439286+00:00"
+  },
+  {
+    "source": "The Verge AI",
+    "source_tier": 2,
+    "title": "Anthropic is asking Wall Street to believe in AGI",
+    "link": "https://www.theverge.com/podcast/1021322/anthropic-ipo-filing-s-1-claude-semianalysis-joey-brookhart-interview",
+    "summary": "Today on Decoder, I\u2019m joined by Joey Brookhart, an analyst at the chip and AI research firm SemiAnalysis, to help me dig into the story inside the numbers of the Anthropic IPO filing \u2014 a document known as an S-1. Anthropic just filed its S-1 to go public on the Nasdaq, and it cou",
+    "published": "2026-10-29T14:00:00+00:00",
+    "first_seen": "2026-10-30T12:31:15.439286+00:00"
+  },
+  {
+    "source": "The Verge AI",
+    "source_tier": 2,
+    "title": "Anthropic\u2019s business plan: Build God or die trying",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/1021476/anthropic-s-1-compute-recursive",
+    "summary": "The Anthropic S-1 seems to have provided the financial justification for the company to spend as much as it possibly can on compute. If you are the kind of person who wonders if Anthropic is doing its level best to build a machine god while convincing Wall Street it's in the busi",
+    "published": "2026-10-29T13:30:00+00:00",
+    "first_seen": "2026-10-30T12:31:15.439286+00:00"
   }
 ]

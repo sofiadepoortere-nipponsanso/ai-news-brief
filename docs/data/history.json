@@ -2,199 +2,10 @@
   {
     "source": "MIT Technology Review",
     "source_tier": 2,
-    "title": "A new contest pits competitors against each other in a race to biological youth",
-    "link": "https://www.technologyreview.com/2026/10/02/1145610/younger-contest-race-to-biological-youth/",
-    "summary": "This week, I officially signed up for an unusual competition. One that rewards competitors for getting younger. I recently turned 40, and I don\u2019t need reminding that both time and my chronological age only tick forward. But this game is focused on competitors\u2019 biological ages\u2014fig",
-    "published": "2026-10-02T09:00:00+00:00",
-    "first_seen": "2026-10-02T12:13:50.588740+00:00"
-  },
-  {
-    "source": "MIT Technology Review",
-    "source_tier": 2,
-    "title": "Don\u2019t be fooled\u2014LLMs don\u2019t reason",
-    "link": "https://www.technologyreview.com/2026/10/02/1145639/dont-be-fooled-llms-dont-reason/",
-    "summary": "On an afternoon in Seoul in March 2016, I watched a program I helped build put a stone on the fifth line of a Go board in what looked like a gift to its human opponent. Move 37 in game two of the five-game match looked so absurd that some commentators thought it was a\u2026",
-    "published": "2026-10-02T08:00:00+00:00",
-    "first_seen": "2026-10-02T12:13:50.588740+00:00"
-  },
-  {
-    "source": "TechCrunch AI",
-    "source_tier": 2,
-    "title": "Musk\u2019s AI chatbot Grok reportedly encouraged Trump to capture  Venezuela\u2019s president",
-    "link": "https://techcrunch.com/2026/10/01/musks-ai-chatbot-grok-reportedly-encouraged-trump-to-capture-venezuelas-president/",
-    "summary": "President Trump reportedly asked for Grok's opinion before invading Venezuela and capturing Nicol\u00e1s Maduro.",
-    "published": "2026-10-01T21:08:11+00:00",
-    "first_seen": "2026-10-02T12:13:50.588740+00:00"
-  },
-  {
-    "source": "TechCrunch AI",
-    "source_tier": 2,
-    "title": "ChatGPT can now virtually try on clothes for you",
-    "link": "https://techcrunch.com/2026/10/01/chatgpt-can-now-virtually-try-on-clothes-for-you/",
-    "summary": "OpenAI is rolling out new shopping features for ChatGPT that let users virtually try on clothing and accessories using their own photos and save products they like to a Favorites library.",
-    "published": "2026-10-01T19:21:53+00:00",
-    "first_seen": "2026-10-02T12:13:50.588740+00:00"
-  },
-  {
-    "source": "TechCrunch AI",
-    "source_tier": 2,
-    "title": "Google thinks SpaceX\u2019s Starship has to launch 1,800 times before space data centers get off the ground",
-    "link": "https://techcrunch.com/2026/10/01/google-thinks-spacexs-starship-has-to-launch-1600-times-before-space-data-centers-get-off-the-ground/",
-    "summary": "Google launched its first advanced chip into orbit to pave the way for space data centers.",
-    "published": "2026-10-01T19:18:03+00:00",
-    "first_seen": "2026-10-02T12:13:50.588740+00:00"
-  },
-  {
-    "source": "TechCrunch AI",
-    "source_tier": 2,
-    "title": "OpenAI cuts ties with 3 safety researchers, WSJ reports",
-    "link": "https://techcrunch.com/2026/10/01/openai-cuts-ties-with-three-safety-researchers-wsj-reports/",
-    "summary": "OpenAI has parted ways with three safety researchers after an internal investigation found they mishandled sensitive company information, report says.",
-    "published": "2026-10-01T18:14:42+00:00",
-    "first_seen": "2026-10-02T12:13:50.588740+00:00"
-  },
-  {
-    "source": "TechCrunch AI",
-    "source_tier": 2,
-    "title": "Opus 5.5 loves to tell you \u2018this matters\u2019 (and other AI writing tells)",
-    "link": "https://techcrunch.com/2026/10/01/opus-5-5-loves-to-tell-you-this-matters-and-other-ai-writing-tells/",
-    "summary": "Opus 5.5\u2019s biggest tell is the word \u201cdependable,\u201d which pops up 23 times more often than in human samples.",
-    "published": "2026-10-01T17:50:19+00:00",
-    "first_seen": "2026-10-02T12:13:50.588740+00:00"
-  },
-  {
-    "source": "TechCrunch AI",
-    "source_tier": 2,
-    "title": "Amazon releases its own Jev clone as decision models flood the web",
-    "link": "https://techcrunch.com/2026/10/01/amazon-releases-its-own-jev-clone-as-decision-models-flood-the-web/",
-    "summary": "Amazon Web Services' Strand Labs has released the latest Jevalike decision model, Strands Decider 2B.",
-    "published": "2026-10-01T16:49:22+00:00",
-    "first_seen": "2026-10-02T12:13:50.588740+00:00"
-  },
-  {
-    "source": "TechCrunch AI",
-    "source_tier": 2,
-    "title": "Shopify debuts Canvas, a way to build online stores by chatting with AI",
-    "link": "https://techcrunch.com/2026/10/01/shopify-debuts-canvas-a-way-to-build-online-stores-by-chatting-with-ai/",
-    "summary": "Shopify\u2019s new Canvas site builder lets merchants create and customize their online stores by chatting with its AI agent Sidekick, while watching the changes happen in real time.",
-    "published": "2026-10-01T16:44:35+00:00",
-    "first_seen": "2026-10-02T12:13:50.588740+00:00"
-  },
-  {
-    "source": "TechCrunch AI",
-    "source_tier": 2,
-    "title": "Brian Chesky interview: AI agents need their own operating system",
-    "link": "https://techcrunch.com/2026/10/01/brian-chesky-interview-ai-agents-need-their-own-operating-system/",
-    "summary": "Brian Chesky on making Airbnb agent-friendly, the state of consumer AI, and why the world needs an AI-native operating system.",
-    "published": "2026-10-01T15:12:00+00:00",
-    "first_seen": "2026-10-02T12:13:50.588740+00:00"
-  },
-  {
-    "source": "TechCrunch AI",
-    "source_tier": 2,
-    "title": "Photon held a funeral for mobile apps. Now it has $4.5M to help replace them with agents.",
-    "link": "https://techcrunch.com/2026/10/01/photon-held-a-funeral-for-mobile-apps-now-it-has-4-5m-to-help-replace-them-with-agents/",
-    "summary": "The startup helps developers build AI agents that work over iMessage, SMS/RCS, email, and other messaging platforms. It's a bet that consumers will increasingly use agents instead of downloading apps.",
-    "published": "2026-10-01T14:00:00+00:00",
-    "first_seen": "2026-10-02T12:13:50.588740+00:00"
-  },
-  {
-    "source": "TechCrunch AI",
-    "source_tier": 2,
-    "title": "Hearing tech startup Legato launches its AI hearing glasses",
-    "link": "https://techcrunch.com/2026/10/01/hearing-tech-startup-legato-launches-its-ai-hearing-glasses/",
-    "summary": "The glasses stem from the startup\u2019s goal of making hearing care more accessible by addressing the cost, comfort, and stigma associated with traditional hearing aids.",
-    "published": "2026-10-01T13:00:00+00:00",
-    "first_seen": "2026-10-02T12:13:50.588740+00:00"
-  },
-  {
-    "source": "The Verge AI",
-    "source_tier": 2,
-    "title": "AI hallucinations are making entitled customers even worse",
-    "link": "https://www.theverge.com/report/1002963/ai-hallucinations-customer-service-jobs-agents",
-    "summary": "Madison, a server in New York City, greets every table by asking about each diner's allergies. Lately, there have been some close calls. \"Sometimes people will tell me they have a shellfish allergy, and I'll come back, and they won't ask me any questions,\" says Madison, who asked",
-    "published": "2026-10-02T12:00:00+00:00",
-    "first_seen": "2026-10-02T12:13:50.588740+00:00"
-  },
-  {
-    "source": "The Verge AI",
-    "source_tier": 2,
-    "title": "If a data center is camouflaged in the woods, will anyone hate it?",
-    "link": "https://www.theverge.com/tech/1003681/microsoft-data-centers-ai-environment-biomimicry",
-    "summary": "San Antonio City Councilmember Ric Galvan remembers when data centers first arrived in his city in the 2000s, looking like relatively unassuming office buildings. But that's changed in recent years, as data centers have grown into massive \"hyperscale\" facilities spanning millions",
-    "published": "2026-10-02T12:00:00+00:00",
-    "first_seen": "2026-10-02T12:13:50.588740+00:00"
-  },
-  {
-    "source": "The Verge AI",
-    "source_tier": 2,
-    "title": "Amazon writes scary blog warning communities not to block data centers",
-    "link": "https://www.theverge.com/tech/1003929/amazon-ai-data-center-blog-warning",
-    "summary": "Amazon is calling for people to support AI data center projects, or risk irreparable harm to the US economy and national security. In a more than 3,000 word blog posted today, Amazon web services CEO Matt Garman pushed back on public concerns around the impact that data centers m",
-    "published": "2026-10-02T11:52:20+00:00",
-    "first_seen": "2026-10-02T12:13:50.588740+00:00"
-  },
-  {
-    "source": "The Verge AI",
-    "source_tier": 2,
-    "title": "AI music maker Suno now generates spoken words",
-    "link": "https://www.theverge.com/ai-artificial-intelligence/1003925/suno-speech-ai-voice-feature-beta-availability",
-    "summary": "Suno is branching out from the world of AI music, launching a new feature that generates spoken voices based on scripts or prompted descriptions. Speech is now available in public beta across Suno's web and mobile platforms, and allows you to simultaneously generate voiceovers an",
-    "published": "2026-10-02T09:42:19+00:00",
-    "first_seen": "2026-10-02T12:13:50.588740+00:00"
-  },
-  {
-    "source": "The Verge AI",
-    "source_tier": 2,
-    "title": "Google\u2019s new Guided Vision feature can help you read the fine print",
-    "link": "https://www.theverge.com/ai-artificial-intelligence/1003756/google-gemini-live-guided-vision",
-    "summary": "Guided Vision is launching in Gemini Live on compatible Android devices today to use AI to give real-time audio descriptions of anything you point your phone's camera at. By sharing your camera in Gemini Live, you can have Google's AI help with things like reading small text, des",
-    "published": "2026-10-01T19:47:51+00:00",
-    "first_seen": "2026-10-02T12:13:50.588740+00:00"
-  },
-  {
-    "source": "The Verge AI",
-    "source_tier": 2,
-    "title": "Judge dismisses antitrust lawsuits over Google\u2019s AI Overviews",
-    "link": "https://www.theverge.com/tech/1003589/google-ai-overviews-chegg-penske-lawsuits-dismissed",
-    "summary": "A federal judge has dismissed a pair of antitrust lawsuits filed by Chegg and Rolling Stone parent company Penske Media Corporation, which accused Google of driving away web traffic with its AI-powered search features, as reported earlier by Reuters. US District Judge Amit Mehta ",
-    "published": "2026-10-01T17:12:21+00:00",
-    "first_seen": "2026-10-02T12:13:50.588740+00:00"
-  },
-  {
-    "source": "The Verge AI",
-    "source_tier": 2,
-    "title": "OpenAI\u2019s new agent is a shot at Meta \u2014 but can it compete with free?",
-    "link": "https://www.theverge.com/ai-artificial-intelligence/1003399/meta-openai-ai-agents-muse-dots-battle",
-    "summary": "At OpenAI's annual DevDay conference, the company pulled out all the stops to compete with its rivals - primarily Meta, whose Muse AI agent platform has seen early runaway success. CEO Sam Altman walked onstage to cheers and announced Dots, a \"real-deal AI\" agent powered by GPT-6",
-    "published": "2026-10-01T14:36:50+00:00",
-    "first_seen": "2026-10-02T12:13:50.588740+00:00"
-  },
-  {
-    "source": "The Verge AI",
-    "source_tier": 2,
-    "title": "Inside our months-long investigation into Kevin O\u2019Leary\u2019s Utah data center debacle",
-    "link": "https://www.theverge.com/podcast/1002851/utah-ai-data-center-stratos-kevin-oleary-investigation-backlash",
-    "summary": "Today I\u2019m talking with Josh Dzieza, a longtime features writer here at The Verge, about Kevin O\u2019Leary\u2019s plans to build a massive data center in Utah.\u00a0 The idea was to build the world\u2019s biggest data center \u2014 a 40,000-acre AI campus with nine gigawatts of power, or more than double",
-    "published": "2026-10-01T14:00:00+00:00",
-    "first_seen": "2026-10-02T12:13:50.588740+00:00"
-  },
-  {
-    "source": "MIT Technology Review",
-    "source_tier": 2,
     "title": "Redefining enterprise intelligence with autonomous AI",
     "link": "https://www.technologyreview.com/2026/10/02/1143774/redefining-enterprise-intelligence-with-autonomous-ai/",
     "summary": "Enterprise AI is no longer a future ambition. It is in full operational flight. Model capabilities are advancing faster than most organizations can absorb, while the cost of performance continues to fall. Globally, AI investment is set to reach $2.5 trillion in 2026, up 44% from ",
     "published": "2026-10-02T15:49:04+00:00",
-    "first_seen": "2026-10-03T11:24:43.613692+00:00"
-  },
-  {
-    "source": "MIT Technology Review",
-    "source_tier": 2,
-    "title": "The Download: a biological de-aging contest and why LLMs don\u2019t reason",
-    "link": "https://www.technologyreview.com/2026/10/02/1145666/the-download-biological-de-aging-ai-reasoning/",
-    "summary": "This is today\u2019s edition of The Download, our weekday newsletter that provides a daily dose of what\u2019s going on in the world of technology. A new contest pits competitors against each other in a race to biological youth \u2014Jessica Hamzelou This week, I officially signed up for an unu",
-    "published": "2026-10-02T12:10:00+00:00",
     "first_seen": "2026-10-03T11:24:43.613692+00:00"
   },
   {
@@ -213,15 +24,6 @@
     "link": "https://www.zdnet.com/innovation/chatgpt-scam-malware-trap/",
     "summary": "This authentic-looking scam starts with a sponsored Google link \u2013 and it\u2019s catching people off-guard.",
     "published": "2026-10-02T18:18:57+00:00",
-    "first_seen": "2026-10-03T11:24:43.613692+00:00"
-  },
-  {
-    "source": "ZDNet AI",
-    "source_tier": 2,
-    "title": "Google Wallet not working on your Pixel? 4 ways to fix tap-to-pay",
-    "link": "https://www.zdnet.com/tech/tap-to-pay-trouble-pixel-phones-google-wallet-nfc/",
-    "summary": "Some Pixel users are having tap-to-pay problems,  and there\u2019s no fix from  Google  yet. But here a few things that helped others.",
-    "published": "2026-10-02T15:16:21+00:00",
     "first_seen": "2026-10-03T11:24:43.613692+00:00"
   },
   {
@@ -303,24 +105,6 @@
     "link": "https://techcrunch.com/2026/10/02/pope-leo-xiv-is-not-a-fan-of-ai-generated-art/",
     "summary": "\"There is an ontological difference, even before an aesthetic one, between art and what a machine can generate through statistical calculation based on millions of images created by others,\" the pope wrote. \"Algorithms lack the spark of humanity.\"",
     "published": "2026-10-02T15:39:41+00:00",
-    "first_seen": "2026-10-03T11:24:43.613692+00:00"
-  },
-  {
-    "source": "TechCrunch AI",
-    "source_tier": 2,
-    "title": "TechCrunch Disrupt 2026: Clay\u2019s Kareem Amin on the rise of the GTM engineer",
-    "link": "https://techcrunch.com/2026/10/02/techcrunch-disrupt-2026-clays-kareem-amin-on-the-rise-of-the-gtm-engineer/",
-    "summary": "Clay Co-founder and CEO Kareem Amin joins the AI Stage to discuss the rise of GTM engineer at TechCrunch Disrupt 2026. Register for your ticket and get a second pass at 50% off.",
-    "published": "2026-10-02T14:30:00+00:00",
-    "first_seen": "2026-10-03T11:24:43.613692+00:00"
-  },
-  {
-    "source": "TechCrunch AI",
-    "source_tier": 2,
-    "title": "Last 24 hours: Exhibit at TechCrunch Disrupt 2026 and reach 10,000+ tech leaders",
-    "link": "https://techcrunch.com/2026/10/02/last-24-hours-exhibit-at-techcrunch-disrupt-2026-and-reach-10000-tech-leaders/",
-    "summary": "Today is the last day to book your exhibit table at TechCrunch Disrupt 2026. From October 13\u201315, 10,000+ founders, investors, operators, and tech leaders will arrive at San Francisco\u2019s Moscone West looking for companies, products, ideas, and people worth knowing. The question is:",
-    "published": "2026-10-02T14:00:00+00:00",
     "first_seen": "2026-10-03T11:24:43.613692+00:00"
   },
   {
@@ -1266,15 +1050,6 @@
     "link": "https://digital-strategy.ec.europa.eu/en/news/commission-holds-special-meeting-scientific-panel-frontier-ai-safety-and-risks",
     "summary": "Commission holds special meeting of Scientific panel on frontier AI safety and risks\nAnonymous (not verified)\nFri, 10/09/2026 - 09:16\n\n\n\n  \n        \n              \n                                    Today, the Commission holds a special meeting of the Scientific Panel on artific",
     "published": "2026-10-09T07:16:00+00:00",
-    "first_seen": "2026-10-09T12:55:34.475792+00:00"
-  },
-  {
-    "source": "European Commission Digital Strategy",
-    "source_tier": 1,
-    "title": "Consultation on EU KIDS ACT",
-    "link": "https://digital-strategy.ec.europa.eu/en/consultations/consultation-eu-kids-act",
-    "summary": "Consultation on EU KIDS ACT\nAnonymous (not verified)\nFri, 10/02/2026 - 12:26\n\n\n\n  \n        \n              \n                              \n      \n      \u00a0\n      Opening: 02 October 2026\n    \n    \n      \u00a0\n      Closing: 03 December 2026\n    \n  \n  \n\n                All feedback recei",
-    "published": "2026-10-02T10:26:26+00:00",
     "first_seen": "2026-10-09T12:55:34.475792+00:00"
   },
   {
@@ -5830,5 +5605,77 @@
     "summary": "Mark Zuckerberg's Meta made AI look so stinking cute by giving it a squishy little face - and this holiday season, he wants to sell you a Muse Charm so you can carry your jolly AI helper around like a Tamagotchi. But I won't be buying one, because we have Muse Charm at home. It [",
     "published": "2026-10-31T16:05:00+00:00",
     "first_seen": "2026-11-01T12:58:31.268406+00:00"
+  },
+  {
+    "source": "MIT Technology Review",
+    "source_tier": 2,
+    "title": "Stop counting tokens, start counting what ships",
+    "link": "https://www.technologyreview.com/2026/11/02/1147702/stop-counting-tokens-start-counting-what-ships/",
+    "summary": "When a developer gives an AI agent a coding task, the agent does more than answer once. It plans, generates code, runs tests, and repeats the process to correct errors. A single task can use 10 to 50 times more tokens than a basic chat prompt. The more useful the agent becomes, t",
+    "published": "2026-11-02T13:10:32+00:00",
+    "first_seen": "2026-11-02T15:18:41.125062+00:00"
+  },
+  {
+    "source": "MIT Technology Review",
+    "source_tier": 2,
+    "title": "The Download: the agentic web arrives and the drive for safer roads",
+    "link": "https://www.technologyreview.com/2026/11/02/1147889/the-download-agentic-web-arrives-eliminating-traffic-deaths/",
+    "summary": "This is today\u2019s edition of The Download, our weekday newsletter that provides a daily dose of what\u2019s going on in the world of technology. The agentic web is here In 2001, a decade after inventing the World Wide Web, Tim Berners-Lee articulated a new vision: an internet navigated ",
+    "published": "2026-11-02T13:10:00+00:00",
+    "first_seen": "2026-11-02T15:18:41.125062+00:00"
+  },
+  {
+    "source": "MIT Technology Review",
+    "source_tier": 2,
+    "title": "The agentic web is here",
+    "link": "https://www.technologyreview.com/2026/11/02/1147846/the-agentic-web-is-here/",
+    "summary": "In 2001, a decade after he invented the World Wide Web, Tim Berners-Lee articulated a new vision. Together with two colleagues, he published an article in the magazine Scientific American in which he outlined what he called the \u201cSemantic Web\u201d: an internet designed to be navigated",
+    "published": "2026-11-02T09:35:19+00:00",
+    "first_seen": "2026-11-02T15:18:41.125062+00:00"
+  },
+  {
+    "source": "TechCrunch AI",
+    "source_tier": 2,
+    "title": "Omen AI adds liquid know-how in $16 million Aquatic Labs acquisition",
+    "link": "https://techcrunch.com/2026/11/02/omen-ai-adds-liquid-know-how-in-16-million-aquatic-labs-acquisition/",
+    "summary": "Two startups tackling the data center water problem are joining forces in a $16 million deal.",
+    "published": "2026-11-02T15:00:00+00:00",
+    "first_seen": "2026-11-02T15:18:41.125062+00:00"
+  },
+  {
+    "source": "TechCrunch AI",
+    "source_tier": 2,
+    "title": "2 days till TechCrunch Founder Summit: Boston founders don\u2019t need a Silicon Valley address to build something big",
+    "link": "https://techcrunch.com/2026/11/02/2-days-till-techcrunch-founder-summit-boston-founders-dont-need-a-silicon-valley-address-to-build-something-big/",
+    "summary": "TechCrunch Founder Summit happens on November 4 in Boston for a founder-focused agenda and impactful connections. Save up to $100 or get discounts with group passes.",
+    "published": "2026-11-02T14:00:00+00:00",
+    "first_seen": "2026-11-02T15:18:41.125062+00:00"
+  },
+  {
+    "source": "TechCrunch AI",
+    "source_tier": 2,
+    "title": "OpenAI is finally merging ChatGPT\u2019s chat and Work tabs",
+    "link": "https://techcrunch.com/2026/11/02/openai-is-finally-merging-chatgpts-chat-and-work-tabs/",
+    "summary": "OpenAI said that ChatGPT and Codex will draw usage from the same allocation pool after this change.",
+    "published": "2026-11-02T13:57:53+00:00",
+    "first_seen": "2026-11-02T15:18:41.125062+00:00"
+  },
+  {
+    "source": "TechCrunch AI",
+    "source_tier": 2,
+    "title": "OpenAI might rebrand its data centers as \u2018AI compute campuses\u2019",
+    "link": "https://techcrunch.com/2026/11/01/openai-might-rebrand-its-data-centers-as-ai-compute-campuses/",
+    "summary": "Data centers are deeply unpopular. But what if we called them something else?",
+    "published": "2026-11-01T21:55:23+00:00",
+    "first_seen": "2026-11-02T15:18:41.125062+00:00"
+  },
+  {
+    "source": "TechCrunch AI",
+    "source_tier": 2,
+    "title": "AI can make tech CEOs\u2019 lives easier. What about everyone else?",
+    "link": "https://techcrunch.com/2026/11/01/ai-can-make-tech-ceos-lives-easier-what-about-everyone-else/",
+    "summary": "On Equity, we discuss why tech CEO statements can seem so tone deaf.",
+    "published": "2026-11-01T20:57:58+00:00",
+    "first_seen": "2026-11-02T15:18:41.125062+00:00"
   }
 ]

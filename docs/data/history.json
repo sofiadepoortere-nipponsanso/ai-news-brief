@@ -1,149 +1,5 @@
 [
   {
-    "source": "MIT Technology Review",
-    "source_tier": 2,
-    "title": "Redefining enterprise intelligence with autonomous AI",
-    "link": "https://www.technologyreview.com/2026/10/02/1143774/redefining-enterprise-intelligence-with-autonomous-ai/",
-    "summary": "Enterprise AI is no longer a future ambition. It is in full operational flight. Model capabilities are advancing faster than most organizations can absorb, while the cost of performance continues to fall. Globally, AI investment is set to reach $2.5 trillion in 2026, up 44% from ",
-    "published": "2026-10-02T15:49:04+00:00",
-    "first_seen": "2026-10-03T11:24:43.613692+00:00"
-  },
-  {
-    "source": "ZDNet AI",
-    "source_tier": 2,
-    "title": "iPhone 18 Pro Max can\u2019t call or text on AT&T? Apple will replace it for free",
-    "link": "https://www.zdnet.com/tech/iphone-18-pro-max-att-no-service-free-replacement/",
-    "summary": "Some iPhone 18 Pro Max phones on AT&T are stuck in SOS mode. Two updates can prevent it, but affected phones need replacing.",
-    "published": "2026-10-03T01:43:56+00:00",
-    "first_seen": "2026-10-03T11:24:43.613692+00:00"
-  },
-  {
-    "source": "ZDNet AI",
-    "source_tier": 2,
-    "title": "This new ChatGPT scam tricks you into installing malware \u2013 how to spot the trap",
-    "link": "https://www.zdnet.com/innovation/chatgpt-scam-malware-trap/",
-    "summary": "This authentic-looking scam starts with a sponsored Google link \u2013 and it\u2019s catching people off-guard.",
-    "published": "2026-10-02T18:18:57+00:00",
-    "first_seen": "2026-10-03T11:24:43.613692+00:00"
-  },
-  {
-    "source": "TechCrunch AI",
-    "source_tier": 2,
-    "title": "Meta wants your next gadget to be Muse-infused",
-    "link": "https://techcrunch.com/2026/10/02/meta-wants-you-to-build-your-own-muse-gadget/",
-    "summary": "Meta wants Muse in your TV and your toaster, so it's giving the code away for free.",
-    "published": "2026-10-03T00:45:39+00:00",
-    "first_seen": "2026-10-03T11:24:43.613692+00:00"
-  },
-  {
-    "source": "TechCrunch AI",
-    "source_tier": 2,
-    "title": "Sean Parker is rebuilding Stability AI around music",
-    "link": "https://techcrunch.com/2026/10/02/sean-parker-is-rebuilding-stability-ai-around-music/",
-    "summary": "Sean Parker, who once taught the music industry what asking for forgiveness looks like, is now back with the labels' blessing and money.",
-    "published": "2026-10-02T21:09:14+00:00",
-    "first_seen": "2026-10-03T11:24:43.613692+00:00"
-  },
-  {
-    "source": "TechCrunch AI",
-    "source_tier": 2,
-    "title": "Affected by layoffs? Don\u2019t miss this $75 deal for your TechCrunch Disrupt 2026 Expo+ Pass",
-    "link": "https://techcrunch.com/2026/10/02/disrupt-2026-layoff-expo-plus-passes-available-for-75-dollars/",
-    "summary": "Your next opportunity could be one conversation away. Get your Expo+ Pass for just $75. Limited to the first 100 qualifying people.",
-    "published": "2026-10-02T19:15:51+00:00",
-    "first_seen": "2026-10-03T11:24:43.613692+00:00"
-  },
-  {
-    "source": "TechCrunch AI",
-    "source_tier": 2,
-    "title": "Apple says it\u2019s tightening macOS \u2018Full Disk Access\u2019 controls due to new risks from AI agents",
-    "link": "https://techcrunch.com/2026/10/02/apple-says-its-tightening-macos-full-disk-access-controls-due-to-new-risks-from-ai-agents/",
-    "summary": "Apple says it will add new controls around macOS\u2019s Full Disk Access permission, warning that increasingly capable AI agents make broad access to users\u2019 files, messages, mail, and browsing history riskier.",
-    "published": "2026-10-02T18:11:27+00:00",
-    "first_seen": "2026-10-03T11:24:43.613692+00:00"
-  },
-  {
-    "source": "TechCrunch AI",
-    "source_tier": 2,
-    "title": "Call it AI, call it Super Intelligence, only 2% of consumers are buying it",
-    "link": "https://techcrunch.com/podcast/call-it-ai-call-it-super-intelligence-only-2-of-consumers-are-buying-it/",
-    "summary": "This week, the White House got\u00a0nearly every\u00a0major tech CEO in one room \u2014 Zuckerberg, Bezos, Musk, and Anthropic\u2019s Dario Amodei among them \u2014\u00a0to sign an AI safety pledge\u00a0that President\u00a0Donald\u00a0Trump called \u201cmorally binding.\u201d\u00a0Trump\u00a0also\u00a0signed an\u00a0executive order\u00a0officially rebranding",
-    "published": "2026-10-02T17:56:00+00:00",
-    "first_seen": "2026-10-03T11:24:43.613692+00:00"
-  },
-  {
-    "source": "TechCrunch AI",
-    "source_tier": 2,
-    "title": "It\u2019s\u00a0not AI anymore,\u00a0it\u2019s\u00a0\u2018super intelligence\u2019 (according to the White House)",
-    "link": "https://techcrunch.com/video/its-not-ai-anymore-its-super-intelligence-according-to-the-white-house/",
-    "summary": "This week, the White House got\u00a0nearly every\u00a0major tech CEO in one room \u2014 Zuckerberg, Bezos, Musk, and Anthropic\u2019s Dario Amodei among them \u2014\u00a0to sign an AI safety pledge\u00a0that President\u00a0Donald\u00a0Trump called \u201cmorally binding.\u201d\u00a0Trump\u00a0also\u00a0signed an\u00a0executive order\u00a0officially rebranding",
-    "published": "2026-10-02T17:48:16+00:00",
-    "first_seen": "2026-10-03T11:24:43.613692+00:00"
-  },
-  {
-    "source": "TechCrunch AI",
-    "source_tier": 2,
-    "title": "TechCrunch Disrupt 2026: Blackstone\u2019s Jas Khaira on building the next generation of AI giants",
-    "link": "https://techcrunch.com/2026/10/02/techcrunch-disrupt-2026-blackstones-jas-khaira-on-building-the-next-generation-of-ai-giants/",
-    "summary": "Blackstone's Jas Khaira will take the Builders Stage at TechCrunch Disrupt 2026 on building next-gen AI. Register for your pass and get 50% off a second.",
-    "published": "2026-10-02T17:32:05+00:00",
-    "first_seen": "2026-10-03T11:24:43.613692+00:00"
-  },
-  {
-    "source": "TechCrunch AI",
-    "source_tier": 2,
-    "title": "Circuit Breaker Labs hopes to make AI safer for your kids (and you)",
-    "link": "https://techcrunch.com/2026/10/02/circuit-breaker-labs-hopes-to-make-ai-safer-for-your-kids-and-you/",
-    "summary": "With all the talk about how AI might one day kill us all, it's easy to forget that AI has already harmed some people psychologically. Circuit Breaker Labs has created \"crash-test  dummies\" to solve that.",
-    "published": "2026-10-02T17:00:00+00:00",
-    "first_seen": "2026-10-03T11:24:43.613692+00:00"
-  },
-  {
-    "source": "TechCrunch AI",
-    "source_tier": 2,
-    "title": "Pope Leo XIV is not a fan of AI-generated art",
-    "link": "https://techcrunch.com/2026/10/02/pope-leo-xiv-is-not-a-fan-of-ai-generated-art/",
-    "summary": "\"There is an ontological difference, even before an aesthetic one, between art and what a machine can generate through statistical calculation based on millions of images created by others,\" the pope wrote. \"Algorithms lack the spark of humanity.\"",
-    "published": "2026-10-02T15:39:41+00:00",
-    "first_seen": "2026-10-03T11:24:43.613692+00:00"
-  },
-  {
-    "source": "The Verge AI",
-    "source_tier": 2,
-    "title": "Meta open sources code to let you make Muse AI gadgets",
-    "link": "https://www.theverge.com/tech/1004330/meta-muse-ai-gadgets-home-link",
-    "summary": "Meta now lets you make your own Muse gadgets that feature the company's new AI agent with code that the company open sourced. The company suggests projects like loading Muse on a color E Ink display to show reminders, adding it to an HDMI stick so you can display Muse on a big sc",
-    "published": "2026-10-02T21:08:37+00:00",
-    "first_seen": "2026-10-03T11:24:43.613692+00:00"
-  },
-  {
-    "source": "The Verge AI",
-    "source_tier": 2,
-    "title": "Apple will limit Mac disk access as AI agents \u2018substantially\u2019 increase risk",
-    "link": "https://www.theverge.com/tech/1004295/apple-limit-mac-disk-access-ai-agents",
-    "summary": "Apple will add new limits for \"full disk access\" on Mac in response to risks posed by AI agents, as reported earlier by TechCrunch. In an update on Friday, Apple says it's rolling out new controls to \"ensure that users who genuinely wish to grant an app this extraordinary level o",
-    "published": "2026-10-02T20:08:40+00:00",
-    "first_seen": "2026-10-03T11:24:43.613692+00:00"
-  },
-  {
-    "source": "The Verge AI",
-    "source_tier": 2,
-    "title": "OpenAI\u2019s Dot agent is enterprise software that can also order your dinner",
-    "link": "https://www.theverge.com/ai-artificial-intelligence/1004096/openai-chatgpt-dots-hands-on-agent",
-    "summary": "It's a tale as old as last week: OpenAI's new agent platform, called Dots, is full of cute little guys who can do your bidding. But unlike the ultra-approachable Meta Muse, Dots feel very much like using workplace software that happens to be able to order you a burrito - emphasis",
-    "published": "2026-10-02T18:00:00+00:00",
-    "first_seen": "2026-10-03T11:24:43.613692+00:00"
-  },
-  {
-    "source": "The Verge AI",
-    "source_tier": 2,
-    "title": "Breaking up (with Elon Musk) is hard to do",
-    "link": "https://www.theverge.com/tech/1004177/elon-musk-unfollows-shivon-zilis",
-    "summary": "In a throwback to MySpace-style internet drama, Shivon Zilis announced that she and the father of her four children, Elon Musk, had broken up on X. To do so, she quote-tweeted a post from \"Big Tech Alert,\" an account that, among other things, monitors what accounts are following ",
-    "published": "2026-10-02T17:37:36+00:00",
-    "first_seen": "2026-10-03T11:24:43.613692+00:00"
-  },
-  {
     "source": "TechCrunch AI",
     "source_tier": 2,
     "title": "Amazon responds to data center backlash, says it no longer uses NDAs",
@@ -5677,5 +5533,257 @@
     "summary": "On Equity, we discuss why tech CEO statements can seem so tone deaf.",
     "published": "2026-11-01T20:57:58+00:00",
     "first_seen": "2026-11-02T15:18:41.125062+00:00"
+  },
+  {
+    "source": "European Commission Digital Strategy",
+    "source_tier": 1,
+    "title": "Web Summit 2026",
+    "link": "https://digital-strategy.ec.europa.eu/en/events/web-summit-2026",
+    "summary": "Web Summit 2026\nAnonymous (not verified)\nTue, 11/03/2026 - 11:13\n\n\n\n  \n        \n              \n                              \n      \n      \u00a0\n      10 November 2026 - 12 November 2026\n  \n  \n  \n\n                DG Connect will be at Web Summit in Lisbon from 10 to 12 November.\n\n  \n",
+    "published": "2026-11-03T10:13:35+00:00",
+    "first_seen": "2026-11-03T13:55:12.209437+00:00"
+  },
+  {
+    "source": "MIT Technology Review",
+    "source_tier": 2,
+    "title": "The Download: controlling AI agents and \u201cSuper Intelligence\u201d loyalty tests",
+    "link": "https://www.technologyreview.com/2026/11/03/1147940/the-download-controlling-ai-agents-trump-super-intelligence/",
+    "summary": "This is today\u2019s edition of The Download, our weekday newsletter that provides a daily dose of what\u2019s going on in the world of technology. How \u201creverse game theory\u201d could keep AI agents in check A new approach known as \u201creverse game theory\u201d aims to control powerful AI models by de",
+    "published": "2026-11-03T13:10:00+00:00",
+    "first_seen": "2026-11-03T13:55:12.209437+00:00"
+  },
+  {
+    "source": "MIT Technology Review",
+    "source_tier": 2,
+    "title": "How \u201creverse game theory\u201d could keep AI agents in check",
+    "link": "https://www.technologyreview.com/2026/11/03/1147934/reverse-game-theory-mechanism-design-ai-alignment/",
+    "summary": "A new approach known as \u201creverse game theory\u201d aims to control powerful AI models by designing systems that incentivize them to stick to the rules. As AI models become more capable, safety researchers are scrambling to ensure they are \u201caligned\u201d with human desires\u2014to make sure, in ",
+    "published": "2026-11-03T10:43:41+00:00",
+    "first_seen": "2026-11-03T13:55:12.209437+00:00"
+  },
+  {
+    "source": "MIT Technology Review",
+    "source_tier": 2,
+    "title": "Here\u2019s who is falling in line for Trump\u2019s \u201cSuper Intelligence\u201d loyalty test",
+    "link": "https://www.technologyreview.com/2026/11/02/1147932/heres-who-is-falling-in-line-for-trumps-super-intelligence-loyalty-test/",
+    "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first,\u00a0sign up here. At the end of September, President Trump signed an executive order that contained just one directive, ordering government agencies to rebrand ",
+    "published": "2026-11-03T04:18:47+00:00",
+    "first_seen": "2026-11-03T13:55:12.209437+00:00"
+  },
+  {
+    "source": "MIT Technology Review",
+    "source_tier": 2,
+    "title": "Raising the quality of insights in agentic analytics",
+    "link": "https://www.technologyreview.com/2026/11/02/1147660/raising-the-quality-of-insights-in-agentic-analytics/",
+    "summary": "In just a few years, generative AI has changed the face of enterprise analytics, notably by making analytics accessible to users across the organization. Agentic AI promises to do even more, by automating entire workflows and taking actions based on agent insights. But there is a",
+    "published": "2026-11-02T17:00:00+00:00",
+    "first_seen": "2026-11-03T13:55:12.209437+00:00"
+  },
+  {
+    "source": "ZDNet AI",
+    "source_tier": 2,
+    "title": "Is Claude Code truly faster with message threads? I did the math on my logs",
+    "link": "https://www.zdnet.com/innovation/claude-code-message-threads-speed-test/",
+    "summary": "Claude Code\u2019s update could save you time during demanding, hours-long coding sessions at no extra cost. But by how much? Here\u2019s my real-world result.",
+    "published": "2026-11-03T07:28:00+00:00",
+    "first_seen": "2026-11-03T13:55:12.209437+00:00"
+  },
+  {
+    "source": "ZDNet AI",
+    "source_tier": 2,
+    "title": "I tested the RedMagic 12 Pro \u2013 and it\u2019s the fastest Android I\u2019ve ever seen",
+    "link": "https://www.zdnet.com/tech/the-redmagic-12-pro-is-an-elite-phone-with-one-glaring-issue/",
+    "summary": "If it\u2019s possible to release a flagship phone while at the same time making it appear more like a midrange phone, Red Magic has found a way.",
+    "published": "2026-11-03T12:00:00+00:00",
+    "first_seen": "2026-11-03T13:55:12.209437+00:00"
+  },
+  {
+    "source": "ZDNet AI",
+    "source_tier": 2,
+    "title": "OpenAI will merge ChatGPT\u2019s chat and work tabs \u2013 here\u2019s when, and what to expect",
+    "link": "https://www.zdnet.com/innovation/openai-merge-chatgpt-chat-work-tabs/",
+    "summary": "On the heels of Anthropic\u2019s similar move, the change will be tested among select users before being rolled out.",
+    "published": "2026-11-02T18:01:55+00:00",
+    "first_seen": "2026-11-03T13:55:12.209437+00:00"
+  },
+  {
+    "source": "ZDNet AI",
+    "source_tier": 2,
+    "title": "50 AI agents tried to build a thriving Minecraft civilization \u2013 it didn\u2019t end well",
+    "link": "https://www.zdnet.com/innovation/y-combinator-ai-agents-minecraft-experiment-behavior/",
+    "summary": "It turns out even bots can\u2019t escape bureaucracy.",
+    "published": "2026-11-02T16:30:00+00:00",
+    "first_seen": "2026-11-03T13:55:12.209437+00:00"
+  },
+  {
+    "source": "ZDNet AI",
+    "source_tier": 2,
+    "title": "Athenahealth patients can ask Claude about their medical records now",
+    "link": "https://www.zdnet.com/health/athenahealth-claude-ai-medical-partnership/",
+    "summary": "The partnership could provide one of the nation\u2019s largest AI companies with a bevy of personal medical data.",
+    "published": "2026-11-02T17:30:47+00:00",
+    "first_seen": "2026-11-03T13:55:12.209437+00:00"
+  },
+  {
+    "source": "ZDNet AI",
+    "source_tier": 2,
+    "title": "Don\u2019t want a touchscreen? All premium MacBook Pros could have one soon, reports say",
+    "link": "https://www.zdnet.com/tech/all-premium-macbook-pros-touchscreens-2027/",
+    "summary": "New reports indicate the touchscreens are to become the standard on premium MacBook Pros.",
+    "published": "2026-11-02T17:23:24+00:00",
+    "first_seen": "2026-11-03T13:55:12.209437+00:00"
+  },
+  {
+    "source": "ZDNet AI",
+    "source_tier": 2,
+    "title": "Firefox\u2019s new Mini Window is every multitasker\u2019s dream \u2013 Chrome can\u2019t do this",
+    "link": "https://www.zdnet.com/home-and-office/firefox-mini-window-browser-feature/",
+    "summary": "The open-source browser\u2019s newest feature lets you pop out a page \u2013 or part of a page \u2013 into its own mini window. See why this is incredibly cool.",
+    "published": "2026-11-02T17:15:17+00:00",
+    "first_seen": "2026-11-03T13:55:12.209437+00:00"
+  },
+  {
+    "source": "ZDNet AI",
+    "source_tier": 2,
+    "title": "Samsung\u2019s Privacy Display may be coming to more Galaxy phones \u2013 what we know",
+    "link": "https://www.zdnet.com/tech/samsung-privacy-display-galaxy-s27-pro-ultra/",
+    "summary": "Privacy Display on the Galaxy S26 Ultra was a big hit in our hands-on. Now, we may see it roll out to more Galaxy phones.",
+    "published": "2026-11-02T16:52:54+00:00",
+    "first_seen": "2026-11-03T13:55:12.209437+00:00"
+  },
+  {
+    "source": "ZDNet AI",
+    "source_tier": 2,
+    "title": "Apple\u2019s HomeView may double as security camera \u2013 watch out Ring, Nest, and Wyze",
+    "link": "https://www.zdnet.com/home-and-office/apple-homeview-indoor-security-camera/",
+    "summary": "HomeView settings reveal potential video recording and streaming options alongside privacy features.",
+    "published": "2026-11-02T16:35:32+00:00",
+    "first_seen": "2026-11-03T13:55:12.209437+00:00"
+  },
+  {
+    "source": "TechCrunch AI",
+    "source_tier": 2,
+    "title": "Apple Watch\u2019s AI features for rewinding and recapping conversations begin beta testing",
+    "link": "https://techcrunch.com/2026/11/02/apple-watchs-ai-features-for-rewinding-and-recapping-conversations-begin-beta-testing/",
+    "summary": "Now in beta: Apple's new Audio Intelligence features can help you remember what someone said or take notes on conversations.",
+    "published": "2026-11-03T07:20:00+00:00",
+    "first_seen": "2026-11-03T13:55:12.209437+00:00"
+  },
+  {
+    "source": "TechCrunch AI",
+    "source_tier": 2,
+    "title": "Google takes Dreambeans to India in bid to bring AI-generated personal stories to the masses",
+    "link": "https://techcrunch.com/2026/11/02/google-takes-dreambeans-to-india-in-bid-to-bring-ai-generated-personal-stories-to-the-masses/",
+    "summary": "Google's Dreambeans, its latest AI experiment, now supports 13 Indian languages.",
+    "published": "2026-11-03T03:30:00+00:00",
+    "first_seen": "2026-11-03T13:55:12.209437+00:00"
+  },
+  {
+    "source": "TechCrunch AI",
+    "source_tier": 2,
+    "title": "Apple may try to increase revenue by doing\u2026something with third-party AI apps",
+    "link": "https://techcrunch.com/2026/11/02/apple-may-try-to-increase-revenue-by-doing-something-with-third-party-ai-apps/",
+    "summary": "Apple hinted at ways that it could spur revenue through third-party \"opportunities\" during its Monday night earnings call.",
+    "published": "2026-11-03T01:49:52+00:00",
+    "first_seen": "2026-11-03T13:55:12.209437+00:00"
+  },
+  {
+    "source": "TechCrunch AI",
+    "source_tier": 2,
+    "title": "Y Combinator\u2019s Garry Tan uses AI agents so much, he spends up to $200K a year on tokens",
+    "link": "https://techcrunch.com/2026/11/02/y-combinators-garry-tan-uses-ai-agents-so-much-he-spends-up-to-200k-a-year-on-tokens/",
+    "summary": "Y Combinator Garry Tan has jokingly admitted that he's suffered from \"cyber psychosis\u201d and barely sleeps sometimes because he\u2019s so excited to be working with his AI agents. On a new episode of Walter Isaacson\u2019s podcast,\u00a0The Builders, Tan put a price tag on his passion.",
+    "published": "2026-11-03T00:35:52+00:00",
+    "first_seen": "2026-11-03T13:55:12.209437+00:00"
+  },
+  {
+    "source": "TechCrunch AI",
+    "source_tier": 2,
+    "title": "Trajectory raises $45M to make AI model training accessible to nontechnical experts",
+    "link": "https://techcrunch.com/2026/11/02/trajectory-raises-45m-to-make-ai-model-training-accessible-to-nontechnical-experts/",
+    "summary": "The one-year-old startup is now valued at $300 million.",
+    "published": "2026-11-02T23:13:53+00:00",
+    "first_seen": "2026-11-03T13:55:12.209437+00:00"
+  },
+  {
+    "source": "TechCrunch AI",
+    "source_tier": 2,
+    "title": "Anthropic warns that it\u2019s very close to RSI capability, aka self-building AI",
+    "link": "https://techcrunch.com/2026/11/02/anthropic-warns-that-its-very-close-to-rsi-capability-aka-self-building-ai/",
+    "summary": "RSI is the point at which AI grows so good at training itself that it spawns a dramatic acceleration of AI capabilities. To the AI doomers, RSI represents the cataclysm from which there is no return.",
+    "published": "2026-11-02T22:14:50+00:00",
+    "first_seen": "2026-11-03T13:55:12.209437+00:00"
+  },
+  {
+    "source": "TechCrunch AI",
+    "source_tier": 2,
+    "title": "Web host Squarespace lays off 19% of its employees",
+    "link": "https://techcrunch.com/2026/11/02/web-host-squarespace-lays-off-19-of-its-employees/",
+    "summary": "The website builder said that the job losses are part of a broader restructuring of its organization.",
+    "published": "2026-11-02T19:25:59+00:00",
+    "first_seen": "2026-11-03T13:55:12.209437+00:00"
+  },
+  {
+    "source": "TechCrunch AI",
+    "source_tier": 2,
+    "title": "New York Times and other outlets sue web browser Brave over alleged content scraping",
+    "link": "https://techcrunch.com/2026/11/02/new-york-times-and-other-outlets-sue-web-browser-brave-over-alleged-content-scraping/",
+    "summary": "The New York Times is suing privacy-focused web browser company Brave for allegedly scraping the outlet\u2019s copyrighted content and unlawfully distributing it to its own customers, like Anthropic and Perplexity.",
+    "published": "2026-11-02T19:19:17+00:00",
+    "first_seen": "2026-11-03T13:55:12.209437+00:00"
+  },
+  {
+    "source": "TechCrunch AI",
+    "source_tier": 2,
+    "title": "42AI comes out of stealth with $62.5M and a world model that can \u2018predict human behavior\u2019",
+    "link": "https://techcrunch.com/2026/11/02/42ai-comes-out-of-stealth-with-62-5m-and-a-world-model-that-can-predict-human-behavior/",
+    "summary": "Here's a question straight out of sci-fi: What if AI could predict what you were going to do before you decided to, even in a completely new situation?",
+    "published": "2026-11-02T16:30:00+00:00",
+    "first_seen": "2026-11-03T13:55:12.209437+00:00"
+  },
+  {
+    "source": "TechCrunch AI",
+    "source_tier": 2,
+    "title": "Elon Musk throttles Grok Bot limits due to \u2018unsustainably high\u2019 costs",
+    "link": "https://techcrunch.com/2026/11/02/elon-musk-throttles-grok-bot-limits-due-to-unsustainably-high-costs/",
+    "summary": "Musk recently referred to Grok Bot as having \"the fastest growth of a product that I've ever seen in my life.\"",
+    "published": "2026-11-02T16:23:21+00:00",
+    "first_seen": "2026-11-03T13:55:12.209437+00:00"
+  },
+  {
+    "source": "TechCrunch AI",
+    "source_tier": 2,
+    "title": "Data centers are now a midterm issue, even in Brooklyn",
+    "link": "https://techcrunch.com/2026/10/31/data-centers-are-now-a-midterm-issue-even-in-brooklyn/",
+    "summary": "At a Brooklyn midterm party five days before Election Day, every conversation, from a council member\u2019s fireside chat to a debate about the Democratic Party, kept circling back to AI and data centers.",
+    "published": "2026-11-01T02:22:10+00:00",
+    "first_seen": "2026-11-03T13:55:12.209437+00:00"
+  },
+  {
+    "source": "The Verge AI",
+    "source_tier": 2,
+    "title": "Anthropic clamps down on Claude\u2019s AI video game clones",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/1024632/anthropic-claude-ai-video-game-clones",
+    "summary": "Anthropic has updated Claude Code's system prompt to prevent the AI tool from being used to re-create existing video games, as reported by Tom's Hardware. Retro gaming is currently being overrun with AI-made decompilations, recompilations, and ports, but while Anthropic will stil",
+    "published": "2026-11-02T18:56:02+00:00",
+    "first_seen": "2026-11-03T13:55:12.209437+00:00"
+  },
+  {
+    "source": "The Verge AI",
+    "source_tier": 2,
+    "title": "OpenAI pitches data center power plants as a way to protect nearby areas",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/1024604/openai-data-center-grid-protection-program",
+    "summary": "In an announcement on Monday, OpenAI says it will pilot its \"Grid Protectors Program\" at an upcoming data center in Effingham County, Georgia, where the company promises to free up to 1,000 megawatts of power during extreme weather or emergencies, enough to power air conditioners",
+    "published": "2026-11-02T18:01:30+00:00",
+    "first_seen": "2026-11-03T13:55:12.209437+00:00"
+  },
+  {
+    "source": "The Verge AI",
+    "source_tier": 2,
+    "title": "The New York Times sues Brave web browser for AI scraping and bypassing paywalls",
+    "link": "https://www.theverge.com/tech/1024588/brave-lawsuit-ai-scraping-new-york-times",
+    "summary": "The New York Times and a group of other publications have filed lawsuits against the company that makes the Brave web browser over alleged unlawful scraping to train AI and also letting users bypass their paywalls, as reported by Reuters. According to a complaint filed by the New",
+    "published": "2026-11-02T17:51:19+00:00",
+    "first_seen": "2026-11-03T13:55:12.209437+00:00"
   }
 ]

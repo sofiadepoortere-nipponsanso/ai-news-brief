@@ -2,132 +2,6 @@
   {
     "source": "MIT Technology Review",
     "source_tier": 2,
-    "title": "Bringing predictive analytics to the agentic AI era",
-    "link": "https://www.technologyreview.com/2026/10/05/1143813/bringing-predictive-analytics-to-the-agentic-ai-era/",
-    "summary": "In 2026, the question for enterprise AI is no longer whether predictive models can outperform statistical forecasts\u2014that argument is settled. The big question now is how to enable predictive systems to act on their own conclusions without drifting from business intent. The fronti",
-    "published": "2026-10-05T13:29:32+00:00",
-    "first_seen": "2026-10-05T14:10:18.834646+00:00"
-  },
-  {
-    "source": "MIT Technology Review",
-    "source_tier": 2,
-    "title": "The Download: AI\u2019s popularity paradox and EmTech Future 2026",
-    "link": "https://www.technologyreview.com/2026/10/05/1145711/the-download-ai-popularity-paradox-emtech-future-2026/",
-    "summary": "This is today\u2019s edition of The Download, our weekday newsletter that provides a daily dose of what\u2019s going on in the world of technology. People really hate AI, so why can\u2019t they get enough? \u2014Will Douglas Heaven Over the summer I talked to the CEO of Springboards, a startup build",
-    "published": "2026-10-05T12:10:00+00:00",
-    "first_seen": "2026-10-05T14:10:18.834646+00:00"
-  },
-  {
-    "source": "MIT Technology Review",
-    "source_tier": 2,
-    "title": "People really hate AI, so why can\u2019t they get enough?",
-    "link": "https://www.technologyreview.com/2026/10/05/1145682/people-really-hate-ai-so-why-cant-they-get-enough/",
-    "summary": "Over the summer I talked to the CEO of Springboards, a startup building an LLM that\u2019s designed to come up with a wider variety of responses than its mainstream rivals do. At the start of the call, he said something that\u2019s been stuck in my head since: \u201cWe often say that we\u2019re a se",
-    "published": "2026-10-05T08:00:00+00:00",
-    "first_seen": "2026-10-05T14:10:18.834646+00:00"
-  },
-  {
-    "source": "MIT Technology Review",
-    "source_tier": 2,
-    "title": "EmTech\u00a0Future 2026: When AI Meets Everything",
-    "link": "https://www.technologyreview.com/2026/10/05/1145413/emtech-future-2026-when-ai-meets-everything/",
-    "summary": "Yossi Matias, Vice President & Head of Google Research, explores how AI is beginning to reshape biology, infrastructure, manufacturing, and science, and why its greatest impact may come when it intersects with other fields.\u00a0 Step inside the newsroom with our MIT Technology Review",
-    "published": "2026-10-05T04:00:00+00:00",
-    "first_seen": "2026-10-05T14:10:18.834646+00:00"
-  },
-  {
-    "source": "ZDNet AI",
-    "source_tier": 2,
-    "title": "How I made a paid Mac app in 11 days with Caude \u2013 without writing a single line of code",
-    "link": "https://www.zdnet.com/innovation/claude-code-vibe-coding-mac-app/",
-    "summary": "Claude helped me vibe-code a Mac app and pass Apple\u2019s review in less than two weeks. Come with me on my journey from idea to purchasable App Store product.",
-    "published": "2026-10-05T12:03:03+00:00",
-    "first_seen": "2026-10-05T14:10:18.834646+00:00"
-  },
-  {
-    "source": "TechCrunch AI",
-    "source_tier": 2,
-    "title": "The final Disrupt Stage lineup: Three days of conversations you won\u2019t hear anywhere outside of TechCrunch Disrupt 2026",
-    "link": "https://techcrunch.com/2026/10/05/the-final-disrupt-stage-lineup-three-days-of-conversations-you-wont-hear-anywhere-outside-of-techcrunch-disrupt-2026/",
-    "summary": "The full TechCrunch Disrupt Stage lineup revealed, featuring Max Hodak, Mark Wahlberg, Benchmark partners, and more. Register now to save up to $100 on your pass and get a second at 50% off.",
-    "published": "2026-10-05T14:00:00+00:00",
-    "first_seen": "2026-10-05T14:10:18.834646+00:00"
-  },
-  {
-    "source": "TechCrunch AI",
-    "source_tier": 2,
-    "title": "Can Safeworld convince people that GenAI robots won\u2019t hurt them?",
-    "link": "https://techcrunch.com/2026/10/05/can-safeworld-convince-people-that-gen-ai-robots-wont-hurt-them/",
-    "summary": "Safeworld is building digital humans to make sure robots don't hurt the real ones.",
-    "published": "2026-10-05T12:00:00+00:00",
-    "first_seen": "2026-10-05T14:10:18.834646+00:00"
-  },
-  {
-    "source": "TechCrunch AI",
-    "source_tier": 2,
-    "title": "Google froze its open source bug bounty program due to a \u2018significant rise\u2019 in AI submissions",
-    "link": "https://techcrunch.com/2026/10/04/google-froze-its-open-source-bug-bounty-program-due-to-a-significant-rise-in-ai-submissions/",
-    "summary": "AI slop seems to be overwhelming bug bounty programs.",
-    "published": "2026-10-04T20:31:07+00:00",
-    "first_seen": "2026-10-05T14:10:18.834646+00:00"
-  },
-  {
-    "source": "TechCrunch AI",
-    "source_tier": 2,
-    "title": "Can \u2018super intelligence\u2019 and a non-binding safety pact solve AI\u2019s image problem?",
-    "link": "https://techcrunch.com/2026/10/04/can-super-intelligence-and-a-non-binding-safety-pact-solve-ais-image-problem/",
-    "summary": "On Equity, we discussed the Trump administration's attempts to rebrand AI.",
-    "published": "2026-10-04T20:08:34+00:00",
-    "first_seen": "2026-10-05T14:10:18.834646+00:00"
-  },
-  {
-    "source": "TechCrunch AI",
-    "source_tier": 2,
-    "title": "Trump unveils his new Super Intelligence Force",
-    "link": "https://techcrunch.com/2026/10/04/trump-unveils-his-new-super-intelligence-force/",
-    "summary": "This new task force is Trump's latest response to the debate over AI safety.",
-    "published": "2026-10-04T15:15:10+00:00",
-    "first_seen": "2026-10-05T14:10:18.834646+00:00"
-  },
-  {
-    "source": "The Verge AI",
-    "source_tier": 2,
-    "title": "OpenAI is sticking more ads in ChatGPT",
-    "link": "https://www.theverge.com/ai-artificial-intelligence/1004655/openai-chatgpt-visual-ads",
-    "summary": "OpenAI's latest ad format will put images of sponsored products and services on your screen. The ads, which OpenAI will begin testing in the US later this month, will \"initially\" appear when you generate images with ChatGPT, according to an announcement on Monday. The company fir",
-    "published": "2026-10-05T13:09:48+00:00",
-    "first_seen": "2026-10-05T14:10:18.834646+00:00"
-  },
-  {
-    "source": "The Verge AI",
-    "source_tier": 2,
-    "title": "Our minds aren\u2019t equipped to handle AI",
-    "link": "https://www.theverge.com/ai-artificial-intelligence/1003794/ai-education-computational-model-thought",
-    "summary": "Norbert Wiener, godfather of cybernetics, once said, \"The thought of every age is reflected in its technique.\" For the past century, our thought has been reflected in our computers, including by those in the AI industry. Google's Demis Hassabis calls the brain \"a biological appro",
-    "published": "2026-10-05T10:00:00+00:00",
-    "first_seen": "2026-10-05T14:10:18.834646+00:00"
-  },
-  {
-    "source": "The Verge AI",
-    "source_tier": 2,
-    "title": "NJ\u2019s former Lt Gov is using AI to say he\u2019s innocent of sexual harassment",
-    "link": "https://www.theverge.com/ai-artificial-intelligence/1004549/well-if-ai-said-it-it-must-be-true",
-    "summary": "New Jersey's lieutenant governor Dale Caldwell was forced to resign on September 25th after an investigation found he had sexually harassed a staffer and repeatedly violated ethics rules. The now-former Lt. governor has been making the media rounds trying to clear his name. But h",
-    "published": "2026-10-04T16:16:04+00:00",
-    "first_seen": "2026-10-05T14:10:18.834646+00:00"
-  },
-  {
-    "source": "The Verge AI",
-    "source_tier": 2,
-    "title": "An AI couldn\u2019t beat humans at StarCraft, so it decided to cheat",
-    "link": "https://www.theverge.com/ai-artificial-intelligence/1004543/openai-gpt-cheat-starcraft",
-    "summary": "StarSkirmish pits AI-made StarCraft-playing bots against one another, as well as against human-made bots. OpenAI's GPT-6 Astra and Claude Opus 5.5 were essentially tied as the best-performing AI-made bots, but they couldn't top Stardust, the top-rated human-made bot. On Friday, G",
-    "published": "2026-10-04T15:21:59+00:00",
-    "first_seen": "2026-10-05T14:10:18.834646+00:00"
-  },
-  {
-    "source": "MIT Technology Review",
-    "source_tier": 2,
     "title": "The Download: 10 climate tech companies to watch",
     "link": "https://www.technologyreview.com/2026/10/06/1145796/the-download-10-climate-tech-companies-to-watch/",
     "summary": "This is today\u2019s edition of The Download, our weekday newsletter that provides a daily dose of what\u2019s going on in the world of technology. 10 climate tech companies to watch Each year, MIT Technology Review puts together a list of the most promising climate tech companies in the w",
@@ -385,24 +259,6 @@
     "summary": "Today, I\u2019m talking with Sen. Adam Schiff, a Democrat from California. Schiff sits on a number of committees with oversight into tech and AI: intellectual property, antitrust, privacy and technology \u2014 it\u2019s all there. I really wanted to ask him about how we might regulate anything ",
     "published": "2026-10-05T14:30:00+00:00",
     "first_seen": "2026-10-06T13:07:06.536306+00:00"
-  },
-  {
-    "source": "The Verge AI",
-    "source_tier": 2,
-    "title": "An open-source tool lets you delete 12GB of Apple Intelligence data on macOS",
-    "link": "https://www.theverge.com/ai-artificial-intelligence/1004672/mac-delete-apple-intelligence-ai-tool",
-    "summary": "Getting some extra storage space on your Mac could be as easy as deleting Apple's AI features with a new open-source command line tool called RemoveMacAI. There used to be a single Settings toggle for disabling Apple Intelligence, but that was removed in macOS 27. Now, the models",
-    "published": "2026-10-05T13:47:14+00:00",
-    "first_seen": "2026-10-06T13:07:06.536306+00:00"
-  },
-  {
-    "source": "European Commission Digital Strategy",
-    "source_tier": 1,
-    "title": "Establishing the European AI Observatory: Call for tenders",
-    "link": "https://digital-strategy.ec.europa.eu/en/funding/establishing-european-ai-observatory-call-tenders",
-    "summary": "Establishing the European AI Observatory: Call for tenders\nAnonymous (not verified)\nMon, 10/05/2026 - 09:22\n\n\n\n  \n        \n              \n                              \n      \n      \u00a0\n      Opening: 05 October 2026\n    \n    \n      \u00a0\n      Closing: 03 November 2026\n    \n  \n  \n\n   ",
-    "published": "2026-10-05T07:22:00+00:00",
-    "first_seen": "2026-10-07T13:02:12.214794+00:00"
   },
   {
     "source": "MIT Technology Review",
@@ -6055,5 +5911,329 @@
     "summary": "Google is completely turning off Search in schools that reject its AI features, the company told The New York Times. The decision was also shared in a broader education-related update from Google on Tuesday, saying that access to Gemini, Gemini Notebook, Gemini in Classroom, and ",
     "published": "2026-11-03T17:00:04+00:00",
     "first_seen": "2026-11-04T14:07:02.076140+00:00"
+  },
+  {
+    "source": "MIT Technology Review",
+    "source_tier": 2,
+    "title": "The Download: Texas\u2019s fragile AI boom\u00a0and energy policy shifts",
+    "link": "https://www.technologyreview.com/2026/11/05/1144908/the-download-texas-fragile-ai-boom-us-energy-policy/",
+    "summary": "This is today\u2019s edition of The Download, our weekday newsletter that provides a daily dose of what\u2019s going on in the world of technology. Texas was the new epicenter of the AI data center buildout. That might be kaput. Texas is the fastest-growing data center market in the US and",
+    "published": "2026-11-05T13:10:00+00:00",
+    "first_seen": "2026-11-05T14:25:29.619947+00:00"
+  },
+  {
+    "source": "MIT Technology Review",
+    "source_tier": 2,
+    "title": "A new bill could change how the US builds energy infrastructure",
+    "link": "https://www.technologyreview.com/2026/11/05/1148062/permitting-reform/",
+    "summary": "A sweeping bit of legislation designed to cut red tape could speed up the buildout of energy infrastructure in the US. With the dust barely settled on this week\u2019s momentous midterms, the Senate is set to vote on the Bipartisan American Affordability and Jobs Act (BAAJA) on Novemb",
+    "published": "2026-11-05T10:00:00+00:00",
+    "first_seen": "2026-11-05T14:25:29.619947+00:00"
+  },
+  {
+    "source": "MIT Technology Review",
+    "source_tier": 2,
+    "title": "Texas was the new epicenter of the AI data center buildout. That might be kaput.",
+    "link": "https://www.technologyreview.com/2026/11/04/1148043/texas-was-the-new-epicenter-of-the-ai-data-center-buildout-that-might-be-kaput/",
+    "summary": "Texas is the fastest-growing data center market in the US and ground zero for Big Tech\u2019s largest AI buildouts. But the blue wave that swept the Lone Star State may jeopardize that position. Democrat James Talarico won the US Senate seat against Ken Paxton. Gina Hinojosa won the r",
+    "published": "2026-11-04T18:50:55+00:00",
+    "first_seen": "2026-11-05T14:25:29.619947+00:00"
+  },
+  {
+    "source": "MIT Technology Review",
+    "source_tier": 2,
+    "title": "Roundtables: Inside the Quest for Cognitive Immortality",
+    "link": "https://www.technologyreview.com/2026/11/04/1148049/roundtables-inside-the-quest-for-cognitive-immortality/",
+    "summary": "Tuesday, November 17, 2026 In an effort to reach an elusive continuity of the self, some far-thinking technologists are working on ways to keep your brain going\u2014even beyond death. Join science editor Mary Beth Griggs and senior editor for biomedicine Antonio Regalado for a conver",
+    "published": "2026-11-04T18:21:40+00:00",
+    "first_seen": "2026-11-05T14:25:29.619947+00:00"
+  },
+  {
+    "source": "MIT Technology Review",
+    "source_tier": 2,
+    "title": "What\u2019s next for US energy policy after the midterm elections?",
+    "link": "https://www.technologyreview.com/2026/11/04/1148022/us-energy-midterm/",
+    "summary": "I\u2019ve been locked in to my various screens since results from midterm elections started to roll in last night. And it didn\u2019t take long to see the beginning of the blue wave: Democrats took control of both the US House of Representatives and the Senate, a dramatic swing from Donald",
+    "published": "2026-11-04T17:08:00+00:00",
+    "first_seen": "2026-11-05T14:25:29.619947+00:00"
+  },
+  {
+    "source": "ZDNet AI",
+    "source_tier": 2,
+    "title": "Linux Mint 27 arrives next month, and I like it already: New features and other upgrades to expect",
+    "link": "https://www.zdnet.com/tech/linux-mint-27-release-date/",
+    "summary": "It starts with a surprise version number: Linux Mint 27 instead of 24. But the next release brings far more changes than that.",
+    "published": "2026-11-05T02:35:58+00:00",
+    "first_seen": "2026-11-05T14:25:29.619947+00:00"
+  },
+  {
+    "source": "ZDNet AI",
+    "source_tier": 2,
+    "title": "Is Chrome\u2019s settings menu getting a search bar? What we know",
+    "link": "https://www.zdnet.com/business/google-tests-new-chrome-search-menu-feature/",
+    "summary": "Chrome might receive a much-needed addition.",
+    "published": "2026-11-04T19:53:06+00:00",
+    "first_seen": "2026-11-05T14:25:29.619947+00:00"
+  },
+  {
+    "source": "ZDNet AI",
+    "source_tier": 2,
+    "title": "Researchers asked people to use AI chatbots for election info \u2013 results were mixed",
+    "link": "https://www.zdnet.com/innovation/ai-users-ask-chatbots-voting-advice-elections-yale-research/",
+    "summary": "Chatbots can skew election-related information and act as an intervening layer in a voter\u2019s search.",
+    "published": "2026-11-04T18:13:38+00:00",
+    "first_seen": "2026-11-05T14:25:29.619947+00:00"
+  },
+  {
+    "source": "ZDNet AI",
+    "source_tier": 2,
+    "title": "Want an AI job? Deployment engineers are earning executive-level pay \u2013 up to $1.45M a year",
+    "link": "https://www.zdnet.com/innovation/ai-deployment-engineers-salary-christian-timbers-report/",
+    "summary": "AI has ushered in new jobs, and some of them are paying handsomely, according to a new study.",
+    "published": "2026-11-04T18:02:01+00:00",
+    "first_seen": "2026-11-05T14:25:29.619947+00:00"
+  },
+  {
+    "source": "ZDNet AI",
+    "source_tier": 2,
+    "title": "Safari finally gets 3 popular browser features \u2013 and I can\u2019t wait to try them",
+    "link": "https://www.zdnet.com/tech/safari-os-27-3-developer-beta-features/",
+    "summary": "New developer beta release notes point to deeper Siri AI integration and more Safari customization.",
+    "published": "2026-11-04T17:14:36+00:00",
+    "first_seen": "2026-11-05T14:25:29.619947+00:00"
+  },
+  {
+    "source": "ZDNet AI",
+    "source_tier": 2,
+    "title": "Can Netflix\u2019s new AI tool stop your TV-streaming doomscrolling? How to try it",
+    "link": "https://www.zdnet.com/home-and-office/netflix-ai-tool-discover-feature/",
+    "summary": "Netflix is adding a new Discover feature, which recommends tailored streaming selections. Here\u2019s how it works.",
+    "published": "2026-11-04T17:05:06+00:00",
+    "first_seen": "2026-11-05T14:25:29.619947+00:00"
+  },
+  {
+    "source": "TechCrunch AI",
+    "source_tier": 2,
+    "title": "Box taps Nvidia\u2019s Nemotron for new agent-first content retrieval system",
+    "link": "https://techcrunch.com/2026/11/05/box-taps-nvidias-nemotron-for-new-agent-first-content-retrieval-system/",
+    "summary": "The system can supposedly answer queries four times faster, with 20% fewer errors and 90% fewer tokens used.",
+    "published": "2026-11-05T14:00:00+00:00",
+    "first_seen": "2026-11-05T14:25:29.619947+00:00"
+  },
+  {
+    "source": "TechCrunch AI",
+    "source_tier": 2,
+    "title": "A YC startup is putting $1M behind five unsolved materials science problems for AI",
+    "link": "https://techcrunch.com/2026/11/05/a-yc-startup-is-putting-1m-behind-five-unsolved-materials-science-problems-for-ai/",
+    "summary": "Discovered Materials, a months-old YC startup that uses AI to find chip materials, is offering $200,000 for each solution to five open materials science problems.",
+    "published": "2026-11-05T13:00:00+00:00",
+    "first_seen": "2026-11-05T14:25:29.619947+00:00"
+  },
+  {
+    "source": "TechCrunch AI",
+    "source_tier": 2,
+    "title": "Agility is the first pure humanoid robot company on the stock market. Are you buying?",
+    "link": "https://techcrunch.com/2026/11/05/agility-is-the-first-pure-humanoid-robot-company-on-the-stock-market-are-you-buying/",
+    "summary": "Agility arrives on the Nasdaq today as the first publicly-traded pure-play humanoid robotics company.",
+    "published": "2026-11-05T12:00:00+00:00",
+    "first_seen": "2026-11-05T14:25:29.619947+00:00"
+  },
+  {
+    "source": "TechCrunch AI",
+    "source_tier": 2,
+    "title": "Apple is reportedly cutting budgets for its internal AI usage",
+    "link": "https://techcrunch.com/2026/11/04/apple-is-reportedly-cutting-budgets-for-its-internal-ai-usage/",
+    "summary": "The company is said to be significantly dropping the amount it's spending on AI for its engineering teams.",
+    "published": "2026-11-05T01:26:22+00:00",
+    "first_seen": "2026-11-05T14:25:29.619947+00:00"
+  },
+  {
+    "source": "TechCrunch AI",
+    "source_tier": 2,
+    "title": "After the midterms, a bigger clash over data centers could be coming",
+    "link": "https://techcrunch.com/2026/11/04/after-the-midterms-a-bigger-clash-over-data-centers-could-be-coming/",
+    "summary": "Data center opposition crossed party lines in Tuesday\u2019s midterms.",
+    "published": "2026-11-05T01:02:14+00:00",
+    "first_seen": "2026-11-05T14:25:29.619947+00:00"
+  },
+  {
+    "source": "TechCrunch AI",
+    "source_tier": 2,
+    "title": "AI PACs spent millions trying to shape Congress \u2014 here\u2019s how they fared",
+    "link": "https://techcrunch.com/2026/11/04/ai-pacs-spent-millions-trying-to-shape-congress-heres-how-they-fared/",
+    "summary": "AI industry PACs spent millions influencing the 2026 midterms, with mixed results. Political groups are already looking toward the next election cycle.",
+    "published": "2026-11-04T22:45:09+00:00",
+    "first_seen": "2026-11-05T14:25:29.619947+00:00"
+  },
+  {
+    "source": "TechCrunch AI",
+    "source_tier": 2,
+    "title": "Nothing CEO says company\u2019s mysterious AI-first device is dropping next month",
+    "link": "https://techcrunch.com/2026/11/04/nothing-ceo-says-companys-mysterious-ai-first-device-is-dropping-next-month/",
+    "summary": "While it's not yet clear what kind of product the smartphone startup is cooking up, Nothing's CEO said the product is designed to leverage AI for productivity gains.",
+    "published": "2026-11-04T22:13:16+00:00",
+    "first_seen": "2026-11-05T14:25:29.619947+00:00"
+  },
+  {
+    "source": "TechCrunch AI",
+    "source_tier": 2,
+    "title": "Almost no one uses AI agents to book their Uber, company says",
+    "link": "https://techcrunch.com/2026/11/04/almost-no-one-uses-ai-agents-to-book-their-uber-company-says/",
+    "summary": "During its busiest week last quarter, Uber said only four people booked a ride using an AI agent.",
+    "published": "2026-11-04T21:56:01+00:00",
+    "first_seen": "2026-11-05T14:25:29.619947+00:00"
+  },
+  {
+    "source": "TechCrunch AI",
+    "source_tier": 2,
+    "title": "OpenAI is already trying to shape the 2028 election",
+    "link": "https://techcrunch.com/2026/11/04/openai-is-already-trying-to-shape-the-2028-election/",
+    "summary": "OpenAI\u2019s Chris Lehane wants AI to define the 2028 election, proposing a new social contract that could benefit Americans while also advancing the AI giant\u2019s own business interests.",
+    "published": "2026-11-04T21:25:44+00:00",
+    "first_seen": "2026-11-05T14:25:29.619947+00:00"
+  },
+  {
+    "source": "TechCrunch AI",
+    "source_tier": 2,
+    "title": "Meta acquires AI coding startup Conductor",
+    "link": "https://techcrunch.com/2026/11/04/meta-acquires-ai-coding-startup-conductor/",
+    "summary": "The startup allows software engineers to deploy teams of agents to work on various aspects of a project simultaneously.",
+    "published": "2026-11-04T21:10:56+00:00",
+    "first_seen": "2026-11-05T14:25:29.619947+00:00"
+  },
+  {
+    "source": "TechCrunch AI",
+    "source_tier": 2,
+    "title": "Open source AI is booming. Hugging Face explains who profits.",
+    "link": "https://techcrunch.com/video/open-source-ai-is-booming-hugging-face-explains-who-profits/",
+    "summary": "Open source models are becoming more mainstream as enterprises, governments and startups alike rely on the promise of lower costs, more control, and more flexibility. But as increasingly capable models become more freely available, how do companies capture value? And with Chinese",
+    "published": "2026-11-04T19:30:04+00:00",
+    "first_seen": "2026-11-05T14:25:29.619947+00:00"
+  },
+  {
+    "source": "TechCrunch AI",
+    "source_tier": 2,
+    "title": "DuckDuckGo pitches itself to schools amid backlash over Google\u2019s AI policy",
+    "link": "https://techcrunch.com/2026/11/04/duckduckgo-pitches-itself-to-schools-amid-backlash-over-googles-ai-policy/",
+    "summary": "DuckDuckGo is courting schools frustrated by Google's AI restrictions, pointing educators to its search engine and options to disable AI features.",
+    "published": "2026-11-04T19:29:52+00:00",
+    "first_seen": "2026-11-05T14:25:29.619947+00:00"
+  },
+  {
+    "source": "TechCrunch AI",
+    "source_tier": 2,
+    "title": "Building on open source AI? Hugging Face\u2019s policy chief on the costs, risks, and trade-offs",
+    "link": "https://techcrunch.com/podcast/building-on-open-source-ai-hugging-faces-policy-chief-on-the-costs-risks-and-trade-offs/",
+    "summary": "Open source models are becoming more mainstream as enterprises, governments and startups alike rely on the promise of lower costs, more control, and more flexibility. But as increasingly capable models become more freely available, how do companies capture value? And with Chinese",
+    "published": "2026-11-04T18:44:57+00:00",
+    "first_seen": "2026-11-05T14:25:29.619947+00:00"
+  },
+  {
+    "source": "TechCrunch AI",
+    "source_tier": 2,
+    "title": "I tried Apple\u2019s Siri Recaps. They\u2019re surprisingly useful \u2014 and a little unsettling",
+    "link": "https://techcrunch.com/2026/11/04/i-tried-apples-siri-recaps-theyre-surprisingly-useful-and-a-little-unsettling/",
+    "summary": "Apple's AI-powered Siri Recaps won me over in just one day, despite my privacy reservations. But there's still room for improvement.",
+    "published": "2026-11-04T16:51:35+00:00",
+    "first_seen": "2026-11-05T14:25:29.619947+00:00"
+  },
+  {
+    "source": "TechCrunch AI",
+    "source_tier": 2,
+    "title": "Google faces backlash for plan that would turn off Search for schools that restrict AI",
+    "link": "https://techcrunch.com/2026/11/04/google-faces-backlash-for-plan-that-would-turn-off-search-for-schools-that-restrict-ai/",
+    "summary": "Politicians on the left, like NYC mayor Zohran Mamdani and former FTC chair Lina Khan, accused Google of acting as an unregulated monopoly.",
+    "published": "2026-11-04T16:17:22+00:00",
+    "first_seen": "2026-11-05T14:25:29.619947+00:00"
+  },
+  {
+    "source": "The Verge AI",
+    "source_tier": 2,
+    "title": "Big Tech\u2019s big AI buildout will not end until someone stops it",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/1027344/amazon-microsoft-alphabet-google-meta-data-centers-earnings-q3",
+    "summary": "After four of the biggest competitors in the AI race held quarterly earnings calls late last month, two things are clear: Big Tech is not done spending record amounts on the AI data center buildout, and the AI data center buildout is not any closer to yielding its promised return",
+    "published": "2026-11-05T10:45:00+00:00",
+    "first_seen": "2026-11-05T14:25:29.619947+00:00"
+  },
+  {
+    "source": "The Verge AI",
+    "source_tier": 2,
+    "title": "Qualcomm is betting big on data centers as smartphone sales sink",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/1026867/qualcomm-earnings-data-centers",
+    "summary": "With smartphone sales tanking by around 20 percent compared to 2025, Qualcomm is looking to data centers to help boost its bottom line. During its Q4 2026 earnings call, the company laid out its plans to make a splash in the AI data center business, through partnerships with comp",
+    "published": "2026-11-04T22:42:15+00:00",
+    "first_seen": "2026-11-05T14:25:29.619947+00:00"
+  },
+  {
+    "source": "The Verge AI",
+    "source_tier": 2,
+    "title": "17 better ways Elon Musk could have wasted $446 million",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/1026878/not-even-good-at-being-rich",
+    "summary": "One of the basic problems of spending too much time on social media is that you are cooking your brain by reading posts from a pack of attention-seeking lunatics. If your social media of choice is the site formerly known as Twitter, and it is your main source of contact with the ",
+    "published": "2026-11-04T21:45:00+00:00",
+    "first_seen": "2026-11-05T14:25:29.619947+00:00"
+  },
+  {
+    "source": "The Verge AI",
+    "source_tier": 2,
+    "title": "Gemini for Home now plugs into AT&T\u2019s smart security system",
+    "link": "https://www.theverge.com/tech/1026787/att-gemini-for-home-connected-life-security-system",
+    "summary": "AT&T's smart home security system now integrates with Gemini for Home. The company says its Connected Life system is the \"first\" home security product to integrate with Google Home Premium, enabling a bunch of Gemini-powered features that can summarize home events, search your vi",
+    "published": "2026-11-04T20:23:24+00:00",
+    "first_seen": "2026-11-05T14:25:29.619947+00:00"
+  },
+  {
+    "source": "The Verge AI",
+    "source_tier": 2,
+    "title": "Nothing teases a screen-free AI device ahead of launch next month",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/1026586/nothing-screen-free-ai-device-carl-pei",
+    "summary": "Nothing CEO Carl Pei said in a post on X that the company's launching its first AI device in December. That's just a little over a year after Pei announced plans for \"AI-native\" devices and an AI operating system. He didn't give away much about what exactly the new device is, onl",
+    "published": "2026-11-04T18:26:07+00:00",
+    "first_seen": "2026-11-05T14:25:29.619947+00:00"
+  },
+  {
+    "source": "The Verge AI",
+    "source_tier": 2,
+    "title": "My therapist thinks I should chuck the Amazon Bee Frontier out a window",
+    "link": "https://www.theverge.com/column/1026464/optimizer-amazon-bee-frontier-ambient-listening-wearables",
+    "summary": "This is Optimizer, a weekly newsletter sent from Verge senior reviewer Victoria Song that dissects and discusses the latest gizmos and potions that swear they're going to change your life. Opt in for Optimizer here. \"How does that make you feel?\" I get asked this a lot in therapy",
+    "published": "2026-11-04T18:00:00+00:00",
+    "first_seen": "2026-11-05T14:25:29.619947+00:00"
+  },
+  {
+    "source": "The Verge AI",
+    "source_tier": 2,
+    "title": "ChatGPT will now make you animated GIFs",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/1026474/openai-chatgpt-animated-gifs-images-2-6",
+    "summary": "ChatGPT can now create GIFs using a prompt or a photo uploaded to the AI chatbot. The update, which is rolling out alongside OpenAI's new Images 2.6 model, allows you to adjust the GIF's animation speed, edit individual frames, and share it with others. Before this change, ChatGP",
+    "published": "2026-11-04T18:00:00+00:00",
+    "first_seen": "2026-11-05T14:25:29.619947+00:00"
+  },
+  {
+    "source": "The Verge AI",
+    "source_tier": 2,
+    "title": "Data centers lost the midterms",
+    "link": "https://www.theverge.com/policy/1026365/data-centers-midterms-results",
+    "summary": "Data center developers are poised to face a more restrictive building environment after voters across the country voted in candidates who favor moratoriums and ballot measures that put more obstacles on their expansion, delivering a stinging blow to a central pillar of the AI ind",
+    "published": "2026-11-04T16:05:39+00:00",
+    "first_seen": "2026-11-05T14:25:29.619947+00:00"
+  },
+  {
+    "source": "The Verge AI",
+    "source_tier": 2,
+    "title": "Uber only fulfilled 4 rides from AI agents last quarter",
+    "link": "https://www.theverge.com/transportation/1026306/uber-ai-agents-q3-earnings-disintermediation",
+    "summary": "AI agents won't be stealing Uber's lunch any time soon. Only four rides were arranged by third-party AI agents during the third quarter of 2026, Uber executives disclosed during an earnings call this morning. The volume of Uber Eats orders fulfilled by AI agents was a little high",
+    "published": "2026-11-04T15:58:45+00:00",
+    "first_seen": "2026-11-05T14:25:29.619947+00:00"
+  },
+  {
+    "source": "The Verge AI",
+    "source_tier": 2,
+    "title": "Sam Altman addresses RAM comments: People should \u2018put as much as they want in their computers\u2019",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/1026292/sam-altman-ram-shortage-pcs-comments",
+    "summary": "OpenAI CEO Sam Altman spent election night defending his position on PC RAM purchases. He changed his name on X to \"Ram Altman\" in response to another user's comment, saying, \"i actually do want the world to have tons of memory and people to put as much as they want in their comp",
+    "published": "2026-11-04T14:46:01+00:00",
+    "first_seen": "2026-11-05T14:25:29.619947+00:00"
   }
 ]

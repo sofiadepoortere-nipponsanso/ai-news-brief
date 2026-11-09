@@ -1,311 +1,5 @@
 [
   {
-    "source": "European Commission Digital Strategy",
-    "source_tier": 1,
-    "title": "Commission holds special meeting of Scientific panel on frontier AI safety and risks",
-    "link": "https://digital-strategy.ec.europa.eu/en/news/commission-holds-special-meeting-scientific-panel-frontier-ai-safety-and-risks",
-    "summary": "Commission holds special meeting of Scientific panel on frontier AI safety and risks\nAnonymous (not verified)\nFri, 10/09/2026 - 09:16\n\n\n\n  \n        \n              \n                                    Today, the Commission holds a special meeting of the Scientific Panel on artific",
-    "published": "2026-10-09T07:16:00+00:00",
-    "first_seen": "2026-10-09T12:55:34.475792+00:00"
-  },
-  {
-    "source": "MIT Technology Review",
-    "source_tier": 2,
-    "title": "The Download: AI\u2019s refusal problem and weight-loss drug side effects",
-    "link": "https://www.technologyreview.com/2026/10/09/1146250/the-download-ai-refusal-problem-weight-loss-drug-side-effects/",
-    "summary": "This is today\u2019s edition of The Download, our weekday newsletter that provides a daily dose of what\u2019s going on in the world of technology. We\u2019re putting too much faith in AI\u2019s ability to say no Today\u2019s AI models are trained to refuse a vast number of prompts. If you ask your chatb",
-    "published": "2026-10-09T12:10:00+00:00",
-    "first_seen": "2026-10-09T12:55:34.475792+00:00"
-  },
-  {
-    "source": "MIT Technology Review",
-    "source_tier": 2,
-    "title": "We\u2019re putting too much faith in AI\u2019s ability to say no",
-    "link": "https://www.technologyreview.com/2026/10/09/1145728/we-are-putting-too-much-faith-in-ai-to-say-no/",
-    "summary": "Ever since people first seriously contemplated giving machines an intelligence modeled on our own, there has never been any question that they would, like us, be able to say no. The sci-fi canon is full of stories of robotic disobedience. Most of these capers are, of course, caut",
-    "published": "2026-10-09T09:00:00+00:00",
-    "first_seen": "2026-10-09T12:55:34.475792+00:00"
-  },
-  {
-    "source": "MIT Technology Review",
-    "source_tier": 2,
-    "title": "Job titles of the future: Delivery drone air traffic controller",
-    "link": "https://www.technologyreview.com/2026/10/09/1145737/job-titles-delivery-drone-air-traffic-controller-trevor-wischnewsky/",
-    "summary": "The moment Trevor Wischnewsky heard that drones were delivering pizza and sushi around his Texas neighborhood, his mind was made up. \u201cIt was super fascinating,\u201d he says. \u201cI just immediately wanted to be a part of it.\u201d Wischnewsky is now an RPIC, or \u201cremote pilot in command,\u201d at a",
-    "published": "2026-10-09T09:00:00+00:00",
-    "first_seen": "2026-10-09T12:55:34.475792+00:00"
-  },
-  {
-    "source": "MIT Technology Review",
-    "source_tier": 2,
-    "title": "We\u2019re still figuring out the side effects of GLP-1 weight-loss drugs",
-    "link": "https://www.technologyreview.com/2026/10/09/1146094/were-still-figuring-out-the-side-effects-of-glp-1-weight-loss-drugs/",
-    "summary": "This week my colleague Antonio Regalado had an interesting update on GLP-1 weight-loss drugs. According to research presented at an aging meeting in Boston, these drugs seem to affect at least some measures of biological age. Overweight and diabetic people who take GLP-1s have a ",
-    "published": "2026-10-09T09:00:00+00:00",
-    "first_seen": "2026-10-09T12:55:34.475792+00:00"
-  },
-  {
-    "source": "MIT Technology Review",
-    "source_tier": 2,
-    "title": "Roundtables: A Conversation With the Creator of AI-Designed Viruses",
-    "link": "https://www.technologyreview.com/2026/10/08/1146224/roundtables-a-conversation-with-the-creator-of-ai-designed-viruses/",
-    "summary": "Friday, October 16, 2026 Can AI design new life forms? In 2025, Stanford University PhD student Samuel King came up with a preliminary answer when he used a generative AI model to propose genetic blueprints for microscopic viruses. It isn\u2019t yet an example of AI-generated life, bu",
-    "published": "2026-10-09T00:08:24+00:00",
-    "first_seen": "2026-10-09T12:55:34.475792+00:00"
-  },
-  {
-    "source": "ZDNet AI",
-    "source_tier": 2,
-    "title": "Got a Microsoft 365 subscription? Your storage is about to shrink",
-    "link": "https://www.zdnet.com/tech/microsoft-365-subscription-storage-limits/",
-    "summary": "Today, shared Microsoft 365 plans include 1 TB of OneDrive cloud storage for every family member. Microsoft is about to shrink that allotment dramatically.",
-    "published": "2026-10-08T18:56:22+00:00",
-    "first_seen": "2026-10-09T12:55:34.475792+00:00"
-  },
-  {
-    "source": "ZDNet AI",
-    "source_tier": 2,
-    "title": "Regulators are trying to protect you from being fired by AI \u2013 here\u2019s how",
-    "link": "https://www.zdnet.com/innovation/how-state-regulators-protect-you-fired-by-ai/",
-    "summary": "Regulating AI at work is happening slowly, but it\u2019s still stuck at the state level.",
-    "published": "2026-10-08T17:05:53+00:00",
-    "first_seen": "2026-10-09T12:55:34.475792+00:00"
-  },
-  {
-    "source": "ZDNet AI",
-    "source_tier": 2,
-    "title": "Can AI fix legacy IT? The \u2018economics don\u2019t hold up,\u2019 says former IBM strategist",
-    "link": "https://www.zdnet.com/innovation/ai-legacy-it-modernization/",
-    "summary": "Vendors are pitching AI as a cure-all for legacy IT systems, but is it?",
-    "published": "2026-10-08T14:35:46+00:00",
-    "first_seen": "2026-10-09T12:55:34.475792+00:00"
-  },
-  {
-    "source": "TechCrunch AI",
-    "source_tier": 2,
-    "title": "Pretend you\u2019re sitting at Elizabeth Holmes\u2019 desk on this weirdly detailed website",
-    "link": "https://techcrunch.com/2026/10/08/pretend-youre-sitting-at-elizabeth-holmes-desk-on-this-weirdly-detailed-website/",
-    "summary": "With over a thousand emails, slides, texts, and documents from the United States v. Elizabeth Holmes trial, Extend engineer Bo Lau created a website that simulates what it might have been like to rifle through the Theranos founder's desk.",
-    "published": "2026-10-08T21:00:00+00:00",
-    "first_seen": "2026-10-09T12:55:34.475792+00:00"
-  },
-  {
-    "source": "TechCrunch AI",
-    "source_tier": 2,
-    "title": "Fired OpenAI safety researchers dispute misconduct claims, warn of chilling effect",
-    "link": "https://techcrunch.com/2026/10/08/fired-openai-safety-researchers-dispute-misconduct-claims-warn-of-chilling-effect/",
-    "summary": "Three fired OpenAI safety researchers dispute allegations of mishandling sensitive information, warning in an open letter that their dismissals are creating a chilling effect on the company\u2019s AI safety culture.",
-    "published": "2026-10-08T20:04:26+00:00",
-    "first_seen": "2026-10-09T12:55:34.475792+00:00"
-  },
-  {
-    "source": "TechCrunch AI",
-    "source_tier": 2,
-    "title": "Ben Affleck is an AI nerd, and the internet is impressed",
-    "link": "https://techcrunch.com/2026/10/08/ben-affleck-is-an-ai-nerd-and-the-internet-is-impressed/",
-    "summary": "Ben Affleck is going viral for his deep knowledge of AI, from neural networks and transformers to open weights. The actor, who sold his AI filmmaking startup to Netflix earlier this year, is proving he's more than just a Hollywood star.",
-    "published": "2026-10-08T18:20:32+00:00",
-    "first_seen": "2026-10-09T12:55:34.475792+00:00"
-  },
-  {
-    "source": "TechCrunch AI",
-    "source_tier": 2,
-    "title": "Popular AI leaderboard Arena nearly doubles valuation to $3.1B valuation in 10 months",
-    "link": "https://techcrunch.com/2026/10/08/popular-ai-leaderboard-arena-nearly-doubles-valuation-to-3-1b-valuation-in-10-months/",
-    "summary": "The company behind the popular LMArena leaderboard has raised $200 million led by Lightspeed and Khosla, and is now measuring AI models on alignment issues such as lying.",
-    "published": "2026-10-08T18:19:45+00:00",
-    "first_seen": "2026-10-09T12:55:34.475792+00:00"
-  },
-  {
-    "source": "TechCrunch AI",
-    "source_tier": 2,
-    "title": "OpenAI\u2019s revenue is reportedly $20 billion less than previously projected",
-    "link": "https://techcrunch.com/2026/10/08/openais-revenue-is-reportedly-20-billion-less-than-previously-projected/",
-    "summary": "It had previously been reported that the AI lab's annualized revenue was some $70 billion, but a new report claims it's a whole lot less than that.",
-    "published": "2026-10-08T18:19:42+00:00",
-    "first_seen": "2026-10-09T12:55:34.475792+00:00"
-  },
-  {
-    "source": "TechCrunch AI",
-    "source_tier": 2,
-    "title": "Google brings agentic AI to Gemini, starting with businesses",
-    "link": "https://techcrunch.com/2026/10/08/google-brings-agentic-ai-to-gemini-starting-with-businesses/",
-    "summary": "Google is turning Gemini into an AI agent that can plan, execute tasks, and work across business apps and systems. The agent can delegate work to subagents, use multiple AI models, and even gets its own workplace identity, complete with an email address.",
-    "published": "2026-10-08T18:18:00+00:00",
-    "first_seen": "2026-10-09T12:55:34.475792+00:00"
-  },
-  {
-    "source": "TechCrunch AI",
-    "source_tier": 2,
-    "title": "Anthropic changes usage policy to ban model abuse and election interference",
-    "link": "https://techcrunch.com/2026/10/08/anthropic-changes-usage-policy-to-ban-model-abuse-and-election-interference/",
-    "summary": "Anthropic's updated usage policy explicitly prohibits users from repeatedly abusing Claude in extreme cases, though ordinary frustration and criticism are still allowed. The new rules also address election interference, deceptive campaigns, weapons software, and surveillance.",
-    "published": "2026-10-08T18:16:24+00:00",
-    "first_seen": "2026-10-09T12:55:34.475792+00:00"
-  },
-  {
-    "source": "TechCrunch AI",
-    "source_tier": 2,
-    "title": "OpenAI\u2019s math solutions aren\u2019t meeting the field\u2019s standards yet",
-    "link": "https://techcrunch.com/2026/10/08/openais-math-solutions-arent-meeting-the-fields-standards-yet/",
-    "summary": "OpenAI's flood of proofs deviated from the guidelines set by a group of mathematical researchers consulted by the frontier lab.",
-    "published": "2026-10-08T18:10:55+00:00",
-    "first_seen": "2026-10-09T12:55:34.475792+00:00"
-  },
-  {
-    "source": "TechCrunch AI",
-    "source_tier": 2,
-    "title": "Natura\u2019s $99 smart ring puts AI agents on your finger",
-    "link": "https://techcrunch.com/2026/10/08/naturas-smart-ring-puts-ai-agents-on-your-finger/",
-    "summary": "Natura\u2019s $99 Interface smart ring lets you summon AI agents with the press of a finger to complete tasks, capture thoughts, and control devices \u2014 while doubling as a health tracker.",
-    "published": "2026-10-08T16:00:00+00:00",
-    "first_seen": "2026-10-09T12:55:34.475792+00:00"
-  },
-  {
-    "source": "TechCrunch AI",
-    "source_tier": 2,
-    "title": "Goodfire says its new \u2018inside-out\u2019 monitors catch rogue AI agents at a fraction of the cost",
-    "link": "https://techcrunch.com/2026/10/08/goodfire-says-its-new-inside-out-monitors-catch-rogue-ai-agents-at-a-fraction-of-the-cost/",
-    "summary": "Goodfire just launched what it says is a cheaper way to keep AI agents in check: Instead of paying a second AI to read everything an agent does, its monitors peek inside the model while it works and only call in backup when something looks fishy.",
-    "published": "2026-10-08T16:00:00+00:00",
-    "first_seen": "2026-10-09T12:55:34.475792+00:00"
-  },
-  {
-    "source": "TechCrunch AI",
-    "source_tier": 2,
-    "title": "Hear from Ambrosia Energy and Bloom Energy execs on where the AI infrastructure boom is creating opportunity at TechCrunch Disrupt 2026",
-    "link": "https://techcrunch.com/2026/10/08/hear-from-ambrosia-energy-and-bloom-energy-execs-on-where-the-ai-infrastructure-boom-is-creating-opportunity-at-disrupt-2026/",
-    "summary": "Ambrosia Energy CEO Ben Longmier and Bloom Energy SVP Bill Thayer join the Smart Systems Stage at TechCrunch Disrupt. Register now to save up to $100. Grab a second of the same pass to save 50%.",
-    "published": "2026-10-08T15:00:00+00:00",
-    "first_seen": "2026-10-09T12:55:34.475792+00:00"
-  },
-  {
-    "source": "TechCrunch AI",
-    "source_tier": 2,
-    "title": "5 days to TechCrunch Disrupt 2026: Don\u2019t pay more at the door for your pass",
-    "link": "https://techcrunch.com/2026/10/08/5-days-to-techcrunch-disrupt-2026-dont-pay-more-at-the-door/",
-    "summary": "The global tech ecosystem gathers at TechCrunch Disrupt 2026 at San Francisco\u2019s Moscone West on October 13-15. Get your pass now to save up to $100. Get a second of the same ticket type to save 50%.",
-    "published": "2026-10-08T14:00:00+00:00",
-    "first_seen": "2026-10-09T12:55:34.475792+00:00"
-  },
-  {
-    "source": "TechCrunch AI",
-    "source_tier": 2,
-    "title": "Cal AI\u2019s 19-year-old founder just raised $10M for his new AI startup",
-    "link": "https://techcrunch.com/2026/10/08/cal-ais-19-year-old-founder-just-raised-10m-for-his-new-ai-startup/",
-    "summary": "Zach Yadegari, the teen co-founder of popular Cal AI calorie tracking app, has launched a new personal AI agent startup that competes with Instinct, Muse, and Bee.",
-    "published": "2026-10-08T14:00:00+00:00",
-    "first_seen": "2026-10-09T12:55:34.475792+00:00"
-  },
-  {
-    "source": "TechCrunch AI",
-    "source_tier": 2,
-    "title": "Google releases a new local-first Granola competitor",
-    "link": "https://techcrunch.com/2026/10/08/google-releases-a-new-local-first-granola-competitor/",
-    "summary": "Google\u2019s new AI Edge Foresight app takes on Granola with an offline meeting note-taker that can transcribe conversations, generate notes, and answer questions using on-device AI.",
-    "published": "2026-10-08T13:28:39+00:00",
-    "first_seen": "2026-10-09T12:55:34.475792+00:00"
-  },
-  {
-    "source": "TechCrunch AI",
-    "source_tier": 2,
-    "title": "China\u2019s Manus raises over $500M in first funding round since split with Meta",
-    "link": "https://techcrunch.com/2026/10/08/chinas-manus-raises-over-500m-in-first-funding-round-since-split-with-meta/",
-    "summary": "Boyu Capital and IDG Capital led the funding round, and existing shareholders Tencent, HSG (formerly known as Sequoia China), ZhenFund, and others also participated.",
-    "published": "2026-10-08T13:20:32+00:00",
-    "first_seen": "2026-10-09T12:55:34.475792+00:00"
-  },
-  {
-    "source": "The Verge AI",
-    "source_tier": 2,
-    "title": "OpenAI doubles down on decision to fire three AI safety researchers",
-    "link": "https://www.theverge.com/ai-artificial-intelligence/1008604/openai-defends-decision-fire-safety-researchers",
-    "summary": "OpenAI is standing firm on its decision to fire three safety researchers after an investigation found they committed \"a significant breach of trust.\" In a post on X on Friday, the company said Jasmine Wang, Tomek Korbak and Mikita \u2060Balesni were dismissed for violating \"clear poli",
-    "published": "2026-10-09T09:48:26+00:00",
-    "first_seen": "2026-10-09T12:55:34.475792+00:00"
-  },
-  {
-    "source": "The Verge AI",
-    "source_tier": 2,
-    "title": "Anthropic launches free AI security scans for open-source projects",
-    "link": "https://www.theverge.com/ai-artificial-intelligence/1008521/anthropic-open-source-oss-scanner",
-    "summary": "Anthropic's offering to help open-source projects track down security vulnerabilities with a new service called OSS Scanner. It says open-source projects that opt-in will get \"thorough, periodic security scans by our strongest models at no cost.\" That could mean open-source proje",
-    "published": "2026-10-08T21:53:51+00:00",
-    "first_seen": "2026-10-09T12:55:34.475792+00:00"
-  },
-  {
-    "source": "The Verge AI",
-    "source_tier": 2,
-    "title": "California is trying to shut down robot vs. human cage matches",
-    "link": "https://www.theverge.com/tech/1008401/california-shut-down-rek-fighting-robot-company-human",
-    "summary": "The California State Athletic Commission sent a cease-and-desist letter to a startup that hosted a match between a human and a robot last month, as reported by The New York Times. The fight, which took place on September 18th, pitted a human, Frankie LaPenna, against a humanoid r",
-    "published": "2026-10-08T20:06:56+00:00",
-    "first_seen": "2026-10-09T12:55:34.475792+00:00"
-  },
-  {
-    "source": "The Verge AI",
-    "source_tier": 2,
-    "title": "USA Today becomes the latest publisher to sue OpenAI",
-    "link": "https://www.theverge.com/ai-artificial-intelligence/1008198/usa-today-openai-copyright-lawsuit",
-    "summary": "USA Today Co., along with the several local newspapers it owns, is suing OpenAI over claims that the company copied \"hundreds of thousands\" of articles to train its AI models, as reported earlier by Reuters. In a filing on Thursday, the publisher asks for damages of more than $25",
-    "published": "2026-10-08T17:58:33+00:00",
-    "first_seen": "2026-10-09T12:55:34.475792+00:00"
-  },
-  {
-    "source": "The Verge AI",
-    "source_tier": 2,
-    "title": "SpaceXAI backs Omarchy, the controversial Linux distro, with $1.5 million in compute",
-    "link": "https://www.theverge.com/tech/1008148/spacexai-omarchy-grok-david-heinemeier-hansson",
-    "summary": "If Elon Musk and SpaceXAI were going to back any Linux distro, it seems obvious they'd back Omarchy. Today it was announced that SpaceXAI would be joining the Omacom Foundation, which oversees Omarchy, as a Founding Corporate Patron and donating $1.5 million worth of Grok tokens ",
-    "published": "2026-10-08T17:57:01+00:00",
-    "first_seen": "2026-10-09T12:55:34.475792+00:00"
-  },
-  {
-    "source": "The Verge AI",
-    "source_tier": 2,
-    "title": "Anthropic bans \u2018abusive or cruel behavior\u2019 toward Claude",
-    "link": "https://www.theverge.com/ai-artificial-intelligence/1008100/anthropic-new-usage-policy-abuse-claude",
-    "summary": "Anthropic is making changes to its usage policy for the first time in over a year to reflect new and high-risk cases of misuse - including election interference, weapons development, surveillance, and health and financial uses. But one of the most significant changes prohibits \"s",
-    "published": "2026-10-08T17:00:00+00:00",
-    "first_seen": "2026-10-09T12:55:34.475792+00:00"
-  },
-  {
-    "source": "The Verge AI",
-    "source_tier": 2,
-    "title": "Google\u2019s AI note-taking app transcribes your meetings completely offline",
-    "link": "https://www.theverge.com/tech/1007985/google-ai-notetaking-app-transcribe-offline",
-    "summary": "Google has released an experimental note-taking app that can transcribe meetings and audio files entirely offline, as reported earlier by TechCrunch. The app, called Google AI Edge Foresight, is free to use and runs on macOS using the company's on-device EmbeddingGemma 2 model. S",
-    "published": "2026-10-08T15:27:30+00:00",
-    "first_seen": "2026-10-09T12:55:34.475792+00:00"
-  },
-  {
-    "source": "The Verge AI",
-    "source_tier": 2,
-    "title": "Google is launching a one-stop Gemini agent for your work tasks",
-    "link": "https://www.theverge.com/tech/1007904/google-gemini-ai-agent-enterprise",
-    "summary": "Google is launching a \"universal\" Gemini AI agent that can work across apps and devices in the background. The tool, announced as part of the Gemini at Work event on Thursday, will be available within the Gemini Enterprise app, allowing users to chat with the Gemini agent and ass",
-    "published": "2026-10-08T14:28:03+00:00",
-    "first_seen": "2026-10-09T12:55:34.475792+00:00"
-  },
-  {
-    "source": "The Verge AI",
-    "source_tier": 2,
-    "title": "Can you trust Meta\u2019s Muse or OpenAI\u2019s Dots to run your life?",
-    "link": "https://www.theverge.com/podcast/1007408/meta-muse-openai-dots-ai-agent-race-privacy-free",
-    "summary": "My Decoder guest today is Hayden Field, The Verge\u2019s senior AI reporter, and we\u2019re discussing the new wave of consumer-friendly AI agents. If you\u2019ve been paying attention to this space, you know AI enthusiasts have been using agents for a minute now \u2014 homebrew OpenClaw setups led ",
-    "published": "2026-10-08T14:00:00+00:00",
-    "first_seen": "2026-10-09T12:55:34.475792+00:00"
-  },
-  {
-    "source": "The Verge AI",
-    "source_tier": 2,
-    "title": "Artificial is a wicked satire that also sticks to the facts",
-    "link": "https://www.theverge.com/ai-artificial-intelligence/1007786/artificial-is-a-wicked-satire-that-also-sticks-to-the-facts",
-    "summary": "At the New York Film Festival premiere of Artificial, Luca Guadagnino's satirical Sam Altman biopic, the director said onstage that \"[when] someone wants to play God, that's very interesting to me.\" The idea of playing God, and power in general - who has it, who desperately wants",
-    "published": "2026-10-08T14:00:00+00:00",
-    "first_seen": "2026-10-09T12:55:34.475792+00:00"
-  },
-  {
     "source": "ZDNet AI",
     "source_tier": 2,
     "title": "Ring\u2019s new smart lock has a manual fallback that can\u2019t lock you out \u2013 how it works",
@@ -396,24 +90,6 @@
     "first_seen": "2026-10-10T12:13:33.542542+00:00"
   },
   {
-    "source": "TechCrunch AI",
-    "source_tier": 2,
-    "title": "a16z\u2019s Olivia Moore on the state of consumer AI",
-    "link": "https://techcrunch.com/2026/10/09/a16zs-olivia-moore-on-the-state-of-consumer-ai/",
-    "summary": "Moore sees a huge opportunity in consumer AI, particularly if the industry can tap into revenue streams beyond just subscriptions and API charges.",
-    "published": "2026-10-09T15:43:33+00:00",
-    "first_seen": "2026-10-10T12:13:33.542542+00:00"
-  },
-  {
-    "source": "TechCrunch AI",
-    "source_tier": 2,
-    "title": "TechCrunch Disrupt 2026 starts in 4 days \u2014 lock in your pass savings of up to $100 before prices rise",
-    "link": "https://techcrunch.com/2026/10/09/techcrunch-disrupt-2026-starts-in-4-days-lock-in-your-pass-savings-of-up-to-100-before-prices-rise/",
-    "summary": "Four days until TechCrunch Disrupt 2026 starts, when\u00a010,000 founders, investors, and tech leaders gather in San Francisco's Moscone West on October 13-15. Save up to $100 on your price. Plus, save 50% on a second pass of the same type.",
-    "published": "2026-10-09T14:00:00+00:00",
-    "first_seen": "2026-10-10T12:13:33.542542+00:00"
-  },
-  {
     "source": "The Verge AI",
     "source_tier": 2,
     "title": "Anthropic\u2019s AI gave Philadelphia police a fake tip about an unsolved homicide",
@@ -438,24 +114,6 @@
     "link": "https://www.theverge.com/ai-artificial-intelligence/1008930/nikon-small-world-in-motion-winner-ai",
     "summary": "Nikon says the video that originally won first place in its Small World in Motion contest \"did not comply with the competition rules regarding generative AI.\" BBC reports that the original first place video from Dr. Ning Xu claimed to show \"tiny, hair-like structures called cilia",
     "published": "2026-10-09T18:06:57+00:00",
-    "first_seen": "2026-10-10T12:13:33.542542+00:00"
-  },
-  {
-    "source": "The Verge AI",
-    "source_tier": 2,
-    "title": "Trump\u2019s attempt to rename AI is looking awfully artificial",
-    "link": "https://www.theverge.com/policy/1008677/trump-super-intelligence-ai-rebranding",
-    "summary": "President Donald Trump has a knack for turning words against his enemies. His first successful presidential run was built on monikers like \"Little Marco\" and \"Crooked Hillary\"; he changed \"fake news\" from a phrase describing scammy media outlets to a derogatory term for the press",
-    "published": "2026-10-09T14:25:43+00:00",
-    "first_seen": "2026-10-10T12:13:33.542542+00:00"
-  },
-  {
-    "source": "The Verge AI",
-    "source_tier": 2,
-    "title": "Instinct was the buzziest AI agent around \u2014 can it survive Muse?",
-    "link": "https://www.theverge.com/tech/1008254/instinct-agent-ai-hands-on-muse-dots",
-    "summary": "Before there were cute little guys, there was Instinct. In August, the startup got its AI agent to market with an unusual playbook: invite-only, no marketing, and barely so much as a website. And yet, Instinct quickly became the buzziest thing in AI, garnering praise for its stra",
-    "published": "2026-10-09T14:00:00+00:00",
     "first_seen": "2026-10-10T12:13:33.542542+00:00"
   },
   {
@@ -3699,15 +3357,6 @@
     "first_seen": "2026-10-29T12:40:08.461697+00:00"
   },
   {
-    "source": "Microsoft 365 Blog",
-    "source_tier": 1,
-    "title": "Bringing CRM into the flow of work and agents into business process for sales and service teams",
-    "link": "https://www.microsoft.com/en-us/copilot/blog/2026/10/08/bringing-crm-into-the-flow-of-work-and-agents-into-business-process-for-sales-and-service-teams/",
-    "summary": "The traditional boundaries of business applications are disappearing. For decades, people went to their customer relationship management (CRM) to find customer context, take action, and move work forward. AI is inverting that model. This shift creates two complementary opportunit",
-    "published": "2026-10-08T15:00:00+00:00",
-    "first_seen": "2026-10-29T12:40:08.461697+00:00"
-  },
-  {
     "source": "MIT Technology Review",
     "source_tier": 2,
     "title": "The Download: AI agent tracking and climate feedback loops",
@@ -6055,5 +5704,104 @@
     "summary": "Today, I\u2019m talking with Alex Stamos, chief security officer at Cognition and longtime cybersecurity expert, about what a mess cybersecurity is right now. This episode is part one of a special series looking at AI in real life. I\u2019ve always enjoyed talking to Alex because he\u2019s so d",
     "published": "2026-11-07T15:00:00+00:00",
     "first_seen": "2026-11-08T13:03:06.040748+00:00"
+  },
+  {
+    "source": "MIT Technology Review",
+    "source_tier": 2,
+    "title": "The Download: empty AI climate claims, and an Nvidia investigation",
+    "link": "https://www.technologyreview.com/2026/11/09/1148176/the-download-empty-ai-climate-claims-and-an-nvidia-investigation/",
+    "summary": "This is today\u2019s edition of The Download, our weekday newsletter that provides a daily dose of what\u2019s going on in the world of technology. Opinion: The climate case for AI has not been made\u00a0 \u2014By Mary Nichols, distinguished counsel at the UCLA School of Law and the former chair of ",
+    "published": "2026-11-09T13:15:00+00:00",
+    "first_seen": "2026-11-09T15:46:06.868102+00:00"
+  },
+  {
+    "source": "MIT Technology Review",
+    "source_tier": 2,
+    "title": "Innovating with AI in the special chemicals industry",
+    "link": "https://www.technologyreview.com/2026/11/09/1147654/innovating-with-ai-in-the-special-chemicals-industry/",
+    "summary": "As companies look to accelerate innovation with artificial intelligence, cloud computing, and advanced modeling, the primary challenge is connecting new technologies to reliable data, scientific expertise, and the practical realities of bringing products to market. For specialty ",
+    "published": "2026-11-09T13:00:00+00:00",
+    "first_seen": "2026-11-09T15:46:06.868102+00:00"
+  },
+  {
+    "source": "MIT Technology Review",
+    "source_tier": 2,
+    "title": "The climate case for AI has not been made",
+    "link": "https://www.technologyreview.com/2026/11/09/1148166/the-climate-case-for-ai-has-not-been-made/",
+    "summary": "This week, as countries meet in Antalya, Turkey for the United Nations climate conference, one topic likely to dominate the conversation is artificial intelligence. The host has already called on countries to commit to ensuring that AI is designed, powered, and deployed in ways t",
+    "published": "2026-11-09T10:00:00+00:00",
+    "first_seen": "2026-11-09T15:46:06.868102+00:00"
+  },
+  {
+    "source": "TechCrunch AI",
+    "source_tier": 2,
+    "title": "Automattic debuts a platform to deploy vibe coding apps amid a changing internet",
+    "link": "https://techcrunch.com/2026/11/09/automattic-debuts-a-platform-to-deploy-vibe-coding-apps-amid-a-changing-internet/",
+    "summary": "Automattic aims to compete with likes of Lovable with Spacefast",
+    "published": "2026-11-09T14:00:00+00:00",
+    "first_seen": "2026-11-09T15:46:06.868102+00:00"
+  },
+  {
+    "source": "TechCrunch AI",
+    "source_tier": 2,
+    "title": "Is Jensen Huang\u2019s job on the line? Yale\u2019s Jeffrey Sonnenfeld estimates it\u2019s \u201cabout a 50-50\u201d",
+    "link": "https://techcrunch.com/2026/11/08/is-jensen-huangs-job-on-the-line-yales-jeffrey-sonnenfeld-estimates-its-about-a-50-50/",
+    "summary": "Nvidia\u2019s board is investigating Jensen Huang over his relationship with a suspected Chinese spy, and Yale\u2019s Jeffrey Sonnenfeld thinks it\u2019s roughly a coin flip whether Huang stays on as CEO.",
+    "published": "2026-11-09T05:26:29+00:00",
+    "first_seen": "2026-11-09T15:46:06.868102+00:00"
+  },
+  {
+    "source": "TechCrunch AI",
+    "source_tier": 2,
+    "title": "Nvidia will investigate CEO Jensen Huang\u2019s relationship with possible Chinese spy",
+    "link": "https://techcrunch.com/2026/11/08/nvidia-says-its-investigating-ceo-jensen-huangs-relationship-with-possible-chinese-spy/",
+    "summary": "In a memo to the company, Huang admitted that he had an affair.",
+    "published": "2026-11-08T21:00:11+00:00",
+    "first_seen": "2026-11-09T15:46:06.868102+00:00"
+  },
+  {
+    "source": "The Verge AI",
+    "source_tier": 2,
+    "title": "Jonathan Kanter is using AI to take on Big Tech",
+    "link": "https://www.theverge.com/policy/1029652/kanter-doj-biden-legal-tech",
+    "summary": "When Jonathan Kanter stepped down as head of the Justice Department's Antitrust Division in 2024, he set out to keep fighting to dismantle illegal monopolies. But this time, he's continuing the fight in the private sector, and with a perhaps unexpected tool: AI. Alongside former ",
+    "published": "2026-11-09T14:30:00+00:00",
+    "first_seen": "2026-11-09T15:46:06.868102+00:00"
+  },
+  {
+    "source": "The Verge AI",
+    "source_tier": 2,
+    "title": "Here\u2019s the full text of Jensen Huang\u2019s memo to Nvidia",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/1029595/full-text-jensen-huang-affair-memo-nvidia",
+    "summary": "On Sunday, Nvidia announced it was launching an investigation into CEO Jensen Huang's relationship with Alice Huang, an AI executive and agent of the Chinese government. In addition to the Board of Directors announcing the investigation, Huang sent a memo to Nvidia employees ackn",
+    "published": "2026-11-08T22:54:50+00:00",
+    "first_seen": "2026-11-09T15:46:06.868102+00:00"
+  },
+  {
+    "source": "The Verge AI",
+    "source_tier": 2,
+    "title": "Nvidia is investigating Jensen Huang\u2019s relationship with an alleged Chinese spy",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/1029562/nvidia-investigating-jensen-huang-relationship-chinese-spy",
+    "summary": "Nvidia has announced that it is opening an investigation into CEO Jensen Huang and his relationship with Megaspeed executive Alice Huang, who was reportedly recruited by China's Ministry of State Security to spy on the company. A statement posted by the board of directors reads: ",
+    "published": "2026-11-08T20:22:39+00:00",
+    "first_seen": "2026-11-09T15:46:06.868102+00:00"
+  },
+  {
+    "source": "The Verge AI",
+    "source_tier": 2,
+    "title": "Apple is racing to make Siri more agentic",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/1029552/apple-siri-ai-agentic",
+    "summary": "Bloomberg's Mark Gurman says CEO John Ternus is pressuring AI czar Craig Federighi to accelerate the Siri roadmap and deliver a powerful AI agent that can compete with OpenAI's Dots or Meta's Muse. While Federighi has delivered a functional version of Siri AI on an incredibly sho",
+    "published": "2026-11-08T19:18:19+00:00",
+    "first_seen": "2026-11-09T15:46:06.868102+00:00"
+  },
+  {
+    "source": "The Verge AI",
+    "source_tier": 2,
+    "title": "Elvis and Eminem rights holders are suing Suno",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/1029533/elvis-eminem-suno-ai-music-clone-lawsuit",
+    "summary": "Suno is facing yet another pair of lawsuits. A group of rights holders of Elvis Presley's music and the publisher of some of Eminem's biggest records are suing the AI music company, claiming it illegally generates music and lyrics that mimic those artists. The lawyers in the Pres",
+    "published": "2026-11-08T17:23:19+00:00",
+    "first_seen": "2026-11-09T15:46:06.868102+00:00"
   }
 ]

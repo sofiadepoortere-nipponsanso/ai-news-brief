@@ -1,122 +1,5 @@
 [
   {
-    "source": "ZDNet AI",
-    "source_tier": 2,
-    "title": "Ring\u2019s new smart lock has a manual fallback that can\u2019t lock you out \u2013 how it works",
-    "link": "https://www.zdnet.com/uncategorized/ring-smart-lock-manual-power-dial/",
-    "summary": "The brand just announced a smart lock with a manual \u2018power dial\u2019 that charges the device in case it dies.",
-    "published": "2026-10-10T08:15:00+00:00",
-    "first_seen": "2026-10-10T12:13:33.542542+00:00"
-  },
-  {
-    "source": "ZDNet AI",
-    "source_tier": 2,
-    "title": "4 ways Amazon\u2019s new Alexa tablets eclipse the Fire line \u2013 starting with Google Play",
-    "link": "https://www.zdnet.com/tech/amazon-new-alexa-tablets-google-play-store/",
-    "summary": "Amazon just upped its game with new Android tablets for entertainment and work.",
-    "published": "2026-10-09T19:10:12+00:00",
-    "first_seen": "2026-10-10T12:13:33.542542+00:00"
-  },
-  {
-    "source": "ZDNet AI",
-    "source_tier": 2,
-    "title": "\u2018I use AI to do the things that I\u2019m bad at\u2019: Linus Torvalds on why it works for him",
-    "link": "https://www.zdnet.com/tech/linus-torvalds-ai-coding-programming/",
-    "summary": "The Linux creator calls vibe coding \u2018a wonderful way to find joy in programming,\u2019 but not for running Linux development. (Finding bugs is OK.)",
-    "published": "2026-10-09T17:53:18+00:00",
-    "first_seen": "2026-10-10T12:13:33.542542+00:00"
-  },
-  {
-    "source": "TechCrunch AI",
-    "source_tier": 2,
-    "title": "Anthropic can\u2019t reliably control its AI agents. It\u2019s cutting off its internal evals from the live internet instead",
-    "link": "https://techcrunch.com/2026/10/09/anthropic-cant-reliably-control-its-ai-agents-its-cutting-off-its-internal-evals-from-the-live-internet-instead/",
-    "summary": "Anthropic said it \"turned off live internet access\" for \"all our internal evaluations\" until further notice.",
-    "published": "2026-10-10T00:18:32+00:00",
-    "first_seen": "2026-10-10T12:13:33.542542+00:00"
-  },
-  {
-    "source": "TechCrunch AI",
-    "source_tier": 2,
-    "title": "The maker of non-text AI model Jev valued at $7.5B just weeks after launch",
-    "link": "https://techcrunch.com/2026/10/09/the-maker-of-non-text-ai-model-jev-valued-at-7-5b-just-weeks-after-launch/",
-    "summary": "What has users and large corporations so excited about Jev is TypeSafe\u2019s claim that it works significantly faster and uses far fewer tokens than LLMs.",
-    "published": "2026-10-09T21:41:29+00:00",
-    "first_seen": "2026-10-10T12:13:33.542542+00:00"
-  },
-  {
-    "source": "TechCrunch AI",
-    "source_tier": 2,
-    "title": "An Anthropic AI model sent a false homicide tip to Philadelphia police",
-    "link": "https://techcrunch.com/2026/10/09/an-anthropic-ai-model-sent-a-false-homicide-tip-to-philadelphia-police/",
-    "summary": "Anthropic did not discover this behavior until over two months after its AI submitted the false tip.",
-    "published": "2026-10-09T19:36:56+00:00",
-    "first_seen": "2026-10-10T12:13:33.542542+00:00"
-  },
-  {
-    "source": "TechCrunch AI",
-    "source_tier": 2,
-    "title": "Amazon and others are done keeping data center deals secret. Is it enough to build trust?",
-    "link": "https://techcrunch.com/video/amazon-and-others-are-done-keeping-data-center-deals-secret-is-it-enough-to-build-trust/",
-    "summary": "Amazon says it will\u00a0stop using NDAs\u00a0when negotiating data center deals with local governments, following\u00a0a\u00a0similar move from Microsoft\u00a0earlier this year. Secrecy has fueled community backlash against AI infrastructure, with opposition leading to\u00a0hundreds of\u00a0proposed and enacted m",
-    "published": "2026-10-09T16:56:42+00:00",
-    "first_seen": "2026-10-10T12:13:33.542542+00:00"
-  },
-  {
-    "source": "TechCrunch AI",
-    "source_tier": 2,
-    "title": "Amazon drops data center NDAs, and AI agents want your credit card",
-    "link": "https://techcrunch.com/podcast/amazon-drops-data-center-ndas-and-ai-agents-want-your-credit-card/",
-    "summary": "Amazon says it will\u00a0stop using NDAs\u00a0when negotiating data center deals with local governments, following\u00a0a\u00a0similar move from Microsoft\u00a0earlier this year. Secrecy has fueled community backlash against AI infrastructure, with opposition leading to\u00a0hundreds of\u00a0proposed and enacted m",
-    "published": "2026-10-09T16:53:02+00:00",
-    "first_seen": "2026-10-10T12:13:33.542542+00:00"
-  },
-  {
-    "source": "TechCrunch AI",
-    "source_tier": 2,
-    "title": "Danu Robotics\u2019 fight to build a better recycling robot",
-    "link": "https://techcrunch.com/2026/10/09/danu-robotics-fight-to-build-a-better-recycling-robot/",
-    "summary": "For six years, Danu founder Amy Ma has been working on a better way to sort recyclable waste.",
-    "published": "2026-10-09T16:45:00+00:00",
-    "first_seen": "2026-10-10T12:13:33.542542+00:00"
-  },
-  {
-    "source": "TechCrunch AI",
-    "source_tier": 2,
-    "title": "We can\u2019t help treating AI like it\u2019s human. But should we?",
-    "link": "https://techcrunch.com/2026/10/09/we-cant-help-treating-ai-like-its-human-but-should-we/",
-    "summary": "\"When we are drawn into even the most primitive exchanges with a relational artifact, we believe it cares for us,\" Dr. Sherry Turkle writes. \"And we are wired to care for it in return.\"",
-    "published": "2026-10-09T16:40:14+00:00",
-    "first_seen": "2026-10-10T12:13:33.542542+00:00"
-  },
-  {
-    "source": "The Verge AI",
-    "source_tier": 2,
-    "title": "Anthropic\u2019s AI gave Philadelphia police a fake tip about an unsolved homicide",
-    "link": "https://www.theverge.com/ai-artificial-intelligence/1009090/anthropic-fake-homicide-information-philadelphia-pd-tip",
-    "summary": "An Anthropic AI model provided false information about an unsolved homicide to a Philadelphia Police Department (PPD) tipline, according to a report from 6abc. In a statement released on Friday, the PPD said the AI model sent the tip through PhillyUnsolvedMurders.com on July 18th",
-    "published": "2026-10-09T21:15:38+00:00",
-    "first_seen": "2026-10-10T12:13:33.542542+00:00"
-  },
-  {
-    "source": "The Verge AI",
-    "source_tier": 2,
-    "title": "\u2018Pure insanity\u2019: Mathematicians will need years to make sense of OpenAI\u2019s latest drop",
-    "link": "https://www.theverge.com/ai-artificial-intelligence/1008726/openai-mathematics-solutions-chaos",
-    "summary": "\"Staggering.\" \"Overwhelming.\" \"Unprecedented.\" \"Surreal.\" \"Pure insanity.\" Those were among the descriptions more than three dozen mathematicians reached for in conversations with The Verge as they tried to make sense of the flood of mathematical results OpenAI abruptly dropped o",
-    "published": "2026-10-09T19:09:44+00:00",
-    "first_seen": "2026-10-10T12:13:33.542542+00:00"
-  },
-  {
-    "source": "The Verge AI",
-    "source_tier": 2,
-    "title": "Nikon microscopic video competition winner disqualified for using generative AI",
-    "link": "https://www.theverge.com/ai-artificial-intelligence/1008930/nikon-small-world-in-motion-winner-ai",
-    "summary": "Nikon says the video that originally won first place in its Small World in Motion contest \"did not comply with the competition rules regarding generative AI.\" BBC reports that the original first place video from Dr. Ning Xu claimed to show \"tiny, hair-like structures called cilia",
-    "published": "2026-10-09T18:06:57+00:00",
-    "first_seen": "2026-10-10T12:13:33.542542+00:00"
-  },
-  {
     "source": "TechCrunch AI",
     "source_tier": 2,
     "title": "Microsoft\u2019s Satya Nadella says AI models need an \u2018emergency brake\u2019",
@@ -144,15 +27,6 @@
     "first_seen": "2026-10-11T12:27:51.550618+00:00"
   },
   {
-    "source": "TechCrunch AI",
-    "source_tier": 2,
-    "title": "Here are the top AI agents that can live in your text messages",
-    "link": "https://techcrunch.com/2026/10/10/all-the-ai-agents-that-can-live-in-your-text-messages/",
-    "summary": "We created a list of the most notable AI agents that can live in your text messages, from general assistants to agents designed for families, travel, and work.",
-    "published": "2026-10-10T14:00:00+00:00",
-    "first_seen": "2026-10-11T12:27:51.550618+00:00"
-  },
-  {
     "source": "The Verge AI",
     "source_tier": 2,
     "title": "Satya Nadella says we should assume all AI models are \u2018compromised\u2019",
@@ -177,15 +51,6 @@
     "link": "https://www.theverge.com/ai-artificial-intelligence/1009286/anthropic-is-cutting-off-its-internal-evaluations-from-the-internet",
     "summary": "After a recent spate of high-profile incidents in which AI agents escaped containment, Anthropic is cutting off internet access for all internal evaluations. In a report Friday, the company detailed \"unintended model actions,\" including submitting a false tip regarding an unsolve",
     "published": "2026-10-10T14:41:16+00:00",
-    "first_seen": "2026-10-11T12:27:51.550618+00:00"
-  },
-  {
-    "source": "The Verge AI",
-    "source_tier": 2,
-    "title": "AI agent makers are promising privacy \u2014 will they deliver?",
-    "link": "https://www.theverge.com/ai-artificial-intelligence/1009051/privacy-ai-agent-promises-openai-meta-muse-dots",
-    "summary": "At this year's OpenAI DevDay, CEO Sam Altman unveiled the company's new AI agent Dots - and told the crowd that the company wants to \"set a new standard for privacy in frontier AI.\" OpenAI would spend the day taking veiled shots at Meta's Muse, its primary competitor, for failing",
-    "published": "2026-10-10T13:00:00+00:00",
     "first_seen": "2026-10-11T12:27:51.550618+00:00"
   },
   {
@@ -5803,5 +5668,365 @@
     "summary": "Suno is facing yet another pair of lawsuits. A group of rights holders of Elvis Presley's music and the publisher of some of Eminem's biggest records are suing the AI music company, claiming it illegally generates music and lyrics that mimic those artists. The lawyers in the Pres",
     "published": "2026-11-08T17:23:19+00:00",
     "first_seen": "2026-11-09T15:46:06.868102+00:00"
+  },
+  {
+    "source": "Power BI Blog",
+    "source_tier": 1,
+    "title": "Announcing the retirement of R and Python visuals in Power BI",
+    "link": "https://community.fabric.microsoft.com/t5/Power-BI-Updates-Blog/Announcing-the-retirement-of-R-and-Python-visuals-in-Power-BI/ba-p/5400748",
+    "summary": "The built-in R and Python visuals in Power BI will retire in May 2027.\nWhat changes\nThis retirement applies only to R and Python visuals in interactive Power BI reports. Python scripts used in Power Query to populate tables are not affected.\n\nPower BI service: At retirement, all ",
+    "published": "2026-11-09T19:00:39+00:00",
+    "first_seen": "2026-11-10T14:38:43.408518+00:00"
+  },
+  {
+    "source": "MIT Technology Review",
+    "source_tier": 2,
+    "title": "The Download: Pelosi\u2019s successor targets AI and data centers face power woes",
+    "link": "https://www.technologyreview.com/2026/11/10/1148150/the-download-pelosi-successor-ai-regulation-data-center-backlash/",
+    "summary": "This is today\u2019s edition of The Download, our weekday newsletter that provides a daily dose of what\u2019s going on in the world of technology. Nancy Pelosi\u2019s replacement is ready to regulate AI \u2014Grace Huckins As a California state senator, Scott Wiener authored legislation aimed at cu",
+    "published": "2026-11-10T13:10:00+00:00",
+    "first_seen": "2026-11-10T14:38:43.408518+00:00"
+  },
+  {
+    "source": "MIT Technology Review",
+    "source_tier": 2,
+    "title": "Evolving metal extraction processes",
+    "link": "https://www.technologyreview.com/2026/11/10/1147726/evolving-metal-extraction-processes/",
+    "summary": "The metals industry has experienced transformational moments before: the Bessemer process, flash smelting, electric arc furnaces, and modern continuous casting all changed what was possible. Yet, for more than a century, most extraction processes rely on techniques and pathways t",
+    "published": "2026-11-10T13:00:00+00:00",
+    "first_seen": "2026-11-10T14:38:43.408518+00:00"
+  },
+  {
+    "source": "MIT Technology Review",
+    "source_tier": 2,
+    "title": "The backlash about data centers might really just be about electricity",
+    "link": "https://www.technologyreview.com/2026/11/09/1148194/the-backlash-about-data-centers-might-really-just-be-about-electricity/",
+    "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first,\u00a0sign up here. As voters went to the polls across the US last week, I was in Ashburn, Virginia, part of what\u2019s known as Data Center Alley\u2014the world\u2019s largest",
+    "published": "2026-11-09T19:35:33+00:00",
+    "first_seen": "2026-11-10T14:38:43.408518+00:00"
+  },
+  {
+    "source": "MIT Technology Review",
+    "source_tier": 2,
+    "title": "Nancy Pelosi\u2019s replacement is ready to regulate AI",
+    "link": "https://www.technologyreview.com/2026/11/09/1148182/nancy-pelosis-replacement-is-ready-to-regulate-ai/",
+    "summary": "As a California state senator, Scott Wiener authored legislation aimed at curbing the risks of advanced AI. Now, after winning a tight congressional race for former Speaker of the House Nancy Pelosi\u2019s open San Francisco seat, he could play a key role in setting federal AI policy.",
+    "published": "2026-11-09T17:05:43+00:00",
+    "first_seen": "2026-11-10T14:38:43.408518+00:00"
+  },
+  {
+    "source": "ZDNet AI",
+    "source_tier": 2,
+    "title": "Ring\u2019s new drone patrols your home to keep an eye on things \u2013 even upstairs",
+    "link": "https://www.zdnet.com/home-and-office/ring-drone-cam-rover-cam-security-robots/",
+    "summary": "Alongside the Ring Drone Cam, Ring introduced the Rover Cam for businesses. It investigates disturbances and streams 4K footage.",
+    "published": "2026-11-10T13:30:00+00:00",
+    "first_seen": "2026-11-10T14:38:43.408518+00:00"
+  },
+  {
+    "source": "ZDNet AI",
+    "source_tier": 2,
+    "title": "How AI security failures are endangering your supply chain \u2013 and what you can do",
+    "link": "https://www.zdnet.com/tech/ai-security-failures-supply-chain-risks-black-kite-research/",
+    "summary": "New research provides a stark look at the AI supply chain and the risks it brings to businesses.",
+    "published": "2026-11-10T13:03:52+00:00",
+    "first_seen": "2026-11-10T14:38:43.408518+00:00"
+  },
+  {
+    "source": "ZDNet AI",
+    "source_tier": 2,
+    "title": "Can you still trust Proton?",
+    "link": "https://www.zdnet.com/tech/can-you-still-trust-proton/",
+    "summary": "The Swiss software company has built its reputation on a commitment to privacy. Did its CEO just destroy the trust of its customer base?",
+    "published": "2026-11-10T12:17:11+00:00",
+    "first_seen": "2026-11-10T14:38:43.408518+00:00"
+  },
+  {
+    "source": "ZDNet AI",
+    "source_tier": 2,
+    "title": "You can change Windows settings directly from a search now \u2013 how to try it",
+    "link": "https://www.zdnet.com/tech/windows-11-control-settings-from-search-insiders-preview/",
+    "summary": "The latest Windows 11 Insiders Preview enhances the Search feature so that you can access specific settings right from a search window.",
+    "published": "2026-11-09T19:33:24+00:00",
+    "first_seen": "2026-11-10T14:38:43.408518+00:00"
+  },
+  {
+    "source": "ZDNet AI",
+    "source_tier": 2,
+    "title": "AMD confirms GPU driver bug is wearing out your SSD \u2013 how to stop it",
+    "link": "https://www.zdnet.com/tech/amd-confirms-gpu-driver-bug-is-wearing-out-your-ssd-how-to-stop-it/",
+    "summary": "AMD has admitted a bug within its External Events Utility is wearing out SSDs, and promises a fix.",
+    "published": "2026-11-09T18:30:49+00:00",
+    "first_seen": "2026-11-10T14:38:43.408518+00:00"
+  },
+  {
+    "source": "ZDNet AI",
+    "source_tier": 2,
+    "title": "Ready for a Siri AI agent? Apple under pressure to upgrade its assistant faster",
+    "link": "https://www.zdnet.com/home-and-office/apple-siri-ai-agentic-strategy/",
+    "summary": "Apple\u2019s public-facing satisfaction with the Siri AI launch obscures internal pressures and tensions.",
+    "published": "2026-11-09T17:54:25+00:00",
+    "first_seen": "2026-11-10T14:38:43.408518+00:00"
+  },
+  {
+    "source": "ZDNet AI",
+    "source_tier": 2,
+    "title": "Android Auto requires Android 11 or higher now \u2013 check your compatibility",
+    "link": "https://www.zdnet.com/tech/android-auto-new-requirements-android-11/",
+    "summary": "Android Auto\u2019s minimum requirements have changed. Here\u2019s what to know.",
+    "published": "2026-11-09T17:46:42+00:00",
+    "first_seen": "2026-11-10T14:38:43.408518+00:00"
+  },
+  {
+    "source": "ZDNet AI",
+    "source_tier": 2,
+    "title": "Samsung\u2019s new SmartTag 3 debuts with next-gen Bluetooth \u2013 and one big problem",
+    "link": "https://www.zdnet.com/tech/samsung-smart-tag-3-channel-sounding/",
+    "summary": "The Galaxy SmartTag 3 supports emerging Bluetooth tracking tech, but it\u2019s not a match for Samsung\u2019s OS exclusivity.",
+    "published": "2026-11-09T17:46:38+00:00",
+    "first_seen": "2026-11-10T14:38:43.408518+00:00"
+  },
+  {
+    "source": "ZDNet AI",
+    "source_tier": 2,
+    "title": "Samsung mulls Galaxy AI usage limits and subscription tiers \u2013 what we know",
+    "link": "https://www.zdnet.com/innovation/samsung-galaxy-ai-paid-subscription/",
+    "summary": "Galaxy device owners who are heavy AI users would likely start paying for some features they\u2019ve long enjoyed for free.",
+    "published": "2026-11-09T16:55:56+00:00",
+    "first_seen": "2026-11-10T14:38:43.408518+00:00"
+  },
+  {
+    "source": "TechCrunch AI",
+    "source_tier": 2,
+    "title": "Adobe brings AI agents and new creative tools to Photoshop, Premiere, and Firefly",
+    "link": "https://techcrunch.com/2026/11/10/adobe-adds-more-ai-to-its-products-and-launches-an-mcp/",
+    "summary": "Adobe is taking on Figma with a new prototype builder tool in Firefly.",
+    "published": "2026-11-10T14:05:10+00:00",
+    "first_seen": "2026-11-10T14:38:43.408518+00:00"
+  },
+  {
+    "source": "TechCrunch AI",
+    "source_tier": 2,
+    "title": "Anthropic sets IPO price range of $70 to $78 per share to reach an implied valuation of $1.404 trillion",
+    "link": "https://techcrunch.com/2026/11/10/anthropic-sets-ipo-price-range-of-70-to-78-per-share-to-reach-an-implied-valuation-of-1-404-trillion/",
+    "summary": "The company could end up being worth a hefty $1.404 trillion if its shares list at the top of the price range, on a fully diluted basis.",
+    "published": "2026-11-10T14:01:39+00:00",
+    "first_seen": "2026-11-10T14:38:43.408518+00:00"
+  },
+  {
+    "source": "TechCrunch AI",
+    "source_tier": 2,
+    "title": "After challenging Google\u2019s Android with Cyanogen, its co-founder takes aim at Windows for AI era",
+    "link": "https://techcrunch.com/2026/11/10/after-challenging-googles-android-with-cyanogen-its-co-founder-takes-aim-at-windows-for-ai-era/",
+    "summary": "Kora is set to launch as a free-to-use alternative to Windows, targeting users who rely heavily on AI models and agents.",
+    "published": "2026-11-10T14:00:00+00:00",
+    "first_seen": "2026-11-10T14:38:43.408518+00:00"
+  },
+  {
+    "source": "TechCrunch AI",
+    "source_tier": 2,
+    "title": "Spotify\u2019s AI DJ gets new voices, personalities, and an option for less chatter",
+    "link": "https://techcrunch.com/2026/11/10/spotifys-ai-dj-gets-new-voices-personalities-and-an-option-for-less-chatter/",
+    "summary": "Spotify Premium users can now customize their AI DJ with new voices with different personalities, or turn off the commentary between songs.",
+    "published": "2026-11-10T14:00:00+00:00",
+    "first_seen": "2026-11-10T14:38:43.408518+00:00"
+  },
+  {
+    "source": "TechCrunch AI",
+    "source_tier": 2,
+    "title": "Cyberattacks threaten to make open-source AI a little less open, Hugging Face exec warns",
+    "link": "https://techcrunch.com/2026/11/10/cyberattacks-threaten-to-make-open-source-ai-a-little-less-open-hugging-face-exec-warns/",
+    "summary": "Hugging Face executive Irene Solaiman warns that growing cyberattacks on open AI platforms could force tighter security restrictions, threatening the accessibility that makes open-source communities valuable to developers worldwide.",
+    "published": "2026-11-10T13:00:00+00:00",
+    "first_seen": "2026-11-10T14:38:43.408518+00:00"
+  },
+  {
+    "source": "TechCrunch AI",
+    "source_tier": 2,
+    "title": "Otter AI can now follow conversations across 30+ languages",
+    "link": "https://techcrunch.com/2026/11/09/otter-ai-can-now-follow-conversations-across-30-languages/",
+    "summary": "Otter AI just added support for 27 languages and revealed an upcoming feature that can follow along if speakers switch between languages.",
+    "published": "2026-11-10T07:00:00+00:00",
+    "first_seen": "2026-11-10T14:38:43.408518+00:00"
+  },
+  {
+    "source": "TechCrunch AI",
+    "source_tier": 2,
+    "title": "Anthropic reportedly plans to move forward with IPO plans",
+    "link": "https://techcrunch.com/2026/11/09/anthropic-reportedly-plans-to-move-forward-with-ipo-plans/",
+    "summary": "The AI company is expected to set its valuation range this week, the Wall Street Journal reported.",
+    "published": "2026-11-10T01:27:12+00:00",
+    "first_seen": "2026-11-10T14:38:43.408518+00:00"
+  },
+  {
+    "source": "TechCrunch AI",
+    "source_tier": 2,
+    "title": "Jensen Huang reportedly engaged a PR firm with a history of handling  high-profile sex scandals a year ago",
+    "link": "https://techcrunch.com/2026/11/09/jensen-huang-reportedly-engaged-a-pr-firm-with-a-history-of-handling-high-profile-sex-scandals-a-year-ago/",
+    "summary": "The PR firm was enlisted shortly after an October 2025 New York Times report described Alice Huang's business dealings with Jensen Huang, Wired reported.",
+    "published": "2026-11-09T23:28:37+00:00",
+    "first_seen": "2026-11-10T14:38:43.408518+00:00"
+  },
+  {
+    "source": "TechCrunch AI",
+    "source_tier": 2,
+    "title": "A short seller flagged Nvidia CEO\u2019s ties to a suspected Chinese spy six months before the scandal",
+    "link": "https://techcrunch.com/2026/11/09/a-short-seller-flagged-nvidia-ceos-ties-to-a-suspected-chinese-spy-six-months-before-the-scandal/",
+    "summary": "Six months before Nvidia's spy scandal erupted, Culper Research was already questioning Jensen Huang's unusually close relationship with a Chinese executive.",
+    "published": "2026-11-09T22:46:09+00:00",
+    "first_seen": "2026-11-10T14:38:43.408518+00:00"
+  },
+  {
+    "source": "TechCrunch AI",
+    "source_tier": 2,
+    "title": "The race is on to sue Nvidia",
+    "link": "https://techcrunch.com/2026/11/09/the-race-is-on-to-sue-nvidia/",
+    "summary": "Nvidia\u2019s stock slid more than 4% after its board opened an investigation into Jensen Huang\u2019s relationship with a suspected Chinese spy, and one securities law expert says the company\u2019s earlier insistence that it was all \u201cnormal\u201d could turn into a very expensive problem.",
+    "published": "2026-11-09T22:23:42+00:00",
+    "first_seen": "2026-11-10T14:38:43.408518+00:00"
+  },
+  {
+    "source": "TechCrunch AI",
+    "source_tier": 2,
+    "title": "Jensen Huang pulls out of ElevenLabs Summit amid Nvidia controversy",
+    "link": "https://techcrunch.com/2026/11/09/jensen-huang-pulls-out-of-elevenlabs-summit-amid-nvidia-controversy/",
+    "summary": "The Nvidia CEO also pulled out of an Anthropic event earlier.",
+    "published": "2026-11-09T20:09:06+00:00",
+    "first_seen": "2026-11-10T14:38:43.408518+00:00"
+  },
+  {
+    "source": "TechCrunch AI",
+    "source_tier": 2,
+    "title": "Anthropic releases new Mythos and Fable models amid RSI concerns",
+    "link": "https://techcrunch.com/2026/11/09/anthropic-releases-new-mythos-and-fable-models-amid-rsi-concerns/",
+    "summary": "Anthropic says the new models \"show improvements in areas like coding, reasoning, and vision,\" as well as in communicating more clearly with users.",
+    "published": "2026-11-09T19:24:51+00:00",
+    "first_seen": "2026-11-10T14:38:43.408518+00:00"
+  },
+  {
+    "source": "TechCrunch AI",
+    "source_tier": 2,
+    "title": "Jensen Huang\u2019s affair with alleged Chinese spy puts Nvidia\u2019s China ambitions under scrutiny",
+    "link": "https://techcrunch.com/2026/11/09/jensen-huangs-affair-with-alleged-chinese-spy-puts-nvidias-china-ambitions-under-scrutiny/",
+    "summary": "Jensen Huang\u2019s alleged affair with a suspected Chinese spy threatens to complicate Nvidia\u2019s lobbying efforts to loosen U.S. chip export restrictions and maintain access to China\u2019s lucrative AI market.",
+    "published": "2026-11-09T18:09:52+00:00",
+    "first_seen": "2026-11-10T14:38:43.408518+00:00"
+  },
+  {
+    "source": "TechCrunch AI",
+    "source_tier": 2,
+    "title": "Meta releases Muse Ember, a new lightweight model for agent execution",
+    "link": "https://techcrunch.com/2026/11/09/meta-releases-muse-ember-a-new-lightweight-model-for-agent-execution/",
+    "summary": "At 10 cents per million input tokens, Ember is significantly cheaper than frontier competitors like Haiku and Luna.",
+    "published": "2026-11-09T18:00:00+00:00",
+    "first_seen": "2026-11-10T14:38:43.408518+00:00"
+  },
+  {
+    "source": "TechCrunch AI",
+    "source_tier": 2,
+    "title": "Anthropic joins AI\u2019s natural gas frenzy, buys $3.4B worth of turbines",
+    "link": "https://techcrunch.com/2026/11/09/anthropic-joins-ais-natural-gas-frenzy-buys-3-4b-worth-of-turbines/",
+    "summary": "Anthropic bought billions of dollars' worth of natural gas turbines in a deal that could give it buyer's remorse.",
+    "published": "2026-11-09T16:56:54+00:00",
+    "first_seen": "2026-11-10T14:38:43.408518+00:00"
+  },
+  {
+    "source": "TechCrunch AI",
+    "source_tier": 2,
+    "title": "Medium\u2019s new TK app brings AI assistance directly into the writing process",
+    "link": "https://techcrunch.com/2026/11/09/mediums-new-tk-app-brings-ai-assistance-directly-into-the-writing-process/",
+    "summary": "Medium's new writing app embraces AI-assisted writing, despite growing controversy over the technology's role in publishing.",
+    "published": "2026-11-09T16:12:28+00:00",
+    "first_seen": "2026-11-10T14:38:43.408518+00:00"
+  },
+  {
+    "source": "The Verge AI",
+    "source_tier": 2,
+    "title": "Anthropic targets $1.4 trillion IPO",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/1030703/anthropic-ipo-1-4-trillion",
+    "summary": "Anthropic confirmed on Tuesday that its IPO could be one of the biggest ever, even while falling short of previous expectations. Its IPO price is expected to be between $70.00 and $78.00 per share and according to the Wall Street Journal's sources, Anthropic is \"aiming for its sh",
+    "published": "2026-11-10T14:06:54+00:00",
+    "first_seen": "2026-11-10T14:38:43.408518+00:00"
+  },
+  {
+    "source": "The Verge AI",
+    "source_tier": 2,
+    "title": "Adobe is going all in on agentic AI",
+    "link": "https://www.theverge.com/tech/1030593/adobe-max-ai-agents-mcp-firefly-assistant-updates",
+    "summary": "Adobe is committing itself to the notion that chatbots and AI agents could be your next design assistant, or even automate creative workflows and repetitive tasks on your behalf. Some of the tools and features announced today at Adobe's Max conference in Miami, Florida, include a",
+    "published": "2026-11-10T14:00:00+00:00",
+    "first_seen": "2026-11-10T14:38:43.408518+00:00"
+  },
+  {
+    "source": "The Verge AI",
+    "source_tier": 2,
+    "title": "Photoshop, Lightroom, and Premiere are making it easier to remove things",
+    "link": "https://www.theverge.com/tech/1030653/adobe-max-2026-photoshop-premiere-removal-updates",
+    "summary": "Adobe is expanding its Creative Cloud apps and Firefly AI platform with new capabilities that aim to make design and editing projects faster and less complicated. Some of the announcements from Adobe's Max event today include features for automatically removing objects, blemishes",
+    "published": "2026-11-10T14:00:00+00:00",
+    "first_seen": "2026-11-10T14:38:43.408518+00:00"
+  },
+  {
+    "source": "The Verge AI",
+    "source_tier": 2,
+    "title": "Hands-on with Ring\u2019s new AI drone camera for your home",
+    "link": "https://www.theverge.com/tech/1030601/ring-drone-cam-hands-on-price-release-date-ai-pilot",
+    "summary": "Ring is finally shipping a flying indoor drone camera. For real this time. The Ring Drone Cam will arrive on January 27th, 2027, for $249.99, Ring founder Jamie Siminoff said at a launch event in New York City this week. If it does actually ship, it will arrive almost six years a",
+    "published": "2026-11-10T13:30:00+00:00",
+    "first_seen": "2026-11-10T14:38:43.408518+00:00"
+  },
+  {
+    "source": "The Verge AI",
+    "source_tier": 2,
+    "title": "David Ellison says AI could be the \u2018biggest creative unlock in modern history\u2019",
+    "link": "https://www.theverge.com/entertainment/1030510/paramount-skydance-david-ellison-ai",
+    "summary": "During Paramount Skydance's latest earnings call, CEO David Ellison said \"it's hard to imagine\" AI won't have a bigger impact on the film industry than CGI. In response to a question about the company's outlook for AI, Ellison said: \"I think when you zoom out and look at producti",
+    "published": "2026-11-10T00:28:49+00:00",
+    "first_seen": "2026-11-10T14:38:43.408518+00:00"
+  },
+  {
+    "source": "The Verge AI",
+    "source_tier": 2,
+    "title": "What could China get from Jensen Huang?",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/1030328/what-could-china-get-from-jensen-huang",
+    "summary": "It's difficult to overstate Nvidia's power in today's AI landscape. The company's chips are the bedrock upon which advanced AI technology in the US is being built, and demand has consistently outpaced supply for years. Nvidia has also been an influential investor in a wide range ",
+    "published": "2026-11-09T23:51:58+00:00",
+    "first_seen": "2026-11-10T14:38:43.408518+00:00"
+  },
+  {
+    "source": "The Verge AI",
+    "source_tier": 2,
+    "title": "Here\u2019s what Trump said he knew about Jensen Huang",
+    "link": "https://www.theverge.com/tech/1030446/trump-jensen-huang-press-conference",
+    "summary": "President Trump held a White House press briefing earlier today and responded to several questions about his knowledge of Nvidia CEO Jensen Huang's affair with an alleged Chinese spy. Huang said this weekend that he had been \"\u200b\u200bunfaithful\" to his wife, and the company has opened ",
+    "published": "2026-11-09T23:47:46+00:00",
+    "first_seen": "2026-11-10T14:38:43.408518+00:00"
+  },
+  {
+    "source": "The Verge AI",
+    "source_tier": 2,
+    "title": "Everything we know so far about the Nvidia spy scandal targeting CEO Jensen Huang",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/1030422/nvidia-jensen-huang-ai-china-alice-huang",
+    "summary": "The leather-jacketed CEO of Nvidia, Jensen Huang, has acknowledged an affair with Megaspeed exec Alice Huang, spurring an investigation by his company and intense discussions worldwide. Recent reporting noted that since last year, US intelligence reports had identified Alice Huan",
+    "published": "2026-11-09T23:07:59+00:00",
+    "first_seen": "2026-11-10T14:38:43.408518+00:00"
+  },
+  {
+    "source": "The Verge AI",
+    "source_tier": 2,
+    "title": "The global pledge to use AI for climate good is a cruel joke",
+    "link": "https://www.theverge.com/science/1030252/ai-data-center-climate-pledge-united-nations-cop31",
+    "summary": "At this point, reading through the latest splashy pledge to use AI for the good of the environment feels like downing a nonalcoholic beer. Admittedly, I'm suspicious from the onset. How can this be good? But I love beer and our planet enough to give it a whirl - and hey, why not ",
+    "published": "2026-11-09T21:13:16+00:00",
+    "first_seen": "2026-11-10T14:38:43.408518+00:00"
+  },
+  {
+    "source": "The Verge AI",
+    "source_tier": 2,
+    "title": "Apple\u2019s $50 Intelligence Usage Packs extend access to some AI features",
+    "link": "https://www.theverge.com/tech/1030084/apple-intelligence-usage-packs-ai-features-creator-studio-logic-pro",
+    "summary": "After publishing a support article in early September outlining usage limits for some Apple Intelligence features, the company has updated Logic Pro with an option to \"Buy More Usage\" for a one-time purchase price of $49.99, as spotted by 9to5Mac. It has a built-in AI assistant t",
+    "published": "2026-11-09T19:09:58+00:00",
+    "first_seen": "2026-11-10T14:38:43.408518+00:00"
   }
 ]

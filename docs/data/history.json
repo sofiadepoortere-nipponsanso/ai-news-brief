@@ -1,158 +1,5 @@
 [
   {
-    "source": "MIT Technology Review",
-    "source_tier": 2,
-    "title": "The Download: open model trade-offs and geothermal power\u2019s promise",
-    "link": "https://www.technologyreview.com/2026/10/13/1146382/the-download-open-models-trade-offs-geothermal-power/",
-    "summary": "This is today\u2019s edition of The Download, our weekday newsletter that provides a daily dose of what\u2019s going on in the world of technology. Open models have real benefits. Do they outweigh the risks? Anthropic recently released a report arguing that a powerful new model released by",
-    "published": "2026-10-13T12:00:00+00:00",
-    "first_seen": "2026-10-13T13:55:23.058699+00:00"
-  },
-  {
-    "source": "MIT Technology Review",
-    "source_tier": 2,
-    "title": "Open models have real benefits. Do they outweigh the risks?",
-    "link": "https://www.technologyreview.com/2026/10/13/1146366/open-models-have-real-benefits-do-they-outweigh-the-risks/",
-    "summary": "MIT Technology Review Explains: Let our writers untangle the complex, messy world of science and technology to help you understand what\u2019s coming next. You can read more from the series here. Late last month, Anthropic released a report arguing that the model GLM-5.3 poses a major",
-    "published": "2026-10-13T10:00:00+00:00",
-    "first_seen": "2026-10-13T13:55:23.058699+00:00"
-  },
-  {
-    "source": "MIT Technology Review",
-    "source_tier": 2,
-    "title": "AI labs are buying data from dead startups to train their models",
-    "link": "https://www.technologyreview.com/2026/10/13/1145755/ai-labs-buying-data-from-dead-startups-to-train-models/",
-    "summary": "When Keelan Miskell began winding down his crypto startup this year, he didn\u2019t think its data was worth much: the users were anonymous, the company just a few years old. But he\u2019s since turned the firm\u2019s digital archives into real money. He\u2019s netted roughly $25,000 for his code ba",
-    "published": "2026-10-13T09:00:00+00:00",
-    "first_seen": "2026-10-13T13:55:23.058699+00:00"
-  },
-  {
-    "source": "ZDNet AI",
-    "source_tier": 2,
-    "title": "Dutch tax authorities cancel Microsoft 365 cloud rollout \u2013 and turn toward open source",
-    "link": "https://www.zdnet.com/business/dutch-tax-authorities-cancel-microsoft-365-cloud-rollout/",
-    "summary": "Another European move toward digital sovereignty has curtailed adopting the US workplace suite.",
-    "published": "2026-10-13T11:50:35+00:00",
-    "first_seen": "2026-10-13T13:55:23.058699+00:00"
-  },
-  {
-    "source": "ZDNet AI",
-    "source_tier": 2,
-    "title": "Claude sent a false homicide tip to police \u2013 and it\u2019s part of a troubling AI pattern",
-    "link": "https://www.zdnet.com/innovation/claude-false-homicide-tip/",
-    "summary": "Models routinely take shortcuts to pass evaluations. Who gets to decide what incidents are innocuous?",
-    "published": "2026-10-12T17:45:44+00:00",
-    "first_seen": "2026-10-13T13:55:23.058699+00:00"
-  },
-  {
-    "source": "TechCrunch AI",
-    "source_tier": 2,
-    "title": "SpaceXSI bundles X Premium, Grok and Cursor into one subscription",
-    "link": "https://techcrunch.com/2026/10/13/spacexsi-bundles-x-premium-grok-and-cursor-into-one-subscription/",
-    "summary": "The new X Subscription combines X's paid features with AI tools like Grok and Cursor, offering plans ranging from $8 to $200 per month.",
-    "published": "2026-10-13T13:50:19+00:00",
-    "first_seen": "2026-10-13T13:55:23.058699+00:00"
-  },
-  {
-    "source": "TechCrunch AI",
-    "source_tier": 2,
-    "title": "The final Disrupt Stage lineup: Three days of conversations you won\u2019t hear anywhere outside of TechCrunch Disrupt 2026",
-    "link": "https://techcrunch.com/2026/10/13/the-final-disrupt-stage-lineup-three-days-of-conversations-you-wont-hear-anywhere-outside-of-techcrunch-disrupt-2026/",
-    "summary": "The full TechCrunch Disrupt Stage lineup revealed, featuring Max Hodak, Mark Wahlberg, Benchmark partners, and more. Register now to save up to $100 on your pass and get a second at 50% off.",
-    "published": "2026-10-13T13:28:06+00:00",
-    "first_seen": "2026-10-13T13:55:23.058699+00:00"
-  },
-  {
-    "source": "TechCrunch AI",
-    "source_tier": 2,
-    "title": "Amex introduces a framework to prevent AI agents from making unauthorized purchases",
-    "link": "https://techcrunch.com/2026/10/13/amex-introduces-a-framework-to-prevent-ai-agents-from-making-unauthorized-purchases/",
-    "summary": "American Express is introducing a new framework designed to ensure AI agents only make purchases their users have authorized, potentially preventing costly mistakes and disputes as AI-powered shopping grows.",
-    "published": "2026-10-13T13:00:00+00:00",
-    "first_seen": "2026-10-13T13:55:23.058699+00:00"
-  },
-  {
-    "source": "TechCrunch AI",
-    "source_tier": 2,
-    "title": "Just 5 years in, interactive chatbot platform Character.AI files for bankruptcy",
-    "link": "https://techcrunch.com/2026/10/13/just-5-years-in-interactive-chatbot-platform-character-ai-files-for-bankruptcy/",
-    "summary": "The startup will sell some of its assets to Disney for $20 million.",
-    "published": "2026-10-13T12:23:42+00:00",
-    "first_seen": "2026-10-13T13:55:23.058699+00:00"
-  },
-  {
-    "source": "TechCrunch AI",
-    "source_tier": 2,
-    "title": "Meta releases its first frontier model, Muse Wonder",
-    "link": "https://techcrunch.com/2026/10/12/meta-releases-its-first-frontier-model-muse-wonder/",
-    "summary": "Where Muse Spark aimed to be a lightweight model that could perform at low latency, the Wonder models are larger and said to be more capable, with higher benchmark scores and better results on complex tasks like coding.",
-    "published": "2026-10-12T17:56:56+00:00",
-    "first_seen": "2026-10-13T13:55:23.058699+00:00"
-  },
-  {
-    "source": "TechCrunch AI",
-    "source_tier": 2,
-    "title": "WindBorne wins a hefty US Air Force contract for its balloon data",
-    "link": "https://techcrunch.com/2026/10/12/windborne-wins-a-hefty-us-air-force-contract-for-its-balloon-data/",
-    "summary": "A Silicon Valley startup that uses weather balloons and AI to predict the weather won a U.S. military contract worth almost $50 million.",
-    "published": "2026-10-12T17:19:14+00:00",
-    "first_seen": "2026-10-13T13:55:23.058699+00:00"
-  },
-  {
-    "source": "TechCrunch AI",
-    "source_tier": 2,
-    "title": "Honeyjar offers AI tools to improve PR and comms at every company",
-    "link": "https://techcrunch.com/2026/10/12/honeyjar-offers-ai-tools-to-improve-pr-and-comms-at-every-company/",
-    "summary": "Journalists, entrepreneurs, and even some public relations professionals will tell you that the PR process is broken. But could AI actually make things better?",
-    "published": "2026-10-12T15:45:00+00:00",
-    "first_seen": "2026-10-13T13:55:23.058699+00:00"
-  },
-  {
-    "source": "TechCrunch AI",
-    "source_tier": 2,
-    "title": "Microsoft president says UK is best placed to drive AI regulation",
-    "link": "https://techcrunch.com/2026/10/12/microsoft-president-says-uk-is-best-placed-to-drive-ai-regulation/",
-    "summary": "Microsoft president Brad Smith calls for urgent AI regulation, saying milk and washing machines have more oversight than AI companies.",
-    "published": "2026-10-12T15:31:19+00:00",
-    "first_seen": "2026-10-13T13:55:23.058699+00:00"
-  },
-  {
-    "source": "TechCrunch AI",
-    "source_tier": 2,
-    "title": "This AI startup says it can generate permit-ready blueprints in minutes",
-    "link": "https://techcrunch.com/2026/10/12/this-ai-startup-says-it-can-generate-permit-ready-blueprints-in-minutes/",
-    "summary": "Blueprints AI, a bootstrapped startup based in Santa Monica, developed software that produces code-compliant construction blueprints from a photo, PDF, or sketch.",
-    "published": "2026-10-12T15:27:59+00:00",
-    "first_seen": "2026-10-13T13:55:23.058699+00:00"
-  },
-  {
-    "source": "The Verge AI",
-    "source_tier": 2,
-    "title": "Apple launches HomeView, its first smart display for the home",
-    "link": "https://www.theverge.com/tech/1009704/apple-homeview-smart-display-first-look",
-    "summary": "It's finally here: Apple's long-rumored smart display, the Apple HomeView, has arrived. I got a first look at the device in New York City this week, and it's gorgeous. The HomeView puts a small, vibrant screen atop a speaker base for taking video calls, beautifully displaying pho",
-    "published": "2026-10-13T13:00:00+00:00",
-    "first_seen": "2026-10-13T13:55:23.058699+00:00"
-  },
-  {
-    "source": "The Verge AI",
-    "source_tier": 2,
-    "title": "Character.AI files for bankruptcy",
-    "link": "https://www.theverge.com/ai-artificial-intelligence/1009802/character-ai-files-for-bankruptcy-disney",
-    "summary": "Character.AI, one of the first breakout startups of the generative AI boom, has filed for bankruptcy and is selling some of its assets to Disney. The company, which builds various online bots for users to chat or roleplay with, has faced mounting scrutiny and lawsuits over the sa",
-    "published": "2026-10-13T10:32:23+00:00",
-    "first_seen": "2026-10-13T13:55:23.058699+00:00"
-  },
-  {
-    "source": "The Verge AI",
-    "source_tier": 2,
-    "title": "Meta has some Wonder Full new AI models",
-    "link": "https://www.theverge.com/ai-artificial-intelligence/1009479/meta-muse-wonder-full-ai-model",
-    "summary": "Meta is making up for lost time in the AI race. After launching Muse Spark, the first model from its revamped Superintelligence Labs division, and buzzy AI agent Muse, it's now launching two new models it claims can go toe-to-toe with the industry's best. The new models, Muse Won",
-    "published": "2026-10-12T17:00:00+00:00",
-    "first_seen": "2026-10-13T13:55:23.058699+00:00"
-  },
-  {
     "source": "Power BI Blog",
     "source_tier": 1,
     "title": "Amazon Redshift V2 Connector for Microsoft Data Factory",
@@ -324,15 +171,6 @@
     "first_seen": "2026-10-14T11:32:32.180131+00:00"
   },
   {
-    "source": "TechCrunch AI",
-    "source_tier": 2,
-    "title": "TechCrunch Disrupt 2026: Day 1",
-    "link": "https://techcrunch.com/2026/10/13/techcrunch-disrupt-2026-day-1/",
-    "summary": "TechCrunch Disrupt 2026 officially kicks off today. See what's in store for Day 1 (Oct. 13) at San Francisco's Moscone West. Don't miss it. Register for your pass now and meet 10,000+ tech leaders at the startup epicenter of the year.",
-    "published": "2026-10-13T14:00:00+00:00",
-    "first_seen": "2026-10-14T11:32:32.180131+00:00"
-  },
-  {
     "source": "The Verge AI",
     "source_tier": 2,
     "title": "OpenAI employee arrested for allegedly planting a bug in a conference room",
@@ -414,15 +252,6 @@
     "first_seen": "2026-10-14T11:32:32.180131+00:00"
   },
   {
-    "source": "The Verge AI",
-    "source_tier": 2,
-    "title": "DLSS 5 gets toned down for its Hogwarts Legacy debut next month",
-    "link": "https://www.theverge.com/news/1009904/dlss-5-hogwarts-legacy-changes-improvements",
-    "summary": "When Nvidia originally showed off DLSS 5 earlier this year, the technology immediately got branded as gen AI for video games. To gamers, Nvidia had lost the plot. I personally couldn't get over how faces were transformed using DLSS 5. The 15-year-old student from Hogwarts Legacy ",
-    "published": "2026-10-13T13:55:45+00:00",
-    "first_seen": "2026-10-14T11:32:32.180131+00:00"
-  },
-  {
     "source": "MIT Technology Review",
     "source_tier": 2,
     "title": "How much more can nuclear power plants give?",
@@ -465,15 +294,6 @@
     "link": "https://www.zdnet.com/tech/windows-october-update-patches-file-explorer-bluetooth/",
     "summary": "This month\u2019s update also marks the first official one for Windows 11 26H2 and the end of support for Windows 11 24H2 Home and Pro.",
     "published": "2026-10-14T13:59:59+00:00",
-    "first_seen": "2026-10-15T11:10:33.142444+00:00"
-  },
-  {
-    "source": "ZDNet AI",
-    "source_tier": 2,
-    "title": "\u2018So perfect, they are literally identical\u2019 \u2013 Your AI-polished resumes are recruiters\u2019 new top stressor",
-    "link": "https://www.zdnet.com/education/employ-report-ai-hr-hiring/",
-    "summary": "Exclusive: A new Employ report shows how AI is both helping and hurting the hiring industry.",
-    "published": "2026-10-13T13:00:00+00:00",
     "first_seen": "2026-10-15T11:10:33.142444+00:00"
   },
   {
@@ -6379,5 +6199,374 @@
     "summary": "Some of the most impressive tech that Adobe showcases at its annual Max conference each year is the experimental features it's developing, and the latest of those tools are being announced today: they can transform images into explorable 3D scenes, design AI characters by talking",
     "published": "2026-11-11T14:00:00+00:00",
     "first_seen": "2026-11-12T14:55:23.244385+00:00"
+  },
+  {
+    "source": "MIT Technology Review",
+    "source_tier": 2,
+    "title": "The Download: Silicon Valley\u2019s blind spot and Nvidia\u2019s chip-tracking plan",
+    "link": "https://www.technologyreview.com/2026/11/13/1148551/the-download-silicon-valley-midterms-nvidia-chip-tracking/",
+    "summary": "This is today\u2019s edition of The Download, our weekday newsletter that provides a daily dose of what\u2019s going on in the world of technology. Silicon Valley claims to know the future. So why did it get the midterms so wrong? \u2014Aaron Zamost, a tech communications consultant and a forme",
+    "published": "2026-11-13T13:10:00+00:00",
+    "first_seen": "2026-11-13T14:20:42.800137+00:00"
+  },
+  {
+    "source": "MIT Technology Review",
+    "source_tier": 2,
+    "title": "More autonomy, fewer NDAs: Volunteers have new requests for brain implant trials",
+    "link": "https://www.technologyreview.com/2026/11/13/1148474/more-autonomy-fewer-ndas-volunteers-have-new-requests-for-brain-implant-trials/",
+    "summary": "Scientists have been working on ways to decode brain activity for decades. Teams have developed brain implants that can be used to control robotic limbs and computers, and even to \u201cspeak.\u201d The people who volunteer for trials of those devices play a vital role in that research, an",
+    "published": "2026-11-13T10:00:00+00:00",
+    "first_seen": "2026-11-13T14:20:42.800137+00:00"
+  },
+  {
+    "source": "MIT Technology Review",
+    "source_tier": 2,
+    "title": "Silicon Valley claims to know the future. So why did it get the midterms so wrong?",
+    "link": "https://www.technologyreview.com/2026/11/13/1148498/silicon-valley-claims-to-know-the-future-so-why-did-it-get-the-midterms-so-wrong/",
+    "summary": "The self-styled visionaries of Silicon Valley, leaders like OpenAI chief executive Sam Altman and SpaceX boss Elon Musk, have built careers claiming to see the future. Long-term vision is currency: Meta\u2019s Mark Zuckerberg built a 10-year road map for Facebook in 2016, and Google f",
+    "published": "2026-11-13T10:00:00+00:00",
+    "first_seen": "2026-11-13T14:20:42.800137+00:00"
+  },
+  {
+    "source": "MIT Technology Review",
+    "source_tier": 2,
+    "title": "Nvidia privately confirmed it could track chips to fight smuggling, even as industry publicly questioned feasibility",
+    "link": "https://www.technologyreview.com/2026/11/12/1148483/nvidia-chip-tracking/",
+    "summary": "Representatives from Nvidia told Illinois representative Bill Foster that it would be technically possible to implement the anti-smuggling measures called for in the Chip Security Act, Foster told MIT Technology Review in an interview on Thursday, even while an industry group cla",
+    "published": "2026-11-12T20:16:24+00:00",
+    "first_seen": "2026-11-13T14:20:42.800137+00:00"
+  },
+  {
+    "source": "ZDNet AI",
+    "source_tier": 2,
+    "title": "Microsoft outage continues into Friday \u2013 what we know",
+    "link": "https://www.zdnet.com/business/microsoft-outage-outlook-teams-copilot/",
+    "summary": "The company is steadily restoring service and thinks a software update may be to blame.",
+    "published": "2026-11-12T19:45:52+00:00",
+    "first_seen": "2026-11-13T14:20:42.800137+00:00"
+  },
+  {
+    "source": "ZDNet AI",
+    "source_tier": 2,
+    "title": "Roku drops smart home products to focus on streaming \u2013 what that means for your devices",
+    "link": "https://www.zdnet.com/home-and-office/roku-discontinues-smart-home-products/",
+    "summary": "Roku is winding down its smart home business following its sale to Fox. Here\u2019s what to know.",
+    "published": "2026-11-12T18:43:08+00:00",
+    "first_seen": "2026-11-13T14:20:42.800137+00:00"
+  },
+  {
+    "source": "ZDNet AI",
+    "source_tier": 2,
+    "title": "Attention, Android power users: This app unlocks 30+ features you won\u2019t find in Settings",
+    "link": "https://www.zdnet.com/tech/essentials-android-app-power-user-settings/",
+    "summary": "Is Android Settings not delivering enough power? The Essentials app features 30+ mods and tweaks \u2013 but you won\u2019t find it in the Play Store",
+    "published": "2026-11-12T18:15:00+00:00",
+    "first_seen": "2026-11-13T14:20:42.800137+00:00"
+  },
+  {
+    "source": "ZDNet AI",
+    "source_tier": 2,
+    "title": "You can force Gemini to forget about you now \u2013 how to edit its Memory",
+    "link": "https://www.zdnet.com/innovation/google-gemini-memory-summary-user-control/",
+    "summary": "A new option called Memory summary lets you see and control the things that Gemini AI knows about you.",
+    "published": "2026-11-12T17:58:52+00:00",
+    "first_seen": "2026-11-13T14:20:42.800137+00:00"
+  },
+  {
+    "source": "ZDNet AI",
+    "source_tier": 2,
+    "title": "Google Wallet just turned your Android phone into a digital house key \u2013 how it works",
+    "link": "https://www.zdnet.com/home-and-office/google-wallet-digital-home-keys-smart-locks/",
+    "summary": "Google is moving digital keys out of individual smart lock apps and into the Google Wallet.",
+    "published": "2026-11-12T17:50:24+00:00",
+    "first_seen": "2026-11-13T14:20:42.800137+00:00"
+  },
+  {
+    "source": "ZDNet AI",
+    "source_tier": 2,
+    "title": "Google\u2019s Pixel Tag tracker won\u2019t work as well on older Android phones \u2013 check our list",
+    "link": "https://www.zdnet.com/tech/google-pixel-tag-android-tracker-bluetooth-6-0-older-phones/",
+    "summary": "Several of the tracker\u2019s best features require Bluetooth 6.0-compatible device.",
+    "published": "2026-11-12T17:11:16+00:00",
+    "first_seen": "2026-11-13T14:20:42.800137+00:00"
+  },
+  {
+    "source": "ZDNet AI",
+    "source_tier": 2,
+    "title": "Fitbit users can\u2019t see Google Health metrics after update \u2013 how to fix it",
+    "link": "https://www.zdnet.com/tech/fitbit-health-metrics-missing-software-update-how-to-fix/",
+    "summary": "Google says it\u2019s working on a fix \u2013 meantime, users have found workarounds.",
+    "published": "2026-11-12T16:41:38+00:00",
+    "first_seen": "2026-11-13T14:20:42.800137+00:00"
+  },
+  {
+    "source": "ZDNet AI",
+    "source_tier": 2,
+    "title": "If the November Windows update fails to install on your PC, here\u2019s what to do",
+    "link": "https://www.zdnet.com/tech/microsoft-windows-november-update-fails-install-some-pcs/",
+    "summary": "This month\u2019s security update is failing on some systems already running the preview update released in October. But there is a fix afoot.",
+    "published": "2026-11-12T15:11:08+00:00",
+    "first_seen": "2026-11-13T14:20:42.800137+00:00"
+  },
+  {
+    "source": "TechCrunch AI",
+    "source_tier": 2,
+    "title": "Israel\u2019s VCs see opportunity for challengers in Nvidia\u2019s turmoil",
+    "link": "https://techcrunch.com/2026/11/13/israels-vcs-see-opportunity-for-challengers-in-nvidias-turmoil/",
+    "summary": "Given Nvidia\u2019s stronghold on AI and its importance in Israel, many in the country's startup ecosystem are worried about the impact of his departure.",
+    "published": "2026-11-13T12:52:19+00:00",
+    "first_seen": "2026-11-13T14:20:42.800137+00:00"
+  },
+  {
+    "source": "TechCrunch AI",
+    "source_tier": 2,
+    "title": "Jensen Huang didn\u2019t show confidence in his successor, report says",
+    "link": "https://techcrunch.com/2026/11/13/jensen-huang-didnt-show-confidence-in-his-successor-report-says/",
+    "summary": "Huang described Kress as a \"deer in the headlights\" during a meeting in summer.",
+    "published": "2026-11-13T12:28:23+00:00",
+    "first_seen": "2026-11-13T14:20:42.800137+00:00"
+  },
+  {
+    "source": "TechCrunch AI",
+    "source_tier": 2,
+    "title": "Democrats launch Nvidia investigation, write scathing letter on Huang\u2019s \u2018scheme\u2019 with Trump",
+    "link": "https://techcrunch.com/2026/11/12/democrats-launch-nvidia-investigation-write-scathing-letter-on-huangs-scheme-with-trump/",
+    "summary": "This Congressional investigation into Nvidia's China sales and its dealings with Trump is the second one, so far, since news of the alleged spy affair broke.",
+    "published": "2026-11-12T22:42:51+00:00",
+    "first_seen": "2026-11-13T14:20:42.800137+00:00"
+  },
+  {
+    "source": "TechCrunch AI",
+    "source_tier": 2,
+    "title": "Muse can now place calls to US businesses \u2014 if you pay",
+    "link": "https://techcrunch.com/2026/11/12/muse-can-now-place-calls-to-u-s-businesses-if-you-pay/",
+    "summary": "Muse's AI can now place outbound calls to U.S. businesses \u2014 but it's not free.",
+    "published": "2026-11-12T22:22:28+00:00",
+    "first_seen": "2026-11-13T14:20:42.800137+00:00"
+  },
+  {
+    "source": "TechCrunch AI",
+    "source_tier": 2,
+    "title": "Nebius tests the neocloud playbook with $40 billion in planned spending",
+    "link": "https://techcrunch.com/2026/11/12/nebius-tests-the-neocloud-playbook-with-40-billion-in-planned-spending/",
+    "summary": "Nebius plans to fund its $40 billion AI infrastructure expansion through customer prepayments and loans, even as delays at a Microsoft data center raise questions about its financing model.",
+    "published": "2026-11-12T21:27:10+00:00",
+    "first_seen": "2026-11-13T14:20:42.800137+00:00"
+  },
+  {
+    "source": "TechCrunch AI",
+    "source_tier": 2,
+    "title": "Jensen Huang was having a third affair, Reuters reports",
+    "link": "https://techcrunch.com/2026/11/12/jensen-huang-was-having-a-third-affair-reuters-reports/",
+    "summary": "Reuters is withholding the name of the new employee linked to Huang, but says she is an employee of Nvidia.",
+    "published": "2026-11-12T20:26:47+00:00",
+    "first_seen": "2026-11-13T14:20:42.800137+00:00"
+  },
+  {
+    "source": "TechCrunch AI",
+    "source_tier": 2,
+    "title": "Google\u2019s latest Search upgrade promises better answers to your most complicated questions",
+    "link": "https://techcrunch.com/2026/11/12/googles-latest-search-upgrade-promises-better-answers-to-your-most-complicated-questions/",
+    "summary": "Powered by Gemini 4 Hydrogen, Google's AI Mode is getting better at understanding complex queries, surfacing relevant links, and delivering richer visual responses.",
+    "published": "2026-11-12T19:27:45+00:00",
+    "first_seen": "2026-11-13T14:20:42.800137+00:00"
+  },
+  {
+    "source": "TechCrunch AI",
+    "source_tier": 2,
+    "title": "Nectar launches an AI agent to automate creator discovery and outreach for brands",
+    "link": "https://techcrunch.com/2026/11/12/nectar-launches-an-ai-agent-to-automate-creator-discovery-and-outreach-for-brands/",
+    "summary": "Nectar's new AI agent automates influencer marketing, helping brands discover creators, manage outreach and partnerships, and track campaign results.",
+    "published": "2026-11-12T19:11:00+00:00",
+    "first_seen": "2026-11-13T14:20:42.800137+00:00"
+  },
+  {
+    "source": "TechCrunch AI",
+    "source_tier": 2,
+    "title": "Jensen Huang\u2019s exit puts Nvidia\u2019s support for open source in question",
+    "link": "https://techcrunch.com/2026/11/12/jensen-huangs-exit-puts-nvidias-support-for-open-source-in-question/",
+    "summary": "Jensen Huang\u2019s resignation raises questions about Nvidia\u2019s commitment to open source AI, including its Hugging Face acquisition, open-weight models, and advocacy against restrictions, as the company navigates a leadership transition.",
+    "published": "2026-11-12T18:39:23+00:00",
+    "first_seen": "2026-11-13T14:20:42.800137+00:00"
+  },
+  {
+    "source": "TechCrunch AI",
+    "source_tier": 2,
+    "title": "Hugging Face CEO vows to keep fighting for open source AI after Jensen Huang\u2019s exit",
+    "link": "https://techcrunch.com/2026/11/12/hugging-face-ceo-vows-to-keep-fighting-for-open-source-ai-after-jensen-huangs-exit/",
+    "summary": "Hugging Face's CEO pledged to keep fighting for open source AI after Huang's exit, raising questions about Nvidia's $12.9 billion acquisition.",
+    "published": "2026-11-12T17:36:40+00:00",
+    "first_seen": "2026-11-13T14:20:42.800137+00:00"
+  },
+  {
+    "source": "TechCrunch AI",
+    "source_tier": 2,
+    "title": "United Airlines blocks AI agents from booking flights, citing cybersecurity risks",
+    "link": "https://techcrunch.com/2026/11/12/united-airlines-blocks-ai-agents-from-booking-flights-citing-cybersecurity-risks/",
+    "summary": "The airline said it will not allow customers to use AI agents to book flights and manage reservations.",
+    "published": "2026-11-12T17:17:58+00:00",
+    "first_seen": "2026-11-13T14:20:42.800137+00:00"
+  },
+  {
+    "source": "TechCrunch AI",
+    "source_tier": 2,
+    "title": "SoftBank\u2019s billion-dollar loss may have put a cap on AI\u2019s natural gas ambitions",
+    "link": "https://techcrunch.com/2026/11/12/softbanks-billion-dollar-loss-may-have-put-a-cap-on-ais-natural-gas-ambitions/",
+    "summary": "SoftBank lost over $3 billion preordering natural gas turbines to power AI data centers. Here's what the loss means to power markets.",
+    "published": "2026-11-12T17:00:52+00:00",
+    "first_seen": "2026-11-13T14:20:42.800137+00:00"
+  },
+  {
+    "source": "TechCrunch AI",
+    "source_tier": 2,
+    "title": "Phota Labs uses AI to turn everyday photos into professional-looking shots",
+    "link": "https://techcrunch.com/2026/11/12/phota-labs-uses-ai-to-turn-everyday-photos-into-professional-looking-shots/",
+    "summary": "Rather than giving consumers yet another photo-editing tool, Phota Labs aims to use advances in AI to automate the editing process so it\u2019s easier for anyone to turn everyday moments into better photos.",
+    "published": "2026-11-12T17:00:00+00:00",
+    "first_seen": "2026-11-13T14:20:42.800137+00:00"
+  },
+  {
+    "source": "TechCrunch AI",
+    "source_tier": 2,
+    "title": "Jensen Huang agrees to testify before Congress",
+    "link": "https://techcrunch.com/2026/11/12/jensen-huang-agrees-to-testify-before-congress/",
+    "summary": "Huang, who was ousted as CEO following reports of an alleged affair with a woman suspected of spying for China, agreed to testify Wednesday after several senior lawmakers threatened to subpoena him.",
+    "published": "2026-11-12T16:36:37+00:00",
+    "first_seen": "2026-11-13T14:20:42.800137+00:00"
+  },
+  {
+    "source": "TechCrunch AI",
+    "source_tier": 2,
+    "title": "Five ways Jensen Huang\u2019s ouster from Nvidia could damage the AI industry",
+    "link": "https://techcrunch.com/2026/11/12/five-ways-jensen-huangs-ouster-from-nvidia-could-damage-the-ai-industry/",
+    "summary": "Nvidia's ousted CEO Jensen Huang's downfall isn\u2019t just your run-of-the-mill salacious billionaire sex scandal. He was using his influence to push the AI industry in some very specific ways.",
+    "published": "2026-11-12T16:32:33+00:00",
+    "first_seen": "2026-11-13T14:20:42.800137+00:00"
+  },
+  {
+    "source": "TechCrunch AI",
+    "source_tier": 2,
+    "title": "Trump floats Apple chairman Tim Cook as Jensen Huang\u2019s successor",
+    "link": "https://techcrunch.com/2026/11/12/trump-floats-apple-chairman-tim-cook-as-jensen-huangs-successor/",
+    "summary": "In a post on Truth Social, President Trump says only one man can take Jensen Huang's place as head of Nvidia: Tim Cook.",
+    "published": "2026-11-12T16:12:44+00:00",
+    "first_seen": "2026-11-13T14:20:42.800137+00:00"
+  },
+  {
+    "source": "TechCrunch AI",
+    "source_tier": 2,
+    "title": "Jensen Huang is out at Nvidia \u2014 who is Colette Kress, his interim replacement?",
+    "link": "https://techcrunch.com/2026/11/12/jensen-huang-is-out-at-nvidia-who-is-colette-kress-his-interim-replacement/",
+    "summary": "Nvidia CFO Colette Kress is taking over as an interim replacement for longtime CEO Jensen Huang, who is embroiled in scandal.",
+    "published": "2026-11-12T15:37:29+00:00",
+    "first_seen": "2026-11-13T14:20:42.800137+00:00"
+  },
+  {
+    "source": "TechCrunch AI",
+    "source_tier": 2,
+    "title": "Norwest pushes deeper into AI with new $4B fund",
+    "link": "https://techcrunch.com/2026/11/12/norwest-pushes-deeper-into-ai-with-new-4b-fund/",
+    "summary": "This is the investment firm's largest fund to date.",
+    "published": "2026-11-12T15:18:14+00:00",
+    "first_seen": "2026-11-13T14:20:42.800137+00:00"
+  },
+  {
+    "source": "TechCrunch AI",
+    "source_tier": 2,
+    "title": "Cyberattack on Fireworks AI allowed hackers to access Notion customers\u2019 chat transcripts",
+    "link": "https://techcrunch.com/2026/11/12/cyberattack-on-fireworks-ai-allowed-hackers-to-access-notion-customers-chat-transcripts/",
+    "summary": "This is Fireworks' second data breach in as many months.",
+    "published": "2026-11-12T15:02:28+00:00",
+    "first_seen": "2026-11-13T14:20:42.800137+00:00"
+  },
+  {
+    "source": "The Verge AI",
+    "source_tier": 2,
+    "title": "Claude\u2019s Duet agent is a little neurotic and surprisingly helpful",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/1032518/claude-duet-ai-agent-hands-on",
+    "summary": "Normally, the products I test don't offer to help me write up my experience with them. Duet is different. Claude Duet is Anthropic's AI agent for consumers, the latest attempt by an AI company to try to convince us that agents can be useful for people who don't write code. It's b",
+    "published": "2026-11-13T14:00:00+00:00",
+    "first_seen": "2026-11-13T14:20:42.800137+00:00"
+  },
+  {
+    "source": "The Verge AI",
+    "source_tier": 2,
+    "title": "Let\u2019s talk about Jensen Huang\u2019s many affairs!",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/1032339/lets-talk-about-the-nvidia-shitshow",
+    "summary": "Usually, we'd be offering to answer your questions about a news event, but honestly we don't really have any answers about what the hell is going on over at Nvidia. I can't speak for Nilay but at the rate Jensen Huang's new mistresses are dropping, I am concerned we are approachi",
+    "published": "2026-11-13T12:00:00+00:00",
+    "first_seen": "2026-11-13T14:20:42.800137+00:00"
+  },
+  {
+    "source": "The Verge AI",
+    "source_tier": 2,
+    "title": "Google\u2019s new Gemini model is better at understanding complicated questions",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/1032505/google-search-ai-mode-gemini-4-hydrogen",
+    "summary": "Google says its new Gemini 4 Hydrogen model can give more helpful answers to complex questions, including \"questions with multiple parts, hard-to-understand typos, or highly specific requests.\" The new model can break down your questions and address each part in its responses. It",
+    "published": "2026-11-12T21:55:32+00:00",
+    "first_seen": "2026-11-13T14:20:42.800137+00:00"
+  },
+  {
+    "source": "The Verge AI",
+    "source_tier": 2,
+    "title": "No, AI agents did not discover a previously unknown Maya site",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/1032125/ai-agents-maya-site-archeology-discovery",
+    "summary": "Armed with a team of AI agents, Google researcher Pietro Miotti claimed earlier this week to have discovered a potentially unmapped Maya site in Mexico. There was just one problem: The site had already been discovered and was published in an academic journal last year. The incide",
+    "published": "2026-11-12T19:42:40+00:00",
+    "first_seen": "2026-11-13T14:20:42.800137+00:00"
+  },
+  {
+    "source": "The Verge AI",
+    "source_tier": 2,
+    "title": "Oh, Palantir is \u2018progressive\u2019 now, is it?",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/1032126/alex-baby-you-were-recorded-on-video",
+    "summary": "I had other things to do today, but Alex Karp's pathetic attempt to pivot back to the left gave me no choice but to put them on hold. Last week's elections were a bloodbath for the right, a problem for all the wannabe fash founders who had tied their political fortunes to a \"vibe",
+    "published": "2026-11-12T18:06:54+00:00",
+    "first_seen": "2026-11-13T14:20:42.800137+00:00"
+  },
+  {
+    "source": "The Verge AI",
+    "source_tier": 2,
+    "title": "The Jensen Huang scandal is hardly over",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/1032069/jensen-huang-resignation-affair-chips-smuggling",
+    "summary": "I was certain, until the story of Jensen Huang's second affair hit, that Huang was bulletproof. After all, why wouldn't he be? He's placed himself indispensably at the center of the AI industry and famously had no succession plan at Nvidia. In fact, he's the only CEO Nvidia has e",
+    "published": "2026-11-12T17:44:33+00:00",
+    "first_seen": "2026-11-13T14:20:42.800137+00:00"
+  },
+  {
+    "source": "The Verge AI",
+    "source_tier": 2,
+    "title": "AI chatbots are recommending fake retail websites, study finds",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/1032020/gemini-chatgpt-perplexity-shopping-test-risky-fake-websites-citations",
+    "summary": "Shoppers using AI chatbots to research products or find places to buy items could be directed to imposters and other risky websites, a new study found. The study conducted by IP protection firm Podqi and shared exclusively with The Verge prompted ChatGPT, Gemini, and Perplexity w",
+    "published": "2026-11-12T17:00:00+00:00",
+    "first_seen": "2026-11-13T14:20:42.800137+00:00"
+  },
+  {
+    "source": "The Verge AI",
+    "source_tier": 2,
+    "title": "More game developers are starting to use generative AI",
+    "link": "https://www.theverge.com/games/1032085/gdc-festival-of-gaming-annual-survey-ai-layoffs",
+    "summary": "More video game developers are using generative AI tools in their jobs compared to last year, according to the GDC Festival of Gaming's latest annual industry survey. Forty percent of developers surveyed say they use it \"as part of their job,\" an increase from 36 percent in 2025.",
+    "published": "2026-11-12T17:00:00+00:00",
+    "first_seen": "2026-11-13T14:20:42.800137+00:00"
+  },
+  {
+    "source": "The Verge AI",
+    "source_tier": 2,
+    "title": "Jensen Huang is out. What did China want from him?",
+    "link": "https://www.theverge.com/podcast/1031260/nvidia-jensen-huang-resign-china-spy-scandal-ai-chips-trump",
+    "summary": "Today, we\u2019re talking about the Jensen Huang scandal at Nvidia, which is developing so quickly that we had to do an emergency update of this intro minutes before publishing this episode. Huang just resigned from his position as CEO of Nvidia as news of his affairs, including with ",
+    "published": "2026-11-12T16:30:00+00:00",
+    "first_seen": "2026-11-13T14:20:42.800137+00:00"
+  },
+  {
+    "source": "The Verge AI",
+    "source_tier": 2,
+    "title": "Read Nvidia\u2019s internal emails about the \u2018extraordinarily difficult period\u2019 amid CEO shakeup",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/1032028/read-nvidias-internal-emails-jensen-huang",
+    "summary": "Jensen Huang resigned as CEO of Nvidia this morning, a company he co-founded in 1993. The decision came following the company's board opening an investigation into multiple extramarital affairs Huang had with a direct report and an alleged Chinese spy. The new, and first, Chair o",
+    "published": "2026-11-12T15:48:12+00:00",
+    "first_seen": "2026-11-13T14:20:42.800137+00:00"
   }
 ]

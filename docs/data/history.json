@@ -1,281 +1,11 @@
 [
   {
-    "source": "Power BI Blog",
-    "source_tier": 1,
-    "title": "Power BI\u00a0October\u00a02026\u00a0Feature Summary",
-    "link": "https://community.fabric.microsoft.com/t5/Power-BI-Updates-Blog/Power-BI-October-2026-Feature-Summary/ba-p/5374650",
-    "summary": "Last month, we shared a packed September update alongside the European Microsoft Fabric + SQL Community Conference. Even so, the Power BI team has continued delivering new capabilities, and we didn't want to wait another month to share them.\nThis update includes enhancements acro",
-    "published": "2026-10-15T21:25:10+00:00",
-    "first_seen": "2026-10-16T11:05:33.962307+00:00"
-  },
-  {
-    "source": "Power BI Blog",
-    "source_tier": 1,
-    "title": "Databricks ADBC connector for Power BI and Microsoft Fabric (Generally Available)",
-    "link": "https://community.fabric.microsoft.com/t5/Power-BI-Updates-Blog/Databricks-ADBC-connector-for-Power-BI-and-Microsoft-Fabric/ba-p/5369591",
-    "summary": "This release is part of the broader ODBC-to-ADBC transition for Power Query connectors described in the Transition from ODBC to ADBC drivers in Power BI and Microsoft Fabric documentation.\nWhat\u2019s new\nExisting connections in your semantic models, dataflows, and paginated reports c",
-    "published": "2026-10-15T17:00:00+00:00",
-    "first_seen": "2026-10-16T11:05:33.962307+00:00"
-  },
-  {
-    "source": "MIT Technology Review",
-    "source_tier": 2,
-    "title": "This implant can restore sight for patients with macular degeneration",
-    "link": "https://www.technologyreview.com/2026/10/16/1145840/prima-implant-restores-sight-macular-degeneration-patients/",
-    "summary": "Age-related macular degeneration (AMD) affects more than 5 million people around the world. And until now, no treatment could restore their vision. The Prima system, which was approved in Europe in July and is awaiting FDA clearance in the US, changes that. It combines a retinal ",
-    "published": "2026-10-16T09:00:00+00:00",
-    "first_seen": "2026-10-16T11:05:33.962307+00:00"
-  },
-  {
-    "source": "MIT Technology Review",
-    "source_tier": 2,
-    "title": "Love is infrastructure",
-    "link": "https://www.technologyreview.com/2026/10/16/1145845/love-is-infrastructure-fiction-charlie-jane-anders/",
-    "summary": "I. Meet cute Barnabas and Mainspring grew up near at hand, about an hour apart with good traffic, but for a long time they weren\u2019t close. They traded glimpses and occasional hellos and then went about their business. Both of them carried on livelier conversations with farther-flu",
-    "published": "2026-10-16T09:00:00+00:00",
-    "first_seen": "2026-10-16T11:05:33.962307+00:00"
-  },
-  {
-    "source": "MIT Technology Review",
-    "source_tier": 2,
-    "title": "Can\u2019t bear to say goodbye to your pet? Biotech\u2019s got you covered.",
-    "link": "https://www.technologyreview.com/2026/10/16/1146766/pet-biotech-longevity-cloning-cryonics/",
-    "summary": "I don\u2019t remember much about Peppy, my first and only pet cat. I can conjure the sensation of stroking her while she purred, recall how she used to get stuck in trees (just like in cartoons!), and chuckle about the time she pooed in my baby sister\u2019s cot. That\u2019s about it. What I do",
-    "published": "2026-10-16T09:00:00+00:00",
-    "first_seen": "2026-10-16T11:05:33.962307+00:00"
-  },
-  {
-    "source": "MIT Technology Review",
-    "source_tier": 2,
-    "title": "Kids are outsmarting social media bans. That\u2019s not a problem we need to solve.",
-    "link": "https://www.technologyreview.com/2026/10/16/1146834/kids-are-outsmarting-social-media-bans-thats-not-a-problem-we-need-to-solve/",
-    "summary": "Social media bans are stacking up. In July, France joined Australia in restricting minors from accessing social media\u2014barring children under 15 from major platforms, before the ban was blocked by the country\u2019s top court on human rights grounds. The UK aims to forbid kids under 16",
-    "published": "2026-10-16T07:56:32+00:00",
-    "first_seen": "2026-10-16T11:05:33.962307+00:00"
-  },
-  {
-    "source": "ZDNet AI",
-    "source_tier": 2,
-    "title": "Renting? These 2 new Apple smart home devices are worth your money (and these 5 are not)",
-    "link": "https://www.zdnet.com/home-and-office/is-the-apple-home-collection-right-for-renters/",
-    "summary": "Eyeing Apple\u2019s new Home Collection products? Renters should check their lease agreement before installing.",
-    "published": "2026-10-15T16:19:16+00:00",
-    "first_seen": "2026-10-16T11:05:33.962307+00:00"
-  },
-  {
-    "source": "ZDNet AI",
-    "source_tier": 2,
-    "title": "Apple\u2019s first touchscreen MacBook is days away \u2013 with another OLED surprise",
-    "link": "https://www.zdnet.com/tech/apple-touchscreen-macbook-oled-ipad-mini-october-event/",
-    "summary": "Apple reportedly set a date to unveil its new touchscreen MacBooks. Here\u2019s what else we expect.",
-    "published": "2026-10-15T16:18:57+00:00",
-    "first_seen": "2026-10-16T11:05:33.962307+00:00"
-  },
-  {
-    "source": "ZDNet AI",
-    "source_tier": 2,
-    "title": "Nvidia\u2019s new Nemotron 3.5 Super VL is another step forward for US open-weight AI",
-    "link": "https://www.zdnet.com/innovation/nvidia-nemotron-3-5-super-vl-model-us-open-weight-ai/",
-    "summary": "Nvidia\u2019s new models join a wave of open-weight releases from US labs on the heels of the Hugging Face hack.",
-    "published": "2026-10-15T15:00:00+00:00",
-    "first_seen": "2026-10-16T11:05:33.962307+00:00"
-  },
-  {
-    "source": "TechCrunch AI",
-    "source_tier": 2,
-    "title": "When it came to Cal AI\u2019s viral success, a small army of influencers paid off",
-    "link": "https://techcrunch.com/2026/10/15/when-it-came-to-cal-ais-viral-success-a-small-army-of-influencers-paid-off/",
-    "summary": "The company generated over $30 million in revenue in two years and was acquired by MyFitnessPal for an undisclosed amount of money in March.",
-    "published": "2026-10-15T23:44:56+00:00",
-    "first_seen": "2026-10-16T11:05:33.962307+00:00"
-  },
-  {
-    "source": "TechCrunch AI",
-    "source_tier": 2,
-    "title": "Meta launches an open-weight AI model that runs on Macs",
-    "link": "https://techcrunch.com/2026/10/15/meta-launches-an-open-weight-model-that-runs-on-macs/",
-    "summary": "Meta and Apple have teamed up for the launch of the social media giant's newest model, Muse Spark Open, which will run locally on Apple silicon.",
-    "published": "2026-10-15T20:04:53+00:00",
-    "first_seen": "2026-10-16T11:05:33.962307+00:00"
-  },
-  {
-    "source": "TechCrunch AI",
-    "source_tier": 2,
-    "title": "Amazon devices chief Panos Panay sees a future where AI devices replace the need to use apps",
-    "link": "https://techcrunch.com/2026/10/15/amazon-devices-chief-panos-panay-sees-a-future-where-ai-devices-replace-the-need-to-use-apps/",
-    "summary": "Speaking at TechCrunch Disrupt, Amazon devices chief Panos Panay described a future where ambient AI devices work in the background, anticipating users' needs instead of waiting for commands.",
-    "published": "2026-10-15T19:55:25+00:00",
-    "first_seen": "2026-10-16T11:05:33.962307+00:00"
-  },
-  {
-    "source": "TechCrunch AI",
-    "source_tier": 2,
-    "title": "Anthropic is letting METR researchers look under the hood with employee-level access",
-    "link": "https://techcrunch.com/2026/10/15/anthropic-is-letting-metr-researchers-look-under-the-hood-with-employee-level-access/",
-    "summary": "METR will publish its own assessments of Anthropic\u2019s risks, incidents, and practices, and the frontier AI model maker has given up the right to block them.",
-    "published": "2026-10-15T19:14:26+00:00",
-    "first_seen": "2026-10-16T11:05:33.962307+00:00"
-  },
-  {
-    "source": "TechCrunch AI",
-    "source_tier": 2,
-    "title": "Bluesky expands its AI-powered Attie app to let anyone build websites, games, and more",
-    "link": "https://techcrunch.com/2026/10/15/bluesky-expands-its-ai-powered-attie-app-to-let-anyone-build-websites-games-and-more/",
-    "summary": "Bluesky is bringing \u201csocial vibe coding\u201d to its experimental Attie platform, allowing users to create interactive experiences like games, quizzes, and websites that can tap into the social network's audience.",
-    "published": "2026-10-15T18:56:46+00:00",
-    "first_seen": "2026-10-16T11:05:33.962307+00:00"
-  },
-  {
-    "source": "TechCrunch AI",
-    "source_tier": 2,
-    "title": "Last chance to save up to $200 on your TechCrunch Founder Summit pass: Early booking ends October 16",
-    "link": "https://techcrunch.com/2026/10/15/last-chance-to-save-up-to-200-on-techcrunch-founder-summit-early-booking-ends-oct-16/",
-    "summary": "Savings of up to $200 end October 16 for TechCrunch Founder Summit. These savings for Founder and Investor Passes vanish after Friday. Join 1,000 founders and investors on November 4 at Boston\u2019s SoWa Power Station. Bring your toughest questions and make the day count for your bus",
-    "published": "2026-10-15T18:00:00+00:00",
-    "first_seen": "2026-10-16T11:05:33.962307+00:00"
-  },
-  {
-    "source": "TechCrunch AI",
-    "source_tier": 2,
-    "title": "AI agents are coming to Rivian\u2019s cars",
-    "link": "https://techcrunch.com/2026/10/15/ai-agents-are-coming-to-rivians-cars/",
-    "summary": "We'll likely learn more about how this will work at the company's upcoming \"AI & Autonomy Day\" event in December.",
-    "published": "2026-10-15T15:02:36+00:00",
-    "first_seen": "2026-10-16T11:05:33.962307+00:00"
-  },
-  {
-    "source": "TechCrunch AI",
-    "source_tier": 2,
-    "title": "Google\u2019s Universal Cart shopping tool launches in the US",
-    "link": "https://techcrunch.com/2026/10/15/googles-universal-cart-shopping-tool-launches-in-the-us/",
-    "summary": "The new shopping tool is available in the U.S. across Google Search and the Gemini app.",
-    "published": "2026-10-15T14:29:33+00:00",
-    "first_seen": "2026-10-16T11:05:33.962307+00:00"
-  },
-  {
-    "source": "TechCrunch AI",
-    "source_tier": 2,
-    "title": "TechCrunch Disrupt 2026: Last day",
-    "link": "https://techcrunch.com/2026/10/15/techcrunch-disrupt-2026-last-day/",
-    "summary": "Last day to be part of TechCrunch Disrupt 2026. Join 10,000+ tech leaders for a day of connections and insights. Save 75% on your pass now.",
-    "published": "2026-10-15T14:00:00+00:00",
-    "first_seen": "2026-10-16T11:05:33.962307+00:00"
-  },
-  {
-    "source": "The Verge AI",
-    "source_tier": 2,
-    "title": "ChatGPT can peek at your Chrome tabs now",
-    "link": "https://www.theverge.com/ai-artificial-intelligence/1012510/openai-chatgpt-google-chrome-tabs",
-    "summary": "OpenAI's ChatGPT Atlas browser is gone, but now ChatGPT's Google Chrome extension is getting some upgrades that allow it to use the browser tabs you already have open. With the extension installed, OpenAI says ChatGPT can now view your browser tabs when you tag Chrome in ChatGPT'",
-    "published": "2026-10-15T22:43:23+00:00",
-    "first_seen": "2026-10-16T11:05:33.962307+00:00"
-  },
-  {
-    "source": "The Verge AI",
-    "source_tier": 2,
-    "title": "Sega pulls Total War: Shogun 2 remaster from sale following disastrous launch",
-    "link": "https://www.theverge.com/games/1012512/sega-total-war-shogun-2-remaster-pulled",
-    "summary": "Sega is removing Total War: Shogun 2 - Complete Edition from storefronts following a disastrous launch where users complained about issues like bugs and upscaling that appears to have been done by AI. Complete Edition, a remaster of the 2011 strategy game, launched on Tuesday, an",
-    "published": "2026-10-15T22:35:55+00:00",
-    "first_seen": "2026-10-16T11:05:33.962307+00:00"
-  },
-  {
-    "source": "The Verge AI",
-    "source_tier": 2,
-    "title": "The tech backlash is now in theaters",
-    "link": "https://www.theverge.com/entertainment/1012438/hollywood-tech-backlash-you-can-see-everything-musk-the-social-reckoning-artificial",
-    "summary": "Though movies about disruptive tech founders are nothing new, 2026 has been unusually stacked with features that take a much more critical look at how Silicon Valley is reshaping our reality. Aaron Sorkin's The Social Reckoning frames Mark Zuckerberg as a robotic villain whose am",
-    "published": "2026-10-15T21:39:52+00:00",
-    "first_seen": "2026-10-16T11:05:33.962307+00:00"
-  },
-  {
-    "source": "The Verge AI",
-    "source_tier": 2,
-    "title": "Trump posts AI-edited photo to brag about White House restoration work",
-    "link": "https://www.theverge.com/policy/1012445/donald-trump-ai-photo-white-house-rennovation-column",
-    "summary": "President Donald Trump posted a series of photos on Truth Social showing off renovations to the White House - but one of them appears to be modified with AI. The picture, which compares an old White House column to a \"restored\" one, has several discrepancies and was flagged by Go",
-    "published": "2026-10-15T21:09:33+00:00",
-    "first_seen": "2026-10-16T11:05:33.962307+00:00"
-  },
-  {
-    "source": "The Verge AI",
-    "source_tier": 2,
-    "title": "Bluesky\u2019s AI tool now lets you make games and apps to share on social",
-    "link": "https://www.theverge.com/tech/1012374/bluesky-ai-attie-small-social-games-apps",
-    "summary": "Bluesky's Attie AI tool, which initially launched earlier this year as a way to use AI to build your own feeds, now lets you make \"small\" social apps like games, polls, and dashboards that you can then share with others as their own websites. In an interview at TechCrunch Disrupt",
-    "published": "2026-10-15T19:57:16+00:00",
-    "first_seen": "2026-10-16T11:05:33.962307+00:00"
-  },
-  {
-    "source": "The Verge AI",
-    "source_tier": 2,
-    "title": "Meta and Apple team up to make Muse AI models run better on Macs",
-    "link": "https://www.theverge.com/news/1012293/meta-apple-muse-spark-open-ai-model-mlx",
-    "summary": "Meta announced the Muse Spark Open AI model today, claiming that it's the \"most capable US open-weight model to date.\" But the company also says that it's the \"the first model in its class\" that can \"run on your desktop using two Apple M5 Ultra Mac Studios with the latest MLX fra",
-    "published": "2026-10-15T18:15:36+00:00",
-    "first_seen": "2026-10-16T11:05:33.962307+00:00"
-  },
-  {
-    "source": "The Verge AI",
-    "source_tier": 2,
-    "title": "Friends don\u2019t let friends feed their data to AI agents",
-    "link": "https://www.theverge.com/tech/1011938/muse-ai-data-friends-consent",
-    "summary": "There's a growing trend in the consumer tech world: gadgets designed to spy on everything and everyone around you, regardless of whether or not anyone else actually consented to it. Now, with the advent of \"AI personal assistants\" like Meta's Muse, you're being cheerfully asked n",
-    "published": "2026-10-15T16:21:45+00:00",
-    "first_seen": "2026-10-16T11:05:33.962307+00:00"
-  },
-  {
-    "source": "The Verge AI",
-    "source_tier": 2,
-    "title": "How Windows is being optimized for Nvidia\u2019s RTX Spark laptops",
-    "link": "https://www.theverge.com/tech/1011996/microsoft-windows-rtx-spark-platform-changes-notepad",
-    "summary": "Microsoft and Nvidia held a launch party for the first wave of RTX Spark laptops last week in San Francisco, where a new wave of AI PCs took center stage amid a packed crowd and a lively hands-on area. A day after the media event, I was invited to a quieter Nvidia event to hear [",
-    "published": "2026-10-15T14:30:00+00:00",
-    "first_seen": "2026-10-16T11:05:33.962307+00:00"
-  },
-  {
-    "source": "The Verge AI",
-    "source_tier": 2,
-    "title": "Nobody is safe from celebrity AI deepfakes",
-    "link": "https://www.theverge.com/report/1011927/instagram-celebrity-ai-slop-likeness-taylor-swift-mia-goth",
-    "summary": "In hindsight, the post on Instagram should have raised more red flags. The image purported to show actress Mia Goth, just days after filing for divorce from actor and filmmaker Shia LaBeouf, posing in a T-shirt with a pointed message: MY EX IS MY BIGGEST FAN. To really drive home",
-    "published": "2026-10-15T14:03:42+00:00",
-    "first_seen": "2026-10-16T11:05:33.962307+00:00"
-  },
-  {
-    "source": "The Verge AI",
-    "source_tier": 2,
-    "title": "Benn Jordan on Flock, privacy, and the new surveillance backlash",
-    "link": "https://www.theverge.com/podcast/1011170/benn-jordan-flock-cameras-alpr-ai-surveillance-privacy",
-    "summary": "Today, I\u2019m talking with Benn Jordan, musician, YouTuber, researcher, and investigative journalist. You might know Benn from those first two titles \u2014 he\u2019s got a prolific discography of experimental music dating back decades. But in the last couple of years, he\u2019s become a high-prof",
-    "published": "2026-10-15T14:00:00+00:00",
-    "first_seen": "2026-10-16T11:05:33.962307+00:00"
-  },
-  {
-    "source": "Azure AI Blog",
-    "source_tier": 1,
-    "title": "Evolving the cloud-native foundation for the next generation of AI",
-    "link": "https://azure.microsoft.com/en-us/blog/evolving-the-cloud-native-foundation-for-the-next-generation-of-ai/",
-    "summary": "Discover how Azure is advancing cloud-native infrastructure to help organizations build, run, and optimize applications and agents at scale.\nThe post Evolving the cloud-native foundation for the next generation of AI appeared first on Microsoft Azure Blog.",
-    "published": "2026-10-15T16:00:00+00:00",
-    "first_seen": "2026-10-17T10:25:04.495722+00:00"
-  },
-  {
     "source": "MIT Technology Review",
     "source_tier": 2,
     "title": "Roundtables: A Conversation With the Creator of AI-Designed Viruses",
     "link": "https://www.technologyreview.com/2026/10/16/1146224/roundtables-a-conversation-with-the-creator-of-ai-designed-viruses/",
     "summary": "Listen to the session or watch below Can AI design new life forms? In 2025, Stanford University PhD student Samuel King came up with a preliminary answer when he used a generative AI model to propose genetic blueprints for microscopic viruses. It isn\u2019t yet an example of AI-genera",
     "published": "2026-10-16T18:00:00+00:00",
-    "first_seen": "2026-10-17T10:25:04.495722+00:00"
-  },
-  {
-    "source": "MIT Technology Review",
-    "source_tier": 2,
-    "title": "The Download: failed social media bans, and extending pets\u2019 lives",
-    "link": "https://www.technologyreview.com/2026/10/16/1146864/the-download-failed-social-media-bans-and-extending-pets-lives/",
-    "summary": "This is today\u2019s edition of The Download, our weekday newsletter that provides a daily dose of what\u2019s going on in the world of technology. Kids are outsmarting social media bans. That\u2019s not a problem we need to solve.\u00a0\u00a0 \u2014Michal Luria, Aliya Bhatia, and Danah Boyd Social media bans",
-    "published": "2026-10-16T12:10:00+00:00",
     "first_seen": "2026-10-17T10:25:04.495722+00:00"
   },
   {
@@ -312,15 +42,6 @@
     "link": "https://www.zdnet.com/tech/iphone-duo-preorders-delay-supply/",
     "summary": "Estimates for Duo preorders are now showing a ship date of late January, marking a new wait time record for Apple and its customers.",
     "published": "2026-10-16T16:44:50+00:00",
-    "first_seen": "2026-10-17T10:25:04.495722+00:00"
-  },
-  {
-    "source": "ZDNet AI",
-    "source_tier": 2,
-    "title": "How many jobs is your state losing to AI? This dashboard tracks the cuts \u2013 and the cost",
-    "link": "https://www.zdnet.com/innovation/ai-job-cuts-wage-loss-by-state-tracker/",
-    "summary": "CAIS\u2019 Wage Loss Dashboard puts AI-related job cuts into dollars and cents.",
-    "published": "2026-10-16T11:47:39+00:00",
     "first_seen": "2026-10-17T10:25:04.495722+00:00"
   },
   {
@@ -375,51 +96,6 @@
     "link": "https://techcrunch.com/2026/10/16/jev-is-vercels-fastest-adopted-ai-model-ever/",
     "summary": "The data comes from Vercel's AI gateway, a unified API service similar to OpenRouter.",
     "published": "2026-10-16T15:33:49+00:00",
-    "first_seen": "2026-10-17T10:25:04.495722+00:00"
-  },
-  {
-    "source": "TechCrunch AI",
-    "source_tier": 2,
-    "title": "Mark Wahlberg on using AI in film \u2018the right way\u2019 and being open to an AI clone carrying on his legacy",
-    "link": "https://techcrunch.com/2026/10/16/mark-wahlberg-on-using-ai-in-film-the-right-way-and-being-open-to-an-ai-clone-carrying-on-his-legacy/",
-    "summary": "Actor and angel investor Mark Wahlberg says he's OK with using AI in filmmaking, provided it's used \"to enhance what you're doing.\"",
-    "published": "2026-10-16T14:26:51+00:00",
-    "first_seen": "2026-10-17T10:25:04.495722+00:00"
-  },
-  {
-    "source": "TechCrunch AI",
-    "source_tier": 2,
-    "title": "Veritas expands its anti-counterfeit chip to jewelry, trophies, and fragrance bottles",
-    "link": "https://techcrunch.com/2026/10/16/veritas-is-building-a-chip-to-verify-luxury-goods/",
-    "summary": "Counterfeiters are getting better at replicating brands' marks and passing off dupes, known as \"superfakes,\" as genuine items. A startup called Veritas wants to tackle the problem with its own chip that verifies goods.",
-    "published": "2026-10-16T14:00:00+00:00",
-    "first_seen": "2026-10-17T10:25:04.495722+00:00"
-  },
-  {
-    "source": "TechCrunch AI",
-    "source_tier": 2,
-    "title": "Replit\u2019s CEO says the future of work is the \u2018self-driving company\u2019",
-    "link": "https://techcrunch.com/2026/10/16/replits-ceo-says-the-future-of-work-is-the-self-driving-company/",
-    "summary": "Replit CEO Amjad Masad envisions a future of \u201cself-driving companies,\u201d where AI agents handle day-to-day tasks and people focus on higher-level decisions.",
-    "published": "2026-10-16T12:55:09+00:00",
-    "first_seen": "2026-10-17T10:25:04.495722+00:00"
-  },
-  {
-    "source": "The Verge AI",
-    "source_tier": 2,
-    "title": "A week with RTX Spark: everything we\u2019ve learned using Nvidia\u2019s new laptops",
-    "link": "https://www.theverge.com/tech/1012748/nvidia-rtx-spark-windows-arm-laptops-asus-hp-lenovo-impressions",
-    "summary": "Nvidia's RTX Spark N1X processor is finally here, and we've been collectively testing a small fortune's worth of powerful laptops sporting this new \"superchip.\" RTX Spark is designed to be a high-performing Arm-based SoC for laptops and small desktop computers, rivaling the best ",
-    "published": "2026-10-16T15:00:00+00:00",
-    "first_seen": "2026-10-17T10:25:04.495722+00:00"
-  },
-  {
-    "source": "The Verge AI",
-    "source_tier": 2,
-    "title": "Meta\u2019s new terms may allow it to train AI on news sites for free",
-    "link": "https://www.theverge.com/tech/1012846/meta-business-terms-scrape-news-publishers",
-    "summary": "Meta's new terms appear to give it permission to crawl and scrape websites \"associated\" with the businesses that use its platforms - including online publishers, according to a report from Nieman Lab. The new terms, which go into effect on October 30th, say Meta can use this outs",
-    "published": "2026-10-16T14:02:40+00:00",
     "first_seen": "2026-10-17T10:25:04.495722+00:00"
   },
   {
@@ -2905,15 +2581,6 @@
     "summary": "The Anthropic S-1 seems to have provided the financial justification for the company to spend as much as it possibly can on compute. If you are the kind of person who wonders if Anthropic is doing its level best to build a machine god while convincing Wall Street it's in the busi",
     "published": "2026-10-29T13:30:00+00:00",
     "first_seen": "2026-10-30T12:31:15.439286+00:00"
-  },
-  {
-    "source": "Power BI Blog",
-    "source_tier": 1,
-    "title": "Power BI September 2026 Feature Summary",
-    "link": "https://community.fabric.microsoft.com/t5/Power-BI-Updates-Blog/Power-BI-September-2026-Feature-Summary/ba-p/5325831",
-    "summary": "As the Power BI, Microsoft Fabric, data, and analytics community gathers in Barcelona for the European Microsoft Fabric + SQL Community Conference, this month is packed with news. From new Copilot and AI experiences to reporting, modeling, data connectivity, developer enhancement",
-    "published": "2026-10-15T21:06:46+00:00",
-    "first_seen": "2026-10-31T11:58:25.934984+00:00"
   },
   {
     "source": "ZDNet AI",
@@ -6208,5 +5875,158 @@
     "summary": "Today, I\u2019m talking with Helen Toner, the executive director of the Center for Security and Emerging Technology at Georgetown University. This episode is part two of our series on AI in real life. Helen is a well-known figure in the AI safety and policy community, though she is pe",
     "published": "2026-11-14T15:00:00+00:00",
     "first_seen": "2026-11-15T13:44:45.503890+00:00"
+  },
+  {
+    "source": "MIT Technology Review",
+    "source_tier": 2,
+    "title": "The Download: testing tech promises and searching for cognitive immortality",
+    "link": "https://www.technologyreview.com/2026/11/16/1148599/the-download-testing-tech-promises-cognitive-immortality-quest/",
+    "summary": "This is today\u2019s edition of The Download, our weekday newsletter that provides a daily dose of what\u2019s going on in the world of technology. Are we there yet? Six technologies that promised to change the world How do you measure progress towards the future? In the Impossible issue o",
+    "published": "2026-11-16T13:10:00+00:00",
+    "first_seen": "2026-11-16T15:22:06.043600+00:00"
+  },
+  {
+    "source": "MIT Technology Review",
+    "source_tier": 2,
+    "title": "Building AI that can work across the enterprise",
+    "link": "https://www.technologyreview.com/2026/11/16/1146070/building-ai-that-can-work-across-the-enterprise/",
+    "summary": "For years, enterprises have approached AI as a series of discrete experiments. Now, as AI agents begin to move into the workflows that run the business, that model is starting to look inadequate. Organizations moving from isolated pilots toward AI agents and autonomous workflows ",
+    "published": "2026-11-16T13:00:00+00:00",
+    "first_seen": "2026-11-16T15:22:06.043600+00:00"
+  },
+  {
+    "source": "ZDNet AI",
+    "source_tier": 2,
+    "title": "Your enterprise AI access can be sold for pennies \u2013 beware \u2018LLM Mixers\u2019",
+    "link": "https://www.zdnet.com/innovation/google-threat-intelligence-report-llmjacking-ai/",
+    "summary": "Underground brokers are selling access to hijacked enterprise AI accounts, with companies footing the usage bill, Google reports.",
+    "published": "2026-11-16T14:00:00+00:00",
+    "first_seen": "2026-11-16T15:22:06.043600+00:00"
+  },
+  {
+    "source": "ZDNet AI",
+    "source_tier": 2,
+    "title": "AI finds zero-day flaws for just $4 now \u2013 even mediocre hackers can cash in",
+    "link": "https://www.zdnet.com/innovation/ai-finds-zero-day-security-flaws-for-cheap-hackers/",
+    "summary": "Rapidly advancing AI models are making it cheaper and easier to uncover critical vulnerabilities, but it\u2019s a double-edged sword \u2013 and a gift to hackers.",
+    "published": "2026-11-16T13:14:25+00:00",
+    "first_seen": "2026-11-16T15:22:06.043600+00:00"
+  },
+  {
+    "source": "TechCrunch AI",
+    "source_tier": 2,
+    "title": "US tightens AI chip export controls to deter Chinese companies from accessing compute remotely",
+    "link": "https://techcrunch.com/2026/11/16/us-tightens-ai-chip-export-controls-to-deter-chinese-companies-from-accessing-compute-remotely/",
+    "summary": "Under the interim rule, US will require firms to get licenses to export AI chips if they may provide compute to China or other restricted countries.",
+    "published": "2026-11-16T15:02:34+00:00",
+    "first_seen": "2026-11-16T15:22:06.043600+00:00"
+  },
+  {
+    "source": "TechCrunch AI",
+    "source_tier": 2,
+    "title": "Google Maps can now build trip itineraries with real-time details about each stop",
+    "link": "https://techcrunch.com/2026/11/16/google-maps-can-now-build-trip-itineraries-with-real-time-details-about-each-stop/",
+    "summary": "You could use Ask Maps to plan a holiday shopping day trip or something more complex, like a three-day road trip featuring coastal hikes and oceanfront dining.",
+    "published": "2026-11-16T14:48:13+00:00",
+    "first_seen": "2026-11-16T15:22:06.043600+00:00"
+  },
+  {
+    "source": "TechCrunch AI",
+    "source_tier": 2,
+    "title": "Freshworks alums raise $53M to take on Salesforce, HubSpot with AI-native CRM",
+    "link": "https://techcrunch.com/2026/11/16/freshworks-alums-raise-53m-to-take-on-salesforce-hubspot-with-ai-native-crm/",
+    "summary": "Dreamteam has signed up more than 100 customers across 13 countries, with some businesses switching from established CRMs.",
+    "published": "2026-11-16T12:30:00+00:00",
+    "first_seen": "2026-11-16T15:22:06.043600+00:00"
+  },
+  {
+    "source": "TechCrunch AI",
+    "source_tier": 2,
+    "title": "Apple launches new app to study how people use AI for health",
+    "link": "https://techcrunch.com/2026/11/15/apple-launches-new-app-to-study-how-people-use-ai-for-health/",
+    "summary": "Apple's new app for a study will answer everyday medical questions",
+    "published": "2026-11-16T01:30:00+00:00",
+    "first_seen": "2026-11-16T15:22:06.043600+00:00"
+  },
+  {
+    "source": "TechCrunch AI",
+    "source_tier": 2,
+    "title": "Indian chip startup Bharat Semi lands $24M seed round as it eyes global AI sensor market",
+    "link": "https://techcrunch.com/2026/11/15/indian-chip-startup-bharat-semi-lands-24m-seed-round-as-it-eyes-global-ai-sensor-market/",
+    "summary": "Bharat Semi says it has secured design wins for its AI-enabled sensor technology with companies including General Atomics.",
+    "published": "2026-11-15T23:30:00+00:00",
+    "first_seen": "2026-11-16T15:22:06.043600+00:00"
+  },
+  {
+    "source": "TechCrunch AI",
+    "source_tier": 2,
+    "title": "Is bad news for Jensen Huang also bad news for the AI industry?",
+    "link": "https://techcrunch.com/2026/11/15/is-bad-news-for-jensen-huang-also-bad-news-for-the-ai-industry/",
+    "summary": "\"Jensen is Nvidia, right? And so much of this economy is riding on Nvidia.\"",
+    "published": "2026-11-15T21:56:35+00:00",
+    "first_seen": "2026-11-16T15:22:06.043600+00:00"
+  },
+  {
+    "source": "TechCrunch AI",
+    "source_tier": 2,
+    "title": "SNL gathers all the tech tycoons for a lesson in dating and spycraft",
+    "link": "https://techcrunch.com/2026/11/15/snl-gathers-all-the-tech-tycoons-for-a-lesson-in-dating-and-spycraft/",
+    "summary": "While awkward, creepy tech executives have become a recurring theme on Saturday Night Live, this week\u2019s episode gave the cast a chance to show off all their impressions at once.",
+    "published": "2026-11-15T20:20:57+00:00",
+    "first_seen": "2026-11-16T15:22:06.043600+00:00"
+  },
+  {
+    "source": "The Verge AI",
+    "source_tier": 2,
+    "title": "Audible is trying to make it easier to find audiobooks you\u2019ll actually like",
+    "link": "https://www.theverge.com/tech/1034083/audible-audio-discovery-ai-feature-availability",
+    "summary": "Audible is introducing an AI-assisted synopsis feature that's designed to help users determine whether they'll enjoy an audiobook before they jump in and start listening to it. The new audio discovery feature combines audiobook samples, AI overviews, and author commentary to give",
+    "published": "2026-11-16T14:00:00+00:00",
+    "first_seen": "2026-11-16T15:22:06.043600+00:00"
+  },
+  {
+    "source": "The Verge AI",
+    "source_tier": 2,
+    "title": "Google Maps can now create trip itineraries for you",
+    "link": "https://www.theverge.com/tech/1034110/google-ask-maps-ai-trip-planning",
+    "summary": "Google is launching a new AI trip-planning feature for Maps that allows the app to create custom itineraries for you and provide real-time details about each stop. The update, which is rolling out to the Gemini-powered Ask Maps chatbot inside the app, lets you plan a one-day outi",
+    "published": "2026-11-16T14:00:00+00:00",
+    "first_seen": "2026-11-16T15:22:06.043600+00:00"
+  },
+  {
+    "source": "The Verge AI",
+    "source_tier": 2,
+    "title": "The Nvidia scandal isn\u2019t slowing down",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/1031740/jensen-huang-nvidia-scandal-isnt-slowing-down",
+    "summary": "For years, Jensen Huang has had an almost unprecedented power to shape AI's advancement as Nvidia's CEO, cofounder, and president. As The Verge wrote last week, Nvidia's chips are \"the bedrock upon which advanced AI technology in the US is being built.\" Ever-increasing demand has",
+    "published": "2026-11-16T13:00:00+00:00",
+    "first_seen": "2026-11-16T15:22:06.043600+00:00"
+  },
+  {
+    "source": "The Verge AI",
+    "source_tier": 2,
+    "title": "Apple\u2019s new study looks to improve the effectiveness of AI health tools",
+    "link": "https://www.theverge.com/tech/1033355/apples-new-study-looks-to-improve-the-effectiveness-of-ai-health-tools",
+    "summary": "Apple announced a new study today with the goal of better understanding how people interact with conversational AI health tools and how useful their responses actually are. The company is conducting the Apple Health AI Usage Study in collaboration with OpenEvidence, a clinical AI",
+    "published": "2026-11-16T01:26:56+00:00",
+    "first_seen": "2026-11-16T15:22:06.043600+00:00"
+  },
+  {
+    "source": "The Verge AI",
+    "source_tier": 2,
+    "title": "Jensen Huang might be plotting a return and more of the latest Nvidia drama",
+    "link": "https://www.theverge.com/tech/1033999/jensen-huang-return-nvidia-megaspeed",
+    "summary": "The drama around Nvidia co-founder and former CEO Jensen Huang is evolving quickly. The latest edition of our Stepback newsletter should get you up to speed, but there have already been a number of new developments since this morning. That includes rumors that Jensen Huang might ",
+    "published": "2026-11-15T20:43:49+00:00",
+    "first_seen": "2026-11-16T15:22:06.043600+00:00"
+  },
+  {
+    "source": "The Verge AI",
+    "source_tier": 2,
+    "title": "Congress wants to tighten export rules on AI chips after Nvidia spy scandal",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/1033984/congress-export-rules-ai-chips-china",
+    "summary": "Unsurprisingly, following the scandal involving now-former Nvidia CEO Jensen Huang and a suspected Chinese spy, Congress is looking to further restrict exports of AI chips. Both Democrats and Republicans have voiced support for various measures and bills that would tighten rules ",
+    "published": "2026-11-15T19:15:43+00:00",
+    "first_seen": "2026-11-16T15:22:06.043600+00:00"
   }
 ]

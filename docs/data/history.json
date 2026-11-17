@@ -1,113 +1,5 @@
 [
   {
-    "source": "MIT Technology Review",
-    "source_tier": 2,
-    "title": "Roundtables: A Conversation With the Creator of AI-Designed Viruses",
-    "link": "https://www.technologyreview.com/2026/10/16/1146224/roundtables-a-conversation-with-the-creator-of-ai-designed-viruses/",
-    "summary": "Listen to the session or watch below Can AI design new life forms? In 2025, Stanford University PhD student Samuel King came up with a preliminary answer when he used a generative AI model to propose genetic blueprints for microscopic viruses. It isn\u2019t yet an example of AI-genera",
-    "published": "2026-10-16T18:00:00+00:00",
-    "first_seen": "2026-10-17T10:25:04.495722+00:00"
-  },
-  {
-    "source": "ZDNet AI",
-    "source_tier": 2,
-    "title": "Have a Meta business account? You\u2019re consenting to AI scraping now, legal experts say",
-    "link": "https://www.zdnet.com/uncategorized/meta-business-account-data-ai-scraping-terms/",
-    "summary": "And there\u2019s no opt-out available.",
-    "published": "2026-10-16T19:36:02+00:00",
-    "first_seen": "2026-10-17T10:25:04.495722+00:00"
-  },
-  {
-    "source": "ZDNet AI",
-    "source_tier": 2,
-    "title": "Munich dumps proprietary for open source (again) \u2013 but no Linux desktop",
-    "link": "https://www.zdnet.com/business/munich-proprietary-open-source-no-linux-desktop/",
-    "summary": "Open source in the public sector doesn\u2019t fail because of technical issues. It  fails because it\u2019s not aligned with the political agenda",
-    "published": "2026-10-16T17:11:35+00:00",
-    "first_seen": "2026-10-17T10:25:04.495722+00:00"
-  },
-  {
-    "source": "ZDNet AI",
-    "source_tier": 2,
-    "title": "Anthropic gives third-party auditors\u00a0\u2019employee-like access\u2019 in AI industry first",
-    "link": "https://www.zdnet.com/uncategorized/anthropic-embed-third-party-ai-auditors-safety/",
-    "summary": "As AI labs continue to self-regulate, external evaluators play a crucial role in spotting risks.",
-    "published": "2026-10-16T17:10:27+00:00",
-    "first_seen": "2026-10-17T10:25:04.495722+00:00"
-  },
-  {
-    "source": "ZDNet AI",
-    "source_tier": 2,
-    "title": "Want an iPhone Duo before 2027? Don\u2019t preorder from Apple \u2013 try this instead",
-    "link": "https://www.zdnet.com/tech/iphone-duo-preorders-delay-supply/",
-    "summary": "Estimates for Duo preorders are now showing a ship date of late January, marking a new wait time record for Apple and its customers.",
-    "published": "2026-10-16T16:44:50+00:00",
-    "first_seen": "2026-10-17T10:25:04.495722+00:00"
-  },
-  {
-    "source": "TechCrunch AI",
-    "source_tier": 2,
-    "title": "Replit is no longer working with Anthropic, CEO says",
-    "link": "https://techcrunch.com/2026/10/16/replit-is-no-longer-working-with-anthropic-ceo-says/",
-    "summary": "Masad said the decision was made for a number of different reasons, including cost. Replit announced a partnership with OpenAI in August, but there was never any indication that it was no longer with Anthropic.",
-    "published": "2026-10-16T21:22:28+00:00",
-    "first_seen": "2026-10-17T10:25:04.495722+00:00"
-  },
-  {
-    "source": "TechCrunch AI",
-    "source_tier": 2,
-    "title": "India becomes the latest country to report rogue AI agent activity",
-    "link": "https://techcrunch.com/2026/10/16/india-becomes-the-latest-country-to-report-rogue-ai-agent-activity/",
-    "summary": "The agents got in through credentials and connection settings left exposed in app configurations, public code repositories, and overly permissive cloud roles.",
-    "published": "2026-10-16T17:52:24+00:00",
-    "first_seen": "2026-10-17T10:25:04.495722+00:00"
-  },
-  {
-    "source": "TechCrunch AI",
-    "source_tier": 2,
-    "title": "An Nvidia insider-turned-VC on why robotics hasn\u2019t hit its ChatGPT moment, yet",
-    "link": "https://techcrunch.com/video/a-nvidia-insider-turned-vc-on-why-robotics-hasnt-hit-its-chatgpt-moment-yet/",
-    "summary": "Amulya Vishwanath, who spent seven years leading product marketing for NVIDIA\u2019s robotics platforms, says robotics is currently in its \u201cLego era,\u201d with the basic building blocks like actuators, robotic hands, software, and safety standards still being\u00a0rebuilt.\u00a0 This view runs coun",
-    "published": "2026-10-16T16:30:00+00:00",
-    "first_seen": "2026-10-17T10:25:04.495722+00:00"
-  },
-  {
-    "source": "TechCrunch AI",
-    "source_tier": 2,
-    "title": "Physical AI is more than robots, says the Nvidia veteran now investing in it",
-    "link": "https://techcrunch.com/podcast/physical-ai-is-more-than-robots-says-the-nvidia-veteran-now-investing-in-it/",
-    "summary": "Amulya Vishwanath, who spent seven years leading product marketing for NVIDIA\u2019s robotics platforms, says robotics is currently in its \u201cLego era,\u201d with the basic building blocks like actuators, robotic hands, software, and safety standards still being\u00a0rebuilt.\u00a0 This view runs coun",
-    "published": "2026-10-16T16:30:00+00:00",
-    "first_seen": "2026-10-17T10:25:04.495722+00:00"
-  },
-  {
-    "source": "TechCrunch AI",
-    "source_tier": 2,
-    "title": "Elorian\u2019s first AI model wants to reason with images, not just about them",
-    "link": "https://techcrunch.com/2026/10/16/elorians-first-ai-model-wants-to-reason-with-images-not-just-about-them/",
-    "summary": "According to Elorian's evaluations, Glimpse outperforms even GPT-6 Astra on scientific chart reasoning and short-form video captioning, with competitive results on other visual reasoning tasks.",
-    "published": "2026-10-16T16:01:37+00:00",
-    "first_seen": "2026-10-17T10:25:04.495722+00:00"
-  },
-  {
-    "source": "TechCrunch AI",
-    "source_tier": 2,
-    "title": "Jev is Vercel\u2019s fastest-adopted AI model ever",
-    "link": "https://techcrunch.com/2026/10/16/jev-is-vercels-fastest-adopted-ai-model-ever/",
-    "summary": "The data comes from Vercel's AI gateway, a unified API service similar to OpenRouter.",
-    "published": "2026-10-16T15:33:49+00:00",
-    "first_seen": "2026-10-17T10:25:04.495722+00:00"
-  },
-  {
-    "source": "ZDNet AI",
-    "source_tier": 2,
-    "title": "Plug-in solar is legal in these 10 states now \u2013 how it could save you money",
-    "link": "https://www.zdnet.com/uncategorized/plug-in-solar-balcony-solar-legalization-2026/",
-    "summary": "So-called balcony solar setups are becoming legal across the US. Here\u2019s the latest.",
-    "published": "2026-10-17T13:00:00+00:00",
-    "first_seen": "2026-10-18T10:43:43.927912+00:00"
-  },
-  {
     "source": "TechCrunch AI",
     "source_tier": 2,
     "title": "Meta removes language that raised scraping and AI training concerns",
@@ -132,24 +24,6 @@
     "link": "https://techcrunch.com/2026/10/17/replit-is-no-longer-working-with-anthropic-ceo-says/",
     "summary": "Over the weekend, Masad clarified that OpenAI would replace Anthropic as its default model provider. Claude will still be available to customers on the platform.",
     "published": "2026-10-17T18:48:08+00:00",
-    "first_seen": "2026-10-18T10:43:43.927912+00:00"
-  },
-  {
-    "source": "The Verge AI",
-    "source_tier": 2,
-    "title": "Meta removes language that may have allowed it to scrape news sites",
-    "link": "https://www.theverge.com/tech/1013409/meta-removes-language-that-may-have-allowed-it-to-scrape-news-sites",
-    "summary": "After backlash, Meta is updating its terms again to remove language that suggested it could scrape content from sites, including news sites, to train its AI. Specifically, the following language no longer appears on the commercial terms page: \u2026 Meta may use any content from such ",
-    "published": "2026-10-17T15:04:36+00:00",
-    "first_seen": "2026-10-18T10:43:43.927912+00:00"
-  },
-  {
-    "source": "The Verge AI",
-    "source_tier": 2,
-    "title": "Websites are closing their doors to AI agents",
-    "link": "https://www.theverge.com/ai-artificial-intelligence/1013195/ai-agents-blocked-web",
-    "summary": "Autonomous agents are the hottest thing in AI. OpenAI, Meta, Google, Instinct, and others promise their agents can scour the internet on your behalf, doing anything from booking a dinner reservation and cleaning out your inbox to buying new shoes. But what happens when the rest o",
-    "published": "2026-10-17T13:00:00+00:00",
     "first_seen": "2026-10-18T10:43:43.927912+00:00"
   },
   {
@@ -195,15 +69,6 @@
     "link": "https://www.technologyreview.com/2026/10/19/1145904/tr-explains-how-far-can-we-push-computing/",
     "summary": "MIT Technology Review Explains: Let our writers untangle the complex, messy world of science and technology to help you understand what\u2019s coming next. You can read more from the series here. On the evening of December 29, 1959, at an American Physical Society meeting at Caltech, ",
     "published": "2026-10-19T09:00:00+00:00",
-    "first_seen": "2026-10-19T12:43:13.794121+00:00"
-  },
-  {
-    "source": "ZDNet AI",
-    "source_tier": 2,
-    "title": "Have a Meta business account? You\u2019re consenting to AI scraping now, legal experts say",
-    "link": "https://www.zdnet.com/business/meta-business-account-data-ai-scraping-terms/",
-    "summary": "And there\u2019s no opt-out available.",
-    "published": "2026-10-16T19:36:02+00:00",
     "first_seen": "2026-10-19T12:43:13.794121+00:00"
   },
   {
@@ -6028,5 +5893,320 @@
     "summary": "Unsurprisingly, following the scandal involving now-former Nvidia CEO Jensen Huang and a suspected Chinese spy, Congress is looking to further restrict exports of AI chips. Both Democrats and Republicans have voiced support for various measures and bills that would tighten rules ",
     "published": "2026-11-15T19:15:43+00:00",
     "first_seen": "2026-11-16T15:22:06.043600+00:00"
+  },
+  {
+    "source": "European Commission Digital Strategy",
+    "source_tier": 1,
+    "title": "Commission preliminarily finds Temu in breach of the Digital Services Act for failure to tackle the sale of illegal products",
+    "link": "https://digital-strategy.ec.europa.eu/en/news/commission-preliminarily-finds-temu-breach-digital-services-act-failure-tackle-sale-illegal",
+    "summary": "Commission preliminarily finds Temu in breach of the Digital Services Act for failure to tackle the sale of illegal products\nAnonymous (not verified)\nTue, 11/17/2026 - 11:11\n\n\n\n  \n        \n              \n                                    The European Commission preliminarily fo",
+    "published": "2026-11-17T10:11:00+00:00",
+    "first_seen": "2026-11-17T15:46:03.798277+00:00"
+  },
+  {
+    "source": "European Commission Digital Strategy",
+    "source_tier": 1,
+    "title": "Commission hosts Apply AI Summit to boost Europe\u2019s AI innovation and uptake",
+    "link": "https://digital-strategy.ec.europa.eu/en/news/commission-hosts-apply-ai-summit-boost-europes-ai-innovation-and-uptake",
+    "summary": "Commission hosts Apply AI Summit to boost Europe\u2019s AI innovation and uptake\nAnonymous (not verified)\nMon, 11/16/2026 - 13:43\n\n\n\n  \n        \n              \n                                    Nearly 1,000 high-level policymakers, start-ups, industry leaders and researchers will ta",
+    "published": "2026-11-16T12:43:38+00:00",
+    "first_seen": "2026-11-17T15:46:03.798277+00:00"
+  },
+  {
+    "source": "MIT Technology Review",
+    "source_tier": 2,
+    "title": "Research Reports",
+    "link": "https://www.technologyreview.com/2026/11/17/1148203/research-reports/",
+    "summary": "To access a report, click on the corresponding image below.",
+    "published": "2026-11-17T14:39:46+00:00",
+    "first_seen": "2026-11-17T15:46:03.798277+00:00"
+  },
+  {
+    "source": "MIT Technology Review",
+    "source_tier": 2,
+    "title": "The Download: Jensen Huang\u2019s open-source dilemma and cognitive immortality",
+    "link": "https://www.technologyreview.com/2026/11/17/1148679/the-download-jensen-huang-open-source-ai-cognitive-immortality/",
+    "summary": "This is today\u2019s edition of The Download, our weekday newsletter that provides a daily dose of what\u2019s going on in the world of technology. The open-source movement wants Jensen Huang back A petition to reinstate Jensen Huang as Nvidia CEO has attracted more than 115,000 signatures",
+    "published": "2026-11-17T13:10:00+00:00",
+    "first_seen": "2026-11-17T15:46:03.798277+00:00"
+  },
+  {
+    "source": "MIT Technology Review",
+    "source_tier": 2,
+    "title": "The open-source movement wants Jensen Huang back",
+    "link": "https://www.technologyreview.com/2026/11/16/1148624/the-open-source-movement-wants-jensen-huang-back/",
+    "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first,\u00a0sign up here. On Friday, a petition to reinstate Jensen Huang as CEO of Nvidia began circulating on social media, and by Monday it listed some notable signa",
+    "published": "2026-11-16T18:38:47+00:00",
+    "first_seen": "2026-11-17T15:46:03.798277+00:00"
+  },
+  {
+    "source": "MIT Technology Review",
+    "source_tier": 2,
+    "title": "Building trustworthy AI by fencing it in, not predicting it",
+    "link": "https://www.technologyreview.com/2026/11/16/1148565/building-trustworthy-ai-by-fencing-it-in-not-predicting-it/",
+    "summary": "In October this year, OpenAI disclosed that two of its AI agents had switched off the systems built to monitor them. One muted its own safety alerts after misreading an instruction not to send messages; the other removed its monitoring integration during migration, then said it h",
+    "published": "2026-11-16T16:04:28+00:00",
+    "first_seen": "2026-11-17T15:46:03.798277+00:00"
+  },
+  {
+    "source": "ZDNet AI",
+    "source_tier": 2,
+    "title": "Apple could build its AI health chatbot from this study \u2013 how to enroll",
+    "link": "https://www.zdnet.com/tech/apple-health-ai-usage-study-how-to-enroll/",
+    "summary": "Apple is leaning into AI-powered health tools with the launch of its Apple Health AI Usage Study.",
+    "published": "2026-11-16T19:25:57+00:00",
+    "first_seen": "2026-11-17T15:46:03.798277+00:00"
+  },
+  {
+    "source": "ZDNet AI",
+    "source_tier": 2,
+    "title": "5 ways AI will change how you defend your business in 2027",
+    "link": "https://www.zdnet.com/innovation/google-cloud-ciso-perspectives-2027-ai-security-defenses/",
+    "summary": "Security leaders reveal the future consequences of AI outpacing human defenders.",
+    "published": "2026-11-16T18:58:52+00:00",
+    "first_seen": "2026-11-17T15:46:03.798277+00:00"
+  },
+  {
+    "source": "ZDNet AI",
+    "source_tier": 2,
+    "title": "iPhone Duo 2 prototypes suggest Face ID, Action Button, other potential 2027 features",
+    "link": "https://www.zdnet.com/tech/apple-iphone-duo-2-face-id-upgrades-2027/",
+    "summary": "With manufacturing deadlines looming, it\u2019s unclear which of several feature upgrades may have to wait until the foldable\u2019s third generation.",
+    "published": "2026-11-16T18:43:17+00:00",
+    "first_seen": "2026-11-17T15:46:03.798277+00:00"
+  },
+  {
+    "source": "ZDNet AI",
+    "source_tier": 2,
+    "title": "Your Samsung phone could soon get a personal AI agent \u2013 what we know about Galaxy Claw",
+    "link": "https://www.zdnet.com/innovation/samsung-galaxy-claw-ai-cross-app-upgrade/",
+    "summary": "Similar to Gemini Intelligence and Siri AI, Galaxy Claw could bring cross-app intelligence to your phone.",
+    "published": "2026-11-16T17:35:43+00:00",
+    "first_seen": "2026-11-17T15:46:03.798277+00:00"
+  },
+  {
+    "source": "ZDNet AI",
+    "source_tier": 2,
+    "title": "4 new Google Maps features to try on your next holiday road trip",
+    "link": "https://www.zdnet.com/tech/google-ask-maps-new-features-holiday-travel/",
+    "summary": "Google\u2019s Ask Maps features start rolling out today on Android and iOS. Here\u2019s what they can do for you now.",
+    "published": "2026-11-16T17:21:42+00:00",
+    "first_seen": "2026-11-17T15:46:03.798277+00:00"
+  },
+  {
+    "source": "ZDNet AI",
+    "source_tier": 2,
+    "title": "Lost or stolen Windows laptop? IT can lock it down without wiping it now",
+    "link": "https://www.zdnet.com/tech/microsoft-preview-remote-lock-intune-windows-devices/",
+    "summary": "The Intune-enabled feature will allow admins to remotely lock down any compromised Windows device.",
+    "published": "2026-11-16T16:08:03+00:00",
+    "first_seen": "2026-11-17T15:46:03.798277+00:00"
+  },
+  {
+    "source": "TechCrunch AI",
+    "source_tier": 2,
+    "title": "Voyage Labs raises $12 million for a specialized AI travel assistant",
+    "link": "https://techcrunch.com/2026/11/17/voyage-labs-raises-12-million-for-a-specialized-ai-travel-assistant/",
+    "summary": "Planning a trip is a favorite demo for personal AI assistants: you can try it with Muse, or with Gemini or half a dozen other choices. But while most pitches use travel-planning as part of a general-purpose agent pitch, a new startup from a Google Maps alum is betting that a spec",
+    "published": "2026-11-17T15:00:00+00:00",
+    "first_seen": "2026-11-17T15:46:03.798277+00:00"
+  },
+  {
+    "source": "TechCrunch AI",
+    "source_tier": 2,
+    "title": "Isomorphic Labs raises $5B as it looks to take drug candidates to clinical trials",
+    "link": "https://techcrunch.com/2026/11/17/isomorphic-labs-raises-5b-as-it-looks-to-take-drug-candidates-to-clinical-trials/",
+    "summary": "Isomorphic Labs, the AI drug-discovery platform that was spun out of Google\u2019s DeepMind in 2021, has raised $5 Billion in a Series C funding round.",
+    "published": "2026-11-17T14:50:58+00:00",
+    "first_seen": "2026-11-17T15:46:03.798277+00:00"
+  },
+  {
+    "source": "TechCrunch AI",
+    "source_tier": 2,
+    "title": "Science Corporation\u2019s brain tech is worth $3.5 billion after new funding",
+    "link": "https://techcrunch.com/2026/11/17/science-corporations-brain-tech-is-worth-3-5-billion-after-new-funding/",
+    "summary": "Science Corp raised a $400 million Series D to scale up its anti-blindness business.",
+    "published": "2026-11-17T14:26:46+00:00",
+    "first_seen": "2026-11-17T15:46:03.798277+00:00"
+  },
+  {
+    "source": "TechCrunch AI",
+    "source_tier": 2,
+    "title": "Nvidia\u2019s first big move after Jensen Huang\u2019s exit targets national security",
+    "link": "https://techcrunch.com/2026/11/17/nvidias-first-big-move-after-jensen-huangs-exit-targets-national-security/",
+    "summary": "The new standing committee will give board-level oversight of national security policies, export control compliance, and global trade risks, the company said.",
+    "published": "2026-11-17T14:05:30+00:00",
+    "first_seen": "2026-11-17T15:46:03.798277+00:00"
+  },
+  {
+    "source": "TechCrunch AI",
+    "source_tier": 2,
+    "title": "Spotify\u2019s new tool aims to stop deepfakes from being attributed to real artists",
+    "link": "https://techcrunch.com/2026/11/17/spotifys-new-tool-aims-to-stop-deepfakes-from-being-attributed-to-real-artists/",
+    "summary": "The update comes as Billboard reported last month that Sony Music had requested the removal of more than 260,000 deepfake songs from digital platforms, nearly double the number the label disclosed in March.",
+    "published": "2026-11-17T14:00:00+00:00",
+    "first_seen": "2026-11-17T15:46:03.798277+00:00"
+  },
+  {
+    "source": "TechCrunch AI",
+    "source_tier": 2,
+    "title": "Cybersecurity AI startup Corma reaches $1B valuation in about 3 months",
+    "link": "https://techcrunch.com/2026/11/16/cybersecurity-ai-startup-corma-reaches-1b-valuation-in-about-3-months/",
+    "summary": "Three months since introducing its product, AI cybersecurity startup Corba has raised a $125 million Series A at a $1 billion valuation led by NEA.",
+    "published": "2026-11-16T23:32:32+00:00",
+    "first_seen": "2026-11-17T15:46:03.798277+00:00"
+  },
+  {
+    "source": "TechCrunch AI",
+    "source_tier": 2,
+    "title": "All the questions Nvidia should answer on Tuesday \u2014 but probably won\u2019t",
+    "link": "https://techcrunch.com/2026/11/16/all-the-questions-nvidia-should-answer-on-tuesday-but-probably-wont/",
+    "summary": "Nvidia interim CEO and longtime CFO Colette Kress is about to have one of the biggest days of her career on Tuesday when the company reports its third-quarter results. Given the turmoil Nvidia is in, there are a number of questions that Nvidia should answer.",
+    "published": "2026-11-16T22:03:02+00:00",
+    "first_seen": "2026-11-17T15:46:03.798277+00:00"
+  },
+  {
+    "source": "TechCrunch AI",
+    "source_tier": 2,
+    "title": "California state AG sues OpenAI over rogue agent incidents",
+    "link": "https://techcrunch.com/2026/11/16/california-state-ag-sues-openai-over-rogue-agent-incidents/",
+    "summary": "The California lawsuit represents one of the first attempts to hold an AI lab legally accountable for a rogue agent incident.",
+    "published": "2026-11-16T20:07:13+00:00",
+    "first_seen": "2026-11-17T15:46:03.798277+00:00"
+  },
+  {
+    "source": "TechCrunch AI",
+    "source_tier": 2,
+    "title": "Trump says ex-Nvidia CEO Jensen Huang\u2019s affair with an alleged Chinese spy did not threaten national security",
+    "link": "https://techcrunch.com/2026/11/16/trump-says-ex-nvidia-ceo-jensen-huangs-affair-with-an-alleged-chinese-spy-did-not-threaten-national-security/",
+    "summary": "Trump contradicted his own government's intelligence officials, who reportedly concluded that Alice Huang is a Chinese spy.",
+    "published": "2026-11-16T19:12:02+00:00",
+    "first_seen": "2026-11-17T15:46:03.798277+00:00"
+  },
+  {
+    "source": "TechCrunch AI",
+    "source_tier": 2,
+    "title": "Sam Altman on Nvidia without Jensen Huang: The industry will be \u2018fine\u2019",
+    "link": "https://techcrunch.com/2026/11/16/sam-altman-on-nvidia-without-jensen-huang-the-industry-will-be-fine/",
+    "summary": "OpenAI CEO Sam Altman acknowledged the special role Nvidia CEO Jensen Huang has played in the AI boom, but ultimately thinks the industry will be \u201cfine\u201d without him at the helm.",
+    "published": "2026-11-16T18:11:10+00:00",
+    "first_seen": "2026-11-17T15:46:03.798277+00:00"
+  },
+  {
+    "source": "TechCrunch AI",
+    "source_tier": 2,
+    "title": "FBI says Artex AI open source hacking tool used to breach networks in \u2018under three hours\u2019",
+    "link": "https://techcrunch.com/2026/11/16/fbi-says-artex-ai-open-source-hacking-tool-used-to-breach-networks-in-under-three-hours/",
+    "summary": "The FBI says that the open source hacking tool was used in cyberattacks targeting a U.S. IT giant and the South Korean financial industry.",
+    "published": "2026-11-16T17:36:43+00:00",
+    "first_seen": "2026-11-17T15:46:03.798277+00:00"
+  },
+  {
+    "source": "TechCrunch AI",
+    "source_tier": 2,
+    "title": "Jordan Belfort\u2019s new AI voice startup, Tone, wants to sell like the \u2018Wolf of Wall Street\u2019",
+    "link": "https://techcrunch.com/2026/11/16/jordan-belforts-new-ai-voice-startup-tone-wants-to-sell-like-the-wolf-of-wall-street/",
+    "summary": "Belfort claims his AI sales voice can already close deals almost as well as the best human salespeople, and he thinks it will catch up in a year.",
+    "published": "2026-11-16T17:10:00+00:00",
+    "first_seen": "2026-11-17T15:46:03.798277+00:00"
+  },
+  {
+    "source": "TechCrunch AI",
+    "source_tier": 2,
+    "title": "OpenAI will embed safety researchers to investigate AI subversion",
+    "link": "https://techcrunch.com/2026/11/16/openai-will-embed-apollo-researchers-to-investigate-ai-subversion/",
+    "summary": "OpenAI will embed six Apollo Research evaluators to investigate whether its AI models engage in subversive behavior, but restrictions on access and disclosure raise questions about their independence.",
+    "published": "2026-11-16T17:02:43+00:00",
+    "first_seen": "2026-11-17T15:46:03.798277+00:00"
+  },
+  {
+    "source": "TechCrunch AI",
+    "source_tier": 2,
+    "title": "OpenAI releases a new image classifier and ChatGPT warnings to combat CSAM",
+    "link": "https://techcrunch.com/2026/11/16/openai-releases-a-new-image-classifier-and-chatgpt-warnings-to-combat-csam/",
+    "summary": "ChatGPT will ban an account trying to access CSAM content for 24 hours as a warning.",
+    "published": "2026-11-16T17:00:00+00:00",
+    "first_seen": "2026-11-17T15:46:03.798277+00:00"
+  },
+  {
+    "source": "TechCrunch AI",
+    "source_tier": 2,
+    "title": "Audible turns to AI to help users discover audiobooks",
+    "link": "https://techcrunch.com/2026/11/16/audible-turns-to-ai-to-help-users-discover-audiobooks/",
+    "summary": "Audible's new AI-generated audio previews summarize a book's themes and what readers liked about it, in addition to playing the narrated sample.",
+    "published": "2026-11-16T15:52:19+00:00",
+    "first_seen": "2026-11-17T15:46:03.798277+00:00"
+  },
+  {
+    "source": "The Verge AI",
+    "source_tier": 2,
+    "title": "Tech leaders are convinced that Jensen Huang\u2019s exit was a plot against him",
+    "link": "https://www.theverge.com/tech/1035027/tech-leaders-nvidia-jensen-huang-theories",
+    "summary": "Jensen Huang's stunning resignation from Nvidia after more than 33 years has sent shockwaves throughout the tech industry. Now prominent figures are calling for Huang's reinstatement, and many are also hopping on board with a theory spreading throughout Silicon Valley: that the s",
+    "published": "2026-11-16T23:17:34+00:00",
+    "first_seen": "2026-11-17T15:46:03.798277+00:00"
+  },
+  {
+    "source": "The Verge AI",
+    "source_tier": 2,
+    "title": "California sues OpenAI over rogue AI hacking incidents",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/1034815/california-openai-hugging-face-lawsuit",
+    "summary": "California is suing OpenAI after its AI agents broke out of their testing environment and hacked other companies, including Hugging Face. In a lawsuit filed Monday, Attorney General Rob Bonta accuses OpenAI of violating consumer safety law by knowingly developing a \"dangerous pro",
+    "published": "2026-11-16T20:46:01+00:00",
+    "first_seen": "2026-11-17T15:46:03.798277+00:00"
+  },
+  {
+    "source": "The Verge AI",
+    "source_tier": 2,
+    "title": "Sam Altman says he wants everyone \u2018to have a lot of RAM\u2019",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/1034787/sam-altman-ram-shortage-semafor",
+    "summary": "OpenAI CEO Sam Altman is once again addressing his controversial comments on PC RAM purchases. \"I want to be clear, I want people to have a lot of RAM, I think everybody should be able to buy a lot of RAM for their own computer,\" Altman said today. \"I think the home tinkering is ",
+    "published": "2026-11-16T20:41:28+00:00",
+    "first_seen": "2026-11-17T15:46:03.798277+00:00"
+  },
+  {
+    "source": "The Verge AI",
+    "source_tier": 2,
+    "title": "Big Nuclear isn\u2019t worried about the Democrats stopping data centers",
+    "link": "https://www.theverge.com/science/1034694/nuclear-energy-constellation-earnings-data-centers-democrats",
+    "summary": "Constellation Energy - America's largest operator of nuclear power plants - does not share Wall Street's concerns that the Democrats will slow down data center development. On the company's third-quarter earnings call last week, CEO Joe Dominguez was, for lack of a better word, u",
+    "published": "2026-11-16T20:29:37+00:00",
+    "first_seen": "2026-11-17T15:46:03.798277+00:00"
+  },
+  {
+    "source": "The Verge AI",
+    "source_tier": 2,
+    "title": "US data centers now burn more electricity than a midsized country",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/1034668/data-centers-electricity-climate-pollution-study-harvard",
+    "summary": "Fossil fuels are still the biggest source of electricity for hyperscale data centers in the US, a new paper published in the journal Nature Sustainability shows. They likely burn through more electricity collectively than many countries do, resulting in a serious amount of greenh",
+    "published": "2026-11-16T20:27:58+00:00",
+    "first_seen": "2026-11-17T15:46:03.798277+00:00"
+  },
+  {
+    "source": "The Verge AI",
+    "source_tier": 2,
+    "title": "Apple is testing daily usage limits for more complex Siri AI interactions",
+    "link": "https://www.theverge.com/tech/1034581/apple-intelligence-siri-ai-daily-usage-limits-icloud-subscription",
+    "summary": "Apple released betas of iOS 27.3, iPadOS 27.3, and macOS 27.3 today, and the company is using the update to test new per device daily usage limits for some Siri AI and Apple Intelligence features, according to MacRumors. Basic Siri commands and requests will remain free and unlim",
+    "published": "2026-11-16T19:24:40+00:00",
+    "first_seen": "2026-11-17T15:46:03.798277+00:00"
+  },
+  {
+    "source": "The Verge AI",
+    "source_tier": 2,
+    "title": "OpenAI wants to stop deepfakes from overwhelming child abuse tiplines",
+    "link": "https://www.theverge.com/policy/1034527/openai-csam-classifier",
+    "summary": "OpenAI is announcing a tool that it says will help child sexual abuse investigators cut through the noise to find harmful material they can act on quickly. At a Monday press briefing in Washington, DC, OpenAI announced a classifier it says can better detect abusive imagery of kid",
+    "published": "2026-11-16T19:23:45+00:00",
+    "first_seen": "2026-11-17T15:46:03.798277+00:00"
+  },
+  {
+    "source": "The Verge AI",
+    "source_tier": 2,
+    "title": "Nvidia\u2019s board is reportedly \u2018not considering\u2019 hiring Jensen Huang back",
+    "link": "https://www.theverge.com/tech/1034501/nvidia-board-jensen-huang-not-bringing-back",
+    "summary": "Nvidia's board of directors \"isn't considering\" having Jensen Huang return as CEO, according to a report from CNBC. A source tells the outlet the board \"is focused on an investigation into Huang, and is not in discussions to bring him back.\" Since Huang's resignation last week, t",
+    "published": "2026-11-16T18:43:35+00:00",
+    "first_seen": "2026-11-17T15:46:03.798277+00:00"
   }
 ]

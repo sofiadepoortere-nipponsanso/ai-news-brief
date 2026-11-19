@@ -2,87 +2,6 @@
   {
     "source": "European Commission Digital Strategy",
     "source_tier": 1,
-    "title": "First harmonised standard supporting the AI Act published in the Official Journal",
-    "link": "https://digital-strategy.ec.europa.eu/en/library/first-harmonised-standard-supporting-ai-act-published-official-journal",
-    "summary": "First harmonised standard supporting the AI Act published in the Official Journal\nAnonymous (not verified)\nMon, 10/19/2026 - 09:37\n\n\n\n  \n        \n              \n                                    The European Commission has published the reference to the first harmonised standar",
-    "published": "2026-10-19T07:37:54+00:00",
-    "first_seen": "2026-10-19T12:43:13.794121+00:00"
-  },
-  {
-    "source": "MIT Technology Review",
-    "source_tier": 2,
-    "title": "The Download: preserving the Arctic permafrost, and playful AI agents",
-    "link": "https://www.technologyreview.com/2026/10/19/1147103/the-download-preserving-the-arctic-permafrost-and-playful-ai-agents/",
-    "summary": "This is today\u2019s edition of The Download, our weekday newsletter that provides a daily dose of what\u2019s going on in the world of technology. Inside the quest to combat Arctic fires and save the planet\u2019s frozen carbon \u2014James Temple In July 2021, a wildfire burned through a forest on ",
-    "published": "2026-10-19T12:10:00+00:00",
-    "first_seen": "2026-10-19T12:43:13.794121+00:00"
-  },
-  {
-    "source": "MIT Technology Review",
-    "source_tier": 2,
-    "title": "Inside the quest to combat Arctic fires and save the planet\u2019s frozen carbon",
-    "link": "https://www.technologyreview.com/2026/10/19/1146832/inside-the-quest-to-combat-arctic-fires-and-save-the-planets-frozen-carbon/",
-    "summary": "In the middle of an especially warm July in 2021, a wildfire ignited in a thick forest of black spruce and peeling paper birch trees on the northern campus of the University of Alaska, Fairbanks.\u00a0 The blaze, possibly sparked by lightning, burned across the dry carpet of feather m",
-    "published": "2026-10-19T09:22:17+00:00",
-    "first_seen": "2026-10-19T12:43:13.794121+00:00"
-  },
-  {
-    "source": "MIT Technology Review",
-    "source_tier": 2,
-    "title": "AI researchers stranded Claude on a virtual desert island. It started to \u201cplay.\u201d",
-    "link": "https://www.technologyreview.com/2026/10/19/1147095/ai-stranded-claude-virtual-desert-island-play/",
-    "summary": "What do AI agents do if you don\u2019t tell them to do anything? The answer looks a lot like play. Researchers repeatedly stranded them alone on a virtual desert island for 30 hours in an experiment reminiscent of the movies Cast Away or Home Alone. The agents\u2014copies of Claude Opus 4.",
-    "published": "2026-10-19T09:08:05+00:00",
-    "first_seen": "2026-10-19T12:43:13.794121+00:00"
-  },
-  {
-    "source": "MIT Technology Review",
-    "source_tier": 2,
-    "title": "How far can we push computing?",
-    "link": "https://www.technologyreview.com/2026/10/19/1145904/tr-explains-how-far-can-we-push-computing/",
-    "summary": "MIT Technology Review Explains: Let our writers untangle the complex, messy world of science and technology to help you understand what\u2019s coming next. You can read more from the series here. On the evening of December 29, 1959, at an American Physical Society meeting at Caltech, ",
-    "published": "2026-10-19T09:00:00+00:00",
-    "first_seen": "2026-10-19T12:43:13.794121+00:00"
-  },
-  {
-    "source": "TechCrunch AI",
-    "source_tier": 2,
-    "title": "Anthropic says it\u2019s committing 5% of its shares to a \u2018public benefit fund\u2019",
-    "link": "https://techcrunch.com/2026/10/18/anthropic-says-its-committing-5-of-its-shares-to-a-public-benefit-fund/",
-    "summary": "Anthropic said that it will commit 5% of its shares to the fund.",
-    "published": "2026-10-18T20:37:40+00:00",
-    "first_seen": "2026-10-19T12:43:13.794121+00:00"
-  },
-  {
-    "source": "TechCrunch AI",
-    "source_tier": 2,
-    "title": "Disney agrees to hire the majority of Character.AI\u2019s workforce",
-    "link": "https://techcrunch.com/2026/10/18/disney-agrees-to-hire-the-majority-of-character-ais-workforce/",
-    "summary": "The filing also says that the \u201cvast majority\u201d of Character.AI employees who were offered jobs at Disney accepted them. However, this is a stalking horse bid, so another company could come forward with a higher offer.",
-    "published": "2026-10-18T16:30:00+00:00",
-    "first_seen": "2026-10-19T12:43:13.794121+00:00"
-  },
-  {
-    "source": "The Verge AI",
-    "source_tier": 2,
-    "title": "Democrats think cracking down on AI could give them an edge",
-    "link": "https://www.theverge.com/policy/1013113/democrats-ai-midterms",
-    "summary": "Democrats could win back control of Congress this November, and if they do, they'll need to decide how to approach one of the country's newest and thorniest political issues: AI. Polls predict Democrats will flip at least one chamber of Congress in the midterm elections, which wo",
-    "published": "2026-10-19T12:00:00+00:00",
-    "first_seen": "2026-10-19T12:43:13.794121+00:00"
-  },
-  {
-    "source": "The Verge AI",
-    "source_tier": 2,
-    "title": "A woman was arrested in Philly for blocking a delivery robot",
-    "link": "https://www.theverge.com/ai-artificial-intelligence/1013541/a-woman-was-arrested-in-philly-for-blocking-a-delivery-robot",
-    "summary": "Carolyn Marvin was arrested and charged with disorderly conduct after blocking the path of an Uber delivery robot and refusing to get out of the way. Marvin told Philadelphia's ABC13 \"I know they're taking the jobs of human delivery workers and so, I have been protesting them whe",
-    "published": "2026-10-18T18:28:10+00:00",
-    "first_seen": "2026-10-19T12:43:13.794121+00:00"
-  },
-  {
-    "source": "European Commission Digital Strategy",
-    "source_tier": 1,
     "title": "Digital Services Act study on financial scams on online platforms and ways to counter them",
     "link": "https://digital-strategy.ec.europa.eu/en/library/digital-services-act-study-financial-scams-online-platforms-and-ways-counter-them",
     "summary": "Digital Services Act study on financial scams on online platforms and ways to counter them\nAnonymous (not verified)\nTue, 10/20/2026 - 08:47\n\n\n\n  \n        \n              \n                                    A new study maps the main types of online financial scams, platform featur",
@@ -270,15 +189,6 @@
     "first_seen": "2026-10-20T11:14:14.385264+00:00"
   },
   {
-    "source": "TechCrunch AI",
-    "source_tier": 2,
-    "title": "Laplace Intelligence red-teams robots and self-driving cars before they hit the real world",
-    "link": "https://techcrunch.com/2026/10/19/laplace-intelligence-red-teams-robots-and-self-driving-cars-before-they-hit-the-real-world/",
-    "summary": "University of Michigan spinout Laplace Intelligence uses AI agents and interactive simulation to stress-test robots and self-driving vehicles before deployment. The profitable startup is competing in Startup Battlefield at TechCrunch Disrupt, October 13-15 in San Francisco.",
-    "published": "2026-10-19T12:30:00+00:00",
-    "first_seen": "2026-10-20T11:14:14.385264+00:00"
-  },
-  {
     "source": "The Verge AI",
     "source_tier": 2,
     "title": "The fossil fuel comeback is here",
@@ -294,24 +204,6 @@
     "link": "https://www.theverge.com/ai-artificial-intelligence/1014045/coreweave-stock-debt-sector-ai",
     "summary": "CoreWeave had a bad week last week. Its bonds slipped into distressed territory by a common definition - when investors demand 1,000 basis points more in yield than they'd get from government bonds. Last Tuesday Chamath \"SPAC King\" Palihapitiya noticed the distressed debt, and al",
     "published": "2026-10-19T21:28:20+00:00",
-    "first_seen": "2026-10-20T11:14:14.385264+00:00"
-  },
-  {
-    "source": "The Verge AI",
-    "source_tier": 2,
-    "title": "JB Pritzker thinks AI could help us live to 100 \u2014 or threaten us like nukes",
-    "link": "https://www.theverge.com/podcast/1012839/pritzker-ai-privacy-data-centers-flock-congress-laws",
-    "summary": "Today, I\u2019m talking with Illinois Gov. JB Pritzker, who has a lot of thoughts about AI, tech, and privacy. If you\u2019ve been listening to the show, you know that one of my running theories is that those issues are driving a big and maybe kind of unexpected political realignment \u2014 and",
-    "published": "2026-10-19T14:30:00+00:00",
-    "first_seen": "2026-10-20T11:14:14.385264+00:00"
-  },
-  {
-    "source": "The Verge AI",
-    "source_tier": 2,
-    "title": "A hacker broke into John Deere and SharkNinja with an army of AI agents",
-    "link": "https://www.theverge.com/ai-artificial-intelligence/1013643/ai-agents-hack-john-deere-shark-ninja-cummins",
-    "summary": "A hacker broke into more than 100 websites using an army of AI agents that mostly operated on their own, according to findings from the AI security firm Norforge. Though Norforge doesn't name the targets, Reuters reports that the victims included companies like John Deere, SharkN",
-    "published": "2026-10-19T13:58:41+00:00",
     "first_seen": "2026-10-20T11:14:14.385264+00:00"
   },
   {
@@ -6651,12 +6543,336 @@
     "first_seen": "2026-11-18T15:25:59.617976+00:00"
   },
   {
-    "source": "Import AI",
-    "source_tier": 3,
-    "title": "Import AI 477: In which I tell the IMF the Singularity has begun",
-    "link": "https://importai.substack.com/p/import-ai-477-in-which-i-tell-the",
-    "summary": "What do you think?",
-    "published": "2026-10-19T12:31:37+00:00",
-    "first_seen": "2026-11-18T15:25:59.617976+00:00"
+    "source": "MIT Technology Review",
+    "source_tier": 2,
+    "title": "The Download: a living liver, a billion-dollar battery deal, and AI hype",
+    "link": "https://www.technologyreview.com/2026/11/19/1148979/the-download-liver-kept-alive-sila-battery-deal-ai-hype/",
+    "summary": "This is today\u2019s edition of The Download, our weekday newsletter that provides a daily dose of what\u2019s going on in the world of technology. A human liver has been kept alive outside the body for seven weeks, setting a record Researchers in Australia claim they\u2019ve kept a human liver",
+    "published": "2026-11-19T13:10:00+00:00",
+    "first_seen": "2026-11-19T15:31:14.255183+00:00"
+  },
+  {
+    "source": "MIT Technology Review",
+    "source_tier": 2,
+    "title": "A human liver has been kept alive outside the body for a record seven weeks",
+    "link": "https://www.technologyreview.com/2026/11/19/1148934/a-human-liver-has-been-kept-alive-outside-the-body-for-seven-weeks-setting-a-record/",
+    "summary": "Researchers in Australia claim they\u2019ve kept a human liver alive, on life support, outside the body for seven weeks, opening up speculative new possibilities in biomedical engineering. The feat, whose details are pending publication, was carried out in Sydney after a team led by s",
+    "published": "2026-11-19T12:00:00+00:00",
+    "first_seen": "2026-11-19T15:31:14.255183+00:00"
+  },
+  {
+    "source": "MIT Technology Review",
+    "source_tier": 2,
+    "title": "What a billion-dollar deal says about the US battery market",
+    "link": "https://www.technologyreview.com/2026/11/19/1148922/sila-panasonic-battery-deal/",
+    "summary": "After a tough few years littered with some high-profile failures, there\u2019s some positive news for next-generation batteries in the US. Sila just signed an agreement with Panasonic Energy, a global battery manufacturer, to supply silicon-carbon anode material, a possible key to sma",
+    "published": "2026-11-19T11:00:00+00:00",
+    "first_seen": "2026-11-19T15:31:14.255183+00:00"
+  },
+  {
+    "source": "ZDNet AI",
+    "source_tier": 2,
+    "title": "The Flipper One is more than a Zero 2.0 \u2013 it\u2019s a $399 Linux computer with a $13M Kickstarter",
+    "link": "https://www.zdnet.com/tech/flipper-one-cost-features-linux-computer-kickstarter/",
+    "summary": "Backers are going big on the $759 Ultimate Bundle, but Flipper warns that rising RAM prices could affect production.",
+    "published": "2026-11-19T13:28:20+00:00",
+    "first_seen": "2026-11-19T15:31:14.255183+00:00"
+  },
+  {
+    "source": "ZDNet AI",
+    "source_tier": 2,
+    "title": "90% of employers reject resumes that look like AI \u2013 yet half use AI to interview",
+    "link": "https://www.zdnet.com/innovation/ai-applications-skipped-interview/",
+    "summary": "In today\u2019s job market, do applicants really have a choice of whether to comply with AI hiring tools?",
+    "published": "2026-11-19T12:00:00+00:00",
+    "first_seen": "2026-11-19T15:31:14.255183+00:00"
+  },
+  {
+    "source": "ZDNet AI",
+    "source_tier": 2,
+    "title": "Google Wallet comes to your iPhone \u2013 but without this feature",
+    "link": "https://www.zdnet.com/tech/google-wallet-iphone-ios-no-tap-to-pay/",
+    "summary": "The new Google Wallet app brings Gemini agentic shopping to US-based iOS users \u2013  sorry, no tap-to-pay.",
+    "published": "2026-11-18T18:02:15+00:00",
+    "first_seen": "2026-11-19T15:31:14.255183+00:00"
+  },
+  {
+    "source": "ZDNet AI",
+    "source_tier": 2,
+    "title": "5 new Apple Health features you should try in iOS 27.3 \u2013 if your phone qualifies",
+    "link": "https://www.zdnet.com/health/apple-health-ios-27-3-ai-features-compatible-iphones/",
+    "summary": "Apple\u2019s redesigned Health app arrives in December with some major upgrades, but not every iPhone will get the full experience.",
+    "published": "2026-11-18T18:00:48+00:00",
+    "first_seen": "2026-11-19T15:31:14.255183+00:00"
+  },
+  {
+    "source": "ZDNet AI",
+    "source_tier": 2,
+    "title": "You can use Google\u2019s Spark AI agent, renamed Tasks, for free now \u2013 with limits",
+    "link": "https://www.zdnet.com/innovation/gemini-spark-tasks-free-personal-agent/",
+    "summary": "At least if Tasks disappoints, it won\u2019t cost you \u2013 unlike OpenAI and Anthropic\u2019s subscription-based agents.",
+    "published": "2026-11-18T17:11:39+00:00",
+    "first_seen": "2026-11-19T15:31:14.255183+00:00"
+  },
+  {
+    "source": "ZDNet AI",
+    "source_tier": 2,
+    "title": "74% of shoppers trust AI agents for buying advice \u2013 but checkout is another story",
+    "link": "https://www.zdnet.com/innovation/retailer-shoppers-ai-agents-buying-advice/",
+    "summary": "Shoppers who use AI agents spend 8% more than the average buyer and purchase 23% more items per order.",
+    "published": "2026-11-18T16:52:59+00:00",
+    "first_seen": "2026-11-19T15:31:14.255183+00:00"
+  },
+  {
+    "source": "ZDNet AI",
+    "source_tier": 2,
+    "title": "Your Wear OS smartwatch just got a new way to save battery life",
+    "link": "https://www.zdnet.com/tech/wear-os-smartwatches-update-save-battery-life-galaxy-pixel/",
+    "summary": "It could make your Pixel Watch or Samsung Galaxy Watch more power efficient.",
+    "published": "2026-11-18T16:24:20+00:00",
+    "first_seen": "2026-11-19T15:31:14.255183+00:00"
+  },
+  {
+    "source": "TechCrunch AI",
+    "source_tier": 2,
+    "title": "Anthropic\u2019s IPO puts AI\u2019s circular financing boom to the test",
+    "link": "https://techcrunch.com/2026/11/19/anthropics-ipo-puts-ais-circular-financing-boom-to-the-test/",
+    "summary": "Anthropic faces enormous compute commitments as it goes public, but its biggest infrastructure partners, including Amazon and Google, could continue profiting from AI even if Anthropic loses its lead.",
+    "published": "2026-11-19T14:54:39+00:00",
+    "first_seen": "2026-11-19T15:31:14.255183+00:00"
+  },
+  {
+    "source": "TechCrunch AI",
+    "source_tier": 2,
+    "title": "Superhuman pushes its Go assistant everywhere",
+    "link": "https://techcrunch.com/2026/11/19/superhuman-pushes-its-go-assistant-everywhere/",
+    "summary": "Superhuman is making Go its central agent and making it available in Docs and Mail",
+    "published": "2026-11-19T14:00:00+00:00",
+    "first_seen": "2026-11-19T15:31:14.255183+00:00"
+  },
+  {
+    "source": "TechCrunch AI",
+    "source_tier": 2,
+    "title": "Microsoft CEO Satya Nadella explains why he asked 60K employees to quit",
+    "link": "https://techcrunch.com/2026/11/18/microsoft-ceo-satya-nadella-explains-why-he-asked-60k-employees-to-quit/",
+    "summary": "Microsoft CEO Satya Nadella explained why he offered buyouts to 60,000 of his employees in October, essentially urging them to voluntarily quit, rather than reducing the workforce via another massive layoff. The short answer is AI, but not in the way you might expect.",
+    "published": "2026-11-19T00:42:56+00:00",
+    "first_seen": "2026-11-19T15:31:14.255183+00:00"
+  },
+  {
+    "source": "TechCrunch AI",
+    "source_tier": 2,
+    "title": "Amidst fears of AI cyberattacks, Satya Nadella says lots of critical infrastructure is \u2018unpatchable\u2019",
+    "link": "https://techcrunch.com/2026/11/18/amidst-fears-of-ai-cyberattacks-satya-nadella-says-lots-of-critical-infrastructure-is-unpatchable/",
+    "summary": "The Microsoft CEO downplayed the recent Outlook outage while noting that AI was causing both opportunities and new challenges for securing much of the connected world.",
+    "published": "2026-11-18T23:45:00+00:00",
+    "first_seen": "2026-11-19T15:31:14.255183+00:00"
+  },
+  {
+    "source": "TechCrunch AI",
+    "source_tier": 2,
+    "title": "Elon Musk says ousting Jensen Huang is like \u2018kicking Michael Jordan off your team\u2019",
+    "link": "https://techcrunch.com/2026/11/18/elon-musk-says-ousting-jensen-huang-is-like-kicking-michael-jordan-off-your-team/",
+    "summary": "\u201cI don\u2019t think [Huang is] disloyal to the United States,\" Musk said.",
+    "published": "2026-11-18T23:25:17+00:00",
+    "first_seen": "2026-11-19T15:31:14.255183+00:00"
+  },
+  {
+    "source": "TechCrunch AI",
+    "source_tier": 2,
+    "title": "Microsoft CEO Satya Nadella remains confident in Nvidia after Huang\u2019s exit",
+    "link": "https://techcrunch.com/2026/11/18/microsoft-ceo-satya-nadella-remains-confident-in-nvidia-after-huangs-exit/",
+    "summary": "Microsoft CEO Satya Nadella expressed confidence in Jensen Huang's successor Colette Kress, who is serving as Nvidia's interim CEO.",
+    "published": "2026-11-18T23:17:28+00:00",
+    "first_seen": "2026-11-19T15:31:14.255183+00:00"
+  },
+  {
+    "source": "TechCrunch AI",
+    "source_tier": 2,
+    "title": "Satya Nadella predicts AI agents will reshuffle the economics of the web",
+    "link": "https://techcrunch.com/2026/11/18/satya-nadella-predicts-ai-agents-will-reshuffle-the-economics-of-the-web/",
+    "summary": "Microsoft's CEO says AI agents could disrupt advertising-driven business models, forcing companies like Amazon to rethink how they compete for customers.",
+    "published": "2026-11-18T22:58:11+00:00",
+    "first_seen": "2026-11-19T15:31:14.255183+00:00"
+  },
+  {
+    "source": "TechCrunch AI",
+    "source_tier": 2,
+    "title": "Anthropic prices IPO at $83 a share, above projected range",
+    "link": "https://techcrunch.com/2026/11/18/anthropic-reportedly-prices-ipo-at-83-a-share-above-projected-range/",
+    "summary": "The long-awaited IPO reportedly values the company at $1.5 trillion on a fully diluted basis.",
+    "published": "2026-11-18T22:11:15+00:00",
+    "first_seen": "2026-11-19T15:31:14.255183+00:00"
+  },
+  {
+    "source": "TechCrunch AI",
+    "source_tier": 2,
+    "title": "Nvidia created a weird bit of intrigue by not filing a routine SEC report",
+    "link": "https://techcrunch.com/2026/11/18/nvidia-created-a-weird-bit-of-intrigue-by-not-filing-a-routine-sec-report/",
+    "summary": "One Wall Street analyst got to the bottom of Nvidia's surprise announcement that it wouldn't be filing its formal quarterly results document, the 10-Q, for weeks.",
+    "published": "2026-11-18T21:57:40+00:00",
+    "first_seen": "2026-11-19T15:31:14.255183+00:00"
+  },
+  {
+    "source": "TechCrunch AI",
+    "source_tier": 2,
+    "title": "Palmer Luckey warns AI-powered cyberattacks are outpacing defenses: \u2018It\u2019s time to start running\u2019",
+    "link": "https://techcrunch.com/2026/11/18/palmer-luckey-warns-ai-powered-cyberattacks-are-outpacing-defenses-its-time-to-start-running/",
+    "summary": "The Anduril co-founder says outdated technology is leaving systems vulnerable to a new wave of AI-enabled attacks.",
+    "published": "2026-11-18T21:34:13+00:00",
+    "first_seen": "2026-11-19T15:31:14.255183+00:00"
+  },
+  {
+    "source": "TechCrunch AI",
+    "source_tier": 2,
+    "title": "Palmer Luckey thinks China is \u2018thrilled to have Jensen out,\u2019 so he wants the ousted Nvidia CEO reinstated",
+    "link": "https://techcrunch.com/2026/11/18/palmer-luckey-thinks-china-is-thrilled-to-have-jensen-out-so-he-wants-the-ousted-nvidia-ceo-reinstated/",
+    "summary": "\"It makes America weaker to knock him out,\" the Anduril CEO said about ousted Nvidia leader Jensen Huang.",
+    "published": "2026-11-18T21:31:21+00:00",
+    "first_seen": "2026-11-19T15:31:14.255183+00:00"
+  },
+  {
+    "source": "TechCrunch AI",
+    "source_tier": 2,
+    "title": "Sam Altman says his life is so weird that he\u2019s unfazed by Andrew Garfield portraying him in upcoming movie",
+    "link": "https://techcrunch.com/2026/11/18/sam-altman-says-his-life-is-so-weird-that-hes-unfazed-by-andrew-garfield-portraying-him-in-upcoming-movie/",
+    "summary": "\"It doesn't feel like it's in like the top 10 weirdest things about my life,\" Altman said.",
+    "published": "2026-11-18T20:07:01+00:00",
+    "first_seen": "2026-11-19T15:31:14.255183+00:00"
+  },
+  {
+    "source": "TechCrunch AI",
+    "source_tier": 2,
+    "title": "Snapchat now lets developers build AR Lenses with AI assistants like Claude Code and Cursor",
+    "link": "https://techcrunch.com/2026/11/18/snapchat-now-lets-developers-build-ar-lenses-with-ai-coding-assistants-like-claude-code-and-cursor/",
+    "summary": "Lens creators can describe the Lens they want in plain language, and their AI assistant handles the process from start to finish, Snapchat says.",
+    "published": "2026-11-18T19:56:39+00:00",
+    "first_seen": "2026-11-19T15:31:14.255183+00:00"
+  },
+  {
+    "source": "TechCrunch AI",
+    "source_tier": 2,
+    "title": "Google\u2019s AI feature in Search gets its own incognito mode",
+    "link": "https://techcrunch.com/2026/11/18/googles-ai-feature-in-search-gets-its-own-incognito-mode/",
+    "summary": "Google's new temporary threads let users have conversations in AI Mode without adding them to their search history or influencing future recommendations.",
+    "published": "2026-11-18T18:04:05+00:00",
+    "first_seen": "2026-11-19T15:31:14.255183+00:00"
+  },
+  {
+    "source": "TechCrunch AI",
+    "source_tier": 2,
+    "title": "More banks say customers using AI agents are on their own \u2014 even if they get hacked",
+    "link": "https://techcrunch.com/2026/11/18/more-banks-says-customers-using-ai-agents-are-on-their-own-even-if-they-get-hacked/",
+    "summary": "Citi is the latest major financial institution to put the breaks on personal finance AI agents.",
+    "published": "2026-11-18T17:32:10+00:00",
+    "first_seen": "2026-11-19T15:31:14.255183+00:00"
+  },
+  {
+    "source": "TechCrunch AI",
+    "source_tier": 2,
+    "title": "Sam Altman warns against a future where AI, not humans, calls the shots",
+    "link": "https://techcrunch.com/2026/11/18/sam-altman-warns-against-a-future-where-ai-not-humans-calls-the-shots/",
+    "summary": "Sam Altman and Greg Brockman pushed back against Silicon Valley's growing debate over an AI takeover, while acknowledging the challenges of keeping advanced models under human control.",
+    "published": "2026-11-18T16:59:00+00:00",
+    "first_seen": "2026-11-19T15:31:14.255183+00:00"
+  },
+  {
+    "source": "TechCrunch AI",
+    "source_tier": 2,
+    "title": "OpenAI CEO Sam Altman says it\u2019s \u2018hard to imagine the AI industry without Jensen\u2019",
+    "link": "https://techcrunch.com/2026/11/18/openai-ceo-sam-altman-says-its-hard-to-imagine-the-ai-industry-without-jensen/",
+    "summary": "Nvidia founder and former CEO Jensen Huang stepped down last week amid several scandals, including an affair with an alleged Chinese spy.",
+    "published": "2026-11-18T16:14:09+00:00",
+    "first_seen": "2026-11-19T15:31:14.255183+00:00"
+  },
+  {
+    "source": "The Verge AI",
+    "source_tier": 2,
+    "title": "ChatGPT can transcribe as you speak now with Live Dictation",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/1037634/openai-chatgpt-live-dictation",
+    "summary": "ChatGPT can receive audio prompts from your microphone faster now with a Live Dictation feature that transcribes as you speak, rather than waiting until you finish recording. It's rolling out now globally on all ChatGPT plans on the web, desktop app, and iOS and Android apps. Whi",
+    "published": "2026-11-19T15:16:45+00:00",
+    "first_seen": "2026-11-19T15:31:14.255183+00:00"
+  },
+  {
+    "source": "The Verge AI",
+    "source_tier": 2,
+    "title": "With the biggest IPO of all time, Anthropic\u2019s \u2018good guy\u2019 reputation is on the line",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/1037459/anthropic-ipo-safe-ai-reputation-power-structure",
+    "summary": "Today is a new beginning for Anthropic: a years-in-the-making IPO that beat out SpaceX for most valuable of all time, having raised $81.3 billion and set an important precedent for the other public AI lab debuts to come. But it's not simply a financial milestone. Anthropic was fo",
+    "published": "2026-11-19T14:25:37+00:00",
+    "first_seen": "2026-11-19T15:31:14.255183+00:00"
+  },
+  {
+    "source": "The Verge AI",
+    "source_tier": 2,
+    "title": "I let Apple\u2019s always-listening AI summarize my life for two weeks",
+    "link": "https://www.theverge.com/tech/1037100/apple-siri-recap-audio-intelligence-hands-on",
+    "summary": "Was it worth it? I've been asking myself this quite a bit over the last month or so while testing both the Amazon Bee Frontier and Siri Recap on the Apple Watch Ultra 4. Both enable a wearable to ambiently listen to your conversations and, using AI, summarize them for you. Why? S",
+    "published": "2026-11-19T13:00:00+00:00",
+    "first_seen": "2026-11-19T15:31:14.255183+00:00"
+  },
+  {
+    "source": "The Verge AI",
+    "source_tier": 2,
+    "title": "Canva adds an AI \u2018off\u2019 button",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/1037126/canva-ai-features-off-button",
+    "summary": "Canva will now allow you to turn off its generative AI features. With this change, you can disable the graphic design platform's array of AI tools, such as its AI photo-extending Magic Expand feature, as well as turn off the ability to generate images with its Canva chatbot. This",
+    "published": "2026-11-19T12:30:00+00:00",
+    "first_seen": "2026-11-19T15:31:14.255183+00:00"
+  },
+  {
+    "source": "The Verge AI",
+    "source_tier": 2,
+    "title": "The nation\u2019s largest school districts consider ditching Google Search",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/1037151/school-districts-ditching-google",
+    "summary": "New York, Los Angeles, and Chicago schools are considering Google alternatives after the company said it will disable Search for schools that opt out of its AI features, according to The New York Times. Starting next year, schools will not have the option to disable Gemini-powere",
+    "published": "2026-11-18T23:18:35+00:00",
+    "first_seen": "2026-11-19T15:31:14.255183+00:00"
+  },
+  {
+    "source": "The Verge AI",
+    "source_tier": 2,
+    "title": "Trump\u2019s latest land grab is an AI hub in the Philippines",
+    "link": "https://www.theverge.com/policy/1036749/trump-ai-chip-data-center-us-philippines-pax-silica",
+    "summary": "President Donald Trump was greeted by no less than five beauty queens when he landed in the Philippines on Tuesday, according to local news outlet Rappler. As he stepped onto the tarmac, a child handed him small US and Philippine flags. A band played \"YMCA,\" a staple at Trump ral",
+    "published": "2026-11-18T19:40:36+00:00",
+    "first_seen": "2026-11-19T15:31:14.255183+00:00"
+  },
+  {
+    "source": "The Verge AI",
+    "source_tier": 2,
+    "title": "Nvidia\u2019s rise, visualized",
+    "link": "https://www.theverge.com/tech/1035924/nvidia-visualized-revenue-profit-earnings-after-huang",
+    "summary": "If someone handed you $8,300 every second, what would you do? That's how much pure profit Nvidia now makes. By the time you finish reading this paragraph, Nvidia will likely have cleared $45,000 and change. It's easy to look at Nvidia, a company that just lost its visionary found",
+    "published": "2026-11-18T19:30:00+00:00",
+    "first_seen": "2026-11-19T15:31:14.255183+00:00"
+  },
+  {
+    "source": "The Verge AI",
+    "source_tier": 2,
+    "title": "Tech lawsuits defined 2026 \u2014 and lawmakers want more",
+    "link": "https://www.theverge.com/policy/1036935/congress-forced-arbitration-deepfakes-defiance-act",
+    "summary": "With just a few weeks remaining, lawmakers are trying to pass new protections for victims of online harm before the end of 2026, targeting deepfake creators and online platforms that block users from filing lawsuits. On Tuesday, members of a Senate Judiciary subcommittee hosted a",
+    "published": "2026-11-18T19:07:29+00:00",
+    "first_seen": "2026-11-19T15:31:14.255183+00:00"
+  },
+  {
+    "source": "The Verge AI",
+    "source_tier": 2,
+    "title": "What is Nvidia without AI\u2019s sugar daddy in charge?",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/1036776/nvidia-earnings-kress-jensen-huang-petition",
+    "summary": "If the glorious AI revolution rests entirely on the well-being of one man, AI is perhaps not as robust a technology as I had previously been led to believe. Nonetheless, chunks of Silicon Valley are now insisting he is indispensable. For instance, if Elon Musk is telling the trut",
+    "published": "2026-11-18T18:34:15+00:00",
+    "first_seen": "2026-11-19T15:31:14.255183+00:00"
+  },
+  {
+    "source": "The Verge AI",
+    "source_tier": 2,
+    "title": "Disney\u2019s new Star Wars animatronics interact with guests using AI",
+    "link": "https://www.theverge.com/tech/1036729/disney-star-wars-anzellans-animatronic-amazon-aws-cloud-ai",
+    "summary": "As advanced and lifelike as the animatronic characters at Disney parks have become, they typically either stick to predefined movements and routines, or there's an out of sight puppeteer helping make their behavior appear more spontaneous. That could soon change as Walt Disney Im",
+    "published": "2026-11-18T17:50:57+00:00",
+    "first_seen": "2026-11-19T15:31:14.255183+00:00"
   }
 ]

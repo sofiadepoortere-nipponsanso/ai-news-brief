@@ -1,257 +1,5 @@
 [
   {
-    "source": "MIT Technology Review",
-    "source_tier": 2,
-    "title": "In the biotech world, you can\u2019t see everything",
-    "link": "https://www.technologyreview.com/2026/10/23/1147610/biotech-you-can-see-everything-theranos-holmes/",
-    "summary": "Earlier this week, I attended a screening of You Can See Everything, the buzzy new documentary about the disgraced former biotech CEO Elizabeth Holmes.\u00a0 I went in not really knowing what to expect. I\u2019d avoided spoilers (and won\u2019t be giving anything away here, either!). I was wond",
-    "published": "2026-10-23T09:00:00+00:00",
-    "first_seen": "2026-10-23T11:19:56.352326+00:00"
-  },
-  {
-    "source": "MIT Technology Review",
-    "source_tier": 2,
-    "title": "Designing an AI serving harness built to last",
-    "link": "https://www.technologyreview.com/2026/10/22/1146109/designing-an-ai-serving-harness-built-to-last/",
-    "summary": "The next competitive advantage in enterprise AI has less to do with which model you choose than with what you build around it. That\u2019s an important shift. For the past several years, much of the AI conversation has centered on model capability: bigger models, better reasoning, lar",
-    "published": "2026-10-22T21:17:29+00:00",
-    "first_seen": "2026-10-23T11:19:56.352326+00:00"
-  },
-  {
-    "source": "MIT Technology Review",
-    "source_tier": 2,
-    "title": "The Foundations of Scalable AI",
-    "link": "https://www.technologyreview.com/2026/10/22/1146103/the-foundations-of-scalable-ai/",
-    "summary": "A scalable AI system requires a strong foundation. Data, engineering, platforms, operating models, and governance must converge to work as one. This session from MIT Technology Review\u2019s EmTech Future conference explores what it takes to build that foundation in a highly regulated",
-    "published": "2026-10-22T18:48:04+00:00",
-    "first_seen": "2026-10-23T11:19:56.352326+00:00"
-  },
-  {
-    "source": "ZDNet AI",
-    "source_tier": 2,
-    "title": "Amazon\u2019s Kindle Unlimited is now Kindle+, and the 2 big changes include AI audiobooks",
-    "link": "https://www.zdnet.com/tech/kindle-unlimited-kindle-plus-audiobooks-ai/",
-    "summary": "Unlike narrated audiobooks from Audible and other providers, the audiobooks created with Virtual Voice in Kindle+ will instead be narrated by AI.",
-    "published": "2026-10-22T15:55:55+00:00",
-    "first_seen": "2026-10-23T11:19:56.352326+00:00"
-  },
-  {
-    "source": "ZDNet AI",
-    "source_tier": 2,
-    "title": "The latest PowerToys gives your mouse 2 new tricks for free \u2013 how to use them",
-    "link": "https://www.zdnet.com/tech/powertoys-102-windows-mouse-control/",
-    "summary": "PowerToys is one of my favorite free Windows utilities. With more than 30 tools, it offers something for everyone from beginners to power users. Here\u2019s what\u2019s new for mousing.",
-    "published": "2026-10-22T15:17:56+00:00",
-    "first_seen": "2026-10-23T11:19:56.352326+00:00"
-  },
-  {
-    "source": "TechCrunch AI",
-    "source_tier": 2,
-    "title": "Uber rival inDrive eyes 2027 robotaxi tests in Central Asia with Pony.ai and Nvidia",
-    "link": "https://techcrunch.com/2026/10/22/uber-rival-indrive-eyes-2027-robotaxi-tests-in-central-asia-with-pony-ai-and-nvidia/",
-    "summary": "inDrive plans to begin testing Pony.ai's robotaxis in Kazakhstan's capital in the first half of 2027.",
-    "published": "2026-10-23T04:00:00+00:00",
-    "first_seen": "2026-10-23T11:19:56.352326+00:00"
-  },
-  {
-    "source": "TechCrunch AI",
-    "source_tier": 2,
-    "title": "Left alone with nothing to do, AI agents started playing",
-    "link": "https://techcrunch.com/2026/10/22/left-alone-with-nothing-to-do-ai-agents-started-playing/",
-    "summary": "MIT researchers marooned 13 AIs on a virtual island, and they responded by inventing games, mourning a lost ring and, eventually, getting better at their jobs.",
-    "published": "2026-10-23T00:45:37+00:00",
-    "first_seen": "2026-10-23T11:19:56.352326+00:00"
-  },
-  {
-    "source": "TechCrunch AI",
-    "source_tier": 2,
-    "title": "OpenAI working on new $30B raise at $1.25T valuation ahead of IPO",
-    "link": "https://techcrunch.com/2026/10/22/openai-working-on-new-30b-raise-at-1-25t-valuation-ahead-of-ipo/",
-    "summary": "Should OpenAI command an over $1 trillion valuation with this round, it would break records as the most highly valued private company ever.",
-    "published": "2026-10-22T22:08:24+00:00",
-    "first_seen": "2026-10-23T11:19:56.352326+00:00"
-  },
-  {
-    "source": "TechCrunch AI",
-    "source_tier": 2,
-    "title": "1Password launches a way for AI agents to log in on your behalf without seeing your password",
-    "link": "https://techcrunch.com/2026/10/22/1password-launches-a-way-for-ai-agents-to-log-in-on-your-behalf-without-seeing-your-password/",
-    "summary": "The new feature allows agents to log into a customer's personal accounts while still protecting the private credentials that secure those accounts.",
-    "published": "2026-10-22T19:07:09+00:00",
-    "first_seen": "2026-10-23T11:19:56.352326+00:00"
-  },
-  {
-    "source": "TechCrunch AI",
-    "source_tier": 2,
-    "title": "OpenAI makes its Jev competitor widely available as decision model competition heats up",
-    "link": "https://techcrunch.com/2026/10/22/openai-makes-its-jev-competitor-widely-available-as-decision-model-competition-heats-up/",
-    "summary": "OpenAI is launching its decision model to the world. Can it compete with the original Jev?",
-    "published": "2026-10-22T19:00:00+00:00",
-    "first_seen": "2026-10-23T11:19:56.352326+00:00"
-  },
-  {
-    "source": "TechCrunch AI",
-    "source_tier": 2,
-    "title": "Canva releases its first image generation model",
-    "link": "https://techcrunch.com/2026/10/22/canva-releases-its-first-image-generation-model/",
-    "summary": "Canva is making its new image model available to all users, promising better, more customizable performance at lower costs.",
-    "published": "2026-10-22T19:00:00+00:00",
-    "first_seen": "2026-10-23T11:19:56.352326+00:00"
-  },
-  {
-    "source": "TechCrunch AI",
-    "source_tier": 2,
-    "title": "Microsoft\u2019s Mustafa Suleyman says its AI outperforms doctors on hard cases as he chases \u2018medical superintelligence\u2019",
-    "link": "https://techcrunch.com/2026/10/22/microsofts-mustafa-suleyman-says-its-ai-outperforms-doctors-on-hard-cases-as-he-chases-medical-superintelligence/",
-    "summary": "Microsoft\u2019s new AI diagnostic system beat generalist doctors on hard cases, according to a study in Science. But most of the improvement seems to come from the AI models underneath, not from Microsoft\u2019s system itself.",
-    "published": "2026-10-22T18:43:53+00:00",
-    "first_seen": "2026-10-23T11:19:56.352326+00:00"
-  },
-  {
-    "source": "TechCrunch AI",
-    "source_tier": 2,
-    "title": "Chinese hackers spied on thousands of companies after breaching IT giant ConnectWise",
-    "link": "https://techcrunch.com/2026/10/22/chinese-hackers-spied-on-thousands-of-companies-after-breaching-it-giant-connectwise/",
-    "summary": "Microsoft points the blame for ConnectWise's breach at a China-aligned hacker, which relied on AI agents to rapidly hack into thousands of its customers.",
-    "published": "2026-10-22T16:47:17+00:00",
-    "first_seen": "2026-10-23T11:19:56.352326+00:00"
-  },
-  {
-    "source": "TechCrunch AI",
-    "source_tier": 2,
-    "title": "Uber puts all 30,000 employees on ChatGPT Work",
-    "link": "https://techcrunch.com/2026/10/22/uber-puts-all-30000-employees-on-chatgpt-work/",
-    "summary": "The ride-share giant previously deployed a much smaller pilot for ChatGPT Work but is now taking the enterprise agent company-wide.",
-    "published": "2026-10-22T16:00:00+00:00",
-    "first_seen": "2026-10-23T11:19:56.352326+00:00"
-  },
-  {
-    "source": "TechCrunch AI",
-    "source_tier": 2,
-    "title": "Spotify\u2019s current AI bet is about being the music service that agents choose",
-    "link": "https://techcrunch.com/2026/10/22/spotifys-current-ai-bet-is-about-being-the-music-service-that-agents-choose/",
-    "summary": "Spotify co-CEO Gustav S\u00f6derstr\u00f6m explains why the rise of AI agents could be good news for the music service.",
-    "published": "2026-10-22T15:03:58+00:00",
-    "first_seen": "2026-10-23T11:19:56.352326+00:00"
-  },
-  {
-    "source": "The Verge AI",
-    "source_tier": 2,
-    "title": "Canva\u2019s first AI image model plans designs before generating them",
-    "link": "https://www.theverge.com/ai-artificial-intelligence/1017151/canva-craft-in-house-ai-model",
-    "summary": "Canva is diving even deeper into AI with the launch of an image generation model that competes directly with those from OpenAI, Microsoft, and Google. The model, called Canva Craft, uses a two-stage architecture that allows it to plan a design before generating an image, allowing",
-    "published": "2026-10-22T21:51:25+00:00",
-    "first_seen": "2026-10-23T11:19:56.352326+00:00"
-  },
-  {
-    "source": "The Verge AI",
-    "source_tier": 2,
-    "title": "Meta\u2019s AI could still scrape news sites, legal experts say",
-    "link": "https://www.theverge.com/tech/1017082/meta-terms-update-ai-training-concerns",
-    "summary": "Meta has tweaked its business terms to remove language suggesting that it could freely train its AI models on news sites, like The Verge - but legal experts say these changes aren't enough to address their concerns. \"This does nothing to restrict the 'associated with your product",
-    "published": "2026-10-22T20:32:05+00:00",
-    "first_seen": "2026-10-23T11:19:56.352326+00:00"
-  },
-  {
-    "source": "The Verge AI",
-    "source_tier": 2,
-    "title": "Meta turns Muse sharing back on",
-    "link": "https://www.theverge.com/tech/1017066/meta-muse-sharing-back-on-artifiacts",
-    "summary": "Meta has re-enabled Muse sharing after security researchers had reported that public conversation links could be easy to find. The researchers said they had been able to find Muse pages like a marketing company's internal revenue review and a small business owner's loan applicati",
-    "published": "2026-10-22T20:24:04+00:00",
-    "first_seen": "2026-10-23T11:19:56.352326+00:00"
-  },
-  {
-    "source": "The Verge AI",
-    "source_tier": 2,
-    "title": "Sure, let\u2019s smoosh SpaceX and Tesla together, who cares",
-    "link": "https://www.theverge.com/ai-artificial-intelligence/1016879/spacex-tesla-cursed-katamari",
-    "summary": "Oh sure, SpaceX's credit risk is pretty high because it's about to borrow another $40 billion to spend on Nvidia chips, but who cares about that? SpaceX and Tesla have formed special committees to discuss a merger! The degree to which you find this merger compelling likely has to",
-    "published": "2026-10-22T19:45:00+00:00",
-    "first_seen": "2026-10-23T11:19:56.352326+00:00"
-  },
-  {
-    "source": "The Verge AI",
-    "source_tier": 2,
-    "title": "Discord now formats Markdown previews right",
-    "link": "https://www.theverge.com/news/1017012/discord-markdown-previews-organize-servers-channels",
-    "summary": "Discord's latest update released today has a big improvement for Markdown previews: they should now render correctly instead of with \"a bunch of symbols,\" according to the company. LLMs and AI agents often rely on Markdown files for instructions and context, so these improved pre",
-    "published": "2026-10-22T18:58:19+00:00",
-    "first_seen": "2026-10-23T11:19:56.352326+00:00"
-  },
-  {
-    "source": "The Verge AI",
-    "source_tier": 2,
-    "title": "In Meta\u2019s version of the future, I\u2019ll have my Muse call your Muse",
-    "link": "https://www.theverge.com/tech/1016905/meta-earnings-fall-2026-muse-network",
-    "summary": "Mark Zuckerberg is barrelling toward a future in which an autonomous network of AI agents will run our lives - shopping for us, working for us, talking to other people's AI agents for us. Are humans ready for this very specific and unrelenting vision of a life in which we communi",
-    "published": "2026-10-22T18:15:00+00:00",
-    "first_seen": "2026-10-23T11:19:56.352326+00:00"
-  },
-  {
-    "source": "The Verge AI",
-    "source_tier": 2,
-    "title": "Microsoft says its AI tool is better than doctors at diagnosing conditions",
-    "link": "https://www.theverge.com/ai-artificial-intelligence/1016690/suleyman-microsoft-diagnostic-orchestrator-science-medical-superintelligence",
-    "summary": "For years, AI leaders have touted healthcare as one of the clearest examples of where their technology will improve lives. Now \"it is finally here,\" Microsoft AI CEO Mustafa Suleyman tells The Verge. The company claims to have developed an AI-powered tool it says can diagnose con",
-    "published": "2026-10-22T18:00:00+00:00",
-    "first_seen": "2026-10-23T11:19:56.352326+00:00"
-  },
-  {
-    "source": "The Verge AI",
-    "source_tier": 2,
-    "title": "Someone hacked the Switch 2 by using an old game and AI",
-    "link": "https://www.theverge.com/games/1016862/nintendo-switch-2-jailbreak-ai",
-    "summary": "The Nintendo Switch 2 has apparently been jailbroken, and a modder has already shown the console running a custom version of Mario Kart World featuring new playable characters like Cinnamoroll, the red Angry Bird, Peter Griffin, and Steve from Minecraft. OpenAI's Codex helped mak",
-    "published": "2026-10-22T17:21:31+00:00",
-    "first_seen": "2026-10-23T11:19:56.352326+00:00"
-  },
-  {
-    "source": "The Verge AI",
-    "source_tier": 2,
-    "title": "Wildwood\u2019s director says AI is \u2018antithetical to everything that we are at this studio\u2019",
-    "link": "https://www.theverge.com/entertainment/1016647/wildwood-travis-knight-interview-ai-laika-stop-motion",
-    "summary": "Wildwood is the most ambitious film yet from Laika, the stop-motion studio best known for the likes of Coraline and ParaNorman. It's a sprawling fantasy adventure that took five years to complete. The process involved more 230 puppets - including 36 of the main character Prue alo",
-    "published": "2026-10-22T16:16:15+00:00",
-    "first_seen": "2026-10-23T11:19:56.352326+00:00"
-  },
-  {
-    "source": "The Verge AI",
-    "source_tier": 2,
-    "title": "OpenAI, Anthropic, and Nvidia had record lobbying quarters",
-    "link": "https://www.theverge.com/policy/1016585/openai-anthropic-nvidia-lobbying-records",
-    "summary": "It was a busy summer for AI lobbyists. Anthropic, OpenAI, and Nvidia each had their highest-spending lobbying quarter between July and September, federal disclosures show. Nvidia spent the most of the group at $2.2 million, followed by Anthropic's $2.1 million and OpenAI's $1.5 m",
-    "published": "2026-10-22T15:50:30+00:00",
-    "first_seen": "2026-10-23T11:19:56.352326+00:00"
-  },
-  {
-    "source": "MIT Technology Review",
-    "source_tier": 2,
-    "title": "The Download: testing six tech promises and biotech\u2019s blind spots",
-    "link": "https://www.technologyreview.com/2026/10/23/1147628/the-download-testing-tech-promises-science-blind-spots/",
-    "summary": "This is today\u2019s edition of The Download, our weekday newsletter that provides a daily dose of what\u2019s going on in the world of technology. Are we there yet? A reality check on six big tech promises Some seemingly impossible feats are too good to give up on. Decoding a pet\u2019s yowls ",
-    "published": "2026-10-23T12:10:00+00:00",
-    "first_seen": "2026-10-24T10:39:36.639519+00:00"
-  },
-  {
-    "source": "ZDNet AI",
-    "source_tier": 2,
-    "title": "Android lets you \u2018bubble\u2019 apps for easy access now \u2013 how it works",
-    "link": "https://www.zdnet.com/tech/android-17-app-bubbles-how-to/",
-    "summary": "Keep your most-used apps accessible with this new feature.",
-    "published": "2026-10-23T16:28:46+00:00",
-    "first_seen": "2026-10-24T10:39:36.639519+00:00"
-  },
-  {
-    "source": "ZDNet AI",
-    "source_tier": 2,
-    "title": "PHP2Shell: Haven\u2019t patched yet? Take these steps now to mitigate",
-    "link": "https://www.zdnet.com/tech/php2shell-php-patch-mitigation-critical-exploit/",
-    "summary": "The PHP Project provides instructions to stop further RCE exploits in limited settings.",
-    "published": "2026-10-23T15:09:47+00:00",
-    "first_seen": "2026-10-24T10:39:36.639519+00:00"
-  },
-  {
     "source": "TechCrunch AI",
     "source_tier": 2,
     "title": "OpenAI says it will no longer train its AI models on the live internet, citing \u201csignificant risks\u201d",
@@ -294,42 +42,6 @@
     "link": "https://www.theverge.com/ai-artificial-intelligence/1017906/jack-dorsey-block-dessa-ai-voice-speech",
     "summary": "Jack Dorsey's Block announced an AI model called Dessa that's trained \"from scratch on nothing but human conversation,\" and to show off the model, Block shared chats it has had with humans that can occasionally be a little awkward and uncanny. Take this one, for example, shared b",
     "published": "2026-10-23T19:32:39+00:00",
-    "first_seen": "2026-10-24T10:39:36.639519+00:00"
-  },
-  {
-    "source": "The Verge AI",
-    "source_tier": 2,
-    "title": "The iPhone Duo should have been an iPad",
-    "link": "https://www.theverge.com/podcast/1017447/iphone-duo-ipad-review-score-vergecast",
-    "summary": "We gave the iPhone Duo a 7 /10. But that wasn't always the score we planned, and it might not be the right score forever. Such are the challenges of reviewing - and assessing - a big, new idea about the most popular smartphone in history. On this episode of The Vergecast, David a",
-    "published": "2026-10-23T17:00:18+00:00",
-    "first_seen": "2026-10-24T10:39:36.639519+00:00"
-  },
-  {
-    "source": "The Verge AI",
-    "source_tier": 2,
-    "title": "Now Google says it might use your Gmail and Google Photos data to target ads",
-    "link": "https://www.theverge.com/tech/1017600/google-personal-intelligence-privacy-policy-ads-update",
-    "summary": "Google has updated its privacy policy in a way that could mean you'll start seeing targeted ads based on your personal data if you're using personalized AI features. The update, spotted by Android Authority, adds an exception to its promise about not using your Drive, Gmail, or G",
-    "published": "2026-10-23T16:52:55+00:00",
-    "first_seen": "2026-10-24T10:39:36.639519+00:00"
-  },
-  {
-    "source": "The Verge AI",
-    "source_tier": 2,
-    "title": "Meta delays new business terms after publisher pushback on AI scraping",
-    "link": "https://www.theverge.com/tech/1017450/meta-business-terms-delayed-ai-scraping",
-    "summary": "Meta is delaying the enforcement of its new business terms after publishers raised concerns that they could allow the company to scrape news sites for AI training, as reported earlier by Fast Company. In a statement to The Verge, Meta spokesperson Daniel Roberts says the terms wi",
-    "published": "2026-10-23T14:47:41+00:00",
-    "first_seen": "2026-10-24T10:39:36.639519+00:00"
-  },
-  {
-    "source": "The Verge AI",
-    "source_tier": 2,
-    "title": "Retro gaming is being overrun with AI",
-    "link": "https://www.theverge.com/ai-artificial-intelligence/1015430/ai-retro-games-decomp-recomp-port",
-    "summary": "Retro video games are everywhere lately - especially in places where they aren't supposed to be. Halo in a web browser, Wind Waker on the iPhone, Super Smash Bros. in mixed reality. Over the past month or so, these kinds of unexpected projects have gone viral with incredible freq",
-    "published": "2026-10-23T12:00:00+00:00",
     "first_seen": "2026-10-24T10:39:36.639519+00:00"
   },
   {
@@ -6451,5 +6163,203 @@
     "summary": "Today, I\u2019m talking with Hayden Field, The Verge\u2019s senior AI reporter, about the Anthropic IPO for the third and final episode in our series about AI in real life. The AI lab behind Claude went public on the Nasdaq last Thursday. The numbers are gigantic, but not really that impor",
     "published": "2026-11-21T15:00:00+00:00",
     "first_seen": "2026-11-22T14:22:56.336127+00:00"
+  },
+  {
+    "source": "MIT Technology Review",
+    "source_tier": 2,
+    "title": "The Download: AI\u2019s judgment problem and carbon removal\u2019s crop threat",
+    "link": "https://www.technologyreview.com/2026/11/23/1149548/the-download-ai-judgment-problem-carbon-removal-crop-threat/",
+    "summary": "This is today\u2019s edition of The Download, our weekday newsletter that provides a daily dose of what\u2019s going on in the world of technology. The most misunderstood graph in AI just got a major update A new report from the AI evaluation nonprofit METR finds that some capabilities are",
+    "published": "2026-11-23T13:10:00+00:00",
+    "first_seen": "2026-11-23T17:47:42.103976+00:00"
+  },
+  {
+    "source": "MIT Technology Review",
+    "source_tier": 2,
+    "title": "Why using rocks for carbon removal could eventually reduce crop growth",
+    "link": "https://www.technologyreview.com/2026/11/23/1149392/why-using-rocks-for-carbon-removal-could-eventually-reduce-crop-growth/",
+    "summary": "Tech companies are investing a lot of hope and money in rocks. Google, Microsoft, and others have committed hundreds of millions of dollars to get startups to spread crushed basalt, olivine, or other alkaline materials across farms, in an effort to capture carbon from the air and",
+    "published": "2026-11-23T11:00:00+00:00",
+    "first_seen": "2026-11-23T17:47:42.103976+00:00"
+  },
+  {
+    "source": "ZDNet AI",
+    "source_tier": 2,
+    "title": "You won\u2019t see a Galaxy Watch 10 until 2028 \u2013 here\u2019s why",
+    "link": "https://www.zdnet.com/tech/samsung-galaxy-watch-10-biannual-release-2028/",
+    "summary": "In an effort to cut costs, Samsung is postponing the launch of the Galaxy Watch 10, according to reports. Here\u2019s what to know.",
+    "published": "2026-11-23T17:25:59+00:00",
+    "first_seen": "2026-11-23T17:47:42.103976+00:00"
+  },
+  {
+    "source": "ZDNet AI",
+    "source_tier": 2,
+    "title": "Pixel Weather\u2019s new feature lets you report your local conditions now",
+    "link": "https://www.zdnet.com/tech/pixel-weather-feature-local-weather-reports/",
+    "summary": "Weather apps are notoriously inaccurate. Google\u2019s new feature can help.",
+    "published": "2026-11-23T17:22:27+00:00",
+    "first_seen": "2026-11-23T17:47:42.103976+00:00"
+  },
+  {
+    "source": "ZDNet AI",
+    "source_tier": 2,
+    "title": "Nvidia CEO Jensen Huang is back after a stunning reversal",
+    "link": "https://www.zdnet.com/innovation/jensen-huang-is-back-as-nvidia-ceo-after-a-stunning-reversal/",
+    "summary": "Nvidia\u2019s board unanimously reinstated Huang 11 days after his removal, but his troubles may not be over.",
+    "published": "2026-11-23T14:51:37+00:00",
+    "first_seen": "2026-11-23T17:47:42.103976+00:00"
+  },
+  {
+    "source": "ZDNet AI",
+    "source_tier": 2,
+    "title": "Can AI plan terrorist attacks? The US tested ChatGPT, Claude, Gemini, and Grok",
+    "link": "https://www.zdnet.com/innovation/ai-chatbots-terrorist-attack-plans-us-government-test/",
+    "summary": "Investigators tried to bypass AI safeguards to generate plans. The results exposed security gaps and raised questions about preventing misuse.",
+    "published": "2026-11-23T13:29:04+00:00",
+    "first_seen": "2026-11-23T17:47:42.103976+00:00"
+  },
+  {
+    "source": "TechCrunch AI",
+    "source_tier": 2,
+    "title": "Amazon snaps up Decart\u2019s AI optimization tech for $7.5B as it prepares to sell Trainium chips",
+    "link": "https://techcrunch.com/2026/11/23/amazon-snaps-up-decarts-ai-optimization-tech-for-7-5b-as-it-prepares-to-sell-trainium-chips/",
+    "summary": "Amazon is acquiring Decart\u2019s AI optimization technology and research team in a reported $7.5 billion deal.",
+    "published": "2026-11-23T17:14:23+00:00",
+    "first_seen": "2026-11-23T17:47:42.103976+00:00"
+  },
+  {
+    "source": "TechCrunch AI",
+    "source_tier": 2,
+    "title": "Jensen Huang isn\u2019t out of the woods yet",
+    "link": "https://techcrunch.com/2026/11/23/jensen-huang-isnt-out-of-the-woods-yet/",
+    "summary": "It\u2019s safe to say no one expected this. Monday morning, Jensen Huang returned as CEO of Nvidia, after resigning the position following news of multiple affairs, including one with a subordinate and one with a woman tied to Chinese intelligence services. With so much of the AI indu",
+    "published": "2026-11-23T16:57:40+00:00",
+    "first_seen": "2026-11-23T17:47:42.103976+00:00"
+  },
+  {
+    "source": "TechCrunch AI",
+    "source_tier": 2,
+    "title": "Trump reportedly called into Nvidia board meeting to advocate for Huang\u2019s return",
+    "link": "https://techcrunch.com/2026/11/23/trump-reportedly-called-into-nvidia-board-meeting-to-advocate-for-huangs-return/",
+    "summary": "\"I spoke to them, let me put it that way... And I convinced them,\" the president told CNBC.",
+    "published": "2026-11-23T16:39:10+00:00",
+    "first_seen": "2026-11-23T17:47:42.103976+00:00"
+  },
+  {
+    "source": "TechCrunch AI",
+    "source_tier": 2,
+    "title": "Trump endorses Jensen Huang\u2019s return to Nvidia, says US has no evidence of wrongdoing",
+    "link": "https://techcrunch.com/2026/11/23/trump-endorses-jensen-huangs-return-to-nvidia-says-us-has-no-evidence-of-wrongdoing/",
+    "summary": "The president cited the U.S. attorney general in defending Huang's return, while urging Nvidia to continue its export-control investigation.",
+    "published": "2026-11-23T15:04:01+00:00",
+    "first_seen": "2026-11-23T17:47:42.103976+00:00"
+  },
+  {
+    "source": "TechCrunch AI",
+    "source_tier": 2,
+    "title": "Sierra doubles valuation to $30B within six months as demand for AI in CX takes off",
+    "link": "https://techcrunch.com/2026/11/23/sierra-doubles-valuation-to-30b-within-six-months-as-demand-for-ai-in-cx-takes-off/",
+    "summary": "Enterprise customer experience company Sierra, co-founded by former Salesforce co-CEO Bret Taylor, said on Monday that it has raised $1.75 billion in a Series F round.",
+    "published": "2026-11-23T14:43:03+00:00",
+    "first_seen": "2026-11-23T17:47:42.103976+00:00"
+  },
+  {
+    "source": "TechCrunch AI",
+    "source_tier": 2,
+    "title": "Nvidia reverses course and brings Jensen Huang back as CEO",
+    "link": "https://techcrunch.com/2026/11/23/nvidia-reverses-course-and-brings-jensen-huang-back-as-ceo/",
+    "summary": "The stunning reversal was supported by senior officials in the U.S. government.",
+    "published": "2026-11-23T14:21:59+00:00",
+    "first_seen": "2026-11-23T17:47:42.103976+00:00"
+  },
+  {
+    "source": "TechCrunch AI",
+    "source_tier": 2,
+    "title": "How Notable Capital, GIC, and Baillie Gifford bet big on Anthropic before its IPO",
+    "link": "https://techcrunch.com/2026/11/22/how-notable-capital-gic-and-baillie-gifford-bet-big-on-anthropic-before-its-ipo/",
+    "summary": "Three significant backers share what gave them conviction to bet billions on Anthropic.",
+    "published": "2026-11-23T01:25:53+00:00",
+    "first_seen": "2026-11-23T17:47:42.103976+00:00"
+  },
+  {
+    "source": "TechCrunch AI",
+    "source_tier": 2,
+    "title": "OpenAI\u2019s chief scientist has thoughts on how to limit AI development",
+    "link": "https://techcrunch.com/2026/11/22/openais-chief-scientist-has-thoughts-on-how-to-limit-ai-development/",
+    "summary": "To establish a speed limit on AI development, you need to agree on how to measure speed.",
+    "published": "2026-11-22T21:14:07+00:00",
+    "first_seen": "2026-11-23T17:47:42.103976+00:00"
+  },
+  {
+    "source": "TechCrunch AI",
+    "source_tier": 2,
+    "title": "Why data centers are at the center of the Big Tech backlash",
+    "link": "https://techcrunch.com/2026/11/22/why-data-centers-are-at-the-center-of-the-big-tech-backlash/",
+    "summary": "Journalist Paris Marx unpacks his new book \"Hyperscale.\"",
+    "published": "2026-11-22T18:08:43+00:00",
+    "first_seen": "2026-11-23T17:47:42.103976+00:00"
+  },
+  {
+    "source": "The Verge AI",
+    "source_tier": 2,
+    "title": "White House brags that Trump was \u2018totally involved\u2019 in getting Jensen reinstated",
+    "link": "https://www.theverge.com/policy/1040096/trump-nvidia-jensen-huang-reinstated",
+    "summary": "It sure looked like President Donald Trump played a role in Jensen Huang's reinstatement as Nvidia CEO - and now the White House is making sure everyone knows he was. \"President Trump was totally involved and this is a great decision by the NVIDIA board,\" White House communicatio",
+    "published": "2026-11-23T16:30:11+00:00",
+    "first_seen": "2026-11-23T17:47:42.103976+00:00"
+  },
+  {
+    "source": "The Verge AI",
+    "source_tier": 2,
+    "title": "Tech leaders are celebrating Jensen Huang\u2019s return",
+    "link": "https://www.theverge.com/tech/1040069/jensen-huang-return-elon-musk-sam-altman-yay",
+    "summary": "Let's say you're Jensen Huang. You (allegedly) cheated on your wife with an alleged Chinese spy, allegedly had an affair with not one, but two subordinates, and (allegedly!) \"terrorized\" your employees, a series of indiscretions that led to your ouster from what was once the worl",
+    "published": "2026-11-23T16:14:04+00:00",
+    "first_seen": "2026-11-23T17:47:42.103976+00:00"
+  },
+  {
+    "source": "The Verge AI",
+    "source_tier": 2,
+    "title": "Jensen Huang is back as Nvidia\u2019s CEO",
+    "link": "https://www.theverge.com/tech/1039937/nvidia-ceo-jensen-huang-reinstated",
+    "summary": "Nvidia has reinstated Jensen Huang as its CEO. The company announced on Monday morning that the board \"voted unanimously to reinstate Mr. Huang following a series of discussions and meetings with Mr. Huang, after which the Board was satisfied with respect to Mr. Huang's candor an",
+    "published": "2026-11-23T14:04:24+00:00",
+    "first_seen": "2026-11-23T17:47:42.103976+00:00"
+  },
+  {
+    "source": "The Verge AI",
+    "source_tier": 2,
+    "title": "Meta Muse can do your Black Friday shopping at Walmart",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/1039874/walmart-agent-gateway-meta-muse-black-friday",
+    "summary": "Walmart will now let Meta's Muse shop on your behalf, allowing the AI agent to find and purchase Black Friday deals via Walmart's Sparky AI assistant. The retail giant is rolling out a live implementation of the Agent Gateway it announced last month, which helps AI agents find re",
+    "published": "2026-11-23T11:00:00+00:00",
+    "first_seen": "2026-11-23T17:47:42.103976+00:00"
+  },
+  {
+    "source": "The Verge AI",
+    "source_tier": 2,
+    "title": "We haven\u2019t seen the last of the major tech outages",
+    "link": "https://www.theverge.com/tech/1039851/major-tech-outages",
+    "summary": "Over the last week or so, we have seen a nationwide FAA ground stop, a multi-day Outlook outage that brought entire companies to a standstill, and a banking outage at JPMorgan Chase. But the consensus is that there are more to come. Director of National Intelligence Jay Clayton t",
+    "published": "2026-11-22T22:48:02+00:00",
+    "first_seen": "2026-11-23T17:47:42.103976+00:00"
+  },
+  {
+    "source": "The Verge AI",
+    "source_tier": 2,
+    "title": "Binding of Isaac developer removes AI music from Repentance Plus",
+    "link": "https://www.theverge.com/games/1039770/binding-of-isaac-ai-music",
+    "summary": "The Binding of Isaac: Repentance Plus has spent the last few days getting review-bombed on Steam after it was discovered that a particular segment of the game used AI music. Reddit user ShweetsStuff discovered the songs used during a Grand Theft Auto-themed section. They found se",
+    "published": "2026-11-22T17:25:20+00:00",
+    "first_seen": "2026-11-23T17:47:42.103976+00:00"
+  },
+  {
+    "source": "Import AI",
+    "source_tier": 3,
+    "title": "Import AI 482: Huawei kernel benchmarks; airborne drone detection; and a national lab's AI science benchmark",
+    "link": "https://importai.substack.com/p/import-ai-482-huawei-kernel-benchmarks",
+    "summary": "Could the scientific method be emergent?",
+    "published": "2026-11-23T14:11:17+00:00",
+    "first_seen": "2026-11-23T17:47:42.103976+00:00"
   }
 ]

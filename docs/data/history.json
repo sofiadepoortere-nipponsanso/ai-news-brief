@@ -2,82 +2,10 @@
   {
     "source": "TechCrunch AI",
     "source_tier": 2,
-    "title": "OpenAI says it will no longer train its AI models on the live internet, citing \u201csignificant risks\u201d",
-    "link": "https://techcrunch.com/2026/10/23/openai-says-it-will-no-longer-train-its-ai-models-on-the-live-internet-citing-significant-risks/",
-    "summary": "OpenAI will cut frontier models off from the internet weeks after one of its engineers said that solution wouldn't work.",
-    "published": "2026-10-23T23:05:49+00:00",
-    "first_seen": "2026-10-24T10:39:36.639519+00:00"
-  },
-  {
-    "source": "TechCrunch AI",
-    "source_tier": 2,
-    "title": "Hottest toy for Christmas? Nvidia CEO plays with adorable Microduck robots, 20,000 sell",
-    "link": "https://techcrunch.com/2026/10/23/hottest-toy-for-christmas-nvidia-ceo-plays-with-adorable-microduck-robots-20000-sell/",
-    "summary": "The robots, stomping their little feet and making tiny R2-D2 noises, sat, fell down dead for a \"nap,\" and summersaulted on voice command.",
-    "published": "2026-10-23T21:59:19+00:00",
-    "first_seen": "2026-10-24T10:39:36.639519+00:00"
-  },
-  {
-    "source": "TechCrunch AI",
-    "source_tier": 2,
-    "title": "From Toast to Bessemer: Who founders will hear from at TechCrunch Founder Summit 2026",
-    "link": "https://techcrunch.com/2026/10/23/from-toast-to-bessemer-who-founders-will-hear-from-at-techcrunch-founder-summit-2026/",
-    "summary": "Hosted by TechCrunch in partnership with Fidelity Private Shares, the full-day event goes beyond fundraising and AI to explore the realities of finding customers, building teams, sharpening a pitch, developing founder leadership, and scaling companies both inside and outside trad",
-    "published": "2026-10-23T19:06:23+00:00",
-    "first_seen": "2026-10-24T10:39:36.639519+00:00"
-  },
-  {
-    "source": "The Verge AI",
-    "source_tier": 2,
-    "title": "OpenAI now trains its frontier AI models with no internet access",
-    "link": "https://www.theverge.com/ai-artificial-intelligence/1018021/openai-training-top-ai-models-no-internet",
-    "summary": "OpenAI is now training its most advanced AI models without internet access following a string of rogue hacking incidents. In a blog post on Friday, OpenAI says it built an offline testing environment where AI models can interact with indexed and cached web content \"without risk o",
-    "published": "2026-10-23T21:11:07+00:00",
-    "first_seen": "2026-10-24T10:39:36.639519+00:00"
-  },
-  {
-    "source": "The Verge AI",
-    "source_tier": 2,
-    "title": "Jack Dorsey\u2019s Block made an AI model that talks to you like an awkward new friend",
-    "link": "https://www.theverge.com/ai-artificial-intelligence/1017906/jack-dorsey-block-dessa-ai-voice-speech",
-    "summary": "Jack Dorsey's Block announced an AI model called Dessa that's trained \"from scratch on nothing but human conversation,\" and to show off the model, Block shared chats it has had with humans that can occasionally be a little awkward and uncanny. Take this one, for example, shared b",
-    "published": "2026-10-23T19:32:39+00:00",
-    "first_seen": "2026-10-24T10:39:36.639519+00:00"
-  },
-  {
-    "source": "TechCrunch AI",
-    "source_tier": 2,
     "title": "The AI graveyard: a running list of projects and startups that didn\u2019t make it",
     "link": "https://techcrunch.com/2026/10/24/the-ai-graveyard-a-running-list-of-projects-and-startups-that-didnt-make-it/",
     "summary": "From Apple's repeatedly delayed Siri AI to OpenAI's messy \"super app\" launch, here's a look at the AI projects that shut down or missed expectations.",
     "published": "2026-10-24T19:00:00+00:00",
-    "first_seen": "2026-10-25T11:03:43.006228+00:00"
-  },
-  {
-    "source": "TechCrunch AI",
-    "source_tier": 2,
-    "title": "Block\u2019s new voice model sounds eerily human",
-    "link": "https://techcrunch.com/2026/10/24/blocks-new-voice-model-sounds-eerily-human/",
-    "summary": "Block said that the voice model can run locally on a MacBook M4 Max",
-    "published": "2026-10-24T16:00:00+00:00",
-    "first_seen": "2026-10-25T11:03:43.006228+00:00"
-  },
-  {
-    "source": "TechCrunch AI",
-    "source_tier": 2,
-    "title": "Forced to pick, Grok\u2019s AI model chooses Republicans. OpenAI\u2019s picks Democrats.",
-    "link": "https://techcrunch.com/2026/10/24/forced-to-pick-groks-ai-model-chooses-republicans-openais-picks-democrats/",
-    "summary": "A new study found Grok's AI overwhelmingly recommends Republican candidates while OpenAI's GPT favors Democrats, with the two AI models disagreeing in more than 90% of nearly 500 election races.",
-    "published": "2026-10-24T15:00:00+00:00",
-    "first_seen": "2026-10-25T11:03:43.006228+00:00"
-  },
-  {
-    "source": "TechCrunch AI",
-    "source_tier": 2,
-    "title": "Here are the top AI agents that can live in your text messages",
-    "link": "https://techcrunch.com/2026/10/24/all-the-ai-agents-that-can-live-in-your-text-messages/",
-    "summary": "We created a list of the most notable AI agents that can live in your text messages, from general assistants to agents designed for families, travel, and work.",
-    "published": "2026-10-24T14:00:00+00:00",
     "first_seen": "2026-10-25T11:03:43.006228+00:00"
   },
   {
@@ -6361,5 +6289,266 @@
     "summary": "Could the scientific method be emergent?",
     "published": "2026-11-23T14:11:17+00:00",
     "first_seen": "2026-11-23T17:47:42.103976+00:00"
+  },
+  {
+    "source": "Power BI Blog",
+    "source_tier": 1,
+    "title": "Workspace outbound access protection for Power BI semantic models and interactive reports (Generally Available)",
+    "link": "https://community.fabric.microsoft.com/t5/Power-BI-Updates-Blog/Workspace-outbound-access-protection-for-Power-BI-semantic/ba-p/5435053",
+    "summary": "Workspace outbound access protection (OAP) is generally available for Power BI semantic models and interactive Power BI reports in Microsoft Fabric workspaces. With OAP, workspace admins can limit which data sources semantic models reach. They can also limit which semantic models",
+    "published": "2026-11-24T17:00:00+00:00",
+    "first_seen": "2026-11-24T17:19:32.285998+00:00"
+  },
+  {
+    "source": "MIT Technology Review",
+    "source_tier": 2,
+    "title": "Raising the stakes for enterprise networks with AI modernization",
+    "link": "https://www.technologyreview.com/2026/11/24/1148091/raising-the-stakes-for-enterprise-networks-with-ai-modernization/",
+    "summary": "Enterprise networks are under severe strain. As companies rush to deploy artificial intelligence, the technology is quickly becoming the biggest source of demand on the network. Now, agentic AI is adding to the load. Tasks conducted by AI agents generate an estimated 450% more ne",
+    "published": "2026-11-24T15:15:16+00:00",
+    "first_seen": "2026-11-24T17:19:32.285998+00:00"
+  },
+  {
+    "source": "MIT Technology Review",
+    "source_tier": 2,
+    "title": "The Download: AI\u2019s gas power boom and a consciousness reality check",
+    "link": "https://www.technologyreview.com/2026/11/24/1149669/the-download-data-centers-gas-ai-consciousness/",
+    "summary": "This is today\u2019s edition of The Download, our weekday newsletter that provides a daily dose of what\u2019s going on in the world of technology. Data centers are getting their own natural gas power plants One of the biggest obstacles to building a data center is getting approval to conn",
+    "published": "2026-11-24T13:10:00+00:00",
+    "first_seen": "2026-11-24T17:19:32.285998+00:00"
+  },
+  {
+    "source": "MIT Technology Review",
+    "source_tier": 2,
+    "title": "Data centers are getting their own natural gas power plants",
+    "link": "https://www.technologyreview.com/2026/11/24/1149622/data-centers-natural-gas/",
+    "summary": "One of the biggest roadblocks to starting up a data center is getting approval to connect to the electric grid\u2014a wait that could last as long as a decade. Some developers aren\u2019t willing to wait and are instead opting to build their own off-grid, or behind-the-meter, gas power pla",
+    "published": "2026-11-24T11:00:00+00:00",
+    "first_seen": "2026-11-24T17:19:32.285998+00:00"
+  },
+  {
+    "source": "MIT Technology Review",
+    "source_tier": 2,
+    "title": "A legendary philosopher isn\u2019t buying Anthropic\u2019s consciousness argument",
+    "link": "https://www.technologyreview.com/2026/11/23/1149569/a-legendary-philosopher-isnt-buying-anthropics-consciousness-argument/",
+    "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first,\u00a0sign up here. Before going public last week, Anthropic named the possibility that AI could be conscious or sentient as a risk factor for anyone investing. G",
+    "published": "2026-11-23T17:36:08+00:00",
+    "first_seen": "2026-11-24T17:19:32.285998+00:00"
+  },
+  {
+    "source": "ZDNet AI",
+    "source_tier": 2,
+    "title": "Disney+ and Hulu are 61% off for a year with this Black Friday deal \u2013 how to get it",
+    "link": "https://www.zdnet.com/home-and-office/disney-plus-hulu-black-friday-deal-2026/",
+    "summary": "Disney and Hulu\u2019s Black Friday deal just dropped, and you\u2019ll only pay $4.99 a month for 12 months for both streaming services.",
+    "published": "2026-11-24T14:02:36+00:00",
+    "first_seen": "2026-11-24T17:19:32.285998+00:00"
+  },
+  {
+    "source": "ZDNet AI",
+    "source_tier": 2,
+    "title": "Claude can ship code for you now \u2013 how to try it (if you dare)",
+    "link": "https://www.zdnet.com/innovation/claude-ship-code-how-to-try/",
+    "summary": "Would you let a few Claude agents review and ship your code for you?",
+    "published": "2026-11-23T20:00:00+00:00",
+    "first_seen": "2026-11-24T17:19:32.285998+00:00"
+  },
+  {
+    "source": "ZDNet AI",
+    "source_tier": 2,
+    "title": "How to save your Google Nest app videos before the January shutdown",
+    "link": "https://www.zdnet.com/home-and-office/how-to-save-your-google-nest-app-videos-switch-to-google-home/",
+    "summary": "Google is retiring the Nest app in favor of the Google Home app. Here\u2019s how to transfer your data.",
+    "published": "2026-11-23T17:52:52+00:00",
+    "first_seen": "2026-11-24T17:19:32.285998+00:00"
+  },
+  {
+    "source": "TechCrunch AI",
+    "source_tier": 2,
+    "title": "Meta brings its Muse AI assistant directly into Instagram DMs",
+    "link": "https://techcrunch.com/2026/11/24/meta-brings-its-muse-ai-assistant-directly-into-instagram-dms/",
+    "summary": "The new integration gets rid of the need for users to toggle between Instagram and the Muse app when they want to interact with the AI agent.",
+    "published": "2026-11-24T17:00:00+00:00",
+    "first_seen": "2026-11-24T17:19:32.285998+00:00"
+  },
+  {
+    "source": "TechCrunch AI",
+    "source_tier": 2,
+    "title": "Tidal to ban and remove millions of AI-generated tracks as AI slop inundates music streaming",
+    "link": "https://techcrunch.com/2026/11/24/tidal-to-ban-and-remove-millions-of-ai-generated-tracks-as-ai-slop-inundates-music-streaming/",
+    "summary": "The company said it will still accept songs that were made with AI assistance, but not fully generated.",
+    "published": "2026-11-24T16:46:00+00:00",
+    "first_seen": "2026-11-24T17:19:32.285998+00:00"
+  },
+  {
+    "source": "TechCrunch AI",
+    "source_tier": 2,
+    "title": "Why a Crusoe investor is betting on solar and batteries to power future AI data centers",
+    "link": "https://techcrunch.com/2026/11/24/why-a-crusoe-investor-is-betting-on-solar-and-batteries-to-power-future-ai-data-centers/",
+    "summary": "Next-generation data centers will need tens of gigawatts of power every year. One of Crusoe's investors thinks solar and energy storage are the obvious choice.",
+    "published": "2026-11-24T16:10:00+00:00",
+    "first_seen": "2026-11-24T17:19:32.285998+00:00"
+  },
+  {
+    "source": "TechCrunch AI",
+    "source_tier": 2,
+    "title": "Pinterest will now let parents limit the AI-generated content their teens see",
+    "link": "https://techcrunch.com/2026/11/24/pinterest-will-now-let-parents-limit-the-ai-generated-content-their-teens-see/",
+    "summary": "While other social platforms have focused on restricting teens' access to AI chatbots, Pinterest is addressing the AI content filling their feeds.",
+    "published": "2026-11-24T16:02:37+00:00",
+    "first_seen": "2026-11-24T17:19:32.285998+00:00"
+  },
+  {
+    "source": "TechCrunch AI",
+    "source_tier": 2,
+    "title": "Amazon\u2019s Decart acquisition is a bet on using software to narrow the gap with Nvidia in the AI chip race",
+    "link": "https://techcrunch.com/2026/11/24/amazons-decart-acquisition-is-a-bet-on-using-software-to-narrow-the-gap-with-nvidia-in-the-ai-chip-race/",
+    "summary": "Amazon\u2019s decision to acquire Decart for a reported $7.5 billion is part of its efforts to improve the efficiency of its Trainium chips.",
+    "published": "2026-11-24T15:51:07+00:00",
+    "first_seen": "2026-11-24T17:19:32.285998+00:00"
+  },
+  {
+    "source": "TechCrunch AI",
+    "source_tier": 2,
+    "title": "Anthropic launches Claude Ship, letting AI agents review, fix, and approve code changes",
+    "link": "https://techcrunch.com/2026/11/23/anthropic-launches-claude-ship-letting-ai-agents-review-fix-and-approve-code-changes/",
+    "summary": "As AI-generated code piles up, Anthropic's new developer tools aim to eliminate another bottleneck by letting agents handle routine approvals.",
+    "published": "2026-11-23T22:05:50+00:00",
+    "first_seen": "2026-11-24T17:19:32.285998+00:00"
+  },
+  {
+    "source": "TechCrunch AI",
+    "source_tier": 2,
+    "title": "Supertake raises $20M to let AI agents turn your market predictions into stock portfolios",
+    "link": "https://techcrunch.com/2026/11/23/supertake-raises-20m-to-let-ai-agents-turn-your-market-predictions-into-stock-portfolios/",
+    "summary": "Think you know where the market is headed? A startup called Supertake lets you put money behind your ideas without having to pick the stocks yourself.",
+    "published": "2026-11-23T22:02:05+00:00",
+    "first_seen": "2026-11-24T17:19:32.285998+00:00"
+  },
+  {
+    "source": "TechCrunch AI",
+    "source_tier": 2,
+    "title": "Elon Musk and others rejoice as Jensen Huang is reinstated at Nvidia amid scandal",
+    "link": "https://techcrunch.com/2026/11/23/elon-musk-and-others-rejoice-as-jensen-huang-is-reinstated-at-nvidia-amid-scandal/",
+    "summary": "\"The mistake has been corrected,\" Elon Musk chimed in.",
+    "published": "2026-11-23T21:47:41+00:00",
+    "first_seen": "2026-11-24T17:19:32.285998+00:00"
+  },
+  {
+    "source": "TechCrunch AI",
+    "source_tier": 2,
+    "title": "Megaspeed, the company at the center of the Jensen Huang scandal, appears headed for a US blacklist",
+    "link": "https://techcrunch.com/2026/11/23/megaspeed-the-company-at-the-center-of-the-jensen-huang-scandal-appears-headed-for-a-u-s-blacklist/",
+    "summary": "Megaspeed, which was previously led by Alice Huang, would be barred from doing business with U.S. companies unless those companies attained a special license from the federal government.",
+    "published": "2026-11-23T21:25:42+00:00",
+    "first_seen": "2026-11-24T17:19:32.285998+00:00"
+  },
+  {
+    "source": "TechCrunch AI",
+    "source_tier": 2,
+    "title": "Nvidia employees greet Jensen Huang like a hero as he returns to company\u2019s HQ",
+    "link": "https://techcrunch.com/2026/11/23/nvidia-employees-greet-jensen-huang-like-a-hero-as-he-returns-to-companys-hq/",
+    "summary": "\"I'm going to be a better CEO the second time around,\" Huang told employees.",
+    "published": "2026-11-23T20:38:53+00:00",
+    "first_seen": "2026-11-24T17:19:32.285998+00:00"
+  },
+  {
+    "source": "TechCrunch AI",
+    "source_tier": 2,
+    "title": "Google Search\u2019s AI Mode can now tap into Drive and Wallet for more personalized responses",
+    "link": "https://techcrunch.com/2026/11/23/google-searchs-ai-mode-can-now-tap-into-drive-and-wallet-for-more-personalized-responses/",
+    "summary": "By bringing Personal Intelligence in AI Mode to Drive, Wallet, and the Gemini app, Google is leveraging the wealth of user data that's already within its ecosystem",
+    "published": "2026-11-23T19:14:46+00:00",
+    "first_seen": "2026-11-24T17:19:32.285998+00:00"
+  },
+  {
+    "source": "TechCrunch AI",
+    "source_tier": 2,
+    "title": "Jensen Huang scheduled to testify next week in Senate following reinstatement as Nvidia CEO",
+    "link": "https://techcrunch.com/2026/11/23/jensen-huang-scheduled-to-testify-next-week-in-senate-following-reinstatement-as-nvidia-ceo/",
+    "summary": "The public hearing follows bipartisan calls for Huang to testify about the affair with the suspected Chinese spy.",
+    "published": "2026-11-23T18:12:22+00:00",
+    "first_seen": "2026-11-24T17:19:32.285998+00:00"
+  },
+  {
+    "source": "The Verge AI",
+    "source_tier": 2,
+    "title": "Tidal will start banning AI-generated music next month",
+    "link": "https://www.theverge.com/entertainment/1041362/tidal-ai-music-ban",
+    "summary": "Tidal is officially banning AI-generated music on December 9th. As a result of this change, Tidal will delete around 29 million AI-generated songs and reject an estimated 80,000 to 85,000 tracks per day, according to Tidal music lead Robert Andersen. The move comes just months af",
+    "published": "2026-11-24T17:17:09+00:00",
+    "first_seen": "2026-11-24T17:19:32.285998+00:00"
+  },
+  {
+    "source": "The Verge AI",
+    "source_tier": 2,
+    "title": "Jensen Huang deepfakes are the hot new AI slop",
+    "link": "https://www.theverge.com/tech/1041222/jensen-huang-nvidia-scandal-deepfakes",
+    "summary": "Jensen Huang is partying it up in Ibiza. In a video with nearly 6 million views on Instagram, the former CEO of Nvidia is dancing in a crowded club, champagne glass in hand, still wearing his signature black leather jacket. Suddenly, from behind him, Alice Huang - the Chinese tec",
+    "published": "2026-11-24T16:30:00+00:00",
+    "first_seen": "2026-11-24T17:19:32.285998+00:00"
+  },
+  {
+    "source": "The Verge AI",
+    "source_tier": 2,
+    "title": "The New York Times warns photographers not to update Photoshop over AI features",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/1041227/the-new-york-times-warns-photographers-not-to-update-photoshop-over-ai-features",
+    "summary": "The New York Times is asking freelance photographers not to use the newest version of Adobe Photoshop because features in the 2027 update use AI \"in ways that may not be apparent to users.\" In an email seen by The Verge and posted on Threads, two of the Times' photography leaders",
+    "published": "2026-11-24T16:09:23+00:00",
+    "first_seen": "2026-11-24T17:19:32.285998+00:00"
+  },
+  {
+    "source": "The Verge AI",
+    "source_tier": 2,
+    "title": "Trump engineered a risky comeback for Jensen Huang",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/1040652/jensen-huang-nvidia-trump-reinstated",
+    "summary": "After Nvidia's board accepted Jensen Huang's resignation as CEO, following reports that Huang had an affair with an alleged Chinese spy, President Donald Trump, too, appeared to submit to the new reality. Appearing on Stephen A. Smith's radio show shortly after the news came out,",
+    "published": "2026-11-23T22:25:12+00:00",
+    "first_seen": "2026-11-24T17:19:32.285998+00:00"
+  },
+  {
+    "source": "The Verge AI",
+    "source_tier": 2,
+    "title": "Welcome to elite impunity, Jensen Huang",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/1040819/welcome-to-elite-impunity-jensen-huang",
+    "summary": "I suppose I must issue a hearty congratulations to Jensen Huang. Huang is CEO of Nvidia again, to the surprise of basically everyone except President Donald Trump and Vice President JD Vance, who made sure it happened. Now, those of us who had some kind of basic education on what",
+    "published": "2026-11-23T22:09:26+00:00",
+    "first_seen": "2026-11-24T17:19:32.285998+00:00"
+  },
+  {
+    "source": "The Verge AI",
+    "source_tier": 2,
+    "title": "AI data centers throw another wrench into chaotic UN climate talks",
+    "link": "https://www.theverge.com/science/1040497/ai-data-centers-electricity-un-climate-summit",
+    "summary": "The clean energy revolution hinges on electrifying the entire global economy just as power-hungry data centers are surging. It's a challenge delegates from all over the world had to grapple with during the United Nations climate conference, called COP31, that came to a chaotic an",
+    "published": "2026-11-23T21:09:37+00:00",
+    "first_seen": "2026-11-24T17:19:32.285998+00:00"
+  },
+  {
+    "source": "The Verge AI",
+    "source_tier": 2,
+    "title": "Claude AI can review pull requests and ship fixes on its own now",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/1040134/anthropic-claude-ship-ai-pull-requests",
+    "summary": "Anthropic is launching some new Claude AI features to help software engineers ship code. As part of a new Claude Ship product being announced today, Claude now can review, fix, and approve pull requests. Engineers have already been able to take advantage of Claude's code review c",
+    "published": "2026-11-23T20:00:00+00:00",
+    "first_seen": "2026-11-24T17:19:32.285998+00:00"
+  },
+  {
+    "source": "The Verge AI",
+    "source_tier": 2,
+    "title": "How Jensen Huang ended up as Nvidia CEO again",
+    "link": "https://www.theverge.com/tech/1040428/nvidia-jensen-huang-ceo-return",
+    "summary": "The Jensen Huang era of Nvidia nearly came to an end this month. Huang, who three decades ago cofounded what's come to be considered one of the most important companies in AI, resigned from his role on November 12th over mounting scrutiny around his alleged affairs. Huang admitte",
+    "published": "2026-11-23T19:57:18+00:00",
+    "first_seen": "2026-11-24T17:19:32.285998+00:00"
+  },
+  {
+    "source": "The Verge AI",
+    "source_tier": 2,
+    "title": "Nothing\u2019s upcoming Ear Note is a pair of earbuds with AI transcription",
+    "link": "https://www.theverge.com/gadgets/1040357/nothing-ear-note-earbuds-ai-recording",
+    "summary": "Nothing's new AI device is the Ear Note, a set of earbuds and their microphone-equipped charging case that can record and transcribe conversations, with a connected app to manage the recordings, transcriptions and AI-generated summaries, similar to Apple's new Watch feature and d",
+    "published": "2026-11-23T19:04:52+00:00",
+    "first_seen": "2026-11-24T17:19:32.285998+00:00"
   }
 ]

@@ -2,73 +2,10 @@
   {
     "source": "TechCrunch AI",
     "source_tier": 2,
-    "title": "The AI graveyard: a running list of projects and startups that didn\u2019t make it",
-    "link": "https://techcrunch.com/2026/10/24/the-ai-graveyard-a-running-list-of-projects-and-startups-that-didnt-make-it/",
-    "summary": "From Apple's repeatedly delayed Siri AI to OpenAI's messy \"super app\" launch, here's a look at the AI projects that shut down or missed expectations.",
-    "published": "2026-10-24T19:00:00+00:00",
-    "first_seen": "2026-10-25T11:03:43.006228+00:00"
-  },
-  {
-    "source": "The Verge AI",
-    "source_tier": 2,
-    "title": "Blue Planet III is keeping the rough edges in the age of AI",
-    "link": "https://www.theverge.com/ai-artificial-intelligence/1018205/blue-planet-iii-authentic-organic-ai",
-    "summary": "BBC's Blue Planet III is looking to prove its authenticity by leaving in the less-than-perfect shots. Previous incarnations of the nature series were defined by their gorgeous, crystal-clear footage that seemed almost too good to be real. But one dead giveaway of AI is when thing",
-    "published": "2026-10-24T21:29:12+00:00",
-    "first_seen": "2026-10-25T11:03:43.006228+00:00"
-  },
-  {
-    "source": "The Verge AI",
-    "source_tier": 2,
-    "title": "Pennsylvania will require labels on AI-generated ads",
-    "link": "https://www.theverge.com/ai-artificial-intelligence/1018187/pennsylvania-ai-deceptive-advertising-act",
-    "summary": "On Thursday, Pennsylvania Governor Josh Shapiro signed the Artificial Intelligence Deceptive Advertising Act into law, requiring disclosures on AI-generated ads. The law requires any ad - whether it's a still image, video, audio, or text - that \"has been significantly modified or",
-    "published": "2026-10-24T18:32:21+00:00",
-    "first_seen": "2026-10-25T11:03:43.006228+00:00"
-  },
-  {
-    "source": "TechCrunch AI",
-    "source_tier": 2,
     "title": "Grok releases the first seven minutes of its AI-generated \u2018Odyssey\u2019",
     "link": "https://techcrunch.com/2026/10/25/grok-releases-the-first-seven-minutes-of-its-ai-generated-odyssey/",
     "summary": "The footage looks okay, as long as you're not seeking artistry, inspiration, or human interest.",
     "published": "2026-10-25T21:31:16+00:00",
-    "first_seen": "2026-10-26T12:36:45.080998+00:00"
-  },
-  {
-    "source": "TechCrunch AI",
-    "source_tier": 2,
-    "title": "AI delivers \u2018zero financial payoff\u2019 to most companies, Apollo economist says",
-    "link": "https://techcrunch.com/2026/10/25/ai-delivers-zero-financial-payoff-to-most-companies-according-to-apollo-economist/",
-    "summary": "\"Despite massive investments and widespread hype around artificial intelligence, the technology has delivered zero financial payoff to corporate America outside of tech.\"",
-    "published": "2026-10-25T16:57:32+00:00",
-    "first_seen": "2026-10-26T12:36:45.080998+00:00"
-  },
-  {
-    "source": "TechCrunch AI",
-    "source_tier": 2,
-    "title": "The hottest AI wearables and gadgets you should know about",
-    "link": "https://techcrunch.com/2026/10/25/the-hottest-ai-wearables-and-gadgets-you-should-know-about/",
-    "summary": "We compiled a list of all the hottest AI wearables, including Muse Charm, Bee, Friend, Plaud, and more.",
-    "published": "2026-10-25T14:10:00+00:00",
-    "first_seen": "2026-10-26T12:36:45.080998+00:00"
-  },
-  {
-    "source": "The Verge AI",
-    "source_tier": 2,
-    "title": "r/opensource just banned AI, non-English speakers, and more",
-    "link": "https://www.theverge.com/ai-artificial-intelligence/1018217/reddit-opensource-ai-ban",
-    "summary": "The mods at r/opensource posted new submission rules that, among other things, banned projects that use AI. The post made Saturday evening opens by saying, \"If your project uses AI, is made by AI, or is intended for AI, it's not welcome on r/opensource. AI, as it exists today, is",
-    "published": "2026-10-25T13:25:32+00:00",
-    "first_seen": "2026-10-26T12:36:45.080998+00:00"
-  },
-  {
-    "source": "The Verge AI",
-    "source_tier": 2,
-    "title": "Google\u2019s AI search changes upended online publishing",
-    "link": "https://www.theverge.com/column/1017983/google-ai-search-online-publishing",
-    "summary": "This is The Stepback, a weekly newsletter breaking down one essential story from the tech world. For more about AI's impact on the web, follow Emma Roth. The Stepback arrives in our subscribers' inboxes on Sunday at 8AM ET. Opt in for The Stepback here. How it started The digital",
-    "published": "2026-10-25T12:00:00+00:00",
     "first_seen": "2026-10-26T12:36:45.080998+00:00"
   },
   {
@@ -204,15 +141,6 @@
     "link": "https://techcrunch.com/2026/10/26/anthropic-officially-files-for-its-public-debut/",
     "summary": "Anthropic has officially filed for an IPO, revealing soaring revenue, mounting losses, major enterprise adoption, and an unusual governance structure designed to preserve founder control and its AI safety mission.",
     "published": "2026-10-26T14:35:22+00:00",
-    "first_seen": "2026-10-27T11:53:34.205313+00:00"
-  },
-  {
-    "source": "TechCrunch AI",
-    "source_tier": 2,
-    "title": "Will AI expose the rickety infrastructure of the internet?",
-    "link": "https://techcrunch.com/2026/10/24/will-ai-expose-the-rickety-infrastructure-of-the-internet/",
-    "summary": "The moment you realize the internet is \"held together by glue and dreams.\"",
-    "published": "2026-10-24T20:15:33+00:00",
     "first_seen": "2026-10-27T11:53:34.205313+00:00"
   },
   {
@@ -6550,5 +6478,230 @@
     "summary": "Nothing's new AI device is the Ear Note, a set of earbuds and their microphone-equipped charging case that can record and transcribe conversations, with a connected app to manage the recordings, transcriptions and AI-generated summaries, similar to Apple's new Watch feature and d",
     "published": "2026-11-23T19:04:52+00:00",
     "first_seen": "2026-11-24T17:19:32.285998+00:00"
+  },
+  {
+    "source": "Microsoft 365 Blog",
+    "source_tier": 1,
+    "title": "Copilot at Microsoft Ignite: Expanding what\u2019s possible with intelligence built for work",
+    "link": "https://www.microsoft.com/en-us/copilot/blog/2026/11/17/copilot-at-microsoft-ignite-expanding-whats-possible-with-intelligence-built-for-work/",
+    "summary": "Explore new Microsoft Copilot experiences and capabilities announced at Microsoft Ignite 2026, including Home, Autopilot, Workspaces, and Code.\nThe post Copilot at Microsoft Ignite: Expanding what\u2019s possible with intelligence built for work appeared first on Microsoft Copilot Blo",
+    "published": "2026-11-17T18:05:00+00:00",
+    "first_seen": "2026-11-25T16:59:12.597841+00:00"
+  },
+  {
+    "source": "Microsoft 365 Blog",
+    "source_tier": 1,
+    "title": "What AI at work really costs",
+    "link": "https://www.microsoft.com/en-us/copilot/blog/2026/11/16/what-ai-at-work-really-costs/",
+    "summary": "What does AI at work really cost? New research compares the total cost of leading enterprise AI options and explores the factors that can shape the cost of everyday and advanced AI work.\nThe post What AI at work really costs appeared first on Microsoft Copilot Blog.",
+    "published": "2026-11-16T16:00:00+00:00",
+    "first_seen": "2026-11-25T16:59:12.597841+00:00"
+  },
+  {
+    "source": "Microsoft 365 Blog",
+    "source_tier": 1,
+    "title": "Bringing Claude models in Microsoft Copilot into the EU Data Boundary",
+    "link": "https://www.microsoft.com/en-us/copilot/blog/2026/11/05/bringing-claude-models-in-microsoft-copilot-into-the-eu-data-boundary/",
+    "summary": "Greater model choice, consistent protection. Claude models are coming to the EU Data Boundary in Microsoft Copilot.\nThe post Bringing Claude models in Microsoft Copilot into the EU Data Boundary appeared first on Microsoft Copilot Blog.",
+    "published": "2026-11-05T16:00:00+00:00",
+    "first_seen": "2026-11-25T16:59:12.597841+00:00"
+  },
+  {
+    "source": "Microsoft 365 Blog",
+    "source_tier": 1,
+    "title": "Microsoft Copilot for finance: Purpose-built for the way finance teams work",
+    "link": "https://www.microsoft.com/en-us/copilot/blog/2026/10/29/microsoft-copilot-for-finance-purpose-built-for-the-way-finance-teams-work/",
+    "summary": "Discover Microsoft Copilot for finance, purpose-built skills for accounting, capital markets, and broader finance work.\nThe post Microsoft Copilot for finance: Purpose-built for the way finance teams work appeared first on Microsoft Copilot Blog.",
+    "published": "2026-10-29T15:00:00+00:00",
+    "first_seen": "2026-11-25T16:59:12.597841+00:00"
+  },
+  {
+    "source": "Power BI Blog",
+    "source_tier": 1,
+    "title": "Paginated reports in Power BI support outbound access protection (Preview)",
+    "link": "https://community.fabric.microsoft.com/t5/Power-BI-Updates-Blog/Paginated-reports-in-Power-BI-support-outbound-access-protection/ba-p/5435045",
+    "summary": "Paginated reports can combine data from Power BI semantic models and other data sources with external resources such as maps and images. Workspace admins can control which destinations the Power BI service can reach when it renders these reports.\nPaginated reports now support wor",
+    "published": "2026-11-24T18:00:00+00:00",
+    "first_seen": "2026-11-25T16:59:12.597841+00:00"
+  },
+  {
+    "source": "MIT Technology Review",
+    "source_tier": 2,
+    "title": "The Download: AI swamping open records, and firefighting for permafrost",
+    "link": "https://www.technologyreview.com/2026/11/25/1149808/the-download-ai-open-records-permafrost-fires/",
+    "summary": "This is today\u2019s edition of The Download, our weekday newsletter that provides a daily dose of what\u2019s going on in the world of technology. AI is straining America\u2019s open records systems AI has intensified investors\u2019 interest in public records. Over the last few years, venture-back",
+    "published": "2026-11-25T13:10:00+00:00",
+    "first_seen": "2026-11-25T16:59:12.597841+00:00"
+  },
+  {
+    "source": "MIT Technology Review",
+    "source_tier": 2,
+    "title": "AI is straining America\u2019s open records systems",
+    "link": "https://www.technologyreview.com/2026/11/25/1149702/ai-is-straining-americas-open-records-systems/",
+    "summary": "In Panton, Vermont, population 660, town clerk Kyle Rowe did it all. He crafted budgets, paid vendors, handled property tax disputes, and served as the town\u2019s zoning supervisor and presiding elections officer. During morning office hours at the town hall\u2014a wood-frame structure bu",
+    "published": "2026-11-25T10:00:00+00:00",
+    "first_seen": "2026-11-25T16:59:12.597841+00:00"
+  },
+  {
+    "source": "ZDNet AI",
+    "source_tier": 2,
+    "title": "I gave Gemini access to my Wallet, and it immediately started saving me money",
+    "link": "https://www.zdnet.com/innovation/gemini-wallet-personal-intelligence/",
+    "summary": "Gemini gave me a little tough love and told me what I needed to hear about my finances.",
+    "published": "2026-11-24T20:38:08+00:00",
+    "first_seen": "2026-11-25T16:59:12.597841+00:00"
+  },
+  {
+    "source": "ZDNet AI",
+    "source_tier": 2,
+    "title": "This hidden iOS 27 feature ensures you\u2019ll never sleep through an alarm again",
+    "link": "https://www.zdnet.com/tech/iphone-hidden-alarm-volume-ios-27/",
+    "summary": "Say goodbye to accidentally silencing your alarms.",
+    "published": "2026-11-24T18:54:41+00:00",
+    "first_seen": "2026-11-25T16:59:12.597841+00:00"
+  },
+  {
+    "source": "TechCrunch AI",
+    "source_tier": 2,
+    "title": "AI data centers are becoming harder to build, and neoclouds are feeling it",
+    "link": "https://techcrunch.com/podcast/ai-data-centers-are-becoming-harder-to-build-and-neoclouds-are-feeling-it/",
+    "summary": "\u2060Nvidia has made clear\u2060 it won\u2019t backstop an AI data center until it\u2019s nearly ready to run, and that\u2019s landing just as neoclouds report construction delays and more expensive debt. The message to developers is that land, power, and a finished building matter more than a pitch dec",
+    "published": "2026-11-25T15:41:43+00:00",
+    "first_seen": "2026-11-25T16:59:12.597841+00:00"
+  },
+  {
+    "source": "TechCrunch AI",
+    "source_tier": 2,
+    "title": "Amazon and Meta reportedly in talks to lift blockade on AI agent Muse",
+    "link": "https://techcrunch.com/2026/11/25/amazon-and-meta-reportedly-in-talks-to-lift-blockade-on-ai-agent-muse/",
+    "summary": "Amazon and Meta are discussing a potential deal that would end a two-month-long blockade of Muse.",
+    "published": "2026-11-25T14:10:18+00:00",
+    "first_seen": "2026-11-25T16:59:12.597841+00:00"
+  },
+  {
+    "source": "TechCrunch AI",
+    "source_tier": 2,
+    "title": "The questions Jensen Huang and Nvidia will still have to answer about Megaspeed",
+    "link": "https://techcrunch.com/2026/11/25/the-questions-jensen-huang-and-nvidia-will-still-have-to-answer-about-megaspeed/",
+    "summary": "Huang still faces questions from Congress and his own board about his romantic relationship with an alleged chip smuggler.",
+    "published": "2026-11-25T13:00:00+00:00",
+    "first_seen": "2026-11-25T16:59:12.597841+00:00"
+  },
+  {
+    "source": "TechCrunch AI",
+    "source_tier": 2,
+    "title": "Yale\u2019s Sonnenfeld: Nvidia is a \u2018detriment\u2019 to US industrial might \u2014 not a champion",
+    "link": "https://techcrunch.com/2026/11/24/yales-sonnenfeld-nvidia-is-a-detriment-to-u-s-industrial-might-not-a-champion/",
+    "summary": "Yale's Jeffrey Sonnenfeld warns that what the market cheered Monday, Jensen Huang's White House\u2013backed return as Nvidia's CEO and board member, could prove a giant mistake, exposing the directors to \"historic\" personal liability from a growing pile of lawsuits and raising the que",
+    "published": "2026-11-25T00:12:02+00:00",
+    "first_seen": "2026-11-25T16:59:12.597841+00:00"
+  },
+  {
+    "source": "TechCrunch AI",
+    "source_tier": 2,
+    "title": "Jensen Huang still thinks a succession plan creates unnecessary hierarchy",
+    "link": "https://techcrunch.com/2026/11/24/jensen-huang-still-thinks-a-succession-plan-creates-unnecessary-hierarchy/",
+    "summary": "It's a remarkable stance for a company that spent the last two weeks finding out what happens without its founder.",
+    "published": "2026-11-24T22:27:52+00:00",
+    "first_seen": "2026-11-25T16:59:12.597841+00:00"
+  },
+  {
+    "source": "TechCrunch AI",
+    "source_tier": 2,
+    "title": "In all-hands meeting, Jensen Huang thanks White House and says he\u2019s in therapy",
+    "link": "https://techcrunch.com/2026/11/24/in-all-hands-meeting-jensen-huang-thanks-white-house-and-says-hes-in-therapy/",
+    "summary": "The Nvidia founder apologized to his staff on Tuesday and said he was grateful for a second chance to lead the company.",
+    "published": "2026-11-24T21:48:27+00:00",
+    "first_seen": "2026-11-25T16:59:12.597841+00:00"
+  },
+  {
+    "source": "TechCrunch AI",
+    "source_tier": 2,
+    "title": "Even the best AI agents struggle with everyday life",
+    "link": "https://techcrunch.com/2026/11/24/even-the-best-ai-agents-struggle-with-everyday-life/",
+    "summary": "As millions embrace personal AI assistants, a new benchmark reveals that even the most advanced AI models struggle to complete everyday tasks reliably and safely without introducing potential new problems.",
+    "published": "2026-11-24T21:33:29+00:00",
+    "first_seen": "2026-11-25T16:59:12.597841+00:00"
+  },
+  {
+    "source": "TechCrunch AI",
+    "source_tier": 2,
+    "title": "Walmart teams up with Meta to bring Black Friday deals to AI agent Muse",
+    "link": "https://techcrunch.com/2026/11/24/walmart-teams-up-with-meta-to-bring-black-friday-deals-to-ai-agent-muse/",
+    "summary": "Walmart now lets customers shop Black Friday deals through Muse, Meta\u2019s AI agent.",
+    "published": "2026-11-24T21:32:38+00:00",
+    "first_seen": "2026-11-25T16:59:12.597841+00:00"
+  },
+  {
+    "source": "TechCrunch AI",
+    "source_tier": 2,
+    "title": "Maple raises $5.3M to build AI products that protect your data, even from itself",
+    "link": "https://techcrunch.com/2026/11/24/maple-raises-5-3m-to-build-ai-products-that-protect-your-data-even-from-itself/",
+    "summary": "The startup's encrypted AI architecture is designed to prevent even the company itself from accessing users' private data.",
+    "published": "2026-11-24T21:19:52+00:00",
+    "first_seen": "2026-11-25T16:59:12.597841+00:00"
+  },
+  {
+    "source": "TechCrunch AI",
+    "source_tier": 2,
+    "title": "Anthropic shares fall below IPO price, a worrying sign for AI startups",
+    "link": "https://techcrunch.com/2026/11/24/anthropic-shares-fall-below-ipo-price-a-worrying-sign-for-ai-startups/",
+    "summary": "Anthropic\u2019s post-IPO slump could put pressure on AI startup valuations.",
+    "published": "2026-11-24T18:30:42+00:00",
+    "first_seen": "2026-11-25T16:59:12.597841+00:00"
+  },
+  {
+    "source": "TechCrunch AI",
+    "source_tier": 2,
+    "title": "UK warns AI-driven cyberattacks are exposing years of weak security",
+    "link": "https://techcrunch.com/2026/11/24/uk-warns-ai-driven-cyberattacks-are-exposing-years-of-weak-security/",
+    "summary": "The British cyber agency says that \"building strong foundations has never mattered more\" as AI hacking tools rely on exploiting simple security flaws.",
+    "published": "2026-11-24T18:02:59+00:00",
+    "first_seen": "2026-11-25T16:59:12.597841+00:00"
+  },
+  {
+    "source": "The Verge AI",
+    "source_tier": 2,
+    "title": "Nothing offers a full look at its AI earbuds and charging case",
+    "link": "https://www.theverge.com/gadgets/1042162/nothing-ear-note-ai-earbuds-reveal",
+    "summary": "Nothing is showing off a much more detailed look at its upcoming AI earbuds ahead of their December 8th release. The Ear Note buds can record your calls, while their charging case can record, transcribe, and summarize your conversations. Like the Ear 3, the Ear Note's microphone-",
+    "published": "2026-11-25T16:00:59+00:00",
+    "first_seen": "2026-11-25T16:59:12.597841+00:00"
+  },
+  {
+    "source": "The Verge AI",
+    "source_tier": 2,
+    "title": "Amazon is reportedly in talks to end Muse AI shopping block",
+    "link": "https://www.theverge.com/tech/1042071/meta-amazon-muse-ai-shopping-discussions",
+    "summary": "Amazon has held talks about letting Meta's Muse AI agent shop on its online marketplace, according to a report from Fortune. The discussions, which could end Amazon's block on Muse, reportedly center on the kinds of products the AI agent recommends and the potential impact on the",
+    "published": "2026-11-25T14:12:33+00:00",
+    "first_seen": "2026-11-25T16:59:12.597841+00:00"
+  },
+  {
+    "source": "The Verge AI",
+    "source_tier": 2,
+    "title": "Has vibe coding made open source the new normal for synths?",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/1040081/vibe-coding-open-source-music-firmware",
+    "summary": "The emergence of powerful vibe-coding agents and tools like Reverse Engineer Anything has caused chaos in the music gear world, leaving companies scrambling to figure out how to respond. While some, like Roland, have remained silent for now, others have embraced the modding commu",
+    "published": "2026-11-25T13:00:00+00:00",
+    "first_seen": "2026-11-25T16:59:12.597841+00:00"
+  },
+  {
+    "source": "The Verge AI",
+    "source_tier": 2,
+    "title": "Jensen Huang reportedly tells Nvidia staff it\u2019s \u2018not true\u2019 Trump got him rehired",
+    "link": "https://www.theverge.com/tech/1041571/jensen-huang-all-hands-nvidia-apology",
+    "summary": "Nvidia CEO Jensen Huang apologized to staff during his first all-hands since returning to the company, while attempting to distance himself from the narrative that the White House and tech leaders helped him get his job back, according to reports from Bloomberg, The New York Time",
+    "published": "2026-11-24T20:02:03+00:00",
+    "first_seen": "2026-11-25T16:59:12.597841+00:00"
+  },
+  {
+    "source": "The Verge AI",
+    "source_tier": 2,
+    "title": "David Fincher is being dragged for suspected use of AI in his latest film",
+    "link": "https://www.theverge.com/entertainment/1041417/david-fincher-netflix-cliff-booth-ai-interpositive",
+    "summary": "Though David Fincher's fans had been eagerly anticipating The Further Mis-Adventures of Cliff Booth, early screenings of the Once Upon a Time in Hollywood sequel starring Brad Pitt have raised questions about whether generative AI was used in the film. People have claimed that th",
+    "published": "2026-11-24T18:15:00+00:00",
+    "first_seen": "2026-11-25T16:59:12.597841+00:00"
   }
 ]
